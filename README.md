@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8086** proxies at the latest update. Usable proxies are below.
+> Scraper found **8085** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|189|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|479|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.121.137.188|3128|South Korea|Yangju|Korea Telecom|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|13|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|220.121.137.188|3128|South Korea|Yangju|Korea Telecom|
+|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|17|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|19|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
