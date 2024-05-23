@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|103.156.248.119|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|7|115.127.140.114|8080|Bangladesh|Dhaka|BRACNet Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|38.156.73.62|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|41.223.74.16|3128|Botswana|Gaborone|Mascom Wireless|
+|18|190.121.4.157|999|Chile|Osorno|Telefonica del Sur S.A.|
+|19|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|20|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
