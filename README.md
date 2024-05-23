@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|4|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|67.43.228.250|14087|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|15727|Canada|Montreal|GloboTech Communications|
-|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.160.170|28515|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27925|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|5681|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27925|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|8937|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|151.22.181.205|8080|Italy|Gioia del Colle|INFOSTRADA|
+|7|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|13|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
