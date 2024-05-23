@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|103.48.68.11|84|India|Hyderabad|Country Online Services PVT LTD|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|6|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|67.43.236.20|33025|Canada|Montreal|GloboTech Communications|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.164.178|3771|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|22869|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|67.43.228.253|8013|Canada|Montreal|GloboTech Communications|
+|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|7|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|72.10.164.178|22043|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.22|19529|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|6575|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|22043|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|7593|Canada|Montreal|GloboTech Communications|
+|19|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|72.10.164.178|22043|Canada|Montreal|GloboTech Communications|
 
 
 
