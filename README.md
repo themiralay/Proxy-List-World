@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7914** proxies at the latest update. Usable proxies are below.
+> Scraper found **8067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|893|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|165|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|318|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5732|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|202.46.70.171|8080|Indonesia|Bandung|PT. Indonesia Comnet Plus|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|67.43.228.254|2137|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|46.186.100.7|80|Poland|Tarnów|Multimedia Polska Sp. z o.o.|
+|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|117.55.202.97|3128|The Netherlands|Amsterdam|ESTOXY OU|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.205.28.69|46380|Colombia|Medellín|Colombia Móvil|
+|13|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|19|72.10.164.178|16223|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2543|Canada|Montreal|GloboTech Communications|
 
 
 
