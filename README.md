@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|177.234.211.79|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|6|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|14|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|19|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|20|176.106.22.125|8080|Russia|Tuapse|LLC "Multiservice"|
+|18|59.98.4.70|8080|India|Jamshedpur|BSNL Internet|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
