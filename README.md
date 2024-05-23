@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|12|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|13|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|14|72.10.160.173|2683|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8687|Canada|Montreal|GloboTech Communications|
-|16|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.91|15895|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8687|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8687|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|12|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|80.66.81.39|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|18|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
 
 
 
