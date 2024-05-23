@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|2|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |19|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 
