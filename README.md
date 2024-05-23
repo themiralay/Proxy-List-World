@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|67.43.236.20|14845|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|17013|Canada|Montreal|GloboTech Communications|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
-|17|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|18|67.43.227.227|22093|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|31361|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24311|Canada|Montreal|GloboTech Communications|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|13|67.43.227.227|22093|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|9221|Canada|Montreal|GloboTech Communications|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|18|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|19|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|94.154.152.94|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
 
 
 
