@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -24,7 +24,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|7|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
 |10|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|179.1.95.167|999|Colombia|Tesalia|Internexa S.a. E.S.P|
-|15|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|103.174.175.99|8085|Indonesia|Bekasi|PT Lintas Teknologi Solusindo|
-|18|36.95.213.27|8080|Indonesia|Cempaka Putih Barat|PT. Telekomunikasi Indonesia|
-|19|109.109.166.176|8080|United Kingdom|Wythenshawe|Vispa Limited|
-|20|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|38.156.72.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
