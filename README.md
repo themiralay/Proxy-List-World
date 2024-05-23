@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|7|103.159.47.42|82|India|Ahmedabad|King Netsol Private Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|179.61.98.3|999|Chile|Chimbarongo|HomeNet LTDA|
-|11|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|12|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.87.169.166|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|200.41.170.211|11201|Argentina|Rincon de Los Sauces|Telefonica de Argentina|
+|5|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|10|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|16|216.39.249.210|3128|United States|New York|GTHost|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
 
 
 
