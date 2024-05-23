@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|138.122.99.110|999|Mexico|San Jose Iturbide|Ientc S De RL De CV|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|11|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.160.92|10275|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|13541|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9033|Canada|Montreal|GloboTech Communications|
-|19|197.98.201.99|10365|South Africa|Johannesburg|Dimension Data|
-|20|67.43.228.250|23903|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|12.163.95.129|8080|United States|Alex|AT&T Services, Inc.|
+|10|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|94.154.152.94|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|20|103.194.70.169|83|India|Patna|Hostaxis Network Private Limited|
 
 
 
