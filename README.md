@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7929** proxies at the latest update. Usable proxies are below.
+> Scraper found **7897** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5606|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|45.117.31.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|200.13.47.165|8080|Argentina|San Jorge|Trynet S.R.L.|
 |6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|103.164.223.54|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|103.139.126.30|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|16|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|45.117.31.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|16|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|17|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|45.117.31.37|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
