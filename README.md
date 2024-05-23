@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|5.196.111.29|20090|France|Gravelines|OVH SAS|
-|9|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|10|72.10.160.90|22657|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|17677|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|22121|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|6003|Canada|Montreal|GloboTech Communications|
-|14|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|67.43.227.227|6003|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6003|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17677|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17677|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|103.48.68.11|84|India|Hyderabad|Country Online Services PVT LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|217.182.153.29|12000|France|Gravelines|OVH SAS|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|16|5.196.111.29|20090|France|Gravelines|OVH SAS|
+|17|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|18|72.10.164.178|30125|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
