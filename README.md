@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|15|103.122.60.241|8080|India|Visakhapatnam|Vizag Broadband Communications Pvt Ltd|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|72.10.160.90|4759|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|19397|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|11947|Canada|Montreal|GloboTech Communications|
+|17|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|18|217.199.151.29|83|Kenya|Nairobi|MTN Business Kenya|
+|19|67.43.228.253|24597|Canada|Montreal|GloboTech Communications|
+|20|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
