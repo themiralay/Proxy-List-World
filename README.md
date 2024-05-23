@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|78.186.193.40|3310|Türkiye|Seferihisar|TurkTelecom|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.228.253|25675|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|16309|Canada|Montreal|GloboTech Communications|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|12|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
+|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
