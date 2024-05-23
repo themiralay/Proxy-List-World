@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|8|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|10|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|179.43.93.198|8080|Peru|Horacio Zeballos Gamez|MEDIA COMMERCE PERÚ S.A.C|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|17|72.10.164.178|22707|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|16561|Canada|Montreal|GloboTech Communications|
-|19|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.250|16561|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|12|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|13|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.160.170|2497|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|17035|Canada|Montreal|GloboTech Communications|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|72.10.164.178|12663|Canada|Montreal|GloboTech Communications|
+|20|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
 
 
 
