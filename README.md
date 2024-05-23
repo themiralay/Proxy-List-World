@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
 |12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|216.39.249.210|3128|United States|New York|GTHost|
 |15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|216.39.249.210|3128|United States|New York|GTHost|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|45.173.231.220|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.164.178|1695|Canada|Montreal|GloboTech Communications|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
