@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |5|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|177.73.68.150|8080|Brazil|Brasília|Level 3 Communications, Inc.|
-|14|202.57.25.94|3127|Indonesia|Semarang|announced of WINET|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|104.238.222.54|3128|United States|Los Angeles|ReliableSite.Net LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|12|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
