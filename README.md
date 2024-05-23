@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|176.215.1.25|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|11|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|12|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
+|13|207.244.254.27|3192|United States|St Louis|Nubes, LLC|
+|14|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|15|177.54.229.164|9292|Brazil|Eldorado dos Carajas|Aranet Comunicacao Ltda|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
