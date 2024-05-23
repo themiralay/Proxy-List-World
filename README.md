@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|4|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
-|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|7|210.12.194.39|8083|China|Chaowai|China Unicom Beijing Province Network|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|67.43.227.227|11861|Canada|Montreal|GloboTech Communications|
-|16|103.48.71.2|82|India|Hyderabad|Country Online Services PVT LTD|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.250|23903|Canada|Montreal|GloboTech Communications|
-|19|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|20|216.9.224.141|80|Türkiye|Istanbul|DC Host INC|
+|3|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|188.68.176.2|8080|Russia|Yaroslavl|Yarnet Ltd.|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|20|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
 
 
 
