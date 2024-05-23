@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
+|8|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|105.112.135.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |13|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|14|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|16|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|18|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|67.43.228.253|24225|Canada|Montreal|GloboTech Communications|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|15|186.125.218.147|999|Argentina|Molinos|Telecom Argentina S.A.|
+|16|139.84.157.128|3129|India|Bengaluru|The Constant Company, LLC|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|20|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
