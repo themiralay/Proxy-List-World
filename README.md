@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|10|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|15|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|19913|Canada|Montreal|GloboTech Communications|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|1|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|51.161.50.166|3128|Canada|Montreal|OVH Hosting|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|200.13.47.165|8080|Argentina|San Jorge|Trynet S.R.L.|
+|5|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|10|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|17|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|18|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
