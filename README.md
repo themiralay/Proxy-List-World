@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|8|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.160.90|27869|Canada|Montreal|GloboTech Communications|
-|16|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|216.39.249.210|3128|United States|New York|GTHost|
-|19|72.10.160.172|10957|Canada|Montreal|GloboTech Communications|
-|20|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|72.10.160.90|27869|Canada|Montreal|GloboTech Communications|
+|11|216.39.249.210|3128|United States|New York|GTHost|
+|12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|14|72.10.164.178|6945|Canada|Montreal|GloboTech Communications|
+|15|67.220.86.253|3128|United States|Phoenix|GTHost|
+|16|72.10.160.90|27869|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|13849|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|182.16.171.42|43188|Indonesia|Menteng|PT iForte Global Internet|
+|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
