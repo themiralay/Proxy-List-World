@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.115.227.198|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|8|38.65.172.132|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|11|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|1135|Canada|Montreal|GloboTech Communications|
-|18|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|19|91.231.61.225|443|Poland|Krakow|FIRMA USLUGOWO-HANDLOWA "AG-net" JOANNA MACZENSKA|
-|20|72.10.160.90|3279|Canada|Montreal|GloboTech Communications|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|67.43.227.227|4311|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22195|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
