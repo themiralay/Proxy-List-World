@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|10|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|11|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|5.196.111.29|20576|France|Gravelines|OVH SAS|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|72.10.160.90|13927|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|20|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
