@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|19287|Canada|Montreal|GloboTech Communications|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|200.125.170.20|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
