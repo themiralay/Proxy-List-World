@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|9|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|2|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|160.248.81.168|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|15|67.43.227.227|15249|Canada|Montreal|GloboTech Communications|
+|16|103.181.25.158|8080|Bangladesh|Nabīnagar|Right Net|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|181.204.172.170|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|20|67.43.236.20|10155|Canada|Montreal|GloboTech Communications|
 
 
 
