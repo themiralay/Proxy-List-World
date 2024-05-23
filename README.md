@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|103.186.8.138|8080|Indonesia|Pelem Satu|PRISMA|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
+|7|136.62.144.33|80|United States|Austin|Google Fiber Inc.|
+|8|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|12|8.222.156.212|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|91.185.84.228|3128|Russia|Moscow|CloudMTS|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |15|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
-|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|16|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|185.202.44.67|8888|United States|Los Angeles|QuickPacket, LLC|
+|20|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 
 
 
