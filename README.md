@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.227.229|14361|Canada|Montreal|GloboTech Communications|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|80.66.89.10|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|134.35.0.153|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|103.150.69.8|8080|Bangladesh|Rāngāmati|Md Johirul Islam|
+|11|67.43.227.229|14361|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
