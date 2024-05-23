@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|45.117.31.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
 |5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|176.213.141.107|8080|Russia|Severnyy|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|7|103.164.223.54|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|15|195.189.16.190|8080|Russia|Taman'|Telecommunication company FEONET+ LLC|
-|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|17|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|18|72.10.160.172|2087|Canada|Montreal|GloboTech Communications|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|15|103.139.126.30|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|16|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
