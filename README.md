@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|103.105.76.99|8080|Indonesia|Bojonegoro|GARUDA|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|103.105.76.99|8080|Indonesia|Bojonegoro|GARUDA|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|13|67.43.228.251|3409|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|5541|Canada|Montreal|GloboTech Communications|
-|15|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|16|134.35.0.176|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|67.43.228.254|11859|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|29179|Canada|Montreal|GloboTech Communications|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|13|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.92|14017|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19249|Canada|Montreal|GloboTech Communications|
+|20|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
 
 
 
