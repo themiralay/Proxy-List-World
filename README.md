@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|75.119.129.192|3128|Germany|Düsseldorf|Contabo GmbH|
-|10|154.39.79.19|8081|United States|Los Angeles|Cogent Communications|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|15|67.43.236.20|3001|Canada|Montreal|GloboTech Communications|
-|16|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|20|72.10.160.90|17035|Canada|Montreal|GloboTech Communications|
+|9|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|12|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|13|139.84.215.137|3129|India|Bengaluru|The Constant Company, LLC|
+|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|19|67.43.236.20|9221|Canada|Montreal|GloboTech Communications|
+|20|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
 
 
 
