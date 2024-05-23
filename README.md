@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|4|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|72.10.160.170|13467|Canada|Montreal|GloboTech Communications|
-|9|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|5|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|2123|Canada|Montreal|GloboTech Communications|
-|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|14|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|138.97.119.10|8080|Brazil|Nova Iguaçu|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|13|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
+|14|185.202.44.96|8888|United States|Los Angeles|QuickPacket, LLC|
 |15|67.43.227.227|2123|Canada|Montreal|GloboTech Communications|
-|16|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.236.20|23669|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|2123|Canada|Montreal|GloboTech Communications|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |20|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
 
 
