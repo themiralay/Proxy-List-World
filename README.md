@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|6|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
-|20|24.172.34.114|49920|United States|Cayce|Charter Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|181.209.78.78|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|16|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
