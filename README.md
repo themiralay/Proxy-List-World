@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|50.235.247.114|8085|United States|Rincon|Comcast Cable Communications, LLC|
-|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|216.39.249.210|3128|United States|New York|GTHost|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|13|67.43.228.250|27263|Canada|Montreal|GloboTech Communications|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.160.171|6047|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.160.90|25723|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26699|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|9|216.39.249.210|3128|United States|New York|GTHost|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|72.10.160.90|4301|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|26699|Canada|Montreal|GloboTech Communications|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|17|72.10.160.171|6047|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.252|30675|Canada|Montreal|GloboTech Communications|
+|19|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
