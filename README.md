@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|8|72.10.160.92|28709|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|10|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|11|89.116.21.210|3128|India|Mumbai|Hostinger International Limited|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|14|72.10.160.170|8231|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|8231|Canada|Montreal|GloboTech Communications|
-|16|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
-|17|5.196.111.29|20109|France|Gravelines|OVH SAS|
-|18|67.43.227.227|21271|Canada|Montreal|GloboTech Communications|
-|19|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|20|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|6|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|7|72.10.164.178|3303|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.170|8231|Canada|Montreal|GloboTech Communications|
+|9|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|10|89.116.21.210|3128|India|Mumbai|Hostinger International Limited|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|67.43.236.20|8121|Canada|Montreal|GloboTech Communications|
+|13|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|14|72.10.164.178|3303|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|8121|Canada|Montreal|GloboTech Communications|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|80.87.220.11|443|Slovakia|Námestovo|DSI DATA, a. s.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|20|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
