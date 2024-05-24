@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8639** proxies at the latest update. Usable proxies are below.
+> Scraper found **8640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|189|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1167|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
-|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|6|205.196.184.69|50704|United States|Houston|Phonoscope|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|11|154.127.240.123|64003|Angola|Huambo|HMB-FTTH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|8|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|9|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|67.43.236.20|3437|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|19|72.10.160.90|18459|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
