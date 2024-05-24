@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|35.193.218.166|3128|United States|Council Bluffs|Google LLC|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|128.95.53.237|80|United States|Seattle|University of Washington|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
-|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|101.51.99.48|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|103.153.134.22|8080|Indonesia|Tangerang|WMINET|
+|11|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
+|12|211.219.1.35|80|South Korea|Gangnam-gu|Korea Telecom|
+|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|128.95.53.237|80|United States|Seattle|University of Washington|
+|15|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|67.43.227.227|5437|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24001|Canada|Montreal|GloboTech Communications|
 
 
 
