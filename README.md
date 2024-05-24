@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.88.238.1|84|India|Hyderabad|Mana Communications|
-|12|119.92.70.8|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|58.69.208.148|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|7|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
