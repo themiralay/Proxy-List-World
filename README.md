@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |7|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|67.43.228.253|15483|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|23615|Canada|Montreal|GloboTech Communications|
-|17|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|18|67.43.227.227|10509|Canada|Montreal|GloboTech Communications|
-|19|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|20|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|16|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|67.43.236.20|28927|Canada|Montreal|GloboTech Communications|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|67.43.227.227|18737|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|28927|Canada|Montreal|GloboTech Communications|
 
 
 
