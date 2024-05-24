@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|8|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|20|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
