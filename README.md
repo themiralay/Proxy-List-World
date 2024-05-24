@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|7|209.126.86.43|3128|United States|St Louis|Nubes, LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.227|18831|Canada|Montreal|GloboTech Communications|
-|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|12|72.10.160.173|8833|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|72.10.160.174|8833|Canada|Montreal|GloboTech Communications|
-|16|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|17|72.10.160.170|20747|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|16739|Canada|Montreal|GloboTech Communications|
-|19|5.196.111.29|20060|France|Gravelines|OVH SAS|
-|20|67.43.228.253|12227|Canada|Montreal|GloboTech Communications|
+|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|103.245.204.214|8080|Bangladesh|Savar Upazila|Next Online Ltd.|
+|15|67.43.227.227|29613|Canada|Montreal|GloboTech Communications|
+|16|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|18|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|29039|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|8833|Canada|Montreal|GloboTech Communications|
 
 
 
