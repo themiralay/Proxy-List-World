@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|634|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|634|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|634|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|9|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|154.127.240.123|64003|Angola|Huambo|HMB-FTTH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
+|1|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|10|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
