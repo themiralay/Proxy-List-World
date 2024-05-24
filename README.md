@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|14|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|6535|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|4897|Canada|Montreal|GloboTech Communications|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|72.10.164.178|6535|Canada|Montreal|GloboTech Communications|
+|19|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
