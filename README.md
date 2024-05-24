@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|18|190.60.34.13|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|17|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|18|89.218.5.108|37717|Kazakhstan|Almaty Oblysy|JSC Kazakhtelecom|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
