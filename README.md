@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|118.99.124.178|8080|Indonesia|Depok|Biznet Metronet|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
+|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 |18|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|103.156.15.212|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|19|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.4.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
