@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|18|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|19|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.164.178|5573|Canada|Montreal|GloboTech Communications|
+|5|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
+|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|11|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|67.43.236.20|7335|Canada|Montreal|GloboTech Communications|
+|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|72.10.164.178|24373|Canada|Montreal|GloboTech Communications|
+|18|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|19|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
