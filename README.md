@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|62.3.71.255|8118|United Kingdom|Llandrindod Wells|Zen Internet Ltd|
-|8|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|62.140.233.192|41258|Russia|Podolsk|Fryazino.net|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|19|91.229.67.77|8083|Ukraine|Kyiv|INFOAURA-MNT|
-|20|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|43.128.108.216|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|52.179.80.83|8080|United States|Boydton|Microsoft Corporation|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|103.87.169.183|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
