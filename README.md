@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|17|146.20.125.146|80|United States|Washington|Rackspace Hosting|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.155.199.144|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|11|38.43.150.169|999|Peru|Lima|Nextnet SAC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
