@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|7|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|191.240.153.165|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|16|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|49.48.102.9|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|14|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 
 
 
