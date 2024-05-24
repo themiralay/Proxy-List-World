@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|10|216.39.249.210|3128|United States|New York|GTHost|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|216.39.249.210|3128|United States|New York|GTHost|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |11|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|17|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|27.147.28.73|8080|Taiwan|New Taipei|Extra-Lan Technologies Co., LTD|
+|17|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
 |18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|20|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
