@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.172|5657|Canada|Montreal|GloboTech Communications|
-|15|5.196.111.29|20060|France|Gravelines|OVH SAS|
-|16|72.10.160.172|5657|Canada|Montreal|GloboTech Communications|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|14|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
+|15|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|19|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|20|34.154.161.152|80|Italy|Milan|Google LLC|
 
 
 
