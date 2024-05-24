@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7841** proxies at the latest update. Usable proxies are below.
+> Scraper found **7813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|173|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|772|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|198|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5739|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|14|157.100.9.236|999|Ecuador|Quito|Telconet S.A|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.227|4107|Canada|Montreal|GloboTech Communications|
-|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|9153|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.227.227|18831|Canada|Montreal|GloboTech Communications|
 
 
 
