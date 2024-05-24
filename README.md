@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|216.39.249.210|3128|United States|New York|GTHost|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|17|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|18|154.127.240.114|64002|Angola|Huambo|HMB-FTTH|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|17|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
