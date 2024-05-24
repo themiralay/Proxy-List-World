@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|5.196.111.29|20576|France|Gravelines|OVH SAS|
-|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|3|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|18|5.196.111.29|20576|France|Gravelines|OVH SAS|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
