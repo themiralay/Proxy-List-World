@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|114.4.112.138|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|72.10.164.178|19555|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|21303|Canada|Montreal|GloboTech Communications|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|67.43.227.230|13875|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|13263|Canada|Montreal|GloboTech Communications|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|72.10.164.178|19555|Canada|Montreal|GloboTech Communications|
+|11|36.66.171.243|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|103.155.166.149|8186|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|216.39.249.210|3128|United States|New York|GTHost|
+|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|181.65.180.190|999|Peru|Lima region|Telefonica del Peru S.A.A.|
 
 
 
