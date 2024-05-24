@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|194.163.165.195|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|6|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|10|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|13|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|17|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
-|18|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|72.10.164.178|28563|Canada|Montreal|GloboTech Communications|
+|1|194.163.165.195|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
+|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|194.163.165.195|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|1.179.148.9|55636|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|19|72.10.160.170|1835|Canada|Montreal|GloboTech Communications|
+|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
 
 
 
