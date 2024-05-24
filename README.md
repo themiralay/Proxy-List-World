@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|18|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
-|19|103.156.14.18|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
-|20|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|15|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|16|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|160.248.4.112|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
