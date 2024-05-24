@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|13|72.10.160.171|3231|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|72.10.164.178|6161|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.236.20|29511|Canada|Montreal|GloboTech Communications|
-|18|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|67.43.236.20|29511|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|5|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|19233|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|19233|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|14|67.43.236.20|11441|Canada|Montreal|GloboTech Communications|
+|15|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
