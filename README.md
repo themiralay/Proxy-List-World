@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|19|67.43.227.227|10633|Canada|Montreal|GloboTech Communications|
-|20|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|110.77.246.170|8080|Thailand|Nakhon Ratchasima|CAT Telecom Public Company Limited|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|15|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 
 
 
