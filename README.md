@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|9|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|177.93.40.54|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 
 
 
