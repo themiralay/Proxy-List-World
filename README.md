@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
 |5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|12|72.10.160.90|29197|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|28723|Canada|Montreal|GloboTech Communications|
-|14|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|15|72.10.160.90|29197|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|28723|Canada|Montreal|GloboTech Communications|
-|17|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|72.10.164.178|4059|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|20205|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|28723|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.21|15989|Canada|Montreal|GloboTech Communications|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|72.10.164.178|28433|Canada|Montreal|GloboTech Communications|
+|14|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|15|67.43.227.227|33265|Canada|Montreal|GloboTech Communications|
+|16|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.170|17849|Canada|Montreal|GloboTech Communications|
+|19|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|49.48.88.45|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
