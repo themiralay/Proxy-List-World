@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|8|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|38.156.233.76|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|72.10.160.90|30667|Canada|Montreal|GloboTech Communications|
-|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|134.35.10.155|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|5.196.111.29|20637|France|Gravelines|OVH SAS|
+|2|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|8|24.172.34.114|49920|United States|Cayce|Charter Communications Inc|
+|9|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|10|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|11|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|13|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|17|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|19|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|20|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
