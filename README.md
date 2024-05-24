@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|80.66.89.10|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 |12|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|202.47.189.106|8080|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|14|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|15|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
+|17|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|18|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|19|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
