@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|15|72.10.164.178|26263|Canada|Montreal|GloboTech Communications|
-|16|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
-|17|72.10.160.173|10139|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15191|Canada|Montreal|GloboTech Communications|
-|19|185.204.0.94|8080|Russia|Moscow|First Server Limited|
-|20|103.162.209.157|8080|Bangladesh|Natore|Star Online|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.79.148.218|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|16|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|72.10.160.171|3501|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16103|Canada|Montreal|GloboTech Communications|
+|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
 
 
 
