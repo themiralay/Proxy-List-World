@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.190.44.200|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|15|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|16|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|162.212.152.9|31280|United States|Flushing|tzulo, inc.|
+|9|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|91.229.67.77|8083|Ukraine|Kyiv|INFOAURA-MNT|
+|13|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
+|16|146.190.177.173|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|19|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
