@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|146.20.125.146|80|United States|Washington|Rackspace Hosting|
-|9|67.43.227.228|8651|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|21753|Canada|Montreal|GloboTech Communications|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|5329|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1375|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|14|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
+|15|223.197.178.186|3128|Hong Kong|Central|PCCW IMSBiz|
+|16|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
+|17|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|18|72.10.164.178|11865|Canada|Montreal|GloboTech Communications|
+|19|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
