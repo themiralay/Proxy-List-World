@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
-|14|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|74.85.156.82|8888|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|19|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|20|154.127.240.126|64002|Angola|Huambo|HMB-FTTH|
+|1|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|7|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|8|154.127.240.123|64003|Angola|Huambo|HMB-FTTH|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
