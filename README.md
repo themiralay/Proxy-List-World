@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|49.48.100.205|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|114.236.93.203|25599|China|Guangzhou|Chinanet|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|72.10.164.178|28563|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28563|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
+|7|141.125.158.9|80|United Kingdom|London|SoftLayer|
+|8|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|9|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
