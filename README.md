@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
-|19|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|199.66.224.210|3128|United States|Whittier|GLOBAL IT|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
