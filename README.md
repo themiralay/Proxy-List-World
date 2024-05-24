@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|161.34.35.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|160.248.6.10|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|67.43.227.227|16307|Canada|Montreal|GloboTech Communications|
-|18|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|67.43.227.227|7979|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|21413|Canada|Montreal|GloboTech Communications|
+|20|103.139.242.169|83|India|Pune|Spectram Telecom Pvt.Ltd|
 
 
 
