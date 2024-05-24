@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|10|38.188.203.9|8080|India|Bengaluru|Opto Communications Private Limited|
-|11|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|72.10.160.170|2523|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|29039|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.236.20|15261|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|29613|Canada|Montreal|GloboTech Communications|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
-|20|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|8|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|9|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|49.48.99.162|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|13|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
+|14|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
+|16|72.10.160.171|11837|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|29971|Canada|Montreal|GloboTech Communications|
+|18|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|19|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|20|186.215.87.194|6014|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
 
 
 
