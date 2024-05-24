@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|216.39.249.210|3128|United States|New York|GTHost|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|154.127.240.117|64006|Angola|Huambo|HMB-FTTH|
-|14|103.159.195.233|9091|Indonesia|Demak|PT Giga Digital Nusantara|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|191.5.53.167|8080|Brazil|Medianeira|VIAR TELECOMUNICAÇÕES LTDA|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |16|157.159.10.86|80|France|Évry|IT-EVRY-8/22|
-|17|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
-|18|203.190.53.197|8080|Indonesia|Bekasi|PT POWER TELECOM|
-|19|154.127.240.114|64002|Angola|Huambo|HMB-FTTH|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|94.231.199.226|1971|Iraq|Erbil|Net Tech Ltd|
+|18|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
