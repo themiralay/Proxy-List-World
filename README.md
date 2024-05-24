@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|14|67.43.236.20|29285|Canada|Montreal|GloboTech Communications|
-|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|72.10.160.91|12439|Canada|Montreal|GloboTech Communications|
-|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|72.10.160.90|33141|Canada|Montreal|GloboTech Communications|
-|20|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|6|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|10|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
 
 
 
