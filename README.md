@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.242.158.32|443|Türkiye|Diyarbakır|Contabo GmbH|
-|19|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
-|20|72.10.164.178|22115|Canada|Montreal|GloboTech Communications|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.231.25.58|8080|Colombia|Florencia|TV AZTECA SUCURSAL COLOMBIA|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|17|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|18|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
