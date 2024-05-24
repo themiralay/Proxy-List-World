@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|119.160.13.4|3128|Pakistan|Karachi|PMCL Transit|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.156.53.126|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.23.193.53|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|15|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
+|16|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|17|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|117.53.46.42|3128|Indonesia|Jakarta|PT Infinys System Indonesia|
+|19|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|20|103.115.31.181|8090|Indonesia|Nganjuk|HSPNET|
 
 
 
