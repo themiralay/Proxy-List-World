@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|6|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|7|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|8|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|9|205.196.184.69|50704|United States|Houston|Phonoscope|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.212.237.127|3128|United States|The Dalles|Google LLC|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 |19|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|20|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|43.133.35.113|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
