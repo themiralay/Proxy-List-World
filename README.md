@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|2|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|6|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|9|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|103.156.249.88|1111|Indonesia|Medan|Trans Media Telekomunikasi|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|5.196.111.29|20249|France|Gravelines|OVH SAS|
+|18|138.0.141.46|8080|Brazil|São Paulo|F.B. BABETO ME|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
 
 
 
