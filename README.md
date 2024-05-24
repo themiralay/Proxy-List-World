@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.74.125.18|8888|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|49.48.102.9|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|11|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|12|49.48.102.9|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.156.17.153|1111|Indonesia|Karawang|RSTNET|
+|16|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|143.110.248.3|3128|India|Bengaluru|DigitalOcean, LLC|
 |19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|20|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 
 
 
