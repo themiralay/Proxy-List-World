@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
-|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|6|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|103.151.30.17|8090|Bangladesh|Tongi|Bright Star Network|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|203.150.128.44|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|19|72.10.164.178|3135|Canada|Montreal|GloboTech Communications|
-|20|190.80.188.93|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|179.49.156.26|999|Peru|Lima|Vemax S.A.C|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|203.150.128.44|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|72.10.164.178|27339|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|14|103.8.164.16|1111|India|Mumbai|Microscan Computers Private Limited|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|18|72.10.160.173|14583|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|41.33.203.228|1976|Egypt|Cairo|TE Data|
 
 
 
