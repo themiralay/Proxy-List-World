@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|3|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 |9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.160.90|29127|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|8095|Canada|Montreal|GloboTech Communications|
-|19|161.34.36.41|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.90|29127|Canada|Montreal|GloboTech Communications|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|18|32.140.234.250|83|United States|Cuyahoga Falls|AT&T Services, Inc.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
 
 
 
