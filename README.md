@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.165.157.251|8090|Indonesia|Banjarnegara|MEGADATA-ISP|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|207.244.254.27|3129|United States|St Louis|Nubes, LLC|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|67.43.228.253|7937|Canada|Montreal|GloboTech Communications|
-|15|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|67.43.228.253|7937|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|23259|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|13501|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|181.225.191.6|9992|Colombia|Medellín|Ufinet Panama S.A.|
+|10|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|13|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|67.43.228.253|7937|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|13501|Canada|Montreal|GloboTech Communications|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
