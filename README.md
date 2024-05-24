@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.128.112.143|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.165.213|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.156.35.44|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|129.226.192.56|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.134.163.9|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|154.127.240.122|64001|Angola|Huambo|HMB-FTTH|
-|17|179.50.90.166|8513|Colombia|Medellín|GTD COLOMBIA|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|43.133.59.118|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|12|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
