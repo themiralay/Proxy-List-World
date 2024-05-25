@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
 |3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|10|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|216.39.249.210|3128|United States|New York|GTHost|
-|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|201.77.111.231|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
-|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
-|19|116.111.95.191|25313|Vietnam|Hung Yen|Viettel Corporation|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|18|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
