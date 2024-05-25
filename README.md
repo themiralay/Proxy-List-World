@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|8|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.170|26077|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|12461|Canada|Montreal|GloboTech Communications|
-|16|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|67.43.236.18|8057|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1177|Canada|Montreal|GloboTech Communications|
-|19|161.34.34.231|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|9|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
+|10|161.34.37.189|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|182.253.36.72|443|Indonesia|Jakarta Pusat|BIZNET|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|14|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.227.227|23285|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|8057|Canada|Montreal|GloboTech Communications|
+|20|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 
 
 
