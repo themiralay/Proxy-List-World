@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|92.222.248.117|8080|France|Paris|OVH SAS|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|216.39.249.210|3128|United States|New York|GTHost|
-|20|72.10.164.178|10849|Canada|Montreal|GloboTech Communications|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|190.94.213.14|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|72.10.164.178|10849|Canada|Montreal|GloboTech Communications|
+|18|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|19|67.43.236.20|18851|Canada|Montreal|GloboTech Communications|
+|20|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
