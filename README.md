@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|117.2.230.64|5402|Vietnam|Hanoi|Viettel Corporation|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|103.164.116.172|8080|Indonesia|Jakarta Pusat|SOLUSINET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 |13|216.39.249.210|3128|United States|New York|GTHost|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.160.170|16031|Canada|Montreal|GloboTech Communications|
+|17|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|72.10.160.173|10863|Canada|Montreal|GloboTech Communications|
 
 
 
