@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8067** proxies at the latest update. Usable proxies are below.
+> Scraper found **7997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|750|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|321|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|203.202.248.36|80|Bangladesh|Chittagong|Aamra Networks Limited|
-|9|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
-|10|216.39.249.210|3128|United States|New York|GTHost|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
-|13|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|16|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|19|67.43.228.253|20127|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
+|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|18|94.102.225.22|32650|Montenegro|Podgorica|One Crna Gora DOO|
+|19|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|20|216.39.249.210|3128|United States|New York|GTHost|
 
 
 
