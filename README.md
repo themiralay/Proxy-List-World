@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|14|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
-|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|20|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
