@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|84.54.191.22|8080|Bulgaria|Nesebar|ComNet Bulgaria Ltd.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|72.10.164.178|9695|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|8|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
 
 
 
