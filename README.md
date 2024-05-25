@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|12|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.228.250|25843|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|72.10.164.178|18493|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|24451|Canada|Montreal|GloboTech Communications|
-|18|45.4.201.99|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|67.43.236.18|1479|Canada|Montreal|GloboTech Communications|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|94.102.225.22|32650|Montenegro|Podgorica|One Crna Gora DOO|
 
 
 
