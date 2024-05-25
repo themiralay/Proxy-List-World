@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|16|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|216.39.249.210|3128|United States|New York|GTHost|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|179.1.192.46|999|Colombia|Neiva|INTERNEXA Brasil Operadora de Telecomunica??es S.A|
+|18|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|19|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
 |20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
