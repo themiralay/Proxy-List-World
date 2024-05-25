@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|129.151.233.36|3128|France|Marseille|Oracle Corporation|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|45.71.115.116|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|16|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|119.76.142.144|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|9|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|14|190.104.134.145|3128|Paraguay|Asunción|Núcleo S.A.|
+|15|154.127.240.114|64006|Angola|Huambo|HMB-FTTH|
+|16|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|18|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|19|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 |20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
