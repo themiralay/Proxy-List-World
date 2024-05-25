@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|103.8.164.16|1111|India|Mumbai|Microscan Computers Private Limited|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|170.239.205.10|8080|Colombia|Bogotá|FIBERNET|
-|13|103.135.48.30|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|14|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|45.4.201.17|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 |19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|20|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
