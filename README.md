@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|78.47.35.35|3312|Germany|Essen|Hetzner Online GmbH|
-|17|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|20|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|13|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|14|78.47.35.35|3312|Germany|Essen|Hetzner Online GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|151.80.66.158|33128|France|Roubaix|OVH SAS|
+|17|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 
 
 
