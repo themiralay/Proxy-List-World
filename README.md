@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|122.53.51.185|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|188.132.221.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|18|216.39.249.210|3128|United States|New York|GTHost|
-|19|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
+|20|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
