@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|202.152.20.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|16|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|72.10.164.178|9695|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
-|20|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|19|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|20|41.220.131.18|8040|Tanzania|Arusha|Habari Node Ltd|
 
 
 
