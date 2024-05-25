@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|16|14.102.58.186|8080|India|Mathura|WORLDPHONE|
-|17|72.10.160.171|23713|Canada|Montreal|GloboTech Communications|
-|18|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|19|72.10.164.178|31515|Canada|Montreal|GloboTech Communications|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|4|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|17|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
