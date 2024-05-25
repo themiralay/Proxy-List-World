@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|213.3.34.39|443|Switzerland|Steinhausen|Swisscom (Schweiz) AG - Bluewin|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|12|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|12|27.147.217.102|80|Bangladesh|Dhaka|Link3 Technologies Limited|
 |13|216.39.249.210|3128|United States|New York|GTHost|
-|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|101.109.155.231|8080|Thailand|Pattaya|TOT Public Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|36.64.217.27|1313|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|185.208.102.125|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
