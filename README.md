@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|92.222.248.117|8080|France|Paris|OVH SAS|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|103.178.42.26|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 |17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|67.43.236.20|1477|Canada|Montreal|GloboTech Communications|
-|19|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|67.43.236.20|7967|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 
 
 
