@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|136.62.144.33|80|United States|Austin|Google Fiber Inc.|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|144.24.204.126|8118|France|Marseille|Oracle Corporation|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|72.10.160.171|24163|Canada|Montreal|GloboTech Communications|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|19|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
