@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|4|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|3|92.222.248.117|8080|France|Paris|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
 |14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|117.68.38.181|22001|China|Rongcheng|China Telecom|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|5.196.111.29|20016|France|Gravelines|OVH SAS|
+|18|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |19|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|20|103.88.238.1|84|India|Hyderabad|Mana Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
