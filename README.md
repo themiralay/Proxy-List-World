@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|13|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|155.138.234.206|3128|United States|Atlanta|The Constant Company|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
-|20|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|122.3.45.189|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|9|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|155.138.234.206|3128|United States|Atlanta|The Constant Company|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
