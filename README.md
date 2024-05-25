@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|216.39.249.210|3128|United States|New York|GTHost|
-|8|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|9|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|15|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|20|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
 
 
 
