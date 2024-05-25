@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7901** proxies at the latest update. Usable proxies are below.
+> Scraper found **7861** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|398|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5268|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|12|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|41.33.203.228|1976|Egypt|Cairo|TE Data|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|38.60.196.242|3128|United Kingdom|London|Kaopu Cloud HK Limited|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|200.41.170.211|11201|Argentina|Picun Leufu|Telefonica de Argentina|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
 
 
 
