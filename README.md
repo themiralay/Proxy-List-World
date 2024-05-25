@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.91.82.177|8080|India|Khatauli|Inter Net Ly Private Limited|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|11|190.14.215.130|8080|Panama|Panama City|Galaxy Communications|
-|12|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|13|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|14|103.188.252.65|1234|Indonesia|Semarang|PT Data Lintas Media Indonesia|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|181.209.116.20|999|Argentina|Chacabuco|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|12|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|105.27.130.22|9812|South Africa|Port Elizabeth|SEACOM Limited Networks|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
