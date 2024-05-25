@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|67.43.228.253|14757|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19771|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|20|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|72.10.164.178|19771|Canada|Montreal|GloboTech Communications|
+|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|190.80.188.93|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|72.10.164.178|19771|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|7291|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2443|Canada|Montreal|GloboTech Communications|
 
 
 
