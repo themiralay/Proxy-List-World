@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
-|13|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|14|216.39.249.210|3128|United States|New York|GTHost|
-|15|67.43.236.20|22683|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|10563|Canada|Montreal|GloboTech Communications|
-|17|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|6|182.253.109.101|8080|Indonesia|Semarang|Biznet Metronet|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 
 
 
