@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|94.102.228.126|32650|Montenegro|Budva|One Crna Gora DOO|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|103.186.147.13|80|Vietnam|Quận Hà Đông|THM Refrigeration Technicians Company Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|19|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
 |20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
