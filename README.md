@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|216.39.249.210|3128|United States|New York|GTHost|
-|11|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|17|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|18|103.203.174.98|82|India|Hyderabad|Softgaurd Powertronics|
-|19|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|168.181.196.76|8080|Brazil|Marataizes|Windx Telecomunicações|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
