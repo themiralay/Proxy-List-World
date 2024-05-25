@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|103.66.196.218|23500|Indonesia|Kuningan Barat|PT. Mora Telematika Indonesia|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|19|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|20|103.189.116.109|8091|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
+|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|17|103.189.116.109|8091|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|18|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
 
 
 
