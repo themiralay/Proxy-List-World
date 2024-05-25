@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7934** proxies at the latest update. Usable proxies are below.
+> Scraper found **7820** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|806|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5537|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
-|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|16|216.39.249.210|3128|United States|New York|GTHost|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|20|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|18|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|19|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|20|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
