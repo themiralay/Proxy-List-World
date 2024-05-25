@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|8|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|174.138.30.199|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|5|92.222.248.117|8080|France|Paris|OVH SAS|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|15|115.127.36.190|222|Bangladesh|Mīrpur|BRACNet Limited|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.90|3423|Canada|Montreal|GloboTech Communications|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|216.39.249.210|3128|United States|New York|GTHost|
+|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|45.4.201.99|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
