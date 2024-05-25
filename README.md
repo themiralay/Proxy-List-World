@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|67.43.227.227|18667|Canada|Montreal|GloboTech Communications|
-|15|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|72.10.160.170|32491|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24397|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|5241|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|24397|Canada|Montreal|GloboTech Communications|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|188.244.38.227|7999|Russia|Moscow|2COM|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
