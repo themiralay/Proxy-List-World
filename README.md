@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|203.142.71.51|8080|Indonesia|Jakarta|BIZNET|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|216.39.249.210|3128|United States|New York|GTHost|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|14|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
-|17|119.92.70.8|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|45.229.10.108|8403|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|15|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|17|89.135.59.71|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
