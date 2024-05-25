@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|18|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
+|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
