@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|101.109.155.231|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
