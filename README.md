@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|92.222.248.117|8080|France|Paris|OVH SAS|
-|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|13|115.127.36.190|222|Bangladesh|Mīrpur|BRACNet Limited|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|216.39.249.210|3128|United States|New York|GTHost|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|18417|Canada|Montreal|GloboTech Communications|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.70.203.116|999|Ecuador|Chone|Ufinet Panama S.A.|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.91.82.177|8080|India|Khatauli|Inter Net Ly Private Limited|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|16|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|17|115.127.36.190|222|Bangladesh|Mīrpur|BRACNet Limited|
+|18|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|19|190.14.215.130|8080|Panama|Panama City|Galaxy Communications|
+|20|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
 
 
 
