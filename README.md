@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|168.205.102.26|8080|Brazil|Petrópolis|C-ComTelecom Servios Ltda-ME|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
-|17|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|18|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
-|19|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
-|20|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
+|19|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|20|72.10.160.173|7851|Canada|Montreal|GloboTech Communications|
 
 
 
