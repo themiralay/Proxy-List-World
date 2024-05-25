@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|11|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|12|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|13|185.44.26.217|43097|Spain|Cartagena|Electronica Martinez de Cartagena S.L.|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
-|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|92.222.248.117|8080|France|Paris|OVH SAS|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|17|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
+|18|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|19|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|20|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
 
 
 
