@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|15|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|16|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
+|17|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
 |18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|20|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
