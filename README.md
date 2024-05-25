@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7935** proxies at the latest update. Usable proxies are below.
+> Scraper found **7934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|203|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|13|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
-|14|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|67.43.228.253|22059|Canada|Montreal|GloboTech Communications|
-|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|20|72.10.160.171|33145|Canada|Montreal|GloboTech Communications|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.113.79.124|9080|Indonesia|Guntur|Indonesia Network Information Center|
+|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|16|216.39.249.210|3128|United States|New York|GTHost|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|20|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
