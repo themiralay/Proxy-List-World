@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|216.39.249.210|3128|United States|New York|GTHost|
-|13|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|183.81.156.98|8080|Indonesia|Bekasi|Internet Service Provider|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|103.203.174.98|82|India|Hyderabad|Softgaurd Powertronics|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|103.148.130.50|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|216.39.249.210|3128|United States|New York|GTHost|
+|12|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|17|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
 |18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
