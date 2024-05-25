@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|15|181.192.29.127|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|17|154.127.240.114|64006|Angola|Huambo|HMB-FTTH|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|20|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|16|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|17|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
