@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8074** proxies at the latest update. Usable proxies are below.
+> Scraper found **8076** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|812|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|268|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|216.39.249.210|3128|United States|New York|GTHost|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|13|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|183.81.156.98|8080|Indonesia|Bekasi|Internet Service Provider|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|181.225.78.57|999|Colombia|San Martin|Media Commerce Partners S.A|
+|12|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|13|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
+|16|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
 |17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|19|216.39.249.210|3128|United States|New York|GTHost|
-|20|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|18|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|19|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|20|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
