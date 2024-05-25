@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|129.151.233.36|3128|France|Marseille|Oracle Corporation|
+|6|45.71.115.116|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|103.66.196.218|23500|Indonesia|Kuningan Barat|PT. Mora Telematika Indonesia|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
-|19|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|20|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|15|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|103.156.17.139|8818|Indonesia|Indramayu|RSTNET|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
 
 
 
