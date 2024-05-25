@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.253.109.101|8080|Indonesia|Semarang|Biznet Metronet|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|216.39.249.210|3128|United States|New York|GTHost|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.160.170|23749|Canada|Montreal|GloboTech Communications|
-|16|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 
 
 
