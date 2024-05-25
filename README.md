@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|182.253.109.101|8080|Indonesia|Semarang|Biznet Metronet|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.76.151.133|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
-|14|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|15|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|72.10.160.170|27765|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|4225|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.215.177.186|8080|Indonesia|Jakarta Pusat|PT Telematika Mitrakreasi|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|103.154.77.64|83|Indonesia|Magelang|T2NET|
+|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|14|45.224.22.63|999|Ecuador|San Miguel|Ufinet Panama S.A.|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|72.10.164.178|20423|Canada|Montreal|GloboTech Communications|
 
 
 
