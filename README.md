@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|43.129.178.138|8000|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|216.39.249.210|3128|United States|New York|GTHost|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|200.111.249.195|999|Chile|Santiago|Entel Chile S.A.|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|15|67.43.236.21|8011|Canada|Montreal|GloboTech Communications|
+|16|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|19|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|20|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
 
 
 
