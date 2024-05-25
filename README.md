@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|67.205.189.239|154|United States|North Bergen|DigitalOcean, LLC|
-|8|198.71.59.125|58080|United States|New York|ProfitBricks, Inc.|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
-|11|185.200.37.102|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|13|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|1|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|72.10.160.170|32037|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|72.10.164.178|12011|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|67.43.236.20|11597|Canada|Montreal|GloboTech Communications|
 |14|172.233.146.207|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|32037|Canada|Montreal|GloboTech Communications|
-|17|168.227.11.135|9999|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|18|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|19|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|20|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|15|67.43.227.227|13275|Canada|Montreal|GloboTech Communications|
+|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|17|67.43.236.20|11597|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|21401|Canada|Montreal|GloboTech Communications|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
 
 
 
