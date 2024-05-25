@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|67.43.236.18|22549|Canada|Montreal|GloboTech Communications|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|103.252.169.158|8080|India|Nagpur|UCN CABLE NETWORK PVT. LTD|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|14|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|15|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|67.43.236.20|20105|Canada|Montreal|GloboTech Communications|
 
 
 
