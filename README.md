@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.154.77.75|8080|Indonesia|Magelang|T2NET|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|139.59.238.66|8000|Singapore|Singapore|DIGITALOCEAN|
-|20|139.59.238.66|8000|Singapore|Singapore|DIGITALOCEAN|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|216.39.249.210|3128|United States|New York|GTHost|
+|11|139.59.238.66|8000|Singapore|Singapore|DIGITALOCEAN|
+|12|139.59.238.66|8000|Singapore|Singapore|DIGITALOCEAN|
+|13|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|14|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
