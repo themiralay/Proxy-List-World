@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|14|216.39.249.210|3128|United States|New York|GTHost|
-|15|67.43.228.253|2359|Canada|Montreal|GloboTech Communications|
-|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|17|186.215.87.194|6024|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|8|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|17|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|18|72.10.164.178|24397|Canada|Montreal|GloboTech Communications|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|28143|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24397|Canada|Montreal|GloboTech Communications|
 
 
 
