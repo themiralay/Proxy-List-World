@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|17|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|20|67.43.227.227|28331|Canada|Montreal|GloboTech Communications|
+|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|19|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|20|120.28.219.93|8080|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
