@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|14.241.46.131|8080|Vietnam|Hanoi|VNPT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|20027|Canada|Montreal|GloboTech Communications|
-|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|15|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|181.36.121.222|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|18|93.85.79.219|3128|Belarus|Liozna|Republican Unitary Telecommunication Enterprise Beltelecom|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|12|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.164.178|29783|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|15549|Canada|Montreal|GloboTech Communications|
+|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|72.10.164.178|29783|Canada|Montreal|GloboTech Communications|
 
 
 
