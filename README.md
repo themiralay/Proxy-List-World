@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.155.196.114|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|6|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|7|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|72.10.164.178|10795|Canada|Montreal|GloboTech Communications|
+|1|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|103.203.174.182|84|India|Hyderabad|Softgaurd Powertronics|
+|7|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|45.4.201.99|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
 |12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|72.10.164.178|10795|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|12461|Canada|Montreal|GloboTech Communications|
-|19|103.157.83.77|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|13|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|16|72.10.164.178|10795|Canada|Montreal|GloboTech Communications|
+|17|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
