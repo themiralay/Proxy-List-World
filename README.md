@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|161.34.38.141|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|198.71.59.125|58080|United States|New York|ProfitBricks, Inc.|
-|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
-|12|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|198.71.59.125|58080|United States|New York|ProfitBricks, Inc.|
-|16|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|216.39.249.210|3128|United States|New York|GTHost|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|38.51.235.211|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
