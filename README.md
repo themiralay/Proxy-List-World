@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|222.109.192.34|8080|South Korea|Seongdong-gu|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|12|49.236.212.123|8080|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|13|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
