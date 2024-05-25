@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
-|14|84.207.252.37|8080|United Kingdom|London|euNetworks GmbH|
-|15|178.134.31.226|8080|Georgia|Tbilisi|JSC "Silknet"|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|72.10.164.178|28233|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|10633|Canada|Montreal|GloboTech Communications|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|72.10.164.178|28233|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|11779|Canada|Montreal|GloboTech Communications|
 
 
 
