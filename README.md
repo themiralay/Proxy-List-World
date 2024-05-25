@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|5|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|13|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|72.10.160.94|24849|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26497|Canada|Montreal|GloboTech Communications|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|165.16.59.225|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|134.35.129.29|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
+|13|167.250.222.233|999|Mexico|Comalapa|Ufinet Panama S.A.|
+|14|109.109.166.176|8080|United Kingdom|Wythenshawe|Vispa Limited|
+|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|19|182.253.72.108|8082|Indonesia|Jakarta Pusat|BIZNET|
+|20|152.231.25.58|8080|Colombia|Florencia|Colombiatel Telecomunicaciones|
 
 
 
