@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|10|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
-|11|203.202.248.36|80|Bangladesh|Chittagong|Aamra Networks Limited|
-|12|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
-|13|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|14|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|58.147.190.110|8080|Indonesia|Bogor|PT. Transhybrid Communication|
+|15|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|16|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
