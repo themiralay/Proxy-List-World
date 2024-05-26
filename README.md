@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|9|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|19|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|11|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|12|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|20|72.10.164.178|19935|Canada|Montreal|GloboTech Communications|
 
 
 
