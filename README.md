@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|16|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|125.20.72.28|3129|India|Noida|BHARTI|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|10|75.119.131.36|9393|Germany|Düsseldorf|Contabo GmbH|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|16|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 
 
 
