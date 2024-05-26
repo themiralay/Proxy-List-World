@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|216.39.249.210|3128|United States|New York|GTHost|
-|7|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.155.198.107|7777|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|209.15.113.71|80|Thailand|Vadhana|catCloud|
 |13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|16|216.39.249.210|3128|United States|New York|GTHost|
-|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|19|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|20|72.10.164.178|15029|Canada|Montreal|GloboTech Communications|
 
 
 
