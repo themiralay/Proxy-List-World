@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.248.8.85|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|160.248.8.85|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|12|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
 |13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.8.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.164.178|10853|Canada|Montreal|GloboTech Communications|
-|19|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|10853|Canada|Montreal|GloboTech Communications|
+|14|184.185.105.105|4481|United States|Providence|Cox Communications Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|17|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
