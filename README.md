@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|103.53.170.199|3128|Vietnam|GJong GJa|VCIC|
-|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|203.150.128.221|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|200.229.80.5|3355|Brazil|Itajuípe|High Tech Telecom Ltda|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.143.169.9|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
