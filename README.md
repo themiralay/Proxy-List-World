@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|16|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|17|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 
 
 
