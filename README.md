@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7104** proxies at the latest update. Usable proxies are below.
+> Scraper found **7092** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|194|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|182|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5125|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.227.227|20937|Canada|Montreal|GloboTech Communications|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|216.39.249.210|3128|United States|New York|GTHost|
-|13|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|14|67.43.228.254|5025|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|17|67.43.228.251|14383|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|12057|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12637|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12637|Canada|Montreal|GloboTech Communications|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|15|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.236.18|9213|Canada|Montreal|GloboTech Communications|
+|17|216.39.249.210|3128|United States|New York|GTHost|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|67.43.228.251|3221|Canada|Montreal|GloboTech Communications|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
