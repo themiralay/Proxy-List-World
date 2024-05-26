@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|201.184.108.44|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|9|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|12|161.34.38.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|114.4.112.138|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|46.253.143.144|3128|Russia|Moscow|ZTV CORP LLC|
+|16|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|17|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|18|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.38.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
