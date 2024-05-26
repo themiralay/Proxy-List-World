@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|117.55.202.97|3128|The Netherlands|Amsterdam|ESTOXY OU|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
 |8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|186.215.196.50|3128|Brazil|Sapucaia|Vivo|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|72.10.164.178|3771|Canada|Montreal|GloboTech Communications|
-|17|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|216.39.249.210|3128|United States|New York|GTHost|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|72.10.164.178|9259|Canada|Montreal|GloboTech Communications|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|71.14.23.121|8080|United States|Hoover|Spectrum|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
