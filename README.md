@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|5|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.166.8.234|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
-|16|129.151.233.36|3128|France|Marseille|Oracle Corporation|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|139.144.20.92|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|20|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|17|72.10.160.170|5349|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|19935|Canada|Montreal|GloboTech Communications|
+|19|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
