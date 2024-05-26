@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|96.53.48.166|8080|Canada|Vancouver|Shaw Communications Inc.|
-|7|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
-|9|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|91.108.102.205|9000|France|Paris|HOSTINGER FR|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|67.43.227.227|20181|Canada|Montreal|GloboTech Communications|
+|1|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.133.27.86|8085|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |19|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|20|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
