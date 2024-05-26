@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|6|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|206.1.65.12|3128|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|19|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|63.239.220.241|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|18|103.248.196.73|3125|Indonesia|Tarutung|PERMANA|
+|19|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
