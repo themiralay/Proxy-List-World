@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|8|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|160.248.8.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|15|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|16|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|19|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|17|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
