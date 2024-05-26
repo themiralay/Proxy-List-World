@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7939** proxies at the latest update. Usable proxies are below.
+> Scraper found **7880** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|214|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|761|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|314|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5692|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|65.109.13.125|8090|Finland|Helsinki|Hetzner Online GmbH|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|14|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|16|181.115.69.118|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|201.184.108.44|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|9|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
+|12|161.34.38.167|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
