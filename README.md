@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|141.125.158.9|80|United Kingdom|London|SoftLayer|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|98.26.64.96|8118|United States|Cary|Charter Communications|
-|13|141.125.158.9|80|United Kingdom|London|SoftLayer|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|206.27.173.58|443|United States|Phoenix|CenturyLink Communications, LLC|
-|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|103.115.31.39|8181|Indonesia|Nganjuk|HSPNET|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|160.248.8.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
 
 
 
