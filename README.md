@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|12|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|203.110.145.82|63128|Australia|Sydney|Macquarie Corporate Telecommunications|
-|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|10|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|103.169.254.37|8080|Indonesia|Sidoarjo|PT Master Star Network|
+|13|142.93.196.242|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|19|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
