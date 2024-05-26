@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|3|216.39.249.210|3128|United States|New York|GTHost|
+|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 |5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|144.76.225.182|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|13|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
-|20|161.34.38.125|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|216.39.249.210|3128|United States|New York|GTHost|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
