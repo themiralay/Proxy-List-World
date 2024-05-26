@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|51.250.107.5|3128|Russia|Moscow|Yandex.Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|12|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|201.222.83.146|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|18|103.139.242.169|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|61.7.178.142|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|16|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
