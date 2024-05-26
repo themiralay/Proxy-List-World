@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|15|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
-|17|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|14665|Canada|Montreal|GloboTech Communications|
-|20|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|72.10.164.178|14665|Canada|Montreal|GloboTech Communications|
+|18|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|19|72.10.160.90|19485|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|4867|Canada|Montreal|GloboTech Communications|
 
 
 
