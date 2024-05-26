@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|13|20.197.13.162|3128|India|Pune|Microsoft Corporation|
-|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|15|185.126.183.120|8080|Russia|Moscow|"Telko" JSC|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|187.250.215.99|8080|Mexico|Tijuana|Uninet S.A. de C.V.|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|20|103.189.249.208|8080|Indonesia|Pati|PT Berkah Media Kusuma Vision|
 
 
 
