@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|10|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|35.212.237.127|3128|United States|The Dalles|Google LLC|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|15|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|144.76.225.182|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|7|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|16|67.43.228.253|12573|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|11497|Canada|Montreal|GloboTech Communications|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|72.10.160.90|18305|Canada|Montreal|GloboTech Communications|
+|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
 
 
 
