@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|188.244.38.227|7999|Russia|Moscow|2COM|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
 |10|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|67.43.227.227|26509|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|15267|Canada|Montreal|GloboTech Communications|
-|18|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|19|167.250.181.133|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|20|67.43.236.20|28419|Canada|Montreal|GloboTech Communications|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|72.10.160.90|2861|Canada|Montreal|GloboTech Communications|
+|15|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|16|122.144.6.66|3777|Indonesia|Pengarengan|Maxindo|
+|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.164.178|12351|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.173|29627|Canada|Montreal|GloboTech Communications|
 
 
 
