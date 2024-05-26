@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|8|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|19|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
-|20|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|1|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
