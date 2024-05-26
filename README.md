@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|2|161.34.38.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|9|177.234.192.14|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|195.225.142.169|8080|Romania|Târnăveni|TV Adler-Trading SRL|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|103.186.239.73|6969|Bangladesh|Chittagong|Novel Chakma|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|190.80.188.93|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A|
-|17|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|65.109.13.125|8090|Finland|Helsinki|Hetzner Online GmbH|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|14|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|16|181.115.69.118|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 
 
 
