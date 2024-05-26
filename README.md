@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|10|72.10.160.174|3153|Canada|Montreal|GloboTech Communications|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|67.43.227.227|11221|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8115|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32485|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|216.39.249.210|3128|United States|New York|GTHost|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|72.10.160.174|22133|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|67.43.228.252|4897|Canada|Montreal|GloboTech Communications|
 
 
 
