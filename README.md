@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|11|61.7.178.142|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|103.87.169.192|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.110.34.136|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|36.91.216.243|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|103.134.251.203|32650|India|Bhiwadi|Micronet It Services Private Limited|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|36.91.148.36|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|17|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|20|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
