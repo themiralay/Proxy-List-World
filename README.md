@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|18|103.110.36.65|83|India|Lucknow|Bytel Tranet Private Limited|
-|19|38.10.90.250|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|104.167.6.218|80|United States|Boca Raton|CloudS|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
