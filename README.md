@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|14|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|30283|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|12257|Canada|Montreal|GloboTech Communications|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|12|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
