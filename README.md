@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|144.126.230.165|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|160.248.8.85|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|13315|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|7201|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13315|Canada|Montreal|GloboTech Communications|
+|16|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|17|72.10.164.178|13315|Canada|Montreal|GloboTech Communications|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|216.39.249.210|3128|United States|New York|GTHost|
 
 
 
