@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.38.20|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|216.39.249.210|3128|United States|New York|GTHost|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.236.20|32681|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|1535|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.236.20|32681|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|32739|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|72.10.164.178|16541|Canada|Montreal|GloboTech Communications|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|35.193.218.166|3128|United States|Council Bluffs|Google LLC|
+|12|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
+|13|178.153.8.211|8080|Qatar|Doha|Ooredoo-MBB|
+|14|38.156.75.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|216.39.249.210|3128|United States|New York|GTHost|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|38.51.235.211|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
 
 
 
