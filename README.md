@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|67.43.236.18|15267|Canada|Montreal|GloboTech Communications|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
-|14|103.255.145.62|82|India|Hyderabad|Pioneer Elabs Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|72.10.160.91|3261|Canada|Montreal|GloboTech Communications|
-|18|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|146.20.125.146|80|United States|Washington|Rackspace Hosting|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|20|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
