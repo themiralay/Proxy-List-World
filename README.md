@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|93.85.79.219|3128|Belarus|Liozna|Republican Unitary Telecommunication Enterprise Beltelecom|
-|11|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|12|5.187.79.198|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
+|13|61.7.178.142|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|161.34.38.130|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|61.19.145.66|8080|Thailand|Doi Saket|CAT Telecom Public Company Limited|
 
 
 
