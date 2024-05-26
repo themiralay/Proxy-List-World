@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|72.10.164.178|4317|Canada|Montreal|GloboTech Communications|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|179.42.6.24|3128|Brazil|Barra Mansa|SN TELECON LTDA|
-|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|18|67.43.236.20|32633|Canada|Montreal|GloboTech Communications|
-|19|161.34.38.20|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|102.164.249.144|8080|Equatorial Guinea|Malabo|Conexxia GE S.L|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|161.34.38.20|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|16|72.10.164.178|5955|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|5955|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5955|Canada|Montreal|GloboTech Communications|
+|19|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
 |20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 
 
