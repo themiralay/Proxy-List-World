@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|103.147.134.253|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
 |7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|136.62.144.33|80|United States|Austin|Google Fiber Inc.|
-|14|67.43.228.253|5205|Canada|Montreal|GloboTech Communications|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|17|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|18|72.10.160.171|31429|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2229|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|2281|Canada|Montreal|GloboTech Communications|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|67.43.228.253|5205|Canada|Montreal|GloboTech Communications|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|72.10.164.178|2229|Canada|Montreal|GloboTech Communications|
+|19|103.88.238.97|84|India|Hyderabad|Mana Communications|
+|20|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
 
 
 
