@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|12|146.20.125.146|80|United States|Washington|Rackspace Hosting|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|72.10.164.178|6541|Canada|Montreal|GloboTech Communications|
-|15|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|9|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|10|157.66.50.57|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|72.10.164.178|17855|Canada|Montreal|GloboTech Communications|
+|12|216.39.249.210|3128|United States|New York|GTHost|
+|13|161.34.38.193|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.88.90.53|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|19|188.94.159.26|3128|Kazakhstan|Almaty|It-grad TOO|
-|20|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|19|72.10.160.90|1385|Canada|Montreal|GloboTech Communications|
+|20|38.10.90.250|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
