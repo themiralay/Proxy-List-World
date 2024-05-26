@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|4|216.39.249.210|3128|United States|New York|GTHost|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|15|160.248.8.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|152.231.105.94|999|Chile|Lo Barnechea|Entel Chile S.A.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|3|216.39.249.210|3128|United States|New York|GTHost|
+|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|117.53.46.42|3128|Indonesia|Jakarta|PT Infinys System Indonesia|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.8.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
