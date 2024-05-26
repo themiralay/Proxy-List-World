@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.9.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.12.21.6|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|144.126.230.165|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|204.199.120.27|999|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|11|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 |14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|47.254.90.125|8800|United States|Minkler|Alibaba.com LLC|
-|19|72.10.164.178|6177|Canada|Montreal|GloboTech Communications|
-|20|62.60.165.59|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
+|15|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|72.10.164.178|23555|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|187.245.214.7|999|Mexico|Comitán|Mega Cable|
 
 
 
