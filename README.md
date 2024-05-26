@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|88.200.195.120|80|Russia|Samara|Rostelecom networks|
-|11|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|210.12.194.39|8083|China|Chaowai|China Unicom Beijing Province Network|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|67.43.228.252|1211|Canada|Montreal|GloboTech Communications|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
+|17|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|18|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|19|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
