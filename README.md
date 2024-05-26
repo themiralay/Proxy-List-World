@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|161.34.38.125|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.186.204.52|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|45.173.231.221|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|72.10.160.171|3067|Canada|Montreal|GloboTech Communications|
-|20|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|3|161.34.38.125|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|177.129.242.245|48580|Brazil|Paracatu|V8 Telecom LTDA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|15|112.78.134.131|7777|Indonesia|Jakarta|Biznet Networks|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|72.10.164.178|11335|Canada|Montreal|GloboTech Communications|
+|18|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|67.43.227.227|26791|Canada|Montreal|GloboTech Communications|
 
 
 
