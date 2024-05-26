@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|216.39.249.210|3128|United States|New York|GTHost|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|5.196.111.29|20637|France|Gravelines|OVH SAS|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.160.93|6823|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|216.39.249.210|3128|United States|New York|GTHost|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|181.119.106.106|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|17|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|109.74.33.242|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|20|67.43.227.227|29727|Canada|Montreal|GloboTech Communications|
 
 
 
