@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|14|72.10.160.90|3247|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1717|Canada|Montreal|GloboTech Communications|
+|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|37.251.98.111|3128|The Netherlands|Huizen|ISPFabriek|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.90|3247|Canada|Montreal|GloboTech Communications|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
