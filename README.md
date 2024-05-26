@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|182.191.123.24|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.9.56.70|8080|India|Chennai|Cogent Communications|
+|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|10|144.76.64.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|192.99.182.243|3128|United States|New York|OVH Hosting|
+|13|45.188.164.47|999|Mexico|Atotonilco el Alto|Velocom SA De CV|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
 |20|67.43.227.227|11461|Canada|Montreal|GloboTech Communications|
 
 
