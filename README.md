@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7881** proxies at the latest update. Usable proxies are below.
+> Scraper found **7724** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|844|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|687|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5673|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|144.126.230.165|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|204.199.120.27|999|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
-|11|103.148.130.3|7777|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|178.214.80.28|1981|Palestinian Territory|Ramallah|Gemzo information technology Private Joint-Stock company|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|72.10.164.178|23555|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|187.245.214.7|999|Mexico|Comitán|Mega Cable|
+|2|160.248.8.85|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.172|1545|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|21541|Canada|Montreal|GloboTech Communications|
+|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|72.10.160.91|31749|Canada|Montreal|GloboTech Communications|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
+|18|115.127.36.190|222|Bangladesh|Mīrpur|BRACNet Limited|
+|19|72.10.160.90|22359|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|22359|Canada|Montreal|GloboTech Communications|
 
 
 
