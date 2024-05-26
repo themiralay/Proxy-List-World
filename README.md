@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|12|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|13|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|14|178.49.151.102|443|Russia|Novosibirsk|Novotelecom Ltd|
-|15|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.144.18.108|9000|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
