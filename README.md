@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|17|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|12|67.43.236.18|18049|Canada|Montreal|GloboTech Communications|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.115.31.181|8090|Indonesia|Depok|HSPNET|
+|16|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|17|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|18|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|19|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|20|206.62.64.34|8080|Brazil|Apucarana|AGIS|
 
 
 
