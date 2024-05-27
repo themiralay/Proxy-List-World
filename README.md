@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|7|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
 |10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|11|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
