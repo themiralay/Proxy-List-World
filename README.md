@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|216.39.249.210|3128|United States|New York|GTHost|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
+|18|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|19|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
 
 
 
