@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|18|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|20|72.10.164.178|31875|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
