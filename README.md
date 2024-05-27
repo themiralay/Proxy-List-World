@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
-|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|103.173.139.221|8080|Indonesia|Wonosobo|PT Serayu Multi Connection|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|203.194.108.23|3129|India|Mumbai|In2cable|
 
 
 
