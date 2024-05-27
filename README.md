@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7282** proxies at the latest update. Usable proxies are below.
+> Scraper found **7297** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|842|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|7|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5357|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|103.245.16.133|8080|Indonesia|Manggadua Selatan|PT Quantum Tera Network|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|20|177.43.72.250|3128|Brazil|Brasília|Vivo|
 
 
 
