@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|202.154.18.9|2121|Indonesia|Lamongan|DIGITNET|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|4|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|103.166.227.22|3125|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|20|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
 
 
 
