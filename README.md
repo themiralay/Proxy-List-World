@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|144.126.230.165|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|8|192.99.182.243|3128|United States|New York|OVH Hosting|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|13|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|14|154.127.240.113|64002|Angola|Huambo|HMB-FTTH|
-|15|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|16|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|10|154.127.240.113|64002|Angola|Huambo|HMB-FTTH|
+|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|12|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
+|13|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|14|154.127.240.121|64006|Angola|Huambo|HMB-FTTH|
+|15|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
+|16|154.127.240.124|64003|Angola|Huambo|HMB-FTTH|
 |17|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|18|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.227.229|9741|Canada|Montreal|GloboTech Communications|
+|20|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
 
 
 
