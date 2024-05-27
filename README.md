@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|8|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.173|23973|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|22895|Canada|Montreal|GloboTech Communications|
-|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|67.43.227.228|12273|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12781|Canada|Montreal|GloboTech Communications|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|8|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|12|72.10.160.174|7543|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|16495|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
+|17|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
+|18|72.10.160.170|22895|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
+|20|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 
 
 
