@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|38.52.221.254|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|14|80.66.81.44|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|20.40.43.51|3128|India|Pune|Microsoft Corporation|
-|16|186.150.207.207|8080|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|17|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|18|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
+|1|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
+|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|10|67.43.236.20|1313|Canada|Montreal|GloboTech Communications|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
+|16|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|17|72.10.160.173|8729|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|72.10.160.171|20505|Canada|Montreal|GloboTech Communications|
 
 
 
