@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |6|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |17|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|18|72.10.160.170|30341|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|213.169.33.7|4000|Bulgaria|Sofia|A1 Bulgaria EAD|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
