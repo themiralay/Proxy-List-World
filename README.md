@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6465** proxies at the latest update. Usable proxies are below.
+> Scraper found **6382** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1086|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|475|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3769|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.162.141.146|8085|Indonesia|Batam|PT Filltech Antar Nusa|
-|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|6|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|13|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|17|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
+|18|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
+|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|20|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 
 
 
