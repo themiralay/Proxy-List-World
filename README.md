@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
-|12|85.206.13.20|80|Lithuania|Vilnius|Telia Lietuva, AB|
-|13|67.43.236.20|25527|Canada|Montreal|GloboTech Communications|
-|14|83.97.79.72|3128|Spain|Madrid|BlueVPS OU|
-|15|176.124.190.45|80|Poland|Warsaw|Krzysztof Muklewicz|
-|16|72.10.160.90|24397|Canada|Montreal|GloboTech Communications|
-|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
-|20|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|103.139.126.30|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|5.83.244.250|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|10|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
+|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|24917|Canada|Montreal|GloboTech Communications|
+|15|50.231.0.43|4481|United States|Arvada|Comcast Cable Communications, LLC|
+|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|17|67.43.227.227|26339|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
 
 
 
