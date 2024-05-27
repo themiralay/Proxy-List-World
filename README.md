@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|12|51.68.138.113|3333|Poland|Warsaw|OVH SAS|
-|13|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|80.66.81.61|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.164.178|20961|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|17235|Canada|Montreal|GloboTech Communications|
-|18|117.55.202.97|3128|The Netherlands|Amsterdam|ESTOXY OU|
-|19|67.43.228.250|31199|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|18383|Canada|Montreal|GloboTech Communications|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|16|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.164.178|16435|Canada|Montreal|GloboTech Communications|
+|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.162.141.146|8085|Indonesia|Batam|PT Filltech Antar Nusa|
+|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 
 
 
