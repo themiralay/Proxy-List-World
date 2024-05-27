@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|9|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|72.10.160.90|27737|Canada|Montreal|GloboTech Communications|
-|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|12|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
-|13|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|67.43.227.228|2039|Canada|Montreal|GloboTech Communications|
-|16|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
+|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|72.10.160.90|1357|Canada|Montreal|GloboTech Communications|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|17|67.43.227.228|2039|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
+|20|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
