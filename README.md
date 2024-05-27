@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
+|2|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|15|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|182.253.109.133|8080|Indonesia|Semarang|Biznet Metronet|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|72.10.160.90|8003|Canada|Montreal|GloboTech Communications|
+|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|175.138.113.230|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.160.170|3569|Canada|Montreal|GloboTech Communications|
+|16|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|67.43.236.22|18891|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|3569|Canada|Montreal|GloboTech Communications|
+|20|180.131.242.221|48678|Japan|Chatan|GLBB Japan KK|
 
 
 
