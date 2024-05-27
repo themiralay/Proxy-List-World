@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|67.43.228.253|1775|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|72.10.160.92|26059|Canada|Montreal|GloboTech Communications|
-|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|20|72.10.164.178|10493|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
+|15|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|20|72.10.160.92|26059|Canada|Montreal|GloboTech Communications|
 
 
 
