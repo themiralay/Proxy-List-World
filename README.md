@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.60.165.203|29823|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|64.225.105.185|8000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|72.10.160.90|12727|Canada|Montreal|GloboTech Communications|
-|15|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|16|72.10.164.178|2521|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2521|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|2521|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|14833|Canada|Montreal|GloboTech Communications|
+|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|14|192.140.225.70|9090|Indonesia|Pancoran|PT Asia Teknologi Solusi|
+|15|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|16|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
