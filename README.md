@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.79.123.204|3128|India|Mumbai|Akamai Technologies, Inc.|
-|6|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|15|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|16|72.10.160.90|11365|Canada|Montreal|GloboTech Communications|
-|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|18|72.10.164.178|22371|Canada|Montreal|GloboTech Communications|
-|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.160.90|11365|Canada|Montreal|GloboTech Communications|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|67.43.227.228|3803|Canada|Montreal|GloboTech Communications|
+|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.160.90|11365|Canada|Montreal|GloboTech Communications|
+|16|85.223.140.205|3127|Ukraine|Velyka Dymerka|SOL Network|
+|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|72.10.164.178|9351|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|20427|Canada|Montreal|GloboTech Communications|
+|20|185.255.45.241|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
 
 
 
