@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|5|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |11|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|12|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|17|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|67.43.236.20|16585|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|17959|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|30623|Canada|Montreal|GloboTech Communications|
+|12|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|67.43.227.227|17959|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.236.20|23559|Canada|Montreal|GloboTech Communications|
 
 
 
