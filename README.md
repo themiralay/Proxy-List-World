@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
-|12|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|13|154.127.240.115|64006|Angola|Huambo|HMB-FTTH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|154.127.240.113|64006|Angola|Huambo|HMB-FTTH|
-|18|154.127.240.124|64003|Angola|Huambo|HMB-FTTH|
-|19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|4|103.106.112.114|3128|Indonesia|Bandar Lampung|SMSNET|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|12|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|14|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|16|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|17|154.127.240.117|64006|Angola|Huambo|HMB-FTTH|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
 
 
 
