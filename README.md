@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|12|67.43.228.253|2067|Canada|Montreal|GloboTech Communications|
-|13|202.12.80.8|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|67.43.228.254|28849|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|8625|Canada|Montreal|GloboTech Communications|
-|19|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|81.91.26.254|8080|Yemen|Taiz|Public Telecommunication Corporation|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|207.244.254.27|3131|United States|St Louis|Nubes, LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|195.24.157.66|4018|Ukraine|Dnipro|Science Production Company "Trifle" Ltd.|
+|18|67.43.228.253|28849|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18455|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
