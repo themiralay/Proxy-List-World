@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|223.70.126.84|3128|China|Beijing|China Mobile communications corporation|
-|16|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|141.125.158.9|80|United Kingdom|London|SoftLayer|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|20|223.70.126.84|3128|China|Beijing|China Mobile communications corporation|
 
 
 
