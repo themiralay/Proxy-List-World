@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
 |10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|15|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|17275|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|18|134.35.1.158|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|19|67.43.236.20|5031|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.160.90|14593|Canada|Montreal|GloboTech Communications|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|16|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
+|17|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
