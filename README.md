@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|72.10.160.172|32283|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|8171|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|30513|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|8171|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8171|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
-|18|67.43.227.227|3713|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5317|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8171|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|72.10.164.178|31447|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|11359|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.228.253|32493|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|11873|Canada|Montreal|GloboTech Communications|
 
 
 
