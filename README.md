@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|10|103.141.109.219|8080|Indonesia|Blitar|Data Buana Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|72.10.160.170|19945|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|18779|Canada|Montreal|GloboTech Communications|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|38.51.60.131|999|Dominican Republic|Concepción de la Vega|Central Solutions Technology S.R.L.|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|85.223.140.205|3127|Ukraine|Velyka Dymerka|SOL Network|
-|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|112.163.201.32|3129|South Korea|Jinju-si|Korea Telecom|
+|7|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|85.223.140.205|3127|Ukraine|Velyka Dymerka|SOL Network|
+|14|72.10.160.174|27723|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|17|72.10.160.171|24949|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|30485|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18287|Canada|Montreal|GloboTech Communications|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
