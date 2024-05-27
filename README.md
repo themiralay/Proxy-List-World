@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7167** proxies at the latest update. Usable proxies are below.
+> Scraper found **7166** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|103|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|102|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|747|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|3|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|6|72.10.164.178|22371|Canada|Montreal|GloboTech Communications|
-|7|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|8|67.43.227.227|8857|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.18|23141|Canada|Montreal|GloboTech Communications|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|72.10.160.90|11949|Canada|Montreal|GloboTech Communications|
-|12|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
-|13|72.10.164.178|22371|Canada|Montreal|GloboTech Communications|
-|14|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|16|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|17|72.10.160.92|8583|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22371|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|5023|Canada|Montreal|GloboTech Communications|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
