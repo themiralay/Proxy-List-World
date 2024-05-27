@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|10|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|154.127.240.120|64001|Angola|Huambo|HMB-FTTH|
-|15|192.99.182.243|3128|United States|New York|OVH Hosting|
-|16|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
-|17|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|18|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|19|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|1|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|3|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|6|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|16|103.105.76.99|8080|Indonesia|Surabaya|GARUDA|
+|17|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|18|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
+|19|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
