@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|154.127.240.113|64006|Angola|Huambo|HMB-FTTH|
-|16|154.127.240.114|64006|Angola|Huambo|HMB-FTTH|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
-|19|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|20|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|192.99.182.243|3128|United States|New York|OVH Hosting|
+|4|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|23.225.72.123|3501|United States|Dallas|Cnservers LLC|
+|14|154.127.240.120|64003|Angola|Huambo|HMB-FTTH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|18|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
