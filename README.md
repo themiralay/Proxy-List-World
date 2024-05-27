@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|12|72.10.160.170|14481|Canada|Montreal|GloboTech Communications|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|67.43.236.20|2967|Canada|Montreal|GloboTech Communications|
-|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.91|4377|Canada|Montreal|GloboTech Communications|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|67.43.236.18|21337|Canada|Montreal|GloboTech Communications|
-|20|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|15|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
