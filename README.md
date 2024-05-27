@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|14.140.167.189|10171|India|Chennai|Tata Communications Limited|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |8|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|12|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|205.196.184.69|50704|United States|Houston|Phonoscope|
-|16|72.10.164.178|18285|Canada|Montreal|GloboTech Communications|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
 |17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|20|72.10.160.91|19985|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|19985|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
