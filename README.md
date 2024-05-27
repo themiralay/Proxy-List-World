@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|132.147.137.52|8080|United States|Princeville|Nextlink Broadband|
 |9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
-|18|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|20|162.43.86.215|3128|Japan|Chiyoda|XSERVER Inc.|
+|12|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|13|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|132.147.137.52|8080|United States|Princeville|Nextlink Broadband|
+|17|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|18|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
