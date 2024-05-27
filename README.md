@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|112.163.201.32|3129|South Korea|Jinju-si|Korea Telecom|
-|3|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|11|72.10.160.90|19099|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|1207|Canada|Montreal|GloboTech Communications|
-|13|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|67.43.236.20|15583|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|141.94.78.141|80|France|Gravelines|OVH SAS|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|106.51.62.106|8080|India|Bengaluru|ACT Fibernet|
+|14|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|223.247.46.38|8089|China|Rongcheng|Chinanet|
+|20|67.43.236.20|14509|Canada|Montreal|GloboTech Communications|
 
 
 
