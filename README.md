@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|9|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|72.10.164.178|11121|Canada|Montreal|GloboTech Communications|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.164.178|11121|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|11585|Canada|Montreal|GloboTech Communications|
-|16|178.134.31.226|8080|Georgia|Tbilisi|JSC "Silknet"|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|67.43.228.253|30415|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.154.32|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|103.154.92.74|8080|Indonesia|Depok|PT Mora Telematika Indonesia|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|32553|Canada|Montreal|GloboTech Communications|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|19|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
+|20|67.43.227.228|8291|Canada|Montreal|GloboTech Communications|
 
 
 
