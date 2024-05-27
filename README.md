@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|7|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|8|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|9|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|11|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|12|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|15|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|72.10.164.178|11323|Canada|Montreal|GloboTech Communications|
-|18|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|11323|Canada|Montreal|GloboTech Communications|
+|4|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|8|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|72.10.164.178|20349|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|20349|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|20349|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|10911|Canada|Montreal|GloboTech Communications|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.160.171|6445|Canada|Montreal|GloboTech Communications|
+|17|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|18|67.43.227.227|10911|Canada|Montreal|GloboTech Communications|
+|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
 
 
 
