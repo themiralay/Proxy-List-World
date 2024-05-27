@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
 |7|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|9|46.17.249.254|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|10|103.122.0.113|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
 |11|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|12|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
-|13|176.236.124.252|10001|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|14|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|12549|Canada|Montreal|GloboTech Communications|
-|16|38.10.90.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|72.10.164.178|22097|Canada|Montreal|GloboTech Communications|
-|18|5.196.111.29|20107|France|Gravelines|OVH SAS|
-|19|72.10.160.91|16099|Canada|Montreal|GloboTech Communications|
-|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|80.78.22.36|3128|Sweden|Malmo|ab stract|
+|13|216.39.249.210|3128|United States|New York|GTHost|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|18|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|25365|Canada|Montreal|GloboTech Communications|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
