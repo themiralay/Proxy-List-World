@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|7|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|12|103.26.108.118|84|India|Thoothukudi|Niss Networks|
-|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|14|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|15|42.112.21.207|3141|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|103.180.123.203|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|20|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|13|188.244.38.227|7999|Russia|Moscow|2COM|
+|14|154.127.240.121|64003|Angola|Huambo|HMB-FTTH|
+|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|17|103.173.139.221|8080|Indonesia|Wonosobo|PT Serayu Multi Connection|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
