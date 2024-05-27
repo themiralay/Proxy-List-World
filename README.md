@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|5|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|67.43.236.20|14945|Canada|Montreal|GloboTech Communications|
-|12|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|22733|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|29335|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|23603|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|17007|Canada|Montreal|GloboTech Communications|
-|20|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|13|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|67.43.236.20|15993|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
+|16|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|67.43.228.253|26131|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.160.170|29335|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1415|Canada|Montreal|GloboTech Communications|
 
 
 
