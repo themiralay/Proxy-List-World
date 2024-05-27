@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.178.43.147|3128|France|Gravelines|OVH SAS|
-|7|67.43.236.18|2641|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|7857|Canada|Montreal|GloboTech Communications|
-|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|39.129.73.6|443|China|Kunming|China Mobile|
-|13|72.10.164.178|19341|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|19341|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|11881|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|21365|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|67.43.228.253|11881|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19341|Canada|Montreal|GloboTech Communications|
-|20|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.228.253|27993|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
+|17|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|67.43.236.20|16353|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|27993|Canada|Montreal|GloboTech Communications|
 
 
 
