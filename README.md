@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|9|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|10|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|18|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|1|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|7|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|103.162.141.146|8085|Indonesia|Batam|PT Filltech Antar Nusa|
+|18|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
 
 
 
