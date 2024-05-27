@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|11|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.228.253|16755|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|16755|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29565|Canada|Montreal|GloboTech Communications|
-|16|103.133.223.226|3125|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|29565|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|67.43.228.253|18113|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.252|15665|Canada|Montreal|GloboTech Communications|
+|13|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|14|67.43.228.253|18113|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|23005|Canada|Montreal|GloboTech Communications|
+|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 
 
 
