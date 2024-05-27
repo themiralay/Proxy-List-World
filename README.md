@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|621|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|621|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|621|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|9|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|14|154.127.240.120|64006|Angola|Huambo|HMB-FTTH|
-|15|192.99.182.243|3128|United States|New York|OVH Hosting|
-|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|17|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|18|201.150.9.53|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|11|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|14|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|17|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|20|103.211.107.62|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
 
 
 
