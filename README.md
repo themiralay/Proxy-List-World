@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|72.10.160.171|3011|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|10813|Canada|Montreal|GloboTech Communications|
-|20|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|2|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|5|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|9|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|10|91.107.222.154|8118|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|14|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|18|167.86.96.187|3128|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.164.178|8987|Canada|Montreal|GloboTech Communications|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
