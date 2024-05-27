@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|14.140.167.189|10171|India|Chennai|Tata Communications Limited|
+|2|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
 |3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|23.225.72.122|3500|United States|Dallas|Cnservers LLC|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|8|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|9|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |14|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|19|103.105.76.99|8080|Indonesia|Surabaya|GARUDA|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|18|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
+|20|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
 
 
 
