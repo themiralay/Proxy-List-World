@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|2|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.187.127.130|2028|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|195.154.172.161|3128|France|Paris|Online S.A.S.|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|103.237.86.107|6811|Vietnam|Thu GJuc|JETCLOUD TECHNOLOGY CO., LTD|
-|13|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|72.10.164.178|24917|Canada|Montreal|GloboTech Communications|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|67.43.236.20|25527|Canada|Montreal|GloboTech Communications|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|5|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|72.10.160.90|31449|Canada|Montreal|GloboTech Communications|
+|16|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|17|67.43.236.20|30261|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|39.129.73.6|443|China|Kunming|China Mobile|
 
 
 
