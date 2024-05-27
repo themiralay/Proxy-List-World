@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|11|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|67.43.236.20|16223|Canada|Montreal|GloboTech Communications|
-|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|15|72.10.164.178|2025|Canada|Montreal|GloboTech Communications|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|72.10.164.178|2025|Canada|Montreal|GloboTech Communications|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|8|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|9|72.10.160.173|3091|Canada|Montreal|GloboTech Communications|
+|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|72.10.160.174|32047|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |19|72.10.160.171|32799|Canada|Montreal|GloboTech Communications|
-|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 
 
 
