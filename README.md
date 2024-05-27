@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
-|13|154.127.240.113|64006|Angola|Huambo|HMB-FTTH|
-|14|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|15|154.127.240.124|64003|Angola|Huambo|HMB-FTTH|
-|16|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
-|17|154.127.240.115|64001|Angola|Huambo|HMB-FTTH|
-|18|154.127.240.122|64002|Angola|Huambo|HMB-FTTH|
-|19|154.127.240.117|64006|Angola|Huambo|HMB-FTTH|
-|20|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|8|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|154.127.240.114|64002|Angola|Huambo|HMB-FTTH|
+|13|103.78.113.15|8080|Indonesia|Jakarta|MORATELINDO|
+|14|154.127.240.119|64002|Angola|Huambo|HMB-FTTH|
+|15|154.127.240.122|64002|Angola|Huambo|HMB-FTTH|
+|16|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|17|154.127.240.113|64002|Angola|Huambo|HMB-FTTH|
+|18|154.127.240.124|64003|Angola|Huambo|HMB-FTTH|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|154.127.240.117|64003|Angola|Huambo|HMB-FTTH|
 
 
 
