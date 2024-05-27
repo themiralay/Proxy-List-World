@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|109.109.166.176|8080|United Kingdom|Wythenshawe|Vispa Limited|
-|12|203.150.128.4|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|11099|Canada|Montreal|GloboTech Communications|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|16|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|18|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|19|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|18.189.21.249|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
