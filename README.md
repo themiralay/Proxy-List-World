@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
-|9|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|10|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|17|192.99.182.243|3128|United States|New York|OVH Hosting|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|20|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|14|192.99.182.243|3128|United States|New York|OVH Hosting|
+|15|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|16|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
