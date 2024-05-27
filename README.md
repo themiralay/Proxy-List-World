@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.151.246.10|7777|Indonesia|Bogor|MANAKARRANET|
-|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|14|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|9|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|16|116.73.243.169|9889|India|Bengaluru|Hathway IP over Cable Internet Access|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|177.234.192.187|6969|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|149.34.210.62|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
