@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|3|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|4|116.203.207.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|6|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
 |10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|15|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|38.253.88.24|999|United States|Miami|Cogent Communications|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|17|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
