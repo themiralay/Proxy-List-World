@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.177.9.104|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|49.12.150.91|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|10|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|188.132.222.25|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
-|19|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|154.127.240.115|64006|Angola|Huambo|HMB-FTTH|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
+|15|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|16|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|154.127.240.123|64001|Angola|Huambo|HMB-FTTH|
+|19|154.127.240.118|64001|Angola|Huambo|HMB-FTTH|
+|20|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
