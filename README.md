@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|188.132.222.132|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|144.126.238.185|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|13|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|72.10.164.178|29325|Canada|Montreal|GloboTech Communications|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|72.10.164.178|22573|Canada|Montreal|GloboTech Communications|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|19|144.126.230.165|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|20|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
 
 
 
