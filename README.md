@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|8|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|13|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|17|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|119.82.242.200|8080|Indonesia|Surabaya|Indonesia Network Information Center|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|38.188.127.115|8080|Indonesia|Blitar|PT Data Buana Nusantara|
 
 
 
