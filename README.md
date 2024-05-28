@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|94.79.152.14|80|Germany|Sankt Augustin|Vodafone|
-|5|175.110.5.149|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|110.78.146.249|8080|Thailand|Ko Samui|CAT-BB|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|14.140.128.10|80|India|Pune|Tata Communications Limited|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|103.143.169.130|83|India|Hyderabad|Aspt Networks Pvt Ltd|
-|16|62.183.96.194|8080|Russia|Maykop|Southen Telecommunication Maintainer|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|72.10.160.170|18779|Canada|Montreal|GloboTech Communications|
-|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|45.189.117.198|999|Peru|Lima|Conex TV E.I.R.L|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
+|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|15|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|103.12.21.6|3128|Indonesia|Jakarta|PT Equnix Business Solutions|
+|18|72.10.160.170|26077|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
