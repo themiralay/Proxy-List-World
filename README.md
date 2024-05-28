@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|10|97.64.70.2|16099|United States|College Station|PRONSS|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|67.43.236.21|29983|Canada|Montreal|GloboTech Communications|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|17123|Canada|Montreal|GloboTech Communications|
-|15|103.189.249.220|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|16|67.43.227.227|16519|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|13465|Canada|Montreal|GloboTech Communications|
-|18|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|19|72.10.164.178|17123|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14107|Canada|Montreal|GloboTech Communications|
+|3|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|103.159.194.191|3128|Indonesia|Rembang|PT Giga Digital Nusantara|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|13897|Canada|Montreal|GloboTech Communications|
+|17|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
