@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|5.196.111.29|20637|France|Gravelines|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
-|13|72.10.160.90|12305|Canada|Montreal|GloboTech Communications|
-|14|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|15|72.10.160.91|15523|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|30663|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|30663|Canada|Montreal|GloboTech Communications|
-|18|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|19|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|72.10.160.90|12305|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|7|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.236.20|30663|Canada|Montreal|GloboTech Communications|
+|12|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|72.10.160.91|15523|Canada|Montreal|GloboTech Communications|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|72.10.164.178|24911|Canada|Montreal|GloboTech Communications|
+|18|103.14.97.203|22147|India|Mumbai|Trunkoz Technologies Pvt. Ltd|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
 
 
 
