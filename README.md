@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|103.137.160.186|8090|Bangladesh|Dhaka|Top Network|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|20.187.127.130|2028|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|103.207.1.82|8080|India|Chennai|Sri Vari Network Private Limited|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|103.156.248.50|8181|Indonesia|Medan|Trans Media Telekomunikasi|
-|18|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|45.189.117.198|999|Peru|Lima|Conex TV E.I.R.L|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|16|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|17|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
