@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|13|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|15|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
-|16|104.167.6.218|80|United States|Boca Raton|CloudS|
-|17|144.76.24.28|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|7|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|8|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|19|50.31.187.20|3128|United States|Chicago|Server Central Network|
+|20|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 
 
 
