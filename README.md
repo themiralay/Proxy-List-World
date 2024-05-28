@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|12|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|13|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|14|67.43.236.20|18287|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|7005|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|18287|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|14241|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7327|Canada|Montreal|GloboTech Communications|
-|20|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|184.104.213.156|8888|Hong Kong|Chai Wan|Hurricane Electric LLC|
+|10|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|11|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|15|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|20|72.10.164.178|31347|Canada|Montreal|GloboTech Communications|
 
 
 
