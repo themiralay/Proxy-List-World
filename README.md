@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.150.128.212|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|11|103.67.163.149|6811|Vietnam|Qui Nhon|Thoi MMO Company Limited|
-|12|103.116.52.63|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
-|13|103.116.52.43|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
-|14|52.172.217.51|80|India|Pune|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|103.67.163.220|6811|Vietnam|Qui Nhon|Thoi MMO Company Limited|
-|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|17|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|103.116.52.63|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
+|19|82.157.169.124|80|China|Beijing|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.116.52.43|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
 
 
 
