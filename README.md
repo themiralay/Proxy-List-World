@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|5|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|141.148.129.241|3128|United States|Phoenix|Oracle Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
