@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|11|38.52.223.45|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|72.10.164.178|6557|Canada|Montreal|GloboTech Communications|
-|14|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|72.10.160.90|20221|Canada|Montreal|GloboTech Communications|
-|16|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|17|67.43.228.252|1211|Canada|Montreal|GloboTech Communications|
-|18|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|19|67.43.228.253|14235|Canada|Montreal|GloboTech Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|72.10.160.90|28747|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
 
 
 
