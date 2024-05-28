@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|104.248.156.11|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|4|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|9355|Canada|Montreal|GloboTech Communications|
-|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|67.43.228.251|24255|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|18|72.10.164.178|23195|Canada|Montreal|GloboTech Communications|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|72.10.164.178|23195|Canada|Montreal|GloboTech Communications|
 
 
 
