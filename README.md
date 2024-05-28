@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|12|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|72.10.160.90|6219|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|72.10.164.178|3229|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6219|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.253.88.242|999|United States|Miami|Cogent Communications|
+|8|5.255.24.180|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|9|176.32.2.193|8080|Ukraine|Kamianets-Podilskyi|Lanet Network|
+|10|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|45.189.118.92|999|Peru|Lima region|Fiber Digital S.R.L|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|16|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|182.253.72.108|8082|Indonesia|Jakarta Pusat|BIZNET|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
