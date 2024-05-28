@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|118.99.122.228|8080|Indonesia|Surabaya|BIZNET|
-|5|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|11|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
