@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7498** proxies at the latest update. Usable proxies are below.
+> Scraper found **7426** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|6|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5655|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|11|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
-|13|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|177.234.192.187|6969|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|6|203.150.128.212|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|11|103.67.163.149|6811|Vietnam|Qui Nhon|Thoi MMO Company Limited|
+|12|103.116.52.63|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
+|13|103.116.52.43|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
+|14|52.172.217.51|80|India|Pune|Microsoft Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|103.67.163.220|6811|Vietnam|Qui Nhon|Thoi MMO Company Limited|
+|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
