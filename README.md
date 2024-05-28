@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|45.224.22.63|999|Ecuador|San Miguel|Ufinet Panama S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
