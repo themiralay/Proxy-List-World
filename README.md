@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|4|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|103.190.170.134|3127|Indonesia|Sleman|PT Ring Media Nusantara|
 |15|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|20|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
 
 
 
