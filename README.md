@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|5|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|13|190.102.149.77|999|Peru|San Francisco De Borja|Optical Technologies S.A.C.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2177|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.115.69.118|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|13|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.127|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|18|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
 
 
 
