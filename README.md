@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|160.248.1.119|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
+|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 
 
 
