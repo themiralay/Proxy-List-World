@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|4|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
 
 
 
