@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|72.10.160.93|4047|Canada|Montreal|GloboTech Communications|
+|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|15|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
