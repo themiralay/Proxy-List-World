@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7285** proxies at the latest update. Usable proxies are below.
+> Scraper found **7284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|146|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|804|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|14|62.183.96.194|8080|Russia|Maykop|Southen Telecommunication Maintainer|
-|15|72.10.160.172|32697|Canada|Montreal|GloboTech Communications|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|72.10.160.172|32697|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
