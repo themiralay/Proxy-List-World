@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
-|6|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|6|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
 |9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
-|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|10|200.125.170.21|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|11|103.130.106.129|83|India|Kolkata|Opticom Networks Private Limited|
+|12|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|19|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
