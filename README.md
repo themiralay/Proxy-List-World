@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7426** proxies at the latest update. Usable proxies are below.
+> Scraper found **7455** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|691|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|6|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5655|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|17|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|18|103.116.52.63|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
-|19|82.157.169.124|80|China|Beijing|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.116.52.43|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.8.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|45.58.52.81|80|United States|Dallas|HostUS|
+|13|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.90|28723|Canada|Montreal|GloboTech Communications|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|67.43.228.251|4139|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|67.43.227.226|17821|Canada|Montreal|GloboTech Communications|
 
 
 
