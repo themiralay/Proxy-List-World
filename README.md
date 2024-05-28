@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|103.147.246.131|8080|Indonesia|Tangerang|PLBNET|
-|5|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
-|6|110.78.146.249|8080|Thailand|Ko Samui|CAT-BB|
-|7|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|14|14.140.128.10|80|India|Pune|Tata Communications Limited|
-|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
+|6|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|17|209.15.113.250|80|Thailand|Vadhana|catCloud|
 |18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
 
 
 
