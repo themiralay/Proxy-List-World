@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.253.88.242|999|United States|Miami|Cogent Communications|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|148.135.73.147|8888|United States|Los Angeles|Multacom Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|67.43.227.227|23305|Canada|Montreal|GloboTech Communications|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|15|72.10.160.173|32211|Canada|Montreal|GloboTech Communications|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|67.43.228.253|7859|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|72.10.164.178|29579|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|7859|Canada|Montreal|GloboTech Communications|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|67.43.227.227|23155|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|28761|Canada|Montreal|GloboTech Communications|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
