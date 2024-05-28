@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|209.15.113.71|80|Thailand|Vadhana|catCloud|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|11|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.129.178.138|8000|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.148.104.127|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|15|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|45.188.167.93|999|Mexico|Ixtlan del Rio|Velocom SA De CV|
 |18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|20|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|181.119.67.130|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
