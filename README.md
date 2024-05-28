@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|103.181.168.213|8080|India|Madurai|Mrkr Communications Private Limited|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|6|38.156.72.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|16|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|17|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|20|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|103.88.239.197|84|India|Hyderabad|Mana Communications|
+|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
