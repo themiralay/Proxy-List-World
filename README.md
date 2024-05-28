@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
-|7|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.65.137.218|999|Colombia|Tibú|Telecomunicaciones Del Catatumbo S.A.S|
-|12|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|13|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.20|26857|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|45.236.107.86|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
+|15|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|17|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
+|18|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.137.160.186|8090|Bangladesh|Dhaka|Top Network|
 
 
 
