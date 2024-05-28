@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|7|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|12|186.148.183.241|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
-|13|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|19|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
-|20|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|15|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|20|181.176.69.189|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
 
 
 
