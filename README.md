@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.181.148.129|8080|India|Chennai|JR COMMUNICATIONS|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|67.43.228.253|5951|Canada|Montreal|GloboTech Communications|
-|11|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|194.163.165.195|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|27.111.74.118|3127|India|Bengaluru|RailTel Corporation|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|67.43.228.253|5951|Canada|Montreal|GloboTech Communications|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|194.163.165.195|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.164.178|7023|Canada|Montreal|GloboTech Communications|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
