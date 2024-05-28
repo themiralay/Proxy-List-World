@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.150.128.212|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|6|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|17|72.10.160.94|30663|Canada|Montreal|GloboTech Communications|
-|18|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|125.162.70.81|8080|Indonesia|Bengkalis|PT. TELKOM INDONESIA|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|38.10.90.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.94|12777|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|25463|Canada|Montreal|GloboTech Communications|
+|20|103.106.219.115|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
 
 
 
