@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|160.248.7.129|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|8|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|9|103.195.252.161|82|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|10|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|12|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.236.20|31711|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|24329|Canada|Montreal|GloboTech Communications|
-|16|197.98.201.13|30001|South Africa|Johannesburg|Dimension Data|
-|17|197.98.201.13|30001|South Africa|Johannesburg|Dimension Data|
-|18|67.43.228.253|20339|Canada|Montreal|GloboTech Communications|
-|19|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|20|200.69.159.177|8080|Argentina|La Plata|Citarella S.A.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|67.43.227.227|31179|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|197.98.201.100|9400|South Africa|Johannesburg|Dimension Data|
+|13|197.98.201.100|9400|South Africa|Johannesburg|Dimension Data|
+|14|67.43.227.228|9763|Canada|Montreal|GloboTech Communications|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|197.98.201.100|9400|South Africa|Johannesburg|Dimension Data|
+|20|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
 
 
 
