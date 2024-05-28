@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|118.99.122.228|8080|Indonesia|Surabaya|BIZNET|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.227.227|19755|Canada|Montreal|GloboTech Communications|
+|1|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.56.205.84|8080|Indonesia|Cirebon|Argon Data Communication|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|10|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|13|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
+|17|72.10.160.171|16531|Canada|Montreal|GloboTech Communications|
+|18|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|19|103.166.227.25|3125|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
