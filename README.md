@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|16|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
 |17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 
 
 
