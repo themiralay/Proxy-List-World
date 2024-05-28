@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|9|72.10.160.171|14127|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|14|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.160.170|11195|Canada|Montreal|GloboTech Communications|
-|16|39.129.73.6|443|China|Kunming|China Mobile|
-|17|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
+|8|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|38.51.243.201|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|10|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|67.43.236.20|1077|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.152.101.109|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|17|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
 |18|72.10.164.178|16041|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|20|181.78.94.188|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
