@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|13|200.106.184.21|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|14|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|15|64.157.16.43|8080|United States|Francesville|Level 3|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.92.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|16|190.90.233.33|8080|Colombia|Bogotá|InterNexa Global Network|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|19|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|20|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
 
 
 
