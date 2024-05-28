@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.217.235.96|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|3|61.7.191.156|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
 |4|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|6|103.172.70.27|1111|Indonesia|Purwakarta|AZNET|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|209.15.113.71|80|Thailand|Vadhana|catCloud|
-|16|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|188.132.221.81|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|67.43.227.227|32773|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2895|Canada|Montreal|GloboTech Communications|
 
 
 
