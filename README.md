@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.15.113.250|80|Thailand|Vadhana|catCloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|47.237.3.220|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.236.20|9237|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|67.43.227.227|19003|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7037|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7037|Canada|Montreal|GloboTech Communications|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|67.43.227.227|19003|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9237|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7037|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19003|Canada|Montreal|GloboTech Communications|
+|11|47.237.3.220|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.164.178|31501|Canada|Montreal|GloboTech Communications|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|16|72.10.160.172|10617|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|3641|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|3641|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
