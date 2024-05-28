@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.53.154.5|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|7|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|8|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|45.188.167.93|999|Mexico|Ixtlan del Rio|Velocom SA De CV|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.165.155.73|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|72.10.160.92|7765|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9081|Canada|Montreal|GloboTech Communications|
-|20|209.15.113.250|80|Thailand|Vadhana|catCloud|
+|17|72.10.164.178|13389|Canada|Montreal|GloboTech Communications|
+|18|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|19|212.92.23.235|31288|Hungary|Budapest|Antenna Hungaria|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
