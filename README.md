@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|136.226.230.82|10439|India|New Delhi|ZSCALER, INC.|
-|10|67.43.236.20|15085|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.21|7073|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|10133|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|2425|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|67.43.227.226|21499|Canada|Montreal|GloboTech Communications|
-|16|5.196.111.29|20107|France|Gravelines|OVH SAS|
-|17|72.10.164.178|2101|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|31085|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|67.43.236.20|15085|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|14|72.10.160.91|16559|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|19183|Canada|Montreal|GloboTech Communications|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|103.149.194.222|32650|India|New Delhi|Kavya Internet Services Pvt Ltd|
 
 
 
