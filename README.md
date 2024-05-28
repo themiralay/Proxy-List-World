@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|72.10.164.178|2447|Canada|Montreal|GloboTech Communications|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
-|10|72.10.160.174|1871|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|2447|Canada|Montreal|GloboTech Communications|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.236.19|1125|Canada|Montreal|GloboTech Communications|
-|15|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|16|103.172.70.27|1111|Indonesia|Purwakarta|AZNET|
-|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.236.20|30415|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|11747|Canada|Montreal|GloboTech Communications|
-|20|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|67.43.227.227|3785|Canada|Montreal|GloboTech Communications|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|72.10.164.178|2447|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2447|Canada|Montreal|GloboTech Communications|
 
 
 
