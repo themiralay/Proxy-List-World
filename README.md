@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|5|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|11|72.10.164.178|19931|Canada|Montreal|GloboTech Communications|
-|12|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|13|72.10.160.173|29317|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|18|72.10.160.171|6815|Canada|Montreal|GloboTech Communications|
-|19|124.217.235.97|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|67.43.236.20|2033|Canada|Montreal|GloboTech Communications|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|72.10.160.171|6815|Canada|Montreal|GloboTech Communications|
+|8|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|9|72.10.160.90|12045|Canada|Montreal|GloboTech Communications|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|72.10.164.178|1179|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|12045|Canada|Montreal|GloboTech Communications|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|72.10.160.173|28087|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1179|Canada|Montreal|GloboTech Communications|
+|18|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|72.10.164.178|1179|Canada|Montreal|GloboTech Communications|
 
 
 
