@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|61.7.191.156|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|7|136.239.176.66|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|8|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|11|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|20|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|14|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|18|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|19|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|20|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
 
 
 
