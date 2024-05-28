@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|11|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|67.43.228.253|2953|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|4309|Canada|Montreal|GloboTech Communications|
-|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|20|72.10.164.178|23381|Canada|Montreal|GloboTech Communications|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|72.10.164.178|23381|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.227|7327|Canada|Montreal|GloboTech Communications|
+|17|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|20|67.43.228.253|9215|Canada|Montreal|GloboTech Communications|
 
 
 
