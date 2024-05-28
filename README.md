@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|161.34.38.30|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|11|103.164.112.123|10001|Indonesia|Jakarta Pusat|SOLUSINET|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|17|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|18|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
