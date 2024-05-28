@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|27381|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
-|16|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|17|72.10.160.172|28319|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|4523|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18297|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|8061|Canada|Montreal|GloboTech Communications|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|72.10.164.178|8061|Canada|Montreal|GloboTech Communications|
+|15|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|16|93.177.126.101|8088|Russia|Balashikha|G COM Ltd.|
+|17|72.10.164.178|8061|Canada|Montreal|GloboTech Communications|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|72.10.164.178|8061|Canada|Montreal|GloboTech Communications|
 
 
 
