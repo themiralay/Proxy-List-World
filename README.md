@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.182.55.50|8080|Indonesia|Gelora|PT Remala Abadi|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|14|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|16|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|19|93.85.79.219|3128|Belarus|Liozna|Republican Unitary Telecommunication Enterprise Beltelecom|
-|20|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|146.20.125.146|80|United States|Washington|Rackspace Hosting|
+|13|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 
 
 
