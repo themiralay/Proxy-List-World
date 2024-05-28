@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.234.159.5|8080|India|Bengaluru|MWPL|
-|4|141.148.129.241|3128|United States|Phoenix|Oracle Corporation|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|18|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|19|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|45.61.163.2|443|United States|Los Angeles|FranTech Solutions|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|34.87.1.56|55443|Singapore|Singapore|Google LLC|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
