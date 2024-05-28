@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|4|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|5|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|58.186.130.35|4000|Vietnam|Hanoi|FPT Telecom Company|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
-|15|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
-|16|144.126.238.185|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|160.248.1.119|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|220.76.248.171|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.119.126.97|8080|Nigeria|Abuja|Dotmac Technologies Limited|
+|6|202.154.19.7|8080|Indonesia|Lamongan|DIGITNET|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|160.248.1.119|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|11|185.200.37.100|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|45.61.163.2|80|United States|Los Angeles|FranTech Solutions|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
