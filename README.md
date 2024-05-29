@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|102.66.222.137|8080|South Africa|Cape Town|HERO TELECOMS (PTY) LTD|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|170.79.36.60|8081|Peru|El Cardo|Telefonica del Peru S.A.A.|
 
 
 
