@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|91.229.67.77|8083|Ukraine|Kyiv|INFOAURA-MNT|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|171.254.107.169|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|20|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|15|36.93.61.193|65432|Indonesia|Ciputat|Telekomunikasi Indonesia|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
