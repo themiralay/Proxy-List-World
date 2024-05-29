@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
+|1|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
-|15|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
+|16|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|179.125.51.54|27234|Brazil|Rio de Janeiro|Via Link Telecomunicacoes|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 
 
 
