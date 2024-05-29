@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|3|202.57.2.19|8080|Indonesia|Pademangan Timur|Primanet - ISP|
-|4|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.243.161.210|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|122.3.45.189|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
-|9|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|10|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|12|110.39.42.211|80|Pakistan|Karachi|Wateen Telecom Limited|
-|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|24.176.53.183|8080|United States|Portage|Charter Communications|
-|19|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|34.154.161.152|80|Italy|Milan|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|138.117.84.203|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|14|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|67.43.227.227|21717|Canada|Montreal|GloboTech Communications|
 
 
 
