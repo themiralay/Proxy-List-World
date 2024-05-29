@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5335** proxies at the latest update. Usable proxies are below.
+> Scraper found **5307** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|158|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|159|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|284|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3126|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.35.14.75|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
-|10|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|14|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|19|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|20|67.43.236.21|2957|Canada|Montreal|GloboTech Communications|
+|2|134.35.14.75|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|103.87.171.1|32650|India|Jaipur|Tejays|
+|5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|12|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
+|13|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.227.229|27143|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|4389|Canada|Montreal|GloboTech Communications|
+|17|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|18|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
 
 
 
