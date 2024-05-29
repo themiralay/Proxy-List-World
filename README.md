@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|49.48.118.68|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|12|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|85.214.158.184|18123|Germany|Berlin|Strato AG|
 |13|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |19|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|117.50.55.159|3128|China|Beijing|UCLOUD|
 
 
 
