@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|50.31.187.20|3128|United States|Chicago|Server Central Network|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|20|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
