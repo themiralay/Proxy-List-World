@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|4|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|67.43.236.18|21471|Canada|Montreal|GloboTech Communications|
-|13|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |15|72.10.160.94|31991|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|20161|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|19|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|50.31.187.20|3128|United States|Chicago|Server Central Network|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
