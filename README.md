@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|103.156.15.35|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.90|32809|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|22915|Canada|Montreal|GloboTech Communications|
-|20|85.94.24.29|1488|Russia|Noginsk|PJSC Rostelecom|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|7|103.169.254.39|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|8|72.10.164.178|16487|Canada|Montreal|GloboTech Communications|
+|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|11|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|12|72.10.164.178|16487|Canada|Montreal|GloboTech Communications|
+|13|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|14|72.10.164.178|16487|Canada|Montreal|GloboTech Communications|
+|15|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.171|27101|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|67.43.227.226|22439|Canada|Montreal|GloboTech Communications|
+|20|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
 
 
 
