@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|45.191.47.1|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
-|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|45.65.227.161|999|Argentina|Avellaneda|Solution LAN S.A|
-|15|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
-|17|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
-|18|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|20|72.10.160.170|13347|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|14|103.156.14.18|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
+|15|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|18|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
