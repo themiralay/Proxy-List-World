@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|101.47.4.29|6066|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
+|1|185.82.98.73|9093|Lebanon|Tripoli|Protected|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|5|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
-|12|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|15|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|72.10.164.178|1771|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|2165|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1771|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|205.196.184.69|50704|United States|Houston|Phonoscope|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|123.114.43.147|8800|China|Beijing|China Unicom Beijing Province Network|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|168.196.246.110|8080|Argentina|Moreno|Linkear SRL|
+|19|66.186.199.16|8080|Albania|Bërzhitë|Vodafone Albania Sh.A.|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
