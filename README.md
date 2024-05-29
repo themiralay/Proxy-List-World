@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|11|38.7.106.66|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.227.227|12783|Canada|Montreal|GloboTech Communications|
-|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|15|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.228.253|25853|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31743|Canada|Montreal|GloboTech Communications|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|103.137.45.65|23815|India|Pūrna|Wsnl Broadband Private Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|17|67.43.228.251|18663|Canada|Montreal|GloboTech Communications|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
