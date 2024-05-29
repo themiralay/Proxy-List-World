@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|10|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|15|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
-|16|72.10.164.178|28383|Canada|Montreal|GloboTech Communications|
-|17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|28383|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28383|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|23501|Canada|Montreal|GloboTech Communications|
+|5|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|171.240.145.82|4000|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|163.47.210.74|8080|India|Pune|Microsense Pvt. Limited|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|14|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.156.235.113|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|7781|Canada|Montreal|GloboTech Communications|
+|20|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
