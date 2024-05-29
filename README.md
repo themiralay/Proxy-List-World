@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|7|35.171.133.92|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|72.10.160.92|5775|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|8539|Canada|Montreal|GloboTech Communications|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|18|103.105.76.216|8080|Indonesia|Surabaya|GARUDA|
-|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|72.10.160.170|32947|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|7|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|35.171.133.92|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|11|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|14|72.10.164.178|20289|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|20289|Canada|Montreal|GloboTech Communications|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|72.10.160.90|13001|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|24981|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
 
 
 
