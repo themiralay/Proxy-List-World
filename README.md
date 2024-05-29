@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|4|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|171.254.107.169|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
-|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|188.132.222.68|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.231.249.242|3128|Vietnam|Tây Hồ|MTD|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|80.78.65.230|8080|Albania|Tirana|ABCom|
+|19|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
