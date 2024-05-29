@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|50.31.187.20|3128|United States|Chicago|Server Central Network|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|9|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|12|103.243.177.129|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|13|50.31.187.20|3128|United States|Chicago|Server Central Network|
+|11|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|154.83.29.70|3030|Venezuela|Barinas|internautas system|
-|16|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|18|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|19|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 
 
 
