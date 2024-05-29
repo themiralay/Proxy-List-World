@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|8|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|72.10.160.90|26021|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|8179|Canada|Montreal|GloboTech Communications|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|13|67.43.227.227|7395|Canada|Montreal|GloboTech Communications|
-|14|117.68.38.181|22001|China|Rongcheng|China Telecom|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.227.227|7395|Canada|Montreal|GloboTech Communications|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|67.43.227.228|10801|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7395|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|28521|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|144.126.238.166|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.48.68.36|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|18|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|20|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
 
 
 
