@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|50.31.187.20|3128|United States|Chicago|Server Central Network|
+|5|103.153.35.87|3127|Indonesia|Subang|JMExpress|
+|6|103.156.248.50|8181|Indonesia|Medan|Trans Media Telekomunikasi|
+|7|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|14|67.43.236.20|13465|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|6247|Canada|Montreal|GloboTech Communications|
-|16|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|18|72.10.160.170|7069|Canada|Montreal|GloboTech Communications|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|10|103.191.115.238|82|India|Bānka|Xpress Fiber Private Limited|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|16|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|67.43.236.20|6019|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
 
 
 
