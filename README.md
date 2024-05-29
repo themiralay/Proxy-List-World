@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|8|139.59.224.111|8888|Singapore|Singapore|DIGITALOCEAN|
-|9|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|18|103.93.94.121|80|India|Ghaziabad|Exa Hosting Private Limited|
-|19|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|10|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|12|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|13|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|16|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|17|72.10.164.178|19539|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|67.43.227.228|31361|Canada|Montreal|GloboTech Communications|
 
 
 
