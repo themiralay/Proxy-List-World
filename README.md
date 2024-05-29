@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|72.10.160.90|4285|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |12|72.10.160.90|4285|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|24001|Canada|Montreal|GloboTech Communications|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|72.10.164.178|24001|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|9193|Canada|Montreal|GloboTech Communications|
-|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|18|72.10.160.90|4285|Canada|Montreal|GloboTech Communications|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|67.43.228.253|19019|Canada|Montreal|GloboTech Communications|
+|13|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
+|14|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|15|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
+|16|171.228.223.84|4001|Vietnam|Lao Cai|Viettel Corporation|
+|17|72.10.164.178|1087|Canada|Montreal|GloboTech Communications|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|20|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
 
 
 
