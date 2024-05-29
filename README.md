@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|188.125.167.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |16|186.22.0.28|3128|Argentina|Ramos Mejia|Telecentro S.A.|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|20|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|12823|Canada|Montreal|GloboTech Communications|
 
 
 
