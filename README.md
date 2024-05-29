@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|149.86.140.141|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|13|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|185.191.236.162|8080|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|67.43.236.20|12421|Canada|Montreal|GloboTech Communications|
-|19|153.37.254.29|3128|China|Pudong|China Unicom Jiangsu Province Network|
-|20|190.110.104.77|999|Chile|Port Montt|Silica Networks Argentina S.A.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|7|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|8|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|177.229.210.66|8080|Mexico|Cuetzalan|Mega Cable, S.A. de C.V.|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|38.156.191.230|999|Mexico|Jesus Maria|Digy Networks S.A De C.V.|
 
 
 
