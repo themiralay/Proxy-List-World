@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|4|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
-|7|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|8|117.185.69.2|9001|China|Shanghai|China Mobile communications corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|171.227.66.173|4000|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
-|12|67.43.228.251|6871|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
-|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|116.104.130.67|5000|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.227.226|27871|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7805|Canada|Montreal|GloboTech Communications|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|152.89.244.29|8000|Germany|Frankfurt am Main|aurologic GmbH|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|67.43.227.227|23451|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|10063|Canada|Montreal|GloboTech Communications|
+|11|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|13|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|16|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|45.234.61.173|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|18|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|19|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|20|116.104.130.67|5000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
