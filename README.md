@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|19|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|220.85.65.18|808|South Korea|Gwacheon|Korea Telecom|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|103.226.251.217|3128|Vietnam|Thanh Xuan|GDATA|
+|9|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|16|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
