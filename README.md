@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|103.24.213.195|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|8|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|13|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|72.10.160.171|19837|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|17|171.227.66.173|4000|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|20|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.24.213.195|8080|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
 
 
 
