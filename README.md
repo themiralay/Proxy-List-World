@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.170.91.53|443|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
-|14|123.200.18.155|80|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|15|110.78.186.229|8080|Thailand|Chon Buri|CAT-BB|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|14|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|50.31.187.20|3128|United States|Chicago|Server Central Network|
+|18|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|19|171.240.179.134|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 
 
 
