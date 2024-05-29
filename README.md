@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5455** proxies at the latest update. Usable proxies are below.
+> Scraper found **5335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|160|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|891|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|159|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|772|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3171|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.105.125.6|84|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
-|9|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|122.185.183.194|8080|India|Bhubaneswar|Bharti Airtel Limited|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.160.174|1627|Canada|Montreal|GloboTech Communications|
-|16|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
-|17|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|103.88.239.179|84|India|Hyderabad|Mana Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|4|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|202.165.40.138|80|Indonesia|Jakarta|Circlecom|
+|7|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
+|8|117.185.69.2|9001|China|Shanghai|China Mobile communications corporation|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|171.227.66.173|4000|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
+|12|67.43.228.251|6871|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
+|14|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|116.104.130.67|5000|Vietnam|Hanoi|Viettel Corporation|
+|17|67.43.227.226|27871|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7805|Canada|Montreal|GloboTech Communications|
+|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|20|152.89.244.29|8000|Germany|Frankfurt am Main|aurologic GmbH|
 
 
 
