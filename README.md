@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|4|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|5|103.87.171.1|32650|India|Jaipur|Tejays|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|186.125.218.188|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.20|10567|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.35.14.75|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
+|10|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
+|14|45.250.215.8|8080|India|Delhi|Geocity Network Solutions PVT LTD|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|19|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|20|67.43.236.21|2957|Canada|Montreal|GloboTech Communications|
 
 
 
