@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|103.226.251.217|3128|Vietnam|Thanh Xuan|GDATA|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|13|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|7|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|10|103.226.251.217|3128|Vietnam|Thanh Xuan|GDATA|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|13|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|150.95.89.162|10090|Japan|Chiyoda|GMO-Z.COM PTE. LTD.|
+|16|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
