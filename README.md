@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|8|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
 |9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|11|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|12|207.244.254.27|3131|United States|St Louis|Nubes, LLC|
-|13|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|38.10.90.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|16|103.172.71.15|8080|Indonesia|Karawang|AZNET|
-|17|72.10.160.171|13573|Canada|Montreal|GloboTech Communications|
-|18|157.159.10.86|80|France|Ris-Orangis|IT-EVRY-8/22|
-|19|67.43.227.227|9855|Canada|Montreal|GloboTech Communications|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|72.10.160.171|13573|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|19|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
