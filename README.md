@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |12|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|190.110.104.77|999|Chile|Port Montt|Silica Networks Argentina S.A.|
+|19|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|20|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
 
 
 
