@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|103.190.171.137|8080|Indonesia|Jakarta|WMS|
-|9|187.73.188.35|8080|Brazil|Campos do Jordao|Gwg telco telecomunicaçoes eireli|
-|10|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|72.10.164.178|3477|Canada|Montreal|GloboTech Communications|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|3477|Canada|Montreal|GloboTech Communications|
-|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|16|72.10.160.91|15385|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3477|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|18059|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|3477|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|117.185.69.2|9001|China|Shanghai|China Mobile communications corporation|
 
 
 
