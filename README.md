@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|10|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|11|67.43.228.250|2009|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.254|20267|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|9017|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|17907|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3637|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3637|Canada|Montreal|GloboTech Communications|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.160.172|27753|Canada|Montreal|GloboTech Communications|
+|6|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|103.253.146.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|11|72.10.164.178|20479|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|41.254.52.105|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|15|67.43.227.227|21427|Canada|Montreal|GloboTech Communications|
+|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|19|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
