@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
-|8|144.126.238.55|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|9|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|10|38.51.243.145|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|11|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.227.227|13381|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|10|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|11|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|67.43.236.21|5343|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|19399|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|8779|Canada|Montreal|GloboTech Communications|
+|20|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
 
 
 
