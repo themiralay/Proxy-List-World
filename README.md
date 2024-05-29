@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.231.170.137|999|Mexico|Puerto Juárez|GigNet, S.A. de C.V.|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
 |14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.236.20|6859|Canada|Montreal|GloboTech Communications|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|72.10.164.178|32137|Canada|Montreal|GloboTech Communications|
+|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|16|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|17|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
+|18|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|19|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|20|185.191.236.162|8080|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 
 
 
