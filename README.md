@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|34.165.22.141|3128|Israel|Tel Aviv|Google LLC|
-|10|51.178.43.147|3128|France|Gravelines|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|62.103.66.18|3128|Greece|Athens|OTEnet|
+|11|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |16|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|20|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
