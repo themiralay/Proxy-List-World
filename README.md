@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|46.105.254.122|4011|France|Roubaix|OVH SAS|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|85.214.158.184|18123|Germany|Berlin|Strato AG|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|17|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|46.105.254.65|4011|France|Roubaix|OVH SAS|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
 
 
 
