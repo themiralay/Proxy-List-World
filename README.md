@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|218.147.95.242|3128|South Korea|Suwon|Korea Telecom|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|16|72.10.160.92|6505|Canada|Montreal|GloboTech Communications|
-|17|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|18|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|19|72.10.164.178|25657|Canada|Montreal|GloboTech Communications|
-|20|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
+|11|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|182.253.154.11|8080|Indonesia|Jakarta|BIZNET|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|16|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|19|72.10.164.178|15309|Canada|Montreal|GloboTech Communications|
+|20|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
 
 
 
