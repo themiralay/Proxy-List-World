@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|97.76.251.138|8080|United States|Seminole|Spectrum|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|16|72.10.164.178|2399|Canada|Montreal|GloboTech Communications|
+|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|11|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|12|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|72.10.164.178|14979|Canada|Montreal|GloboTech Communications|
 |17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.164.178|2399|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
