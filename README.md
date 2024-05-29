@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|9|187.188.101.205|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|13|31.7.70.215|3128|Iran|Tehran|Asiatech Data Transmission company|
-|14|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|15|67.43.228.251|8211|Canada|Montreal|GloboTech Communications|
-|16|38.60.195.244|3128|Malaysia|Kuala Lumpur|Kaopu Cloud HK Limited|
-|17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|18|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
-|19|221.224.25.37|3128|China|Kunshan|CHINANET jiangsu province network|
-|20|103.231.249.242|3128|Vietnam|Tây Hồ|MTD|
+|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|207.230.8.68|999|Colombia|Popayán|Cogent Communications|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|16|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|17|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
 
 
 
