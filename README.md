@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|72.10.164.178|19885|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|16437|Canada|Montreal|GloboTech Communications|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|7|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |10|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|14|67.43.236.20|33175|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|21827|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19885|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|3017|Canada|Montreal|GloboTech Communications|
-|18|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|19|67.43.228.253|32927|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|22651|Canada|Montreal|GloboTech Communications|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|13|72.10.164.178|19885|Canada|Montreal|GloboTech Communications|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|16|67.43.228.253|32927|Canada|Montreal|GloboTech Communications|
+|17|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
