@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.94|3277|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|23299|Canada|Montreal|GloboTech Communications|
+|14|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|15|46.105.254.65|4011|France|Roubaix|OVH SAS|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|72.10.164.178|17555|Canada|Montreal|GloboTech Communications|
-|18|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
+|18|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|19|67.43.236.18|28525|Canada|Montreal|GloboTech Communications|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
