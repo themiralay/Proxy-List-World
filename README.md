@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|161.34.36.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
+|19|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
