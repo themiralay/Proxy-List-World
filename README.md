@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |14|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|72.10.164.178|23405|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.90|23463|Canada|Montreal|GloboTech Communications|
-|18|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
-|19|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|19|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
 
 
 
