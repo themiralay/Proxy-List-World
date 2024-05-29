@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|134.35.14.75|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
-|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|14|72.10.160.90|21605|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|11|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|12|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|13|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|31875|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31875|Canada|Montreal|GloboTech Communications|
-|18|52.172.217.51|80|India|Pune|Microsoft Corporation|
-|19|67.43.227.227|17419|Canada|Montreal|GloboTech Communications|
-|20|122.50.6.186|80|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|45.173.231.221|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 
 
 
