@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.109.29.30|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|11|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|15|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|17|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|18|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|194.180.176.109|3128|United States|Los Angeles|Contabo GmbH|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|20|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 
 
 
