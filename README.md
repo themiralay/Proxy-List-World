@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|189.201.191.75|999|Mexico|Jesus Maria|IP Matrix, S.A. de C.V.|
-|18|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|103.19.59.102|1983|Indonesia|Madiun|BITSNET|
+|11|103.117.194.69|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|200.39.120.123|999|Mexico|Las Norias de Ojocaliente|Marcatel Com, S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.56.206.93|8181|Indonesia|Medan|Argon Data Communication|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
