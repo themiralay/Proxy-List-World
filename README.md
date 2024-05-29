@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|134.35.14.75|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|14.192.138.127|8082|Pakistan|Lahore|Fariya Networks 138|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.38.194|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.207.201.40|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|153.35.46.50|7789|China|Suzhou|China Unicom Jiangsu Province Network|
-|11|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|12|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|67.43.227.227|23003|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
-|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|67.43.227.227|23003|Canada|Montreal|GloboTech Communications|
-|18|18.188.190.118|3128|United States|Dublin|Amazon.com, Inc.|
-|19|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
+|11|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|16|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|38.51.235.212|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
 |20|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
 
 
