@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|159.89.204.32|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|159.89.204.32|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
 |7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.156.14.18|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|103.156.14.18|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
-|16|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|9153|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|103.87.169.176|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.48.126.38|36413|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
