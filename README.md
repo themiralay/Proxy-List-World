@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|80.78.22.36|3128|Sweden|Malmo|ab stract|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
+|9|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.227.228|26565|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12813|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|5829|Canada|Montreal|GloboTech Communications|
-|18|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
-|19|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|20|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|14|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|20|203.190.44.201|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
