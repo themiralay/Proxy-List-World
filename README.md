@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
-|4|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
-|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|154.127.240.124|64003|Angola|Huambo|HMB-FTTH|
-|12|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|13|5.196.111.29|20107|France|Gravelines|OVH SAS|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
-|16|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|139.198.118.68|3128|China|Beijing|Yunify Technologies Inc|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|154.127.240.116|64003|Angola|Huambo|HMB-FTTH|
-|20|154.127.240.122|64003|Angola|Huambo|HMB-FTTH|
+|10|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|11|119.196.143.79|1024|South Korea|Yeonsu-gu|Korea Telecom|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|41.254.52.105|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|5.196.111.29|20107|France|Gravelines|OVH SAS|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
