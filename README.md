@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|72.10.164.178|23001|Canada|Montreal|GloboTech Communications|
+|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.171|8225|Canada|Montreal|GloboTech Communications|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
