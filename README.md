@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|116.58.239.32|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|103.26.110.74|84|India|Mayiladuthurai|Niss Networks|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|46.99.143.53|1339|Albania|Tirana|IPKO Telecommunications LLC|
 |20|1.10.234.59|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
