@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|222.253.48.16|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|34.154.161.152|80|Italy|Milan|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
-|14|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|9|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|11|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|148.135.6.246|2233|United States|Los Angeles|Multacom Corporation|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|85.214.158.184|18123|Germany|Berlin|Strato AG|
 
 
 
