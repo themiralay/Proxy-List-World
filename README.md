@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
-|6|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|67.43.227.227|4427|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|23397|Canada|Montreal|GloboTech Communications|
-|14|5.196.111.29|20157|France|Gravelines|OVH SAS|
-|15|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|17|67.43.228.253|28083|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|28083|Canada|Montreal|GloboTech Communications|
-|19|114.106.147.222|8089|China|Rongcheng|Chinanet|
-|20|67.43.227.229|32227|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|144.126.225.19|8081|United Kingdom|Slough|DigitalOcean, LLC|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|72.10.164.178|12147|Canada|Montreal|GloboTech Communications|
+|10|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|11|72.10.164.178|12147|Canada|Montreal|GloboTech Communications|
+|12|190.72.102.42|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|72.10.164.178|12147|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|12147|Canada|Montreal|GloboTech Communications|
+|16|181.112.164.219|999|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|72.10.164.178|12147|Canada|Montreal|GloboTech Communications|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|213.207.43.143|443|Albania|Tirana|Tibo Communications|
 
 
 
