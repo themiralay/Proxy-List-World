@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|38.7.18.147|999|Mexico|Coeneo de la Libertad|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|103.172.120.96|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
+|12|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|13|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|67.43.227.227|10975|Canada|Montreal|GloboTech Communications|
 
 
 
