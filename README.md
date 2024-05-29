@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|152.32.68.171|65535|Philippines|Taguig|Converge ICT Solution Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|31115|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|3385|Canada|Montreal|GloboTech Communications|
-|10|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|11|72.10.160.90|13863|Canada|Montreal|GloboTech Communications|
-|12|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|13|72.10.164.178|31115|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|20855|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|4|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|206.62.64.34|8080|Brazil|Apucarana|AGIS|
+|8|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|186.125.218.188|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|12|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|13|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|14|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|31115|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31115|Canada|Montreal|GloboTech Communications|
-|18|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.236.20|22683|Canada|Montreal|GloboTech Communications|
-|20|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|16|72.10.164.178|5985|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.94.96.174|999|Mexico|Benito Juarez|Alestra, S. de R.L. de C.V.|
+|19|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|20|111.175.54.205|3333|China|Wuhan|Chinanet|
 
 
 
