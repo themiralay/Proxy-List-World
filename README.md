@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.89.204.32|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|14.162.162.104|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|13|167.86.96.187|3128|Germany|Nuremberg|Contabo GmbH|
-|14|143.47.39.227|11111|Spain|Madrid|Oracle Corporation|
-|15|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|16|45.4.201.17|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|103.211.107.62|8080|Indonesia|Metro|PT Atmega Telecomindo Nusantara|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|123.27.245.8|32650|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
