@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.236.20|13887|Canada|Montreal|GloboTech Communications|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|67.43.228.253|2313|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|8827|Canada|Montreal|GloboTech Communications|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.160.170|31393|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|8827|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|19325|Canada|Montreal|GloboTech Communications|
-|16|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.228.254|22197|Canada|Montreal|GloboTech Communications|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|52.117.160.219|8081|United States|Dallas|SoftLayer|
+|5|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|12|72.10.164.178|7643|Canada|Montreal|GloboTech Communications|
+|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|14|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|8.243.169.14|8080|Colombia|Bogotá|Level 3 Communications, Inc.|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
