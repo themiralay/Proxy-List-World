@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.237.86.134|6811|Vietnam|Thu GJuc|JETCLOUD TECHNOLOGY CO., LTD|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|14.102.58.186|8080|India|Mathura|WORLDPHONE|
-|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|147.139.140.74|443|Indonesia|Jakarta|Alibaba.com LLC|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|72.10.160.90|2963|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.236.20|2039|Canada|Montreal|GloboTech Communications|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|67.43.236.20|2039|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31017|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31017|Canada|Montreal|GloboTech Communications|
-|20|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|15|67.43.236.20|1221|Canada|Montreal|GloboTech Communications|
+|16|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|181.10.123.154|999|Argentina|El Carril|Telecom Argentina S.A.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|20|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
 
 
 
