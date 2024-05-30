@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|23.95.57.69|3128|United States|Los Angeles|HostPapa|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|23.95.57.69|3128|United States|Los Angeles|HostPapa|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|15|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
