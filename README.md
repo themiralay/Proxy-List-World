@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|7|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|11|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|12|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
+|13|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|181.78.22.109|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.227.227|22517|Canada|Montreal|GloboTech Communications|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
