@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
+|2|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|131.117.165.132|8080|Yemen|Ataq|Public Telecommunication Corporation|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.245.204.214|8080|Bangladesh|Savar Upazila|Next Online Ltd.|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|116.98.85.213|8000|Vietnam|Thanh Xuan|Viettel Corporation|
+|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|16|213.226.11.149|41878|Bulgaria|Plovdiv|Mobiltel EAD|
+|17|103.88.239.57|84|India|Hyderabad|Mana Communications|
+|18|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|19|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|20|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
 
 
 
