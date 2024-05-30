@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|8|181.48.155.78|8003|Colombia|Medellín|Telmex Colombia S.A.|
-|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
-|14|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.228.250|11771|Canada|Montreal|GloboTech Communications|
-|18|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
+|14|181.48.155.78|8003|Colombia|Medellín|Telmex Colombia S.A.|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|72.10.164.178|16455|Canada|Montreal|GloboTech Communications|
+|17|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|18|103.237.86.133|6811|Vietnam|Thu GJuc|JETCLOUD TECHNOLOGY CO., LTD|
+|19|67.43.236.18|4373|Canada|Montreal|GloboTech Communications|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
