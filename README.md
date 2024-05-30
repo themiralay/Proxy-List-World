@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|6|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|67.43.236.18|15997|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.90|30667|Canada|Montreal|GloboTech Communications|
-|15|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|16|72.10.160.94|2659|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29779|Canada|Montreal|GloboTech Communications|
-|18|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|19|72.10.160.90|30667|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|7|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|13|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|15|103.174.236.60|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
