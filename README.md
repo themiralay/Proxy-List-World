@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|4|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|5|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|14|200.108.190.110|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|15|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|16|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
+|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
