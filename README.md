@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|50.31.187.20|3128|United States|Chicago|Server Central Network|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|13|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|14|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|19|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|20|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|4|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|9|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|12|72.10.160.90|2913|Canada|Montreal|GloboTech Communications|
+|13|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|16|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|17|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
