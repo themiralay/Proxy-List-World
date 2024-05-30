@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|72.10.160.90|17085|Canada|Montreal|GloboTech Communications|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|167.86.96.187|3128|Germany|Nuremberg|Contabo GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
 |14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|72.10.164.178|11241|Canada|Montreal|GloboTech Communications|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|18|72.10.160.90|17085|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|72.10.164.178|11241|Canada|Montreal|GloboTech Communications|
+|15|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|16|67.43.228.253|3373|Canada|Montreal|GloboTech Communications|
+|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|18|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|72.10.164.178|20125|Canada|Montreal|GloboTech Communications|
+|20|50.31.187.20|3128|United States|Chicago|Server Central Network|
 
 
 
