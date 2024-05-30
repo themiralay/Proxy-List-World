@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|67.43.236.18|12723|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|16687|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|21879|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16687|Canada|Montreal|GloboTech Communications|
-|14|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|27.79.174.151|38200|Vietnam|Hanoi|Viettel Corporation|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|12|39.129.73.6|443|China|Kunming|China Mobile|
+|13|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|72.10.164.178|16687|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|16897|Canada|Montreal|GloboTech Communications|
+|19|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|20|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
 
 
 
