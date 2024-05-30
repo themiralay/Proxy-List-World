@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
-|7|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|67.43.236.20|3407|Canada|Montreal|GloboTech Communications|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.228|31865|Canada|Montreal|GloboTech Communications|
-|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|8475|Canada|Montreal|GloboTech Communications|
-|16|36.90.63.154|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|72.10.160.171|8475|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7983|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29329|Canada|Montreal|GloboTech Communications|
+|3|206.189.13.154|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|18|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
