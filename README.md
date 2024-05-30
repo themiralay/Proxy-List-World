@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|3|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|101.255.17.6|8033|Indonesia|Jakarta|PT Remala Abadi|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
-|8|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|23.95.57.69|3128|United States|Los Angeles|HostPapa|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|181.48.126.38|36413|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|5.196.111.29|20107|France|Gravelines|OVH SAS|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|103.155.198.105|8080|Indonesia|Sindangjati|PT Lintas Jaringan Nusantara|
-|17|5.196.111.29|20107|France|Gravelines|OVH SAS|
-|18|67.43.236.20|22633|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 
 
 
