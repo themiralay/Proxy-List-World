@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|50.236.203.15|8080|United States|Houston|Comcast Cable Communications, LLC|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
 |9|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.36.10.195|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|12|67.43.227.227|2503|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|2503|Canada|Montreal|GloboTech Communications|
-|14|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|15|72.10.160.90|21529|Canada|Montreal|GloboTech Communications|
-|16|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|67.43.236.20|29761|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|72.10.164.178|20235|Canada|Montreal|GloboTech Communications|
+|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|67.43.227.227|13243|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.227.227|13243|Canada|Montreal|GloboTech Communications|
 
 
 
