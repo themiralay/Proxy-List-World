@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|203.150.128.156|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
 |12|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|152.67.0.109|80|India|Mumbai|Oracle Corporation|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|19|104.238.222.54|3128|United States|Los Angeles|ReliableSite.Net LLC|
-|20|74.82.63.18|80|United States|San Jose|Hurricane Electric LLC|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|103.231.248.98|3128|Vietnam|Tây Hồ|MTD|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|72.10.164.178|30197|Canada|Montreal|GloboTech Communications|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
 
 
 
