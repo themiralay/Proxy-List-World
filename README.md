@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|10|67.43.228.253|24107|Canada|Montreal|GloboTech Communications|
-|11|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|11|39.129.73.6|443|China|Kunming|China Mobile|
+|12|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunica??o Ltda|
 |13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|72.10.160.94|30305|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|4891|Canada|Montreal|GloboTech Communications|
-|17|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|6351|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|1901|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|103.75.52.186|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|20|80.78.22.36|3128|Sweden|Malmo|ab stract|
 
 
 
