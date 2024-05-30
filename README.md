@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|103.160.150.251|8080|Indonesia|Samarinda|PT. LINTASMAYA MULTI MEDIA|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.227|32359|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|47.237.3.220|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|19|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
-|20|67.43.228.253|14147|Canada|Montreal|GloboTech Communications|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|67.43.227.227|15693|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
