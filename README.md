@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|2|103.166.8.238|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|38.156.236.162|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|10|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|11|189.22.142.29|8091|Brazil|São Paulo|Claro S.A|
-|12|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|103.125.16.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|19|128.199.251.182|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|179.1.192.58|999|Colombia|Neiva|InterNexa Global Network|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|103.53.185.8|8088|Indonesia|Makassar|BOSOWA|
+|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|103.234.28.50|8181|Indonesia|Blora|PT Agung Barokah Network|
+|17|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|18|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
