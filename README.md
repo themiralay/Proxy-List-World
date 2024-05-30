@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|10|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|11|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|15151|Canada|Montreal|GloboTech Communications|
-|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|158.101.98.148|3128|United States|Ashburn|Oracle Corporation|
+|9|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|20|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
