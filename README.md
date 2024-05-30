@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|160.248.9.200|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |12|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
 |13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.164.178|7339|Canada|Montreal|GloboTech Communications|
-|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|67.43.227.227|4689|Canada|Montreal|GloboTech Communications|
-|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|216.176.187.99|39837|United States|Lynnwood|Wowrack.com|
+|17|103.105.125.94|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
+|20|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
