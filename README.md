@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
-|6|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|96.8.115.134|3128|United States|Dallas|HostPapa|
-|13|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|67.43.228.250|1875|Canada|Montreal|GloboTech Communications|
-|16|96.8.115.134|3128|United States|Dallas|HostPapa|
-|17|67.43.236.20|12673|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|12557|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|2641|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|32341|Canada|Montreal|GloboTech Communications|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
