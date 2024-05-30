@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|11|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.227.227|11199|Canada|Montreal|GloboTech Communications|
-|14|93.170.123.5|3128|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
-|15|72.10.160.90|2407|Canada|Montreal|GloboTech Communications|
-|16|39.129.73.6|443|China|Kunming|China Mobile|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|72.10.164.178|14249|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|21915|Canada|Montreal|GloboTech Communications|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|10|181.78.8.215|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|117.5.44.123|38343|Vietnam|Hanoi|VIETTEL|
+|14|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|181.78.77.229|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|19|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
+|20|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
 
 
 
