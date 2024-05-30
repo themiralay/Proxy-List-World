@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.150.128.100|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|134.35.176.224|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|203.150.128.100|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|81.161.121.114|8080|Russia|Prokopyevsk|ELECTRON-SERVICE|
+|15|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|17|134.35.176.224|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
