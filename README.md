@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |12|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|14|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|15|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|103.26.108.118|84|India|Thoothukudi|Niss Networks|
-|20|23.95.57.69|3128|United States|Los Angeles|HostPapa|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|17|23.95.57.69|3128|United States|Los Angeles|HostPapa|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
 
 
 
