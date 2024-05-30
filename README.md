@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|11|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|12|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|67.43.236.20|7921|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8727|Canada|Montreal|GloboTech Communications|
-|17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|38.253.238.13|8085|Indonesia|Jakarta|Cogent Communications|
-|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.234.159.5|8080|India|Bengaluru|MWPL|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
