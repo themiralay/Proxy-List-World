@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.24.146.51|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|10|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
-|16|189.22.142.29|8091|Brazil|São Paulo|Claro S.A|
-|17|72.10.160.90|9649|Canada|Montreal|GloboTech Communications|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|31621|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|8771|Canada|Montreal|GloboTech Communications|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|14|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|15|154.127.240.117|64006|Angola|Huambo|HMB-FTTH|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
