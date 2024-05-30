@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|188.125.167.66|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|15|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |18|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|72.10.164.178|15989|Canada|Montreal|GloboTech Communications|
+|20|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 
 
 
