@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.237.86.14|6811|Vietnam|Thu GJuc|JETCLOUD TECHNOLOGY CO., LTD|
-|12|103.116.52.57|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
-|13|69.75.143.13|80|United States|Whittier|Spectrum|
-|14|103.234.159.5|8080|India|Bengaluru|MWPL|
-|15|4.240.97.249|3128|India|Pune|Microsoft Corporation|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|25433|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|72.10.160.90|24291|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|17213|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|4.240.97.249|3128|India|Pune|Microsoft Corporation|
+|19|67.43.227.228|17887|Canada|Montreal|GloboTech Communications|
+|20|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
 
 
 
