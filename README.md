@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
-|9|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|72.10.164.178|1327|Canada|Montreal|GloboTech Communications|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|67.43.236.20|27117|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1327|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|1327|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|25315|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|11|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
+|14|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |18|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
-|19|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|20|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|19|38.253.238.13|8085|Indonesia|Jakarta|Cogent Communications|
+|20|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
 
 
 
