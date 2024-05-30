@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.236.21|3973|Canada|Montreal|GloboTech Communications|
-|10|14.102.58.186|8080|India|Mathura|WORLDPHONE|
-|11|117.5.44.123|41117|Vietnam|Hanoi|VIETTEL|
-|12|72.10.164.178|29995|Canada|Montreal|GloboTech Communications|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|72.10.160.90|27667|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29995|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29995|Canada|Montreal|GloboTech Communications|
-|17|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|18|72.10.160.90|27667|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29995|Canada|Montreal|GloboTech Communications|
-|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
+|11|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|43.130.146.142|3128|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|134.209.139.1|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
 
 
 
