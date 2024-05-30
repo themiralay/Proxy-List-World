@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|72.10.164.178|15729|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|67.43.236.20|30497|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|15037|Canada|Montreal|GloboTech Communications|
-|14|171.6.74.105|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|15|72.10.164.178|15729|Canada|Montreal|GloboTech Communications|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunica??o Ltda|
-|20|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|36.91.45.12|51672|Indonesia|Karawang|PT. Telekomunikasi Indonesia|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
+|14|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|15|5.160.89.62|8080|Iran|Tehran|Respina|
+|16|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|18|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
