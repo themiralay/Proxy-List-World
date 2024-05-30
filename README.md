@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|72.10.160.91|27073|Canada|Montreal|GloboTech Communications|
-|14|190.110.104.77|999|Chile|Port Montt|Silica Networks Argentina S.A.|
-|15|67.43.236.20|31445|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|18993|Canada|Montreal|GloboTech Communications|
-|17|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.143.169.121|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|12|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|19|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
