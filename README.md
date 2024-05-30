@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|104.129.194.99|10800|United States|Reston|ZSCALER, INC.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|50.31.187.20|3128|United States|Chicago|Server Central Network|
-|10|217.182.153.29|12000|France|Gravelines|OVH SAS|
-|11|72.10.164.178|22487|Canada|Montreal|GloboTech Communications|
-|12|104.129.194.99|10800|United States|Reston|ZSCALER, INC.|
-|13|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|67.43.236.20|16973|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|72.10.160.92|6353|Canada|Montreal|GloboTech Communications|
+|7|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|39.129.73.6|443|China|Kunming|China Mobile|
+|11|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
+|13|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|72.10.164.178|10973|Canada|Montreal|GloboTech Communications|
+|16|150.95.89.162|10090|Japan|Chiyoda|GMO-Z.COM PTE. LTD.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.164.178|10973|Canada|Montreal|GloboTech Communications|
+|19|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
 
 
 
