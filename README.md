@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|4|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|5|167.71.73.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
-|10|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|12|67.43.228.253|8127|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|1789|Canada|Montreal|GloboTech Communications|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.156.75.85|1111|Indonesia|Denpasar|PT Trika Global Media|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
-|18|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.228.253|8127|Canada|Montreal|GloboTech Communications|
-|20|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
 
 
 
