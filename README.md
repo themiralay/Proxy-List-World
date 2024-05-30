@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|50.31.187.20|3128|United States|Chicago|Server Central Network|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
-|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|10|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|72.10.164.178|6111|Canada|Montreal|GloboTech Communications|
-|14|50.31.187.20|3128|United States|Chicago|Server Central Network|
-|15|72.10.160.90|24907|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|10741|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|72.10.160.172|27443|Canada|Montreal|GloboTech Communications|
-|19|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|5|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|6|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|7|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|8|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|72.10.164.178|2897|Canada|Montreal|GloboTech Communications|
+|11|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|12|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|20|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
