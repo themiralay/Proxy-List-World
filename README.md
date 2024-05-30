@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|12|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|13|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|9|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|17|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|18|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|19|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
