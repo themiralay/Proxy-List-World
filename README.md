@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|4.240.97.249|3128|India|Pune|Microsoft Corporation|
-|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|14|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|19|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|4.240.97.249|3128|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|41.218.86.118|83|Zambia|Lusaka|Paratus Telecommunications Limited|
+|6|4.240.97.249|3128|India|Pune|Microsoft Corporation|
+|7|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|8|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|9|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|104.129.194.99|10800|United States|Reston|ZSCALER, INC.|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|16|35.212.237.127|3128|United States|The Dalles|Google LLC|
+|17|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
