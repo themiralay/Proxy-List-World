@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|7|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.227.227|11505|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|30879|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.250.173.239|38080|Hong Kong|Hong Kong|Zenlayer Inc|
+|17|160.248.9.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
