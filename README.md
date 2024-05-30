@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
+|4|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|104.129.194.99|10800|United States|Reston|ZSCALER, INC.|
-|12|72.10.160.92|13659|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
+|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|9|177.190.189.16|44443|Brazil|Montanha|SPEED PLANET TELECOMUNICAÇÕES LTDA - EPP|
+|10|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|23.95.57.69|3128|United States|Los Angeles|HostPapa|
 |14|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|16|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|17|103.98.131.194|8081|Nepal|Bhojpur|Eastlink Technology Pvt Ltd|
-|18|67.43.227.228|28643|Canada|Montreal|GloboTech Communications|
-|19|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|20|67.43.227.226|13075|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|104.129.194.99|10800|United States|Reston|ZSCALER, INC.|
+|17|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|19|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|20|103.15.140.121|44759|Bangladesh|Khulna|ICC COMMUNICATION|
 
 
 
