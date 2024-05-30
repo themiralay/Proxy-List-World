@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4987** proxies at the latest update. Usable proxies are below.
+> Scraper found **5049** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3243|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.255.45.241|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|11|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|16|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|17|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|18|160.248.9.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|13|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|18|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|19|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
