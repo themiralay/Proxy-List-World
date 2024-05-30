@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|8|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|50.236.203.15|8080|United States|Houston|Comcast Cable Communications, LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
-|14|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|15|67.43.236.19|24467|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|12063|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|13177|Canada|Montreal|GloboTech Communications|
-|18|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
-|19|67.43.227.228|22453|Canada|Montreal|GloboTech Communications|
-|20|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
+|14|39.129.73.6|443|China|Kunming|China Mobile|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|19|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 
 
 
