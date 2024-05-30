@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.150.128.156|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|13|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|14|67.43.236.18|27527|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.160.172|28181|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|18535|Canada|Montreal|GloboTech Communications|
-|18|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|31199|Canada|Montreal|GloboTech Communications|
+|7|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|8|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|118.99.122.228|8080|Indonesia|Surabaya|BIZNET|
+|12|160.248.8.210|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|72.10.160.172|28181|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.227.228|28203|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.254|25211|Canada|Montreal|GloboTech Communications|
+|17|1.10.234.59|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|67.43.227.227|30125|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30125|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|11511|Canada|Montreal|GloboTech Communications|
 
 
 
