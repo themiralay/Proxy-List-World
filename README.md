@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.164.178|19713|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|15789|Canada|Montreal|GloboTech Communications|
-|20|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.9.204|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|67.43.236.20|27963|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.188.164.3|999|Mexico|Atotonilco el Alto|Velocom SA De CV|
+|16|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|17|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|24881|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|3409|Canada|Montreal|GloboTech Communications|
+|20|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
 
 
 
