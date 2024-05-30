@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|5|131.117.165.132|8080|Yemen|Ataq|Public Telecommunication Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|13|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|18|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.237.146.153|5555|Vietnam|Vinh|Viettel Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.108.190.110|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.234.159.5|8080|India|Bengaluru|MWPL|
+|13|160.248.9.208|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|18|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|19|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
