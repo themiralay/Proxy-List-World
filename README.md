@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5040** proxies at the latest update. Usable proxies are below.
+> Scraper found **5023** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|198|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|208|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3009|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
-|17|72.10.164.178|33271|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|32823|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|6095|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|32823|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|72.10.164.178|14039|Canada|Montreal|GloboTech Communications|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|191.102.68.177|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.226|26935|Canada|Montreal|GloboTech Communications|
+|14|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|15|72.10.160.90|11145|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|25125|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
+|18|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
