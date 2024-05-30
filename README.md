@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.248.189.39|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|9|190.110.35.229|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|16|23.95.57.69|3128|United States|Los Angeles|HostPapa|
-|17|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|124.106.45.64|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|160.248.8.92|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
