@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.236.20|10747|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|67.43.228.253|3747|Canada|Montreal|GloboTech Communications|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|67.43.227.227|33259|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|10|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|67.43.236.20|13049|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.236.20|13049|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13537|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
+|19|154.127.240.117|64003|Angola|Huambo|HMB-FTTH|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
