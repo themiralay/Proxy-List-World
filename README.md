@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|5.42.84.36|4545|Sweden|Stockholm|Aeza International LTD|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|72.10.164.178|4383|Canada|Montreal|GloboTech Communications|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|72.10.164.178|4383|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|4383|Canada|Montreal|GloboTech Communications|
-|16|5.196.111.29|20062|France|Gravelines|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|103.132.52.210|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|103.162.62.111|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 |17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|72.10.160.170|6785|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|154.127.240.117|64002|Angola|Huambo|HMB-FTTH|
+|18|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
