@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.154.161.152|80|Italy|Milan|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|72.10.164.178|4891|Canada|Montreal|GloboTech Communications|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|72.10.164.178|4891|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.93|18347|Canada|Montreal|GloboTech Communications|
-|11|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|67.43.228.253|28521|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|11367|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|30153|Canada|Montreal|GloboTech Communications|
-|16|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.236.20|3685|Canada|Montreal|GloboTech Communications|
-|19|101.255.116.125|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|5|185.89.156.2|44224|Albania|Elbasan|ATU|
+|6|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|72.10.160.90|16835|Canada|Montreal|GloboTech Communications|
+|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|28741|Canada|Montreal|GloboTech Communications|
 
 
 
