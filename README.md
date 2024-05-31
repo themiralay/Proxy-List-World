@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
-|5|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|6|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|4|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|72.10.164.178|4107|Canada|Montreal|GloboTech Communications|
-|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|72.10.164.178|4107|Canada|Montreal|GloboTech Communications|
-|12|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|20409|Canada|Montreal|GloboTech Communications|
-|15|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|16|67.43.228.250|24009|Canada|Montreal|GloboTech Communications|
-|17|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.236.20|18727|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|21697|Canada|Montreal|GloboTech Communications|
-|20|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|12|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|72.10.164.178|16607|Canada|Montreal|GloboTech Communications|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|67.43.236.20|14647|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|16607|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|22819|Canada|Montreal|GloboTech Communications|
+|18|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|20|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 
 
 
