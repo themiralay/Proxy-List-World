@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.156.235.36|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|5|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|6|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|9|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|67.43.228.252|32065|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|181.78.77.229|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|72.10.164.178|2453|Canada|Montreal|GloboTech Communications|
-|16|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
-|17|67.43.228.253|28389|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29265|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1851|Canada|Montreal|GloboTech Communications|
-|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|103.132.52.210|3128|Indonesia|Pekalongan|PT Adeaksa Indo Jayatama|
+|8|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|14|157.15.80.20|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
+|15|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|16|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|72.10.164.178|2589|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
