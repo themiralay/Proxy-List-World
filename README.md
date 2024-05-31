@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.164.178|21453|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.250|9201|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|21453|Canada|Montreal|GloboTech Communications|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|72.10.164.178|21453|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|1861|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|27051|Canada|Montreal|GloboTech Communications|
-|14|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
-|15|67.43.227.227|1929|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1861|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21453|Canada|Montreal|GloboTech Communications|
-|18|136.226.230.125|10009|India|New Delhi|ZSCALER, INC.|
-|19|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|72.10.164.178|27207|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|27207|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|15|72.10.164.178|27207|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|9201|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|14147|Canada|Montreal|GloboTech Communications|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|20|72.10.164.178|27207|Canada|Montreal|GloboTech Communications|
 
 
 
