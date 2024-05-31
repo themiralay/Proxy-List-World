@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|72.10.164.178|2431|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|26301|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|28219|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|18973|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|27101|Canada|Montreal|GloboTech Communications|
-|17|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|72.10.164.178|2431|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18973|Canada|Montreal|GloboTech Communications|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|13|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|14|67.43.236.18|14317|Canada|Montreal|GloboTech Communications|
+|15|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
+|16|67.43.227.227|2005|Canada|Montreal|GloboTech Communications|
+|17|103.133.223.230|3125|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|18|72.10.164.178|3189|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
