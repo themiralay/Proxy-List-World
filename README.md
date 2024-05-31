@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|116.58.239.34|80|Thailand|Dusit|CAT Telecom Public Company Limited|
-|3|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|2|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|3|20.219.235.172|3129|India|Pune|Microsoft Corporation|
 |4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|103.116.218.178|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|11|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|12|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.227.227|6387|Canada|Montreal|GloboTech Communications|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|72.10.160.90|20751|Canada|Montreal|GloboTech Communications|
-|18|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|19|154.127.240.117|64003|Angola|Huambo|HMB-FTTH|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.60.195.244|3128|Malaysia|Kuala Lumpur|Kaopu Cloud HK Limited|
+|11|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|14|192.99.182.243|3128|United States|New York|OVH Hosting|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
