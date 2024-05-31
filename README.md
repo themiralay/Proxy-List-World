@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|168.138.14.24|3128|Australia|Melbourne|Oracle Corporation|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|14|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|72.10.164.178|31705|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|31355|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23199|Canada|Montreal|GloboTech Communications|
+|3|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|12|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|13|110.77.171.226|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|15|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
+|16|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|168.138.14.24|3128|Australia|Melbourne|Oracle Corporation|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
