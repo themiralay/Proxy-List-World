@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|8|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|64.40.151.159|3128|Turkey|Istanbul|Alentus Corporation|
+|12|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
 |13|50.31.187.20|3128|United States|Chicago|Server Central Network|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
+|14|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
 |18|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|20|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunica??o Ltda|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
