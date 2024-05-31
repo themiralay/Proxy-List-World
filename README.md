@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|105.112.135.165|8080|Nigeria|Lagos|Airtel Networks Limited|
-|5|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|6|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
-|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|8|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|38.180.146.230|3128|United States|Dallas|Scalaxy B.V.|
-|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
-|16|200.106.184.14|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|18|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|19|67.43.227.230|13875|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31353|Canada|Montreal|GloboTech Communications|
+|4|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
+|5|72.10.160.93|27737|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|11|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|14|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|15|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|18|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|19|103.189.249.208|8080|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|20|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
 
 
 
