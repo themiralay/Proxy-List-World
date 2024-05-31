@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|206.189.146.50|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.128.18.81|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|109.111.154.11|8080|Russia|Kaliningrad|TIS-DIALOG|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.169.186.153|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|11|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
-|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|72.10.160.174|6351|Canada|Montreal|GloboTech Communications|
-|17|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|18|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|103.87.169.160|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|18.134.246.139|8080|United Kingdom|London|Amazon Technologies Inc.|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
+|19|34.154.161.152|80|Italy|Milan|Google LLC|
+|20|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
