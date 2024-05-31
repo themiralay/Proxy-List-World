@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
-|10|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|125.162.85.95|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
+|10|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
 |11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.160.90|2827|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2827|Canada|Montreal|GloboTech Communications|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|67.43.227.226|30235|Canada|Montreal|GloboTech Communications|
+|12|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|14|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|17|72.10.164.178|2423|Canada|Montreal|GloboTech Communications|
-|18|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|19|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.173|11137|Canada|Montreal|GloboTech Communications|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|18|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
 
 
 
