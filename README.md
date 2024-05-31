@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
-|9|67.43.228.253|18285|Canada|Montreal|GloboTech Communications|
-|10|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|11|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|7465|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|2943|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7465|Canada|Montreal|GloboTech Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.90|18209|Canada|Montreal|GloboTech Communications|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|15|181.29.205.47|8085|Argentina|Buenos Aires|Telecom Argentina S.A|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|18|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
