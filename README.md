@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|206.189.146.50|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|36.90.63.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|1|206.189.146.50|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|6|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.26.129.27|8080|Indonesia|Salatiga|PT Panglima Kamayo Media|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|14|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|154.205.140.4|3128|Hong Kong|Hong Kong|Lightnode Limited|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|20|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|12|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|13|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|16|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|17|67.43.228.251|19989|Canada|Montreal|GloboTech Communications|
+|18|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
