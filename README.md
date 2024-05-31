@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|103.177.9.104|8080|Indonesia|Malang|PT Helium Sinergi Telekomunikasi|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|170.246.1.249|3128|Brazil|Porto Alegre|Proserver Telecomunicacoes S.A.|
-|10|4.190.18.10|3128|Japan|Tokyo|Microsoft Corporation|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|38.180.146.230|3128|United States|Dallas|Scalaxy B.V.|
-|16|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|18|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
-|19|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
-|20|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.71.3.50|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|11|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|12|109.123.230.171|3128|Japan|Tokyo|Contabo Asia Private Limited|
+|13|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|15|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|16|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
+|17|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
