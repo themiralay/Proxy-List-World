@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|154.127.240.119|64006|Angola|Huambo|HMB-FTTH|
-|10|171.254.107.169|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|15|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|72.10.164.178|22021|Canada|Montreal|GloboTech Communications|
-|17|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|13|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|14|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|36.111.143.8|15777|China|Lipu|Cloud Computing Corporation|
+|17|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
 |18|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|19|179.49.113.230|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL|
-|20|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
