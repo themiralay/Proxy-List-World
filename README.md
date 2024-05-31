@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|67.220.86.253|3128|United States|Phoenix|GTHost|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|19213|Canada|Montreal|GloboTech Communications|
-|18|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|19|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
-|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|67.220.86.253|3128|United States|Phoenix|GTHost|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
+|14|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
 
 
 
