@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|103.255.145.62|82|India|Hyderabad|Pioneer Elabs Ltd|
+|2|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|15|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|20|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|8|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|9|171.251.92.87|5404|Vietnam|Kon Tum|Viettel Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|119.92.236.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|14|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|45.236.107.86|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
