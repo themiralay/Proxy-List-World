@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.73.70.48|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|125.162.87.106|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|154.205.140.4|3128|Hong Kong|Hong Kong|Lightnode Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|1251|Canada|Montreal|GloboTech Communications|
-|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.228.253|15491|Canada|Montreal|GloboTech Communications|
-|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.164.178|10545|Canada|Montreal|GloboTech Communications|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
