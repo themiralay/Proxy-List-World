@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|86.38.246.143|3128|Turkey|Istanbul|MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|158.69.7.48|8050|Canada|Montreal|OVH SAS|
-|10|154.73.28.193|8080|Libya|Tripoli|Rawafed|
-|11|103.177.235.132|83|India|Bengaluru|Coastal Live Channel|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|103.88.239.179|84|India|Hyderabad|Mana Communications|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|72.10.160.171|24067|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29317|Canada|Montreal|GloboTech Communications|
-|20|5.196.111.29|20158|France|Gravelines|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.133.49.151|8080|Russia|Moscow|JSC Mediasoft ekspert|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|5.196.111.29|20158|France|Gravelines|OVH SAS|
+|17|67.43.227.227|21445|Canada|Montreal|GloboTech Communications|
+|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|19|72.10.164.178|14139|Canada|Montreal|GloboTech Communications|
+|20|84.54.185.203|8080|Bulgaria|Burgas|ComNet Bulgaria Ltd|
 
 
 
