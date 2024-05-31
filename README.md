@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|67.43.236.20|8047|Canada|Montreal|GloboTech Communications|
-|9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|11|67.43.227.227|18915|Canada|Montreal|GloboTech Communications|
-|12|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|13|72.10.164.178|7855|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.230|12009|Canada|Montreal|GloboTech Communications|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|170.246.1.249|3128|Brazil|Porto Alegre|Proserver Telecomunicacoes S.A.|
-|18|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|8047|Canada|Montreal|GloboTech Communications|
-|20|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|6|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|45.230.168.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|20|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
 
 
 
