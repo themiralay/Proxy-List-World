@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|9|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|13|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|15|116.80.58.72|4649|Japan|Honchō|InfoSphere|
-|16|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|17|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|200.106.184.14|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|14|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|18|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.130.106.129|83|India|Kolkata|Opticom Networks Private Limited|
 
 
 
