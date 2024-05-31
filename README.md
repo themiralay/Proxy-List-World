@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|4|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|2|203.150.128.80|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.154.161.152|80|Italy|Milan|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|34.154.161.152|80|Italy|Milan|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|34.154.161.152|80|Italy|Milan|Google LLC|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|2003|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|20153|Canada|Montreal|GloboTech Communications|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|72.10.160.90|8533|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|8633|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|2887|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|21921|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|21921|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|72.10.160.172|1403|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8633|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|28449|Canada|Montreal|GloboTech Communications|
 
 
 
