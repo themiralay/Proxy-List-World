@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|206.189.108.135|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|14|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.164.178|1647|Canada|Montreal|GloboTech Communications|
-|19|20.197.13.162|3128|India|Pune|Microsoft Corporation|
-|20|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|10|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
+|11|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|12|67.43.236.20|12297|Canada|Montreal|GloboTech Communications|
+|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.164.178|19971|Canada|Montreal|GloboTech Communications|
+|18|103.76.151.122|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
+|19|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|20|160.248.8.14|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
