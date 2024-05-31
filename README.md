@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|6|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|209.97.173.78|4444|Singapore|Singapore|DigitalOcean, LLC|
-|10|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|11|177.153.58.183|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|12|38.60.195.244|3128|Malaysia|Kuala Lumpur|Kaopu Cloud HK Limited|
-|13|67.43.228.253|19149|Canada|Montreal|GloboTech Communications|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|67.43.228.251|21203|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|16129|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|67.43.227.227|16129|Canada|Montreal|GloboTech Communications|
-|20|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|12|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.228.253|1873|Canada|Montreal|GloboTech Communications|
+|16|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|103.172.70.138|1111|Indonesia|Sukabumi|AZNET|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
