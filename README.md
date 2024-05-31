@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|4|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
-|5|103.215.207.38|83|India|Kānker|Foxtel Telecommunications Pvt. Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|8|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|9|190.121.128.217|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|12|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
-|13|67.43.236.20|27361|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|1457|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|30381|Canada|Montreal|GloboTech Communications|
-|16|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|72.10.164.178|7093|Canada|Montreal|GloboTech Communications|
-|18|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.254|15383|Canada|Montreal|GloboTech Communications|
+|2|103.146.170.193|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|6|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|103.134.223.139|8181|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
