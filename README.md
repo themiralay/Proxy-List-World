@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|67.43.236.20|15663|Canada|Montreal|GloboTech Communications|
-|14|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|67.43.236.20|15663|Canada|Montreal|GloboTech Communications|
-|16|160.248.91.186|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|72.10.164.178|33009|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|15|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|103.69.106.88|8080|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|19|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
