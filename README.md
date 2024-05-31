@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.215.177.186|8080|Indonesia|Jakarta Pusat|PT Telematika Mitrakreasi|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.87.169.160|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|10|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
-|11|125.162.220.221|8080|Indonesia|Makassar|PT. TELKOM INDONESIA|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.172|30061|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|12305|Canada|Montreal|GloboTech Communications|
+|8|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.160.90|17293|Canada|Montreal|GloboTech Communications|
 |16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|19|204.157.251.225|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|202.57.2.20|8080|Indonesia|Pademangan Timur|Primanet - ISP|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
