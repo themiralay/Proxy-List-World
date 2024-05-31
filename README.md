@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|2|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|1|116.58.239.34|80|Thailand|Dusit|CAT Telecom Public Company Limited|
+|2|20.219.180.105|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|7|67.43.236.20|15663|Canada|Montreal|GloboTech Communications|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |9|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|10|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.160.173|21421|Canada|Montreal|GloboTech Communications|
-|14|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|15|72.10.160.170|6193|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|21571|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3649|Canada|Montreal|GloboTech Communications|
-|18|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|19|67.43.228.253|21571|Canada|Montreal|GloboTech Communications|
-|20|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|10|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|11|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|12|67.43.227.227|30885|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|21421|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|10579|Canada|Montreal|GloboTech Communications|
+|15|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|20|109.109.166.176|8080|United Kingdom|Wythenshawe|Vispa Limited|
 
 
 
