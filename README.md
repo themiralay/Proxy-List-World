@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|206.189.146.50|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.18.81|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|109.111.154.11|8080|Russia|Kaliningrad|TIS-DIALOG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|103.87.169.160|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|2|18.134.246.139|8080|United Kingdom|London|Amazon Technologies Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.215.177.186|8080|Indonesia|Jakarta Pusat|PT Telematika Mitrakreasi|
+|5|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.87.169.160|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|18.134.246.139|8080|United Kingdom|London|Amazon Technologies Inc.|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|15|190.103.83.220|8082|Argentina|Berisso|Tecnologia WorkOut S.A.|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|20|160.248.8.14|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
