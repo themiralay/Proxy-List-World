@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.105.79.237|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|72.10.160.90|24439|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|24439|Canada|Montreal|GloboTech Communications|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|72.10.164.178|13003|Canada|Montreal|GloboTech Communications|
-|11|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|12|67.43.228.250|15419|Canada|Montreal|GloboTech Communications|
-|13|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|14|67.43.228.253|24409|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|15103|Canada|Montreal|GloboTech Communications|
-|16|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|17|72.10.160.171|20233|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|72.10.160.90|24439|Canada|Montreal|GloboTech Communications|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|191.252.222.91|80|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|72.10.160.90|24439|Canada|Montreal|GloboTech Communications|
+|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|14|72.10.164.178|28053|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|117.139.166.210|8888|China|Shenzhen|China Mobile communications corporation|
+|19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
