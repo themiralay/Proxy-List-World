@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|203.150.113.233|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.155.62.158|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.150.113.233|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|15|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|16|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
+|17|200.24.146.51|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
+|18|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|19|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|20|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
 
 
 
