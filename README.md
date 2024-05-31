@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|17|67.43.228.251|5051|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6005|Canada|Montreal|GloboTech Communications|
-|19|141.125.158.9|80|United Kingdom|London|SoftLayer|
-|20|67.43.227.227|22983|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|72.10.160.90|6005|Canada|Montreal|GloboTech Communications|
+|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|15|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|16|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|72.10.160.90|6005|Canada|Montreal|GloboTech Communications|
+|18|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
