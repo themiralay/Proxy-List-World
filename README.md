@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|7|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|6|64.40.151.159|3128|Turkey|Istanbul|Alentus Corporation|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
-|13|67.43.227.227|17697|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|4113|Canada|Montreal|GloboTech Communications|
-|15|39.129.73.6|443|China|Kunming|China Mobile|
-|16|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|12|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
+|13|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|20|117.7.207.108|55403|Vietnam|Hanoi|Viettel Group|
 
 
 
