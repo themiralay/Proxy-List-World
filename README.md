@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.215.177.186|8080|Indonesia|Jakarta Pusat|PT Telematika Mitrakreasi|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.179.80.83|8080|United States|Boydton|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|12|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|13|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
-|17|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|18|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|91.229.67.77|8083|Ukraine|Kyiv|INFOAURA-MNT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|14|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|18|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
 
 
 
