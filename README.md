@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
+|4|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
-|7|5.196.111.29|20158|France|Gravelines|OVH SAS|
-|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|9|67.43.236.20|28759|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|28759|Canada|Montreal|GloboTech Communications|
-|11|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.236.19|1027|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|19685|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|6937|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|22371|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|28759|Canada|Montreal|GloboTech Communications|
-|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.90|24123|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|8|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|10|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|1027|Canada|Montreal|GloboTech Communications|
+|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|72.10.164.178|9649|Canada|Montreal|GloboTech Communications|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.164.178|9649|Canada|Montreal|GloboTech Communications|
+|16|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|17|102.215.197.206|9999|Libya|Daryānah|Rawafed|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
