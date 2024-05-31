@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.153.137|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.64.208.48|53281|Russia|Kstovo|Svyazist LLC|
-|7|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|117.7.207.108|55403|Vietnam|Hanoi|Viettel Group|
-|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|20|67.43.228.253|9747|Canada|Montreal|GloboTech Communications|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|24.176.53.183|8080|United States|Portage|Charter Communications|
+|11|190.92.209.219|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|20|197.232.85.163|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
 
 
 
