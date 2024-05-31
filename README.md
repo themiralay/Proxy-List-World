@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.235.39.242|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|12|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
-|18|67.43.227.226|5751|Canada|Montreal|GloboTech Communications|
-|19|36.90.63.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|20|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
