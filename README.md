@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.53.166|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.154.161.152|80|Italy|Milan|Google LLC|
-|7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|8|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
-|9|72.10.164.178|12043|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|2449|Canada|Montreal|GloboTech Communications|
-|11|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|5|77.37.244.119|8080|Russia|Moscow|NCNET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|8|93.159.247.109|3128|Russia|Krasnoyarsk|Axioma, LLC|
+|9|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|10|13.212.23.235|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
 |12|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.90|5025|Canada|Montreal|GloboTech Communications|
-|14|103.116.52.56|6811|Vietnam|Quan Tan Phu|Chieu Minh Company Limited|
-|15|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|72.10.160.172|3949|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12043|Canada|Montreal|GloboTech Communications|
+|13|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|39.129.73.6|443|China|Kunming|China Mobile|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.228.253|23383|Canada|Montreal|GloboTech Communications|
+|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 
 
 
