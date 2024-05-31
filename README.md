@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.143.196.66|8080|Indonesia|Semarang|JERNIHNETWORK|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|185.64.209.24|53281|Russia|Kstovo|Svyazist LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|128.199.17.168|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|34.140.73.25|3128|Belgium|Brussels|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|16|72.10.160.90|20241|Canada|Montreal|GloboTech Communications|
-|17|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|67.43.227.227|3633|Canada|Montreal|GloboTech Communications|
-|19|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.252|21111|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|11|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|12|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|13|118.174.173.209|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|122.185.183.194|8080|India|Bhubaneswar|Bharti Airtel Limited|
+|17|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
+|18|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
 
 
 
