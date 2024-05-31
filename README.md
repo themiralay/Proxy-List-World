@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|114.129.19.139|8080|Indonesia|Kandang|PT Hipernet Indodata|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|74.48.12.83|3129|United States|Los Angeles|Multacom Corporation|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
-|12|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
-|13|185.167.59.215|443|Moldova|Taraclia|Caghet-plus SRL|
-|14|124.217.97.131|8080|Philippines|General Santos|Philippine Long Distance Telephone Co.|
-|15|72.10.164.178|21627|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|26709|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|18221|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|20115|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21627|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|6|38.180.146.230|3128|United States|Dallas|Scalaxy B.V.|
+|7|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|8|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|165.16.27.109|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|11|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|15|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|61.7.191.170|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|19|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|20|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
 
 
 
