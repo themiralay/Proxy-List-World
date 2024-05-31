@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **7197** proxies at the latest update. Usable proxies are below.
+> Scraper found **7199** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|2057|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|67.43.228.253|23883|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|27271|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|26779|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|67.43.227.227|26779|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6221|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.228.253|23883|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|28363|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|27959|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|20371|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|27271|Canada|Montreal|GloboTech Communications|
+|6|103.8.68.48|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|7|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|9|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|10|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.227|4341|Canada|Montreal|GloboTech Communications|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|17|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
 
 
 
