@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|8|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|200.24.146.51|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|141.125.158.9|80|United Kingdom|London|SoftLayer|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|204.137.238.6|3129|United States|Ellijay|Apogee Telecom Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
