@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|9|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|67.43.227.228|22611|Canada|Montreal|GloboTech Communications|
-|13|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
-|14|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.160.90|14477|Canada|Montreal|GloboTech Communications|
-|18|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.67.162.239|6811|Vietnam|Qui Nhon|Thoi MMO Company Limited|
+|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|13|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|18|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
 
 
 
