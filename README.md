@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.73.70.48|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|9|123.200.18.155|80|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|10|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|39.129.73.6|443|China|Kunming|China Mobile|
-|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|18|67.43.227.227|21821|Canada|Montreal|GloboTech Communications|
-|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.236.20|8971|Canada|Montreal|GloboTech Communications|
+|7|181.232.190.251|999|Dominican Republic|Santo Domingo Este|Jarm Telecomunicaciones SRL|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|185.206.32.218|8080|Kazakhstan|Almaty|Cloud Master LLC|
+|12|123.200.18.155|80|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
