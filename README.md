@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|2|116.58.239.34|80|Thailand|Dusit|CAT Telecom Public Company Limited|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
-|7|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|8|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|67.43.236.20|22049|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|67.43.228.253|27863|Canada|Montreal|GloboTech Communications|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|72.10.160.170|2239|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|23015|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23907|Canada|Montreal|GloboTech Communications|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân District|PEGA|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|154.127.240.117|64006|Angola|Huambo|HMB-FTTH|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|14|94.23.19.184|2912|France|Roubaix|OVH ISP|
+|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|67.43.227.227|3393|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
