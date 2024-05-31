@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|101.109.176.251|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.160.171|2985|Canada|Montreal|GloboTech Communications|
-|10|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|13|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.228.251|2081|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15227|Canada|Montreal|GloboTech Communications|
-|20|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
+|6|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|85.62.10.85|8080|Spain|Alcantarilla|Uni2 1|
+|14|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|15|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|67.43.236.20|26529|Canada|Montreal|GloboTech Communications|
+|17|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|18|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|19|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
