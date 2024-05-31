@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.164.221.34|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|10|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|17|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|18|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|19|67.43.236.18|16133|Canada|Montreal|GloboTech Communications|
-|20|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|13|185.126.183.120|8080|Russia|Moscow|"Telko" JSC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|16|38.51.52.193|999|Dominican Republic|Las Terrenas|CV HOTSPOT, S.R.L.|
+|17|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|18|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.236.21|18477|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14287|Canada|Montreal|GloboTech Communications|
 
 
 
