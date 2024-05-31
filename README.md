@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|16|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
-|19|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|43.250.173.239|38080|Hong Kong|Hong Kong|Zenlayer Inc|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
+|18|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
