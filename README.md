@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|34.154.161.152|80|Italy|Milan|Google LLC|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|112.78.131.6|8080|Indonesia|Depok|Biznet Networks|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|140.227.142.68|3128|Japan|Hyōgo|InfoSphere|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|201.20.94.93|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|10|38.156.75.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|187.102.208.143|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
 |16|34.154.161.152|80|Italy|Milan|Google LLC|
-|17|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|54.38.138.114|3128|Poland|Warsaw|OVH SAS|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|140.227.142.68|3128|Japan|Hyōgo|InfoSphere|
 
 
 
