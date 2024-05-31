@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|115.77.17.107|4013|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|103.76.151.122|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|10|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
-|11|170.246.1.249|3128|Brazil|Porto Alegre|Proserver Telecomunicacoes S.A.|
-|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|8|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|181.118.143.1|999|Argentina|Posadas|Siternet SRL|
+|12|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|14|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|19|192.145.205.97|8080|Brazil|Guaraciama|Vianet Guaraciama Eireli ME|
 |20|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 
 
