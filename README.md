@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5070** proxies at the latest update. Usable proxies are below.
+> Scraper found **4966** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|723|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|237|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|296|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|264|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2855|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|3|203.150.113.233|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|188.132.146.101|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|8|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|72.10.160.90|6519|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|31735|Canada|Montreal|GloboTech Communications|
-|15|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|16|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
-|17|188.68.176.2|8080|Russia|Yaroslavl|Yarnet Ltd.|
-|18|72.10.160.93|8019|Canada|Montreal|GloboTech Communications|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|93.170.123.5|3128|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|203.150.113.233|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|114.7.0.62|80|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|103.189.249.163|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|103.155.62.158|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
