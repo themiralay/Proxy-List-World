@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|192.99.182.243|3128|United States|New York|OVH Hosting|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|190.19.114.104|8080|Argentina|La Plata|Telecom Argentina S.A|
+|5|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|205.196.184.69|50704|United States|Houston|Phonoscope|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|103.139.242.1|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|165.16.27.109|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|7|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|103.121.209.136|9999|Japan|Tokyo|Virtual Hosting|
+|18|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
