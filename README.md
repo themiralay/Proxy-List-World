@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.133.49.151|8080|Russia|Moscow|JSC Mediasoft ekspert|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|190.19.114.104|8080|Argentina|La Plata|Telecom Argentina S.A|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|67.43.228.253|8883|Canada|Montreal|GloboTech Communications|
-|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|17|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
-|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.160.90|23099|Canada|Montreal|GloboTech Communications|
-|20|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|186.97.192.61|999|Colombia|Medellín|Colombia Móvil|
+|16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|19|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
