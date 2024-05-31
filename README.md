@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|7|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|67.43.227.228|25769|Canada|Montreal|GloboTech Communications|
-|10|5.196.111.29|20158|France|Gravelines|OVH SAS|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|14|67.43.227.226|24693|Canada|Montreal|GloboTech Communications|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|67.43.227.227|32541|Canada|Montreal|GloboTech Communications|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|67.43.236.20|13691|Canada|Montreal|GloboTech Communications|
-|19|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
-|20|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|6|103.151.177.106|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|7|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|12|67.43.227.227|6047|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|6047|Canada|Montreal|GloboTech Communications|
+|14|206.189.108.248|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|72.10.164.178|5329|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|18|67.43.227.227|6047|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
 
 
 
