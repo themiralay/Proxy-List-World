@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|67.43.227.228|29299|Canada|Montreal|GloboTech Communications|
-|6|152.32.67.107|65535|Philippines|Marikina City|Converge ICT Solution Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|5|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|9|72.10.160.170|13043|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.227|14773|Canada|Montreal|GloboTech Communications|
+|8|35.229.172.56|8899|Taiwan|Taipei|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|11|38.7.106.66|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
 |12|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.229|8601|Canada|Montreal|GloboTech Communications|
-|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|16|72.10.160.170|13043|Canada|Montreal|GloboTech Communications|
-|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|14|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1963|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|29299|Canada|Montreal|GloboTech Communications|
+|17|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
 |18|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|14773|Canada|Montreal|GloboTech Communications|
+|19|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
