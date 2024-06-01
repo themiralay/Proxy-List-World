@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|15|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.180.198.21|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|18|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|186.125.218.188|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|19|103.165.156.179|3125|Indonesia|Jember|MEGADATA-ISP|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
