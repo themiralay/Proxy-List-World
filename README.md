@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|91.107.222.154|8118|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|205.196.184.69|50704|United States|Houston|Phonoscope|
-|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|168.196.246.110|8080|Argentina|Moreno|Linkear SRL|
-|17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|18|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|34.154.161.152|80|Italy|Milan|Google LLC|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|205.196.184.69|50704|United States|Houston|Phonoscope|
+|16|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|17|67.43.227.227|30335|Canada|Montreal|GloboTech Communications|
+|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
