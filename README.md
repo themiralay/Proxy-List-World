@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.8.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
-|7|176.110.140.154|777|Russia|Temryuk|TeleCentr Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|13|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|17|72.10.164.178|23133|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23133|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|6351|Canada|Montreal|GloboTech Communications|
-|20|103.14.225.158|3128|Vietnam|Hanoi|VNB|
+|2|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|87.239.168.52|3128|Poland|Imielin|Beskid Media Sp. z o.o.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
+|14|169.239.248.198|8080|Ghana|Accra|Ghanaian Academic and Research Network|
+|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|43.250.173.38|38080|Hong Kong|Hong Kong|Zenlayer Inc|
+|18|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
