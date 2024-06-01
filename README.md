@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.234.28.50|8181|Indonesia|Blora|PT Agung Barokah Network|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.248.189.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|14|46.99.183.154|1234|Albania|Tirana|IPKO Telecommunications LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|19|203.190.44.201|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|20|181.209.116.19|999|Argentina|Chacabuco|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|14|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|209.14.113.2|999|Colombia|Cértegui|AGIS|
+|19|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|20|202.57.2.20|8080|Indonesia|Pademangan Timur|Primanet - ISP|
 
 
 
