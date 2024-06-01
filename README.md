@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|4|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|16|160.248.91.217|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|161.34.39.82|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|182.253.37.83|443|Indonesia|Jakarta Pusat|BIZNET|
+|17|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|18|177.38.83.242|3177|Brazil|Boa Esperanca|ZAP BL TELECOMUNICACOES LTDA|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
+|20|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
