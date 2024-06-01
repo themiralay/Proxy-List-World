@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
 |10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|181.65.180.190|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|19|187.79.146.98|8080|Brazil|São Luís|V tal|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|14|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|45.225.207.185|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
 
 
 
