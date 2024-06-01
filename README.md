@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|2|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|103.250.130.220|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|16|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|20|103.164.223.54|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|10|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
