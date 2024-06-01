@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|160.248.188.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|34.154.161.152|80|Italy|Milan|Google LLC|
-|16|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
+|12|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|38.7.106.253|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
+|18|160.248.188.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
