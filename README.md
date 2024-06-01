@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
 |3|111.89.130.112|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|134.35.47.209|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|134.35.47.209|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|186.232.160.246|8080|Brazil|Cabo Frio|VIP NETWORK TELECOMUNICAÇÕES LTDA|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
 |16|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|17|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
