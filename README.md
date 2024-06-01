@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|11|201.89.89.34|8080|Brazil|Curitiba|V tal|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|14|103.165.241.58|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|15|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|16|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|186.232.160.246|8080|Brazil|Cabo Frio|VIP NETWORK TELECOMUNICAÇÕES LTDA|
+|18|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
