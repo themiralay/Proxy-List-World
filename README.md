@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
 |9|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
-|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
 |15|91.234.97.161|8998|Russia|Shcheglovo|Virtual Station LLC|
-|16|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|171.102.10.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|67.43.228.253|5385|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4227|Canada|Montreal|GloboTech Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
