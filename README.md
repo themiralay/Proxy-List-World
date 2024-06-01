@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
-|4|111.89.130.112|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
-|13|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|17|154.127.240.125|64002|Angola|Huambo|HMB-FTTH|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|185.85.161.214|8080|Russia|Orsk|OTK LLC|
-|20|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|15|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|16|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
