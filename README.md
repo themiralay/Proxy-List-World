@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
-|13|202.57.2.20|8080|Indonesia|Pademangan Timur|Primanet - ISP|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
-|16|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|17|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|18|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
-|19|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
-|20|110.39.42.211|80|Pakistan|Karachi|Wateen Telecom Limited|
+|9|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|160.248.8.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 
 
 
