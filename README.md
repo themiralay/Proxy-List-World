@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.164.178|1117|Canada|Montreal|GloboTech Communications|
-|15|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|16|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|17|67.43.236.20|10301|Canada|Montreal|GloboTech Communications|
-|18|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|19|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|20|171.226.29.241|16605|Vietnam|Long An|Viettel Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|9|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|103.88.239.179|84|India|Hyderabad|Mana Communications|
+|14|72.10.164.178|6495|Canada|Montreal|GloboTech Communications|
+|15|38.183.145.29|8090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|16|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|17|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|18|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|72.10.164.178|6495|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.94|19293|Canada|Montreal|GloboTech Communications|
 
 
 
