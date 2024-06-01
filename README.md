@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5690** proxies at the latest update. Usable proxies are below.
+> Scraper found **5765** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|245|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|797|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3406|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.92.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|10|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|181.188.215.207|999|Ecuador|San Lorenzo de Esmeraldas|Ufinet Panama S.A.|
-|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|19|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
-|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|181.78.23.135|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|160.248.8.14|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|67.43.227.228|21357|Canada|Montreal|GloboTech Communications|
 
 
 
