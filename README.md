@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|103.76.151.122|8181|Indonesia|Klatakan|PT. Java Digital Nusantara|
-|14|36.92.140.113|80|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|15|163.44.0.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|38.156.75.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|72.10.160.92|6685|Canada|Montreal|GloboTech Communications|
-|20|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|163.44.0.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|111.89.130.112|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|18|160.248.81.48|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|20|72.10.164.178|22149|Canada|Montreal|GloboTech Communications|
 
 
 
