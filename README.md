@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|82.76.239.249|8080|Romania|Constanța|RCS & RDS|
-|9|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|10|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
-|11|105.113.2.82|8080|Nigeria|Lagos|Airtel Networks Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|159.89.227.166|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|160.248.91.186|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|17|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
