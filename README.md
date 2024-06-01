@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|156.255.1.250|1110|The Netherlands|Amsterdam|BitCommand LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|203.190.44.201|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|15|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
-|16|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|5.196.111.29|20157|France|Gravelines|OVH SAS|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|20|72.10.160.172|27691|Canada|Montreal|GloboTech Communications|
+|2|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.92.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|15|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|5.196.111.29|20157|France|Gravelines|OVH SAS|
 
 
 
