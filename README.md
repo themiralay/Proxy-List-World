@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
-|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|9|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|103.245.204.214|8080|Bangladesh|Savar Upazila|Next Online Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|16|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|91.234.97.161|8998|Russia|Shcheglovo|Virtual Station LLC|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|160.248.90.182|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|17|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 |20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
