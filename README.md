@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
-|3|111.89.130.112|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.248.92.25|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|140.227.143.172|3128|Japan|Hyōgo|InfoSphere|
+|4|111.89.130.112|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
-|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|187.79.146.98|8080|Brazil|São Luís|V tal|
-|17|103.156.15.35|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|10|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
 |20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
