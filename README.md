@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|9|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|15|160.248.9.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|14.143.130.210|80|India|Mumbai|Tata Communications Limited|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|20|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|11|160.248.9.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
