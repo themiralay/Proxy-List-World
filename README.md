@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|16|171.102.10.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|19|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|20|72.10.164.178|1583|Canada|Montreal|GloboTech Communications|
+|10|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|146.190.57.4|8081|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|45.233.67.210|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|20|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
 
 
 
