@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 |5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|6|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
+|18|202.182.55.50|8080|Indonesia|Gelora|PT Remala Abadi|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
 
 
 
