@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|34.154.161.152|80|Italy|Milan|Google LLC|
-|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|14|203.190.44.203|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|12|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|17|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|18|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
 |19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|20|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
 
 
 
