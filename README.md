@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|43.130.146.142|3128|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|104.238.222.54|3128|United States|Los Angeles|ReliableSite.Net LLC|
-|18|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|19|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|20|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|20|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
 
 
 
