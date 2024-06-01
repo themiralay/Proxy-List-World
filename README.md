@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.177.85|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|8|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|14|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|4|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|5|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|179.189.50.160|80|Brazil|Sinop|EVO Networks|
+|16|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|34.154.161.152|80|Italy|Milan|Google LLC|
+|18|45.191.75.186|999|Colombia|Miranda|Global Raices|
+|19|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|20|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
