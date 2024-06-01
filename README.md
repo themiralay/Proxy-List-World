@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |6|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|14|34.154.161.152|80|Italy|Milan|Google LLC|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|19|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|10|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|110.39.42.211|80|Pakistan|Karachi|Wateen Telecom Limited|
+|12|160.248.8.135|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|212.52.167.199|33128|Hungary|Budapest|INTEGRITY Informatics Ltd|
+|14|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
