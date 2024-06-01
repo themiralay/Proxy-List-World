@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|7|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|103.167.171.43|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|101.99.91.107|3128|Malaysia|Taman Melati|Shinjiru Technology Sdn Bhd|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|103.124.175.225|83|India|Panipat|Shirsty Internet Services Pvt Ltd|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|18|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|16|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
+|18|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
