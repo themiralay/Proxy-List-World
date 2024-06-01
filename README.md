@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|11|72.10.160.174|20931|Canada|Montreal|GloboTech Communications|
-|12|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|13|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|16|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.236.20|12663|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|5369|Canada|Montreal|GloboTech Communications|
-|19|160.248.9.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|154.127.240.120|64004|Angola|Huambo|HMB-FTTH|
+|16|72.10.160.171|31123|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|26709|Canada|Montreal|GloboTech Communications|
+|18|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
