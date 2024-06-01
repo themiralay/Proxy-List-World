@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|201.134.169.214|8204|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|16|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|64.23.163.176|8081|United States|Santa Clara|DigitalOcean, LLC|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|14|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
+|17|89.38.8.130|88|Romania|Bucharest|TV SAT 2002 SRL|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|160.248.8.14|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
