@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |6|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|18|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|24.172.34.114|49920|United States|Cayce|Charter Communications Inc|
+|14|103.158.220.2|82|India|Theni|Nt Cybronet Pvt Ltd|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|19|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
