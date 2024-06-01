@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|104.128.228.69|8118|United States|Newark|HostUS|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|110.77.171.234|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.165.156.179|3125|Indonesia|Jember|MEGADATA-ISP|
+|10|34.154.161.152|80|Italy|Milan|Google LLC|
+|11|182.253.168.223|8080|Indonesia|Jakarta|BIZNET|
+|12|67.43.236.20|5905|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.8.181|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
 |17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|190.90.39.78|999|Colombia|Arauca|InterNexa Global Network|
+|18|161.34.37.50|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|212.52.167.199|33128|Hungary|Budapest|INTEGRITY Informatics Ltd|
 
 
 
