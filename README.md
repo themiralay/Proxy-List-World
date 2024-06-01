@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5904** proxies at the latest update. Usable proxies are below.
+> Scraper found **5892** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|919|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|258|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|407|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3387|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|16|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|17|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
