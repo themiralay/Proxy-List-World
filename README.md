@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
 |4|161.34.37.51|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|103.163.231.18|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|165.16.30.225|1981|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
-|19|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|20|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
+|12|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
+|16|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|20|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
 
 
 
