@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|116.80.58.72|4649|Japan|Honchō|InfoSphere|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|3.131.36.165|3128|United States|Dublin|Amazon.com, Inc.|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+
 
 
 ## Contributing
