@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.237.184.193|999|Panama|Las Tablas|DBS NETWORK, S.A.|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
-|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|14|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|114.5.199.197|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|16|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.228.250|9281|Canada|Montreal|GloboTech Communications|
-|20|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
+|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
 
 
 
