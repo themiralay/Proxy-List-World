@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|16|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|67.43.227.227|1339|Canada|Montreal|GloboTech Communications|
-|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|202.57.2.20|8080|Indonesia|Pademangan Timur|Primanet - ISP|
+|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|15|45.237.184.193|999|Panama|Las Tablas|DBS NETWORK, S.A.|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|18|103.167.171.150|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|19|154.53.38.152|3128|United States|New York|Nubes, LLC|
+|20|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
