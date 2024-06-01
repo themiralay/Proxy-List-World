@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|205.196.184.69|50704|United States|Houston|Phonoscope|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|67.43.227.227|19947|Canada|Montreal|GloboTech Communications|
-|20|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|46.10.229.243|8080|Bulgaria|Govedare|Vivacom Bulgaria EAD|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
 
 
 
