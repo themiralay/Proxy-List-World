@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
 |8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
-|10|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|74.84.150.50|3128|United States|Kansas City|DediOutlet, LLC|
-|16|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|9|160.248.81.223|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |17|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|192.210.228.107|3128|United States|Elk Grove Village|HostPapa|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|4.240.97.249|3128|India|Pune|Microsoft Corporation|
+|18|206.189.98.177|8081|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
