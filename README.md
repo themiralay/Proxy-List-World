@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.92.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.148.104.127|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
-|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.150.128.249|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|17|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|18|154.127.240.123|64003|Angola|Huambo|HMB-FTTH|
-|19|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.180.45.196|8080|Türkiye|Izmir|Stark Industries Solutions LTD|
+|11|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|15|195.133.49.151|8080|Russia|Moscow|JSC Mediasoft ekspert|
+|16|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|18|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|19|156.255.1.250|1110|The Netherlands|Amsterdam|BitCommand LLC|
+|20|36.35.175.175|20653|China|Hefei|China Unicom Anhui Province Network|
 
 
 
