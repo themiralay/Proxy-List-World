@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.92.30|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|6|167.99.2.155|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|134.35.190.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.35.33.159|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
-|14|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|10|134.35.190.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|181.78.64.172|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|13|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|16|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|72.10.164.178|28359|Canada|Montreal|GloboTech Communications|
-|19|160.248.189.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|38.51.235.217|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
