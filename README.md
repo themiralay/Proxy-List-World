@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|160.248.5.211|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.213.24.233|8080|Russia|Khasavyurt|DAGNET|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|202.57.2.20|8080|Indonesia|Pademangan Timur|Primanet - ISP|
-|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|18|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|14|51.91.252.25|1234|France|Gravelines|OVH SAS|
+|15|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|61.74.186.71|3128|South Korea|Seongnam-si|Korea Telecom|
 |19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
