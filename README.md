@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|6|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|19|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|72.10.160.90|20557|Canada|Montreal|GloboTech Communications|
+|2|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|14|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|20|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 
 
 
