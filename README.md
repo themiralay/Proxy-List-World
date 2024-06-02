@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |5|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|103.186.204.48|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|14|24.152.50.130|8080|Dominican Republic|Jarabacoa|Lightwave S.R.L|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|17|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|16|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.148.129.177|8080|Pakistan|Jaranwala|MAC WIFI NETWORKS (PRIVATE) LIMITED|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|160.248.92.115|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
