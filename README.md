@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |15|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|19|67.43.236.20|7193|Canada|Montreal|GloboTech Communications|
-|20|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
+|16|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|17|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 
 
 
