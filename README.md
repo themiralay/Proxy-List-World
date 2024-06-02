@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|19|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
-|20|97.64.69.65|16099|United States|College Station|PRONSS|
+|18|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|19|149.86.140.141|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
