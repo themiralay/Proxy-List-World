@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|160.248.9.73|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|103.174.236.55|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|20|72.10.160.174|13967|Canada|Montreal|GloboTech Communications|
+|11|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.9.73|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|17|72.10.164.178|21587|Canada|Montreal|GloboTech Communications|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|111.89.130.105|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 
 
 
