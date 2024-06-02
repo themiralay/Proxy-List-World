@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|145.40.73.104|80|Singapore|Singapore|Packet Host, Inc.|
+|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
 |17|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
