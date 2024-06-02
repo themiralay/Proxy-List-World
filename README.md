@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|188.132.222.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|15097|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.236.20|12823|Canada|Montreal|GloboTech Communications|
-|18|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|72.10.164.178|15097|Canada|Montreal|GloboTech Communications|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|34.154.161.152|80|Italy|Milan|Google LLC|
+|10|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|17|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
