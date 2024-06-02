@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|7|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|8|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|157.100.9.236|999|Ecuador|Quito|Telconet S.A|
-|17|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|144.24.204.126|8118|France|Marseille|Oracle Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|51.79.254.97|8443|Singapore|Singapore|OVH SAS|
+|18|3.143.212.88|3128|United States|Dublin|Amazon.com, Inc.|
+|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
