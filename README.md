@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
 |14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |17|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|20|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
