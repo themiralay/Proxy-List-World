@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|11|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
-|14|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
 |15|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|20|67.43.227.227|5149|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
