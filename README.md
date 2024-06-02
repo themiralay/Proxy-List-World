@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|146.190.57.4|8081|United States|Santa Clara|DigitalOcean, LLC|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|160.248.9.73|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.92.116|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|160.248.92.115|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.9.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
-|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|160.248.9.73|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.9.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.92.116|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.92.115|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|17|97.76.251.138|8080|United States|Seminole|Spectrum|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
