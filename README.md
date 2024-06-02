@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|66.223.176.201|8080|United States|Fairbanks|General Communication|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|14|179.43.93.198|8080|Peru|Horacio Zeballos Gamez|MEDIA COMMERCE PERÚ S.A.C|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|14|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|16|64.23.150.202|8081|United States|San Francisco|DigitalOcean, LLC|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
 
 
 
