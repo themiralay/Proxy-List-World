@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|7|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|154.127.240.117|64001|Angola|Huambo|HMB-FTTH|
-|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|19|109.123.238.240|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|20|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
+|6|109.123.238.240|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|7|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|8|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|18|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|122.185.183.194|8080|India|Bhubaneswar|Bharti Airtel Limited|
 
 
 
