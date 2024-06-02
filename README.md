@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
