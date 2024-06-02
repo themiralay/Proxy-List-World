@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|1|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
 |6|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|45.229.31.34|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|12|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|11|64.23.147.246|8081|United States|San Francisco|DigitalOcean, LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
