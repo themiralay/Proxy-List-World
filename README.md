@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|200.59.10.50|999|Argentina|Don Torcuato|COTELCAM|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|19|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
