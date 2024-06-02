@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|7|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |12|72.44.32.113|3128|United States|Ashburn|Amazon.com|
 |13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|17|67.43.227.226|4073|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|16|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
 |18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|67.43.228.253|10283|Canada|Montreal|GloboTech Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
