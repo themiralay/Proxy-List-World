@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|18|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|139.255.36.82|8080|Indonesia|Jakarta|PT. LINKNET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
+|11|147.92.36.44|3129|Hong Kong|Tseung Kwan O|DNC|
+|12|38.51.235.219|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|146.190.57.198|8081|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.229.205.241|55555|Argentina|Avellaneda|Visio RED SRL|
+|18|103.46.8.55|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |20|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
 
 
