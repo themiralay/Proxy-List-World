@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|13|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|15|187.188.169.169|8080|Mexico|Molcaxac|Total Play Telecomunicaciones SA De CV|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|103.186.204.52|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|8|34.154.161.152|80|Italy|Milan|Google LLC|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|11|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|12|200.24.146.51|999|Ecuador|Rosa Zarate|Ufinet Panama S.A.|
+|13|103.28.114.157|66|Indonesia|Nganjuk|PT Lintas Data Prima|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 |16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|17|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
 |18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |19|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|171.102.10.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|20|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
 
 
 
