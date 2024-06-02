@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|14|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|72.10.164.178|22169|Canada|Montreal|GloboTech Communications|
-|17|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|18|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|15|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|223.247.47.89|8089|China|Rongcheng|Chinanet|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.227.227|29985|Canada|Montreal|GloboTech Communications|
+|20|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
