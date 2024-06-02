@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|7|160.248.9.73|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|103.48.71.58|82|India|Hyderabad|Country Online Services PVT LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|17|185.100.232.163|23313|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|204.199.120.27|999|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
