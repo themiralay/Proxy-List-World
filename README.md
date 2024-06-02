@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|5|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |12|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|13|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
 |16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|18|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
