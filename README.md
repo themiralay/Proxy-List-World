@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|13|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|8|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|14|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|190.83.15.21|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
 |17|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
-|18|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|19|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
