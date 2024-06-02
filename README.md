@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|5|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 |6|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|146.190.57.4|8081|United States|Santa Clara|DigitalOcean, LLC|
-|12|203.128.77.213|33378|Indonesia|Sunter Agung|Neuviz|
-|13|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|67.43.227.228|1333|Canada|Montreal|GloboTech Communications|
-|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.228.250|27241|Canada|Montreal|GloboTech Communications|
-|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|20|72.10.160.90|3995|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|10|101.255.150.49|8089|Indonesia|Bekasi|PT Remala Abadi|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|64.112.184.87|3128|United States|Chesterfield Court House|Hosted Backbone|
+|16|103.115.31.39|8181|Indonesia|Nganjuk|HSPNET|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
