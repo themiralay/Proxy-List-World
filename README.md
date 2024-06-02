@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|103.156.75.85|1111|Indonesia|Denpasar|PT Trika Global Media|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|19|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.198.220.17|8443|Kazakhstan|Almaty|TimeWeb Ltd.|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|14|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|15|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|16|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|181.48.126.38|36413|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|186.148.181.209|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
