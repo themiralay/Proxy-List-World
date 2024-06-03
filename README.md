@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|8|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
-|10|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|16|72.10.164.178|17417|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17417|Canada|Montreal|GloboTech Communications|
-|18|103.8.68.46|3128|China|Shiyan|Hubei Feixun Network Co., Ltd|
-|19|67.43.236.20|13111|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17417|Canada|Montreal|GloboTech Communications|
+|7|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|11|72.10.164.178|14863|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|72.10.164.178|14863|Canada|Montreal|GloboTech Communications|
+|14|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|160.248.0.115|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
