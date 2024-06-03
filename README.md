@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|11|67.43.227.227|14327|Canada|Montreal|GloboTech Communications|
-|12|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|13|67.43.227.227|14327|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|13191|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3157|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|20279|Canada|Montreal|GloboTech Communications|
-|17|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|18|67.43.227.230|15747|Canada|Montreal|GloboTech Communications|
-|19|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|20|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|103.166.10.138|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|15|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
