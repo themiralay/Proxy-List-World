@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|67.43.227.228|16515|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8689|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|25203|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25203|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|22309|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|8689|Canada|Montreal|GloboTech Communications|
-|20|74.48.89.231|9988|United States|Los Angeles|Multacom Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|72.10.164.178|15773|Canada|Montreal|GloboTech Communications|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|72.10.164.178|15773|Canada|Montreal|GloboTech Communications|
+|20|160.248.0.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
