@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|64.23.157.168|8081|United States|San Francisco|DigitalOcean, LLC|
-|15|67.43.227.228|4689|Canada|Montreal|GloboTech Communications|
-|16|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|17|67.43.227.227|26995|Canada|Montreal|GloboTech Communications|
-|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|9803|Canada|Montreal|GloboTech Communications|
+|20|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 
 
 
