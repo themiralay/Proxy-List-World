@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|46.105.42.230|3128|France|Roubaix|OVH SAS|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|16|103.247.23.198|8080|Indonesia|Cileungsir|PT wifian Solution|
-|17|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|14|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
