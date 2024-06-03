@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|67.43.227.227|28085|Canada|Montreal|GloboTech Communications|
-|9|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|10|67.43.227.227|28085|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|19193|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|13599|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
-|14|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|15|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|18|67.43.227.228|12643|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.253|3235|Canada|Montreal|GloboTech Communications|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|11|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|16|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|38.51.235.217|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|67.43.236.20|19193|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|31033|Canada|Montreal|GloboTech Communications|
 
 
 
