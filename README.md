@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.227|17473|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.21|2995|Canada|Montreal|GloboTech Communications|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|1575|Canada|Montreal|GloboTech Communications|
-|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|18|67.43.227.226|30225|Canada|Montreal|GloboTech Communications|
-|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|20|67.43.227.227|17473|Canada|Montreal|GloboTech Communications|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|67.43.227.227|14609|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.251|6765|Canada|Montreal|GloboTech Communications|
+|13|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|67.43.228.253|15729|Canada|Montreal|GloboTech Communications|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|72.10.160.90|13495|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22407|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22407|Canada|Montreal|GloboTech Communications|
 
 
 
