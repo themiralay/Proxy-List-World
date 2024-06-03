@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|14|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.153.142.18|8080|India|Joda|Om Jay Infotech|
-|16|69.160.223.65|8181|United States|Lapel|Swayzee Telephone Company, Inc.|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|16|67.43.227.227|29337|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|6187|Canada|Montreal|GloboTech Communications|
 |18|67.43.227.227|29337|Canada|Montreal|GloboTech Communications|
-|19|195.209.51.61|11978|Russia|Moscow|Reconn LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|67.43.227.228|11695|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
