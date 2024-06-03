@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|107.174.40.120|3128|United States|Los Angeles|HostPapa|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|107.174.40.120|3128|United States|Los Angeles|HostPapa|
+|7|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|72.10.160.90|19061|Canada|Montreal|GloboTech Communications|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|67.43.236.18|4373|Canada|Montreal|GloboTech Communications|
+|12|109.123.238.240|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|13|67.43.228.253|16241|Canada|Montreal|GloboTech Communications|
 |14|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|15|67.43.228.253|14781|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28161|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|14781|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|19061|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28161|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19061|Canada|Montreal|GloboTech Communications|
+|15|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|16|67.43.236.18|4373|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|20|72.44.32.113|3128|United States|Ashburn|Amazon.com|
 
 
 
