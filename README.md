@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|72.10.164.178|21581|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|21581|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1081|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|28817|Canada|Montreal|GloboTech Communications|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|9|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|10|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
+|11|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.185.217.164|3128|United States|The Dalles|Google LLC|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|67.43.227.226|19839|Canada|Montreal|GloboTech Communications|
+|19|195.209.51.61|11978|Russia|Moscow|Reconn LLC|
+|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
 
 
 
