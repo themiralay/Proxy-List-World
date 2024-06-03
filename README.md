@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|179.189.50.160|80|Brazil|Sinop|EVO Networks|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|16|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5005|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|67.43.236.20|2511|Canada|Montreal|GloboTech Communications|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |20|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
