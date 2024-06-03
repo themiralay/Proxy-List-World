@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|12|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.228|1319|Canada|Montreal|GloboTech Communications|
-|15|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|16|72.10.164.178|11255|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|19|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
-|20|72.10.164.178|11255|Canada|Montreal|GloboTech Communications|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|16|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.227.228|21393|Canada|Montreal|GloboTech Communications|
+|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
