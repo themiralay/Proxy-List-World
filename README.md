@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|184.168.124.233|5000|Singapore|Singapore|GoDaddy.com, LLC|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|67.43.227.227|30333|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|72.10.160.173|12743|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|26577|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17107|Canada|Montreal|GloboTech Communications|
-|17|223.247.47.171|8089|China|Rongcheng|Chinanet|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|72.10.160.92|28963|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|12221|Canada|Montreal|GloboTech Communications|
+|5|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|117.207.147.21|3127|India|Jalandhar|BSNL Internet|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|64.112.184.89|3128|United States|Chesterfield Court House|Hosted Backbone|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|72.10.160.90|26577|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|72.10.160.173|12743|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|17107|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
