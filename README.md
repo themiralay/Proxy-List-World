@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|107.174.40.120|3128|United States|Los Angeles|HostPapa|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|7|167.250.99.22|8080|Brazil|Caririaçu|Provedor Cariri Conect|
-|8|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|107.174.40.120|3128|United States|Los Angeles|HostPapa|
-|14|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
-|20|67.43.236.20|21317|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|72.10.160.90|5905|Canada|Montreal|GloboTech Communications|
+|11|8.243.161.210|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|12|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
+|13|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|14|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
+|15|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
+|16|14.142.36.210|1111|India|Mumbai|Tata Communications Limited|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|67.43.227.227|17635|Canada|Montreal|GloboTech Communications|
+|19|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
