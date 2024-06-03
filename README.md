@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4710** proxies at the latest update. Usable proxies are below.
+> Scraper found **4681** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|687|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|285|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2771|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|45.231.170.137|999|Mexico|Puerto Juárez|GigNet, S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|13|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|19|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|14553|Canada|Montreal|GloboTech Communications|
+|9|103.163.244.4|83|India|Panipat|Infolink System|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
