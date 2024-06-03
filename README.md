@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|180.191.51.63|8080|Philippines|Tarlac City|Globe Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|67.43.236.20|7493|Canada|Montreal|GloboTech Communications|
-|16|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
-|17|103.87.169.180|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|72.10.164.178|29685|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|11|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|103.156.15.26|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|16|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
