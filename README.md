@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|49.48.53.114|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|146.255.188.156|8118|The Netherlands|Meppel|MIRholding B.V.|
-|15|72.10.164.178|12425|Canada|Montreal|GloboTech Communications|
-|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|17|181.119.64.84|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|18|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|20|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|2|49.48.53.114|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
+|14|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
+|15|176.110.140.154|777|Russia|Temryuk|TeleCentr Ltd.|
+|16|134.35.212.55|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
