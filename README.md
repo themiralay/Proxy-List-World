@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|49.48.53.114|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|171.6.76.84|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |11|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|17|223.70.126.84|3128|China|Beijing|China Mobile communications corporation|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|67.43.228.252|27887|Canada|Montreal|GloboTech Communications|
+|19|97.64.69.49|16099|United States|College Station|PRONSS|
+|20|171.6.76.84|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 
 
 
