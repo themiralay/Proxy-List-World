@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|190.43.92.142|999|Peru|Tacna|Telefonica Del Peru|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
+|2|103.234.28.50|8181|Indonesia|Blora|PT Agung Barokah Network|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|14|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 |15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|18|67.43.236.20|14619|Canada|Montreal|GloboTech Communications|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
