@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.55.61.58|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
-|6|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|13|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|67.43.227.227|8027|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.236.20|15261|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|17885|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|9355|Canada|Montreal|GloboTech Communications|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|191.55.61.58|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|34.154.161.152|80|Italy|Milan|Google LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
