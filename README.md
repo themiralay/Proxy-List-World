@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|14|154.205.157.133|3128|United States|San Francisco|Kaopu Cloud HK Limited|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|17|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|18|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|12|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|34.154.161.152|80|Italy|Milan|Google LLC|
+|19|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
