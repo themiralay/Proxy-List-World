@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|13|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|15|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|19|67.43.228.253|12761|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21581|Canada|Montreal|GloboTech Communications|
+|15|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|16|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
