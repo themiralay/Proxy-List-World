@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|5|134.35.203.74|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |11|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|67.43.228.253|11071|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|72.10.160.172|5463|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
