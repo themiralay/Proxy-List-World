@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |2|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|67.43.228.253|13715|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|13715|Canada|Montreal|GloboTech Communications|
-|13|5.196.111.29|20157|France|Gravelines|OVH SAS|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|16|72.10.164.178|14807|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|25881|Canada|Montreal|GloboTech Communications|
-|18|34.154.161.152|80|Italy|Milan|Google LLC|
-|19|72.10.160.93|30033|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|13715|Canada|Montreal|GloboTech Communications|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|5.196.111.29|20157|France|Gravelines|OVH SAS|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|15|72.10.160.171|18115|Canada|Montreal|GloboTech Communications|
+|16|45.70.238.189|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|67.43.228.253|13715|Canada|Montreal|GloboTech Communications|
+|19|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.160.170|15545|Canada|Montreal|GloboTech Communications|
 
 
 
