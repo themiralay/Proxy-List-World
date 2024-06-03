@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|49.48.53.114|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|212.1.64.147|8080|Ukraine|Belogorodka|Joint Ukrainan-German Enterprise "INFOCOM" LLC|
-|13|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|67.43.227.228|18937|Canada|Montreal|GloboTech Communications|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|67.43.236.20|27013|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.227.227|29787|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1391|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|72.10.164.178|24239|Canada|Montreal|GloboTech Communications|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|72.10.160.90|13057|Canada|Montreal|GloboTech Communications|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|20|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
 
 
 
