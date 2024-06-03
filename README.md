@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|11|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|103.163.244.4|83|India|Panipat|Infolink System|
+|14|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|15|72.10.164.178|21029|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|15713|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|2765|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|8487|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|29325|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|15713|Canada|Montreal|GloboTech Communications|
 
 
 
