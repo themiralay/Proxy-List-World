@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|45.231.170.137|999|Mexico|Puerto Juárez|GigNet, S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.163.244.4|83|India|Panipat|Infolink System|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|12|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|103.26.109.62|84|India|Kadayanallur|Niss Networks|
+|17|67.43.236.18|20749|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.92|5617|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
 
 
 
