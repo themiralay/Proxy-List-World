@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|309|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2661|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|31.186.241.8|8888|The Netherlands|Amsterdam|InterNAP Network Services|
-|11|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.84.176.44|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|39.129.73.6|443|China|Kunming|China Mobile|
-|16|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
-|17|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.229|26943|Canada|Montreal|GloboTech Communications|
-|19|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|20|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|117.68.38.160|41890|China|Rongcheng|China Telecom|
+|19|72.10.160.92|10495|Canada|Montreal|GloboTech Communications|
+|20|117.144.175.204|9480|China|Shanghai|China Mobile communications corporation|
 
 
 
