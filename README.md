@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|107.174.40.120|3128|United States|Los Angeles|HostPapa|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|14|67.43.228.254|32295|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22197|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|15877|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2093|Canada|Montreal|GloboTech Communications|
-|18|188.132.222.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|72.10.160.90|2093|Canada|Montreal|GloboTech Communications|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|12|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|188.132.222.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|67.43.227.228|1983|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1291|Canada|Montreal|GloboTech Communications|
+|18|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
 
 
 
