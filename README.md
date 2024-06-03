@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|67.43.227.228|23787|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|19471|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|7661|Canada|Montreal|GloboTech Communications|
-|13|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|14|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|24445|Canada|Montreal|GloboTech Communications|
-|16|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|67.43.228.251|16423|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.228.253|20143|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|6|195.209.51.61|11978|Russia|Moscow|Reconn LLC|
+|7|72.10.164.178|19403|Canada|Montreal|GloboTech Communications|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|14|72.10.164.178|19403|Canada|Montreal|GloboTech Communications|
+|15|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|16|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.228|2331|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19403|Canada|Montreal|GloboTech Communications|
+|20|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
