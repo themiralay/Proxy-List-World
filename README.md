@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.88.237.6|83|India|Hyderabad|Mana Communications|
-|10|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|11|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|15|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.231.170.137|999|Mexico|Puerto Juárez|GigNet, S.A. de C.V.|
-|20|103.250.130.106|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|1|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
+|12|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|15|103.250.130.106|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
