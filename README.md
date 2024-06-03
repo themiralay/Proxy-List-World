@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|10|74.84.150.50|3128|United States|Kansas City|DediOutlet, LLC|
-|11|72.44.32.113|3128|United States|Ashburn|Amazon.com|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|72.10.160.172|9577|Canada|Montreal|GloboTech Communications|
-|16|74.84.150.50|3128|United States|Kansas City|DediOutlet, LLC|
-|17|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|18|72.10.160.170|19161|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|7633|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|19307|Canada|Montreal|GloboTech Communications|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|61.74.186.71|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
+|13|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|14|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|15|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
