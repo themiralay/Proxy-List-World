@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|67.43.228.250|13007|Canada|Montreal|GloboTech Communications|
-|15|178.115.242.11|8080|Austria|Mariasdorf|customers with static IP|
-|16|72.10.164.178|9977|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|13837|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|28785|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|23291|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|23291|Canada|Montreal|GloboTech Communications|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|178.115.242.11|8080|Austria|Mariasdorf|customers with static IP|
+|12|72.10.160.172|17101|Canada|Montreal|GloboTech Communications|
+|13|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|67.43.227.227|18833|Canada|Montreal|GloboTech Communications|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.44.32.113|3128|United States|Ashburn|Amazon.com|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
