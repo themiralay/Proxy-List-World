@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|72.10.160.173|6589|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|72.10.164.178|4439|Canada|Montreal|GloboTech Communications|
-|11|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.236.20|3375|Canada|Montreal|GloboTech Communications|
-|13|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.228.253|17369|Canada|Montreal|GloboTech Communications|
-|15|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.164.178|4439|Canada|Montreal|GloboTech Communications|
-|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|18|67.43.228.253|17369|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|27027|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4579|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|15|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|143.64.232.251|8443|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|18|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
+|19|72.10.164.178|10017|Canada|Montreal|GloboTech Communications|
+|20|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
