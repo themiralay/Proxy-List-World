@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.171.213|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|185.165.169.7|8118|Romania|Bucharest|FlokiNET ehf|
-|10|20.187.127.130|2028|Hong Kong|Hong Kong|Microsoft Corporation|
-|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|72.10.164.178|2085|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2085|Canada|Montreal|GloboTech Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|72.10.164.178|2085|Canada|Montreal|GloboTech Communications|
-|18|14.140.167.189|10176|India|Chennai|Tata Communications Limited|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|72.10.160.171|2641|Canada|Montreal|GloboTech Communications|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.164.178|18123|Canada|Montreal|GloboTech Communications|
+|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|13|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|14|72.10.164.178|18123|Canada|Montreal|GloboTech Communications|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|70.90.138.109|8080|United States|Northville|Comcast Cable Communications, LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.171|16665|Canada|Montreal|GloboTech Communications|
 
 
 
