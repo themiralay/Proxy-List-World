@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|14|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|67.43.236.19|19559|Canada|Montreal|GloboTech Communications|
-|20|171.226.29.241|16605|Vietnam|Long An|Viettel Corporation|
+|17|72.10.160.172|29643|Canada|Montreal|GloboTech Communications|
+|18|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
 
 
 
