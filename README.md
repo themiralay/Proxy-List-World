@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|5|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|15|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|16|67.43.227.227|31969|Canada|Montreal|GloboTech Communications|
-|17|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|18|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
-|19|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.236.20|29703|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|31969|Canada|Montreal|GloboTech Communications|
+|15|190.109.168.196|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|16|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|67.43.227.227|31969|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|31969|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|3091|Canada|Montreal|GloboTech Communications|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
