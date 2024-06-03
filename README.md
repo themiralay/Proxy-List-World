@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |16|161.34.36.195|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.227.227|14787|Canada|Montreal|GloboTech Communications|
+|17|113.21.238.40|8800|China|Beijing|China Broadband Communications (Hong Kong) Company Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
