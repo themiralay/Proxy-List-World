@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|72.10.160.170|19217|Canada|Montreal|GloboTech Communications|
-|19|38.253.88.24|999|United States|Miami|Cogent Communications|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|72.10.160.170|19217|Canada|Montreal|GloboTech Communications|
+|13|114.106.173.70|8089|China|Hefei|Chinanet|
+|14|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|67.43.236.20|17101|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|2863|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
 
 
