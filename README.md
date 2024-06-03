@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|72.10.160.170|7427|Canada|Montreal|GloboTech Communications|
-|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|12|72.10.160.90|23611|Canada|Montreal|GloboTech Communications|
-|13|103.172.86.241|58080|India|Delhi|Juweriyah Networks Private Limited|
+|9|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |14|72.10.164.178|9503|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|1399|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|23611|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|12209|Canada|Montreal|GloboTech Communications|
-|18|171.232.190.236|1904|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|67.43.236.20|1837|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|28557|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|17407|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|9503|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5857|Canada|Montreal|GloboTech Communications|
+|20|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
