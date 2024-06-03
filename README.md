@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|67.43.227.229|32227|Canada|Montreal|GloboTech Communications|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
-|19|72.10.160.93|4009|Canada|Montreal|GloboTech Communications|
+|9|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|10|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|72.10.160.93|4009|Canada|Montreal|GloboTech Communications|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|18|72.10.164.178|10015|Canada|Montreal|GloboTech Communications|
+|19|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
 |20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
