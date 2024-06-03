@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|171.6.76.84|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|49.48.53.114|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
+|9|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|146.255.188.156|8118|The Netherlands|Meppel|MIRholding B.V.|
-|14|38.188.249.91|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|19|43.226.14.141|32650|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|20|72.10.164.178|1393|Canada|Montreal|GloboTech Communications|
+|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|212.1.64.147|8080|Ukraine|Belogorodka|Joint Ukrainan-German Enterprise "INFOCOM" LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|191.7.216.31|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
+|16|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.227.227|28827|Canada|Montreal|GloboTech Communications|
 
 
 
