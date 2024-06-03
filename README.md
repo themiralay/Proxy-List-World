@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.188.249.40|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|200.110.105.2|999|Mexico|Tlaltenango de Sanchez Roman|Wistarip S De RL De CV|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|20|67.43.236.20|9651|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|41.205.24.205|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
