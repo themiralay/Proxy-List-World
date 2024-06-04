@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|185.25.117.1|3128|Ukraine|Kyiv|Hosting Ukraine LTD|
+|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
 |7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|67.43.227.227|6169|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|28759|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|72.10.160.170|28759|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19545|Canada|Montreal|GloboTech Communications|
-|17|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|9|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|72.10.160.170|20605|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.171|12315|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28327|Canada|Montreal|GloboTech Communications|
+|16|54.234.212.205|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|165.16.27.109|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|18|67.43.236.20|1593|Canada|Montreal|GloboTech Communications|
+|19|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|20|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
