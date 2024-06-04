@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|52.117.160.219|8081|United States|Dallas|SoftLayer|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|14|72.10.160.94|30269|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|33057|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5717|Canada|Montreal|GloboTech Communications|
-|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.227|5717|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23025|Canada|Montreal|GloboTech Communications|
+|5|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|159.65.39.234|7732|United States|Clifton|DigitalOcean, LLC|
+|8|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.170|33057|Canada|Montreal|GloboTech Communications|
 |20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
