@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.119.68.107|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|13|72.10.160.170|22625|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.236.20|5867|Canada|Montreal|GloboTech Communications|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|183.33.192.181|9797|China|Zhuhai|Chinanet|
-|19|67.43.236.20|5867|Canada|Montreal|GloboTech Communications|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|18|67.43.236.20|32525|Canada|Montreal|GloboTech Communications|
+|19|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|67.43.236.20|32525|Canada|Montreal|GloboTech Communications|
 
 
 
