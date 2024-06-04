@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|152.67.0.109|80|India|Mumbai|Oracle Corporation|
+|2|103.28.114.140|8090|Indonesia|Bantul|PT Lintas Data Prima|
+|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|11|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
 |15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|67.43.227.227|7257|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25483|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|222.243.174.132|81|China|Xiangtan|Chinanet|
 
 
 
