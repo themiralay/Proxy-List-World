@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|181.119.84.229|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|60.49.177.68|8088|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|17|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.106.219.112|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|15|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|16|60.49.177.68|8088|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|17|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.119.84.229|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
