@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|5|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|6|45.83.96.129|3128|United Arab Emirates|Dubai|Business Integrated Operating Systems M.E. LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|65.21.141.136|15079|Finland|Helsinki|Hetzner Online GmbH|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|5|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|18|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
