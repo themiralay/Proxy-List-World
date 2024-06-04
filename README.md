@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
-|13|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
-|17|203.190.44.81|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
-|18|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|181.119.84.229|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|7|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|216.176.187.99|39865|United States|Lynnwood|Wowrack.com|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|67.43.227.227|11651|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|67.43.236.20|7461|Canada|Montreal|GloboTech Communications|
 
 
 
