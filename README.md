@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|10|60.49.177.68|8088|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|2|134.35.4.150|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|5|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|6|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|46.249.100.21|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|11|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|12|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|60.49.177.68|8088|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|20|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
