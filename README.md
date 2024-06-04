@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|8|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
 |9|199.168.148.150|18881|United States|San Jose|ZSCALER, INC.|
-|10|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|11|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|36.95.27.225|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |13|161.34.39.154|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.250|1803|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.20|20489|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|20983|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|6565|Canada|Montreal|GloboTech Communications|
-|19|202.5.40.21|5020|Bangladesh|Chittagong|BBTS-NEW|
-|20|67.43.227.228|25633|Canada|Montreal|GloboTech Communications|
+|14|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.228|10241|Canada|Montreal|GloboTech Communications|
+|17|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|72.10.160.174|3699|Canada|Montreal|GloboTech Communications|
+|19|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.170|20605|Canada|Montreal|GloboTech Communications|
 
 
 
