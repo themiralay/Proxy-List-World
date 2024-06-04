@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|14|52.117.160.219|8081|United States|Dallas|SoftLayer|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|103.189.116.18|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 
 
 
