@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|4|203.150.128.89|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|7|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|8|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
 |9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|12|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|13|72.10.160.91|8257|Canada|Montreal|GloboTech Communications|
-|14|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
-|15|67.43.227.227|12421|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|21713|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|10251|Canada|Montreal|GloboTech Communications|
+|10|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|140.227.143.171|3128|Japan|Hyōgo|InfoSphere|
+|13|67.43.227.227|23769|Canada|Montreal|GloboTech Communications|
+|14|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|29173|Canada|Montreal|GloboTech Communications|
+|17|38.156.235.231|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|18|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
 |19|72.10.164.178|29173|Canada|Montreal|GloboTech Communications|
-|20|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|20|195.149.98.211|8181|Poland|Gliwice|Obsluga pc P.Dudzinski P.Jablonski P.Ral. B.Miller s.c.|
 
 
 
