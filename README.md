@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|8|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|9|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|8|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
 |10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|67.43.228.253|24631|Canada|Montreal|GloboTech Communications|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|67.43.228.253|24631|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26607|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|17821|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3349|Canada|Montreal|GloboTech Communications|
-|18|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|103.84.235.162|8789|Indonesia|Bogor|PT Maxindo Mitra Solusi|
-|20|67.43.227.227|5005|Canada|Montreal|GloboTech Communications|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|15|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|16|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|17|72.10.164.178|5499|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
