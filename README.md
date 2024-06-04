@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|10|72.10.164.178|32171|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|5239|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|6677|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|32171|Canada|Montreal|GloboTech Communications|
-|14|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|15|117.55.202.97|3128|The Netherlands|Amsterdam|ESTOXY OU|
-|16|67.43.236.20|17783|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|8083|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8083|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5239|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|32171|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|9|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|10|65.21.141.136|15000|Finland|Helsinki|Hetzner Online GmbH|
+|11|72.10.164.178|25325|Canada|Montreal|GloboTech Communications|
+|12|65.21.141.136|15000|Finland|Helsinki|Hetzner Online GmbH|
+|13|65.21.141.136|15000|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.21.141.136|15000|Finland|Helsinki|Hetzner Online GmbH|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.164.178|25325|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|12183|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|6677|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25325|Canada|Montreal|GloboTech Communications|
+|20|65.21.141.136|15000|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
