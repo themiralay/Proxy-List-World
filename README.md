@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
+|5|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
 |8|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
-|9|67.43.227.227|3785|Canada|Montreal|GloboTech Communications|
-|10|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|11|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
-|12|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|72.10.160.90|23191|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5579|Canada|Montreal|GloboTech Communications|
-|17|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|18|104.129.194.43|11267|United States|Reston|ZSCALER, INC.|
-|19|203.150.166.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|20|67.43.227.226|21753|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|91.202.72.105|8080|Ukraine|Kyiv|Main Gigatrans Infrastructure|
+|11|147.75.88.36|10010|United States|San Jose|Packet Host, Inc.|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|104.129.194.99|11267|United States|Reston|ZSCALER, INC.|
+|14|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|15|72.10.160.90|20975|Canada|Montreal|GloboTech Communications|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|18|72.10.164.178|11809|Canada|Montreal|GloboTech Communications|
+|19|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
+|20|104.129.194.43|11267|United States|Reston|ZSCALER, INC.|
 
 
 
