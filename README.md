@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.8.164.16|1111|India|Mumbai|Microscan Computers Private Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
-|12|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|15|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|18|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|19|72.10.160.90|15383|Canada|Montreal|GloboTech Communications|
-|20|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|10|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|161.34.37.140|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|20|177.93.51.212|999|Colombia|Vistahermosa|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
