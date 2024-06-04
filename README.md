@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|103.156.15.212|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|14|67.43.236.20|16513|Canada|Montreal|GloboTech Communications|
-|15|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
-|16|67.43.236.20|16513|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|9039|Canada|Montreal|GloboTech Communications|
-|18|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
-|20|67.43.228.253|4817|Canada|Montreal|GloboTech Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|17|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|196.251.222.205|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
 
 
 
