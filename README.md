@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|103.160.184.158|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|18|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
