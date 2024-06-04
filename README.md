@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|67.43.236.20|11095|Canada|Montreal|GloboTech Communications|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|45.143.108.114|8080|Georgia|Tbilisi|Airmax LLC|
-|15|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.228|1035|Canada|Montreal|GloboTech Communications|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.236.21|8559|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1035|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|10|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|14|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|15|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.228|8459|Canada|Montreal|GloboTech Communications|
+|17|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|18|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|38.156.235.231|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
 
 
 
