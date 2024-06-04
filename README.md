@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|161.34.39.152|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|104.129.194.45|11267|United States|Reston|ZSCALER, INC.|
-|8|104.129.194.44|8800|United States|Reston|ZSCALER, INC.|
-|9|104.129.194.38|9443|United States|Reston|ZSCALER, INC.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|4131|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|2707|Canada|Montreal|GloboTech Communications|
-|14|104.129.194.45|11267|United States|Reston|ZSCALER, INC.|
-|15|72.10.160.92|20399|Canada|Montreal|GloboTech Communications|
-|16|104.129.194.99|9401|United States|Reston|ZSCALER, INC.|
-|17|67.43.227.229|16553|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|18723|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4131|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|26965|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|147.75.88.36|10010|United States|San Jose|Packet Host, Inc.|
+|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|104.129.194.45|11267|United States|Reston|ZSCALER, INC.|
+|11|104.129.194.44|8800|United States|Reston|ZSCALER, INC.|
+|12|104.129.194.38|10802|United States|Reston|ZSCALER, INC.|
+|13|104.129.194.45|11267|United States|Reston|ZSCALER, INC.|
+|14|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
+|15|104.129.194.99|443|United States|Reston|ZSCALER, INC.|
+|16|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|17|72.10.160.170|3693|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2707|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|27383|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13443|Canada|Montreal|GloboTech Communications|
 
 
 
