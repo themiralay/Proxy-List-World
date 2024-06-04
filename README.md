@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|103.154.146.74|8080|Indonesia|Sidoarjo|MORATELINDONAP|
-|16|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
-|17|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
-|18|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|19|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|20|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|1|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|18|82.200.106.177|5225|Russia|Novosibirsk|ZSTTK|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
 
 
 
