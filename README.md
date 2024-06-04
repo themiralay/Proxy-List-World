@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|14|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
 |16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|18|23.94.214.8|9054|United States|Santa Clara|HostPapa|
-|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|20|67.43.227.228|31337|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|67.43.236.21|30773|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
