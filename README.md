@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|147.75.88.36|10010|United States|San Jose|Packet Host, Inc.|
-|8|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|67.43.227.229|3571|Canada|Montreal|GloboTech Communications|
-|19|34.154.161.152|80|Italy|Milan|Google LLC|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|180.250.173.67|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|24279|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|5129|Canada|Montreal|GloboTech Communications|
+|16|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.45.44.109|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|18|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|19|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|20|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
