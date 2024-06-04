@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|180.250.173.67|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
 |7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|103.156.75.40|8181|Indonesia|Denpasar|PT Trika Global Media|
-|12|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|72.10.160.171|11837|Canada|Montreal|GloboTech Communications|
-|16|85.215.49.159|3128|Germany|Berlin|IONOS SE|
-|17|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.90|24589|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|11|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|72.10.164.178|16435|Canada|Montreal|GloboTech Communications|
+|16|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|72.10.164.178|16435|Canada|Montreal|GloboTech Communications|
+|19|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
