@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4994** proxies at the latest update. Usable proxies are below.
+> Scraper found **4957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|596|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|265|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3086|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|190.102.149.77|999|Peru|Lima Cercado|WIN EMPRESAS S.A.C.|
-|8|45.251.240.45|3128|Japan|Osaka|WENJING|
-|9|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|10|161.34.39.151|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9903|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19159|Canada|Montreal|GloboTech Communications|
-|17|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
-|18|72.10.164.178|9903|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|1407|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|7789|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|103.189.254.245|1111|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|17|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.164.178|9229|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
