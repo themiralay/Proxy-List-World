@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|11|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
-|12|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|5627|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.253|1671|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|30295|Canada|Montreal|GloboTech Communications|
-|18|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|5627|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|13|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|18|220.70.149.126|3128|South Korea|Samcheok-si|Korea Telecom|
+|19|103.127.220.98|8090|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
