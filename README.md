@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5194** proxies at the latest update. Usable proxies are below.
+> Scraper found **5253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3319|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|171.251.92.87|5404|Vietnam|Kon Tum|Viettel Corporation|
-|8|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|16|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|12|147.75.88.36|10011|United States|San Jose|Packet Host, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|72.10.160.171|21739|Canada|Montreal|GloboTech Communications|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|67.43.236.20|16189|Canada|Montreal|GloboTech Communications|
 
 
 
