@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|147.75.88.36|10012|United States|San Jose|Packet Host, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|140.115.70.111|80|Taiwan|Taoyuan District|T-NCU.EDU.TW|
-|10|103.139.188.41|7077|Indonesia|Blitar|Pemerintah Kabupaten Blitar|
-|11|45.189.118.232|999|Peru|Lima region|Fiber Digital S.R.L|
-|12|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
-|13|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|15|147.92.36.42|3129|Hong Kong|Tseung Kwan O|DNC|
-|16|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|17|102.216.74.209|8888|South Africa|Vredenburg|Rapid Networks Sub2|
-|18|72.10.164.178|26607|Canada|Montreal|GloboTech Communications|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|103.234.159.5|8080|India|Bengaluru|MWPL|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|10|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|11|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
+|14|67.43.227.227|18281|Canada|Montreal|GloboTech Communications|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.236.20|14113|Canada|Montreal|GloboTech Communications|
 
 
 
