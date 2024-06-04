@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|103.169.133.34|8080|Indonesia|Pasirjaya|PT Alfa Omega Interkoneksi|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.190.171.137|8080|Indonesia|Jakarta|WMS|
-|11|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|12|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|67.43.228.253|2157|Canada|Montreal|GloboTech Communications|
-|15|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|17|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|72.10.164.178|19441|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|203.150.128.89|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|17|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|72.10.164.178|13007|Canada|Montreal|GloboTech Communications|
 
 
 
