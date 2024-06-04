@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|203.150.128.216|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|91.121.106.55|4444|France|Roubaix|OVH SAS|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|67.43.227.228|12121|Canada|Montreal|GloboTech Communications|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|209.126.84.8|3128|United States|St Louis|Nubes, LLC|
+|5|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|67.43.236.20|31179|Canada|Montreal|GloboTech Communications|
+|13|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|61.74.186.71|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|72.10.160.90|30681|Canada|Montreal|GloboTech Communications|
+|18|103.180.1.242|1111|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
 |19|67.43.236.20|31179|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31179|Canada|Montreal|GloboTech Communications|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
