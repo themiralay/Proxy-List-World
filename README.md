@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|72.10.160.90|28793|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|28793|Canada|Montreal|GloboTech Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |17|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.228|33117|Canada|Montreal|GloboTech Communications|
-|19|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|72.10.160.90|6379|Canada|Montreal|GloboTech Communications|
+|19|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|20|67.43.227.228|6753|Canada|Montreal|GloboTech Communications|
 
 
 
