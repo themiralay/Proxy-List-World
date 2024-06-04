@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|10|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
-|15|103.110.10.189|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.228.251|9551|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4867|Canada|Montreal|GloboTech Communications|
-|20|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|200.39.154.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|5.187.79.198|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
 
 
 
