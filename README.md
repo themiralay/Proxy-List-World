@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|6|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|72.10.164.178|3199|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|72.10.164.178|3199|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|7187|Canada|Montreal|GloboTech Communications|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.160.170|30151|Canada|Montreal|GloboTech Communications|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|8|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|170.239.205.9|8080|Colombia|Bogotá|FIBERNET|
+|15|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
