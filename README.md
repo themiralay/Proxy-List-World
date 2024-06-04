@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |7|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|68.183.14.206|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|203.150.128.216|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|67.43.236.20|9897|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|32737|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|31583|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|209.126.84.8|3128|United States|St Louis|Nubes, LLC|
+|13|31.13.212.99|3128|Bulgaria|Sofia|DarkNet Ltd|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.227.227|28195|Canada|Montreal|GloboTech Communications|
+|18|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|19|90.84.17.133|3128|France|Saint-Denis|FR OCB HONEY AS2280|
 |20|67.43.227.226|26165|Canada|Montreal|GloboTech Communications|
 
 
