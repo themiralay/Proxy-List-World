@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|11|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|72.10.160.171|16297|Canada|Montreal|GloboTech Communications|
-|18|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|72.10.160.171|16297|Canada|Montreal|GloboTech Communications|
+|13|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|14|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
+|16|186.215.196.50|3128|Brazil|Sapucaia|Vivo|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|223.26.22.250|8080|Afghanistan|Kabul|Ankabut Internet Service Provider|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
