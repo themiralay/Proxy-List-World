@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|9|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|67.43.228.253|5249|Canada|Montreal|GloboTech Communications|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|67.43.236.21|20961|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4917|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|67.43.227.227|4917|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|67.43.227.227|17799|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|24783|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|23657|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|67.43.236.20|23881|Canada|Montreal|GloboTech Communications|
+|19|189.193.254.98|8080|Mexico|Ixtlahuaca de Rayon|Tele Go, Inc|
+|20|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 
 
 
