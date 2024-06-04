@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|5|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|199.168.148.152|59998|United States|San Jose|ZSCALER, INC.|
-|12|104.129.194.43|8800|United States|Reston|ZSCALER, INC.|
-|13|199.168.148.150|18881|United States|San Jose|ZSCALER, INC.|
-|14|65.21.141.136|15034|Finland|Helsinki|Hetzner Online GmbH|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|199.168.148.152|59998|United States|San Jose|ZSCALER, INC.|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|26807|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|199.168.148.152|59998|United States|San Jose|ZSCALER, INC.|
+|7|104.129.194.43|11267|United States|Reston|ZSCALER, INC.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|85.215.49.159|3128|Germany|Berlin|IONOS SE|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|199.168.148.152|59998|United States|San Jose|ZSCALER, INC.|
+|13|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|72.10.164.178|26807|Canada|Montreal|GloboTech Communications|
+|17|97.64.70.2|16099|United States|College Station|PRONSS|
+|18|199.168.148.131|10088|United States|San Jose|ZSCALER, INC.|
+|19|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|20|67.43.227.227|14711|Canada|Montreal|GloboTech Communications|
 
 
 
