@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|119.12.170.184|80|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|14|67.43.227.226|22785|Canada|Montreal|GloboTech Communications|
-|15|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|1|119.12.170.184|80|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.160.207.163|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|10|103.133.68.151|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|11|186.215.196.50|3128|Brazil|Sapucaia|Vivo|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|67.43.227.226|22785|Canada|Montreal|GloboTech Communications|
+|14|177.93.51.213|999|Colombia|Vistahermosa|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
 |16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|67.43.236.20|4365|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2645|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|32419|Canada|Montreal|GloboTech Communications|
+|17|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|188.124.230.43|19775|Russia|Taman'|Miranda-Media B2C Static # 5|
+|20|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
 
 
 
