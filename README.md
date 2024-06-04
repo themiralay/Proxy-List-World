@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5024** proxies at the latest update. Usable proxies are below.
+> Scraper found **5026** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|203.150.113.228|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|199.168.148.150|18881|United States|San Jose|ZSCALER, INC.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|104.129.194.43|11267|United States|Reston|ZSCALER, INC.|
-|16|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|17|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|18|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|123.200.18.155|80|Bangladesh|Bhātāra|Link3 Technologies Limited|
-|20|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|104.129.194.43|11267|United States|Reston|ZSCALER, INC.|
+|13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|14|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|161.34.39.147|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|104.129.194.44|8800|United States|Reston|ZSCALER, INC.|
+|17|65.21.141.136|15034|Finland|Helsinki|Hetzner Online GmbH|
+|18|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|20|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
 
 
 
