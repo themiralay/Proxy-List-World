@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|4|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|67.43.236.20|16441|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|19441|Canada|Montreal|GloboTech Communications|
-|14|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|67.43.227.226|24097|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13913|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|1673|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19441|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|67.43.227.226|14985|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|2203|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|12049|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|162.254.38.91|3128|United States|Los Angeles|Namecheap, Inc.|
+|19|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|20|72.10.164.178|15673|Canada|Montreal|GloboTech Communications|
 
 
 
