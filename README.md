@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|11|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|103.153.134.20|8080|Indonesia|Tangerang|WMINET|
-|14|72.10.160.90|8707|Canada|Montreal|GloboTech Communications|
-|15|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|16|67.43.227.226|8521|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|27131|Canada|Montreal|GloboTech Communications|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|67.43.228.250|26657|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|11925|Canada|Montreal|GloboTech Communications|
+|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|45.188.164.3|999|Mexico|Tocumbo|Velocom SA De CV|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 
 
 
