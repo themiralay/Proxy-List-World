@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|147.75.88.36|10008|United States|San Jose|Packet Host, Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
-|10|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
-|11|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
-|12|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
-|13|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|104.129.194.99|9401|United States|Reston|ZSCALER, INC.|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|104.129.194.104|9400|United States|Reston|ZSCALER, INC.|
-|18|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|19|104.129.194.99|9401|United States|Reston|ZSCALER, INC.|
-|20|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
+|15|199.168.148.152|40080|United States|San Jose|ZSCALER, INC.|
+|16|199.168.148.151|59998|United States|San Jose|ZSCALER, INC.|
+|17|104.129.194.99|9401|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.45|11039|United States|Reston|ZSCALER, INC.|
+|19|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.99|9401|United States|Reston|ZSCALER, INC.|
 
 
 
