@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|10|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|9|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|160.19.202.150|999|Chile|Puente Alto|Makronet Consulting Tecnologia E Informatica Limitada|
-|18|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|18|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 |20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
