@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|104.129.194.43|8800|United States|Reston|ZSCALER, INC.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|104.129.194.44|8800|United States|Reston|ZSCALER, INC.|
-|11|67.43.227.227|6655|Canada|Montreal|GloboTech Communications|
-|12|199.168.148.150|10030|United States|San Jose|ZSCALER, INC.|
-|13|72.10.160.174|11251|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|4231|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|17|72.10.160.170|27547|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|5311|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|103.150.69.9|8080|Bangladesh|Tongi|Md Johirul Islam|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.150.69.9|8080|Bangladesh|Tongi|Md Johirul Islam|
+|10|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|203.150.113.228|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|15|139.178.81.71|3128|United States|Dallas|Packet Host, Inc.|
+|16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|199.168.148.150|10030|United States|San Jose|ZSCALER, INC.|
+|20|104.129.194.44|8800|United States|Reston|ZSCALER, INC.|
 
 
 
