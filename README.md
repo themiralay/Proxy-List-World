@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|147.92.36.43|3129|Hong Kong|Tseung Kwan O|DNC|
 |16|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|188.136.164.227|7060|Iran|Khvānsār|Ariana Gostar Spadana's|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|38.51.235.219|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|181.119.84.229|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
 
 
 
