@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.160.90|26951|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|67.43.227.226|8747|Canada|Montreal|GloboTech Communications|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|26951|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|33261|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|33261|Canada|Montreal|GloboTech Communications|
-|20|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|118.99.124.147|8080|Indonesia|Depok|Biznet Metronet|
+|15|72.10.160.90|19467|Canada|Montreal|GloboTech Communications|
+|16|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.226|8747|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|11459|Canada|Montreal|GloboTech Communications|
 
 
 
