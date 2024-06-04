@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|15|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|10|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|11|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|17|13.235.208.36|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.227.227|29173|Canada|Montreal|GloboTech Communications|
+|20|154.127.240.125|64003|Angola|Huambo|HMB-FTTH|
 
 
 
