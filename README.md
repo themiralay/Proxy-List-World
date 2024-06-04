@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.141.109.157|8080|Indonesia|Wonokromo|Data Buana Nusantara|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|72.10.160.172|11537|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|85.215.49.159|3128|Germany|Berlin|IONOS SE|
 |20|67.43.227.228|25785|Canada|Montreal|GloboTech Communications|
 
 
