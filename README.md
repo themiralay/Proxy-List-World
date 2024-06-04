@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|207.244.254.27|3192|United States|St Louis|Nubes, LLC|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|72.10.160.170|5047|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|15703|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|8713|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.138|20002|China|Rongcheng|China Telecom|
-|18|72.10.160.171|25201|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|28911|Canada|Montreal|GloboTech Communications|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|67.43.228.253|28911|Canada|Montreal|GloboTech Communications|
+|14|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|67.43.227.227|22585|Canada|Montreal|GloboTech Communications|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
