@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|19|67.43.236.20|2973|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|15|199.223.255.109|3128|United States|Latham|Turnkey Internet Inc.|
+|16|72.10.160.171|18961|Canada|Montreal|GloboTech Communications|
+|17|194.140.198.23|80|United States|Newark|Nubes, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|190.102.139.146|999|Peru|Punta Hermosa|WIN EMPRESAS S.A.C.|
+|20|72.10.164.178|3849|Canada|Montreal|GloboTech Communications|
 
 
 
