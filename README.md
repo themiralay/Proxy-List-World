@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|8|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|11|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.156.74.186|8080|Indonesia|Denpasar|PT Trika Global Media|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|31.146.116.18|8080|Georgia|Batumi|JSC "Silknet"|
-|20|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.90.229|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|9|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|10|54.149.58.220|3128|United States|Portland|Amazon.com, Inc.|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|13|103.156.74.186|8080|Indonesia|Denpasar|PT Trika Global Media|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|190.61.61.210|999|Colombia|Juan de Acosta|Ufinet Panama S.A.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
