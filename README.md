@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda|
-|12|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|15|72.10.160.90|32031|Canada|Montreal|GloboTech Communications|
-|16|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.39.148|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.235.14.8|999|Ecuador|Babahoyo|Anibal Humberto Enriquez Moncayo(Comunicate)|
+|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
 |17|161.34.39.150|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|19|67.43.228.250|15539|Canada|Montreal|GloboTech Communications|
-|20|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|18|72.10.160.90|12871|Canada|Montreal|GloboTech Communications|
+|19|186.215.196.50|3128|Brazil|Sapucaia|Vivo|
+|20|72.10.164.178|24527|Canada|Montreal|GloboTech Communications|
 
 
 
