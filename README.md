@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|186.148.175.118|999|Colombia|Aguazul|TV AZTECA SUCURSAL COLOMBIA|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|177.130.104.118|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
 |12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|103.170.155.117|3128|United States|Ashburn|SpeedyPage Ltd|
-|14|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|15|67.43.227.227|19583|Canada|Montreal|GloboTech Communications|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|67.43.227.228|7435|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4391|Canada|Montreal|GloboTech Communications|
-|19|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|103.163.186.137|3128|United States|Ashburn|SpeedyPage Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.101.193.50|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|20|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
 
 
 
