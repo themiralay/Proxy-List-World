@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|181.192.29.80|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|8|110.78.186.222|8080|Thailand|Chon Buri|CAT-BB|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|134.35.0.146|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|80.66.81.26|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|86.189.191.132|80|United Kingdom|Maidstone|BT Public Internet Service|
-|17|72.10.164.178|3153|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|67.43.227.226|12905|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|22369|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|19589|Canada|Montreal|GloboTech Communications|
 
 
 
