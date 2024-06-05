@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|182.252.81.185|8080|Bangladesh|Sirajganj|Agni Systems Limited|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
