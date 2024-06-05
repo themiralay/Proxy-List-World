@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|188.132.222.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|67.43.236.20|30137|Canada|Montreal|GloboTech Communications|
-|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|15|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|16|72.10.164.178|31175|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.227.227|14713|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|30137|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31175|Canada|Montreal|GloboTech Communications|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|10|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|11|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|72.10.160.170|21221|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|17655|Canada|Montreal|GloboTech Communications|
+|19|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|20|67.43.228.253|17655|Canada|Montreal|GloboTech Communications|
 
 
 
