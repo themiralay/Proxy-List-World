@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.170|10223|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|67.43.227.227|3247|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|117.144.175.204|9400|China|Shanghai|China Mobile communications corporation|
-|17|67.43.227.227|3247|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|5983|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|5329|Canada|Montreal|GloboTech Communications|
-|20|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|27.147.137.90|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|89.23.110.116|8082|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|15|72.10.164.178|18825|Canada|Montreal|GloboTech Communications|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|72.10.164.178|18825|Canada|Montreal|GloboTech Communications|
+|18|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|19|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|182.253.137.126|8080|Indonesia|Surakarta|BIZNET|
 
 
 
