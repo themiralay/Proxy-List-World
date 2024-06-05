@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|67.43.228.250|3415|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|67.43.228.251|15703|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7735|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|10199|Canada|Montreal|GloboTech Communications|
-|17|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|18|72.10.164.178|7735|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|21551|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1667|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|67.43.227.228|32317|Canada|Montreal|GloboTech Communications|
+|9|181.119.64.84|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|10|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|11|67.43.227.227|1667|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|11575|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|27815|Canada|Montreal|GloboTech Communications|
+|14|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|15|67.43.227.227|1667|Canada|Montreal|GloboTech Communications|
+|16|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|17|72.10.164.178|7735|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.254|16413|Canada|Montreal|GloboTech Communications|
+|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|72.10.164.178|7735|Canada|Montreal|GloboTech Communications|
 
 
 
