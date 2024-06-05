@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|7|113.160.247.27|19132|Vietnam|Binh Son|VietNam Post and Telecom Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.174.236.55|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|12|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|176.236.141.30|10001|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|14|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
-|17|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
-|18|67.43.227.227|22125|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22125|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10471|Canada|Montreal|GloboTech Communications|
+|2|103.170.155.97|3128|United States|Ashburn|SpeedyPage Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|103.163.186.137|3128|United States|Ashburn|SpeedyPage Ltd|
+|8|103.180.194.149|8080|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.170.155.153|3128|United States|Ashburn|SpeedyPage Ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|36.90.217.217|3128|Indonesia|Madiun|PT. Telekomunikasi Indonesia|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|185.208.101.149|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
