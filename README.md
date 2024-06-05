@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|160.248.9.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|103.165.211.174|3128|Indonesia|Bulak|PT iForte Global Internet|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|5.196.111.29|20016|France|Gravelines|OVH SAS|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|20|160.248.9.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
