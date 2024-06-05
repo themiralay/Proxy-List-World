@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|67.43.227.226|7413|Canada|Montreal|GloboTech Communications|
+|9|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|10|67.43.227.226|7413|Canada|Montreal|GloboTech Communications|
+|11|13.40.239.130|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|72.10.160.93|8019|Canada|Montreal|GloboTech Communications|
 |13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.93|8019|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2521|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|7413|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|4615|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|28327|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7413|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|25315|Canada|Montreal|GloboTech Communications|
+|14|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
+|15|72.10.160.172|10241|Canada|Montreal|GloboTech Communications|
+|16|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|38.156.235.231|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
