@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5873** proxies at the latest update. Usable proxies are below.
+> Scraper found **5874** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|535|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|193.223.104.235|3128|Turkey|Bursa|Bursabil Teknoloji A.S.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|11|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
+|1|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|103.87.169.166|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|103.88.236.113|84|India|Hyderabad|Mana Communications|
-|17|67.43.236.20|15335|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7387|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|67.43.236.20|15335|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|16835|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15253|Canada|Montreal|GloboTech Communications|
+|17|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|19|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|20|67.43.228.253|2099|Canada|Montreal|GloboTech Communications|
 
 
 
