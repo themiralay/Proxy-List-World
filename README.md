@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|107.174.40.120|3128|United States|Los Angeles|HostPapa|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|10327|Canada|Montreal|GloboTech Communications|
-|16|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|103.88.237.6|84|India|Hyderabad|Mana Communications|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.164.178|1915|Canada|Montreal|GloboTech Communications|
+|18|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
