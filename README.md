@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|54.234.212.205|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
-|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|20|72.10.164.178|1753|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.236.20|18393|Canada|Montreal|GloboTech Communications|
+|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|18|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
