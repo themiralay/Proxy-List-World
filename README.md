@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|192.210.236.54|3128|United States|Elk Grove Village|HostPapa|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.160.170|21421|Canada|Montreal|GloboTech Communications|
-|11|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|12|72.10.164.178|4335|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|13011|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|27477|Canada|Montreal|GloboTech Communications|
-|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.236.20|13011|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4335|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|72.10.160.171|26159|Canada|Montreal|GloboTech Communications|
+|7|192.210.236.54|3128|United States|Elk Grove Village|HostPapa|
+|8|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|9|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|13|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|72.10.160.170|30821|Canada|Montreal|GloboTech Communications|
+|16|119.2.48.2|8745|Indonesia|Yogyakarta|GMEDIA|
+|17|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
