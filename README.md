@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|192.210.236.60|3128|United States|Elk Grove Village|HostPapa|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.228.253|27137|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|14153|Canada|Montreal|GloboTech Communications|
-|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|83.54.170.183|3128|Spain|León|Telefonica de Espana SAU|
-|17|72.10.164.178|30939|Canada|Montreal|GloboTech Communications|
-|18|119.110.69.182|63123|Indonesia|Jakarta|Maxindo|
-|19|67.43.228.253|27137|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|83.54.170.183|3128|Spain|León|Telefonica de Espana SAU|
+|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|150.242.19.5|8080|India|Surat|Ishan Netsol Pvt Ltd|
+|19|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.177.235.132|82|India|Bengaluru|Coastal Live Channel|
 
 
 
