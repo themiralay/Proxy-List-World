@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|185.208.102.155|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.163.186.207|3128|United States|Ashburn|SpeedyPage Ltd|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|15|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|16|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
-|20|72.10.160.90|26717|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|5|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|8|134.35.215.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|41.111.188.39|80|Algeria|Oran|Algerie Telecom|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|61.5.11.85|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|13|146.255.188.156|8118|The Netherlands|Meppel|MIRholding B.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|147.139.176.118|3128|Indonesia|Jakarta|Alibaba.com LLC|
 
 
 
