@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|65.20.188.53|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
-|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|20|72.10.164.178|20827|Canada|Montreal|GloboTech Communications|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|173.212.223.114|8235|Germany|Nuremberg|Contabo GmbH|
+|17|95.158.179.216|32799|Bulgaria|Veliko Tarnovo|Videosat 21 Vek OOD|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|103.143.169.210|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|20|72.10.164.178|21241|Canada|Montreal|GloboTech Communications|
 
 
 
