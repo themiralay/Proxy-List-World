@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.90|21235|Canada|Montreal|GloboTech Communications|
-|12|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
-|13|72.10.160.90|21235|Canada|Montreal|GloboTech Communications|
-|14|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.227.228|31523|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
+|13|67.43.227.228|23957|Canada|Montreal|GloboTech Communications|
+|14|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|72.10.160.90|21235|Canada|Montreal|GloboTech Communications|
+|18|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|20|49.13.165.213|49623|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
