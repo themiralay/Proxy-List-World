@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|3|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.169.254.37|8080|Indonesia|Sidoarjo|PT Master Star Network|
-|19|72.10.164.178|21675|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|17|72.10.164.178|28867|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.90|30813|Canada|Montreal|GloboTech Communications|
 
 
 
