@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|67.43.236.22|15229|Canada|Montreal|GloboTech Communications|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|54.234.212.205|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|116.58.232.156|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|15|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|37.204.209.198|8080|Russia|Moscow|NCNET|
+|19|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
