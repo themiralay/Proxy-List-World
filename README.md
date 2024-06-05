@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|16|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |17|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
