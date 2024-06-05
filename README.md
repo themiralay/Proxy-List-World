@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|8881|Canada|Montreal|GloboTech Communications|
-|14|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|15|67.43.227.227|8033|Canada|Montreal|GloboTech Communications|
-|16|5.196.111.29|20121|France|Gravelines|OVH SAS|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|67.43.227.227|8033|Canada|Montreal|GloboTech Communications|
-|19|97.76.251.138|8080|United States|Seminole|Spectrum|
-|20|72.10.160.90|18121|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|11|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|5.196.111.29|20121|France|Gravelines|OVH SAS|
+|15|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|20|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
