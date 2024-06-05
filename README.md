@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|9|72.10.160.90|7631|Canada|Montreal|GloboTech Communications|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|72.10.160.170|21933|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|23455|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|16331|Canada|Montreal|GloboTech Communications|
-|14|203.57.255.139|3128|China|Gaosha|Cloud Computing Corporation|
-|15|72.10.164.178|23455|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|9409|Canada|Montreal|GloboTech Communications|
-|17|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|18|72.10.160.91|9409|Canada|Montreal|GloboTech Communications|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|67.43.236.20|16331|Canada|Montreal|GloboTech Communications|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|20|72.10.160.90|4283|Canada|Montreal|GloboTech Communications|
 
 
 
