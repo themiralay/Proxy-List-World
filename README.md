@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|207.248.108.129|20185|Mexico|Pátzcuaro|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 
 
 
