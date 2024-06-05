@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|104.211.67.168|80|India|Pune|Microsoft Corporation|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|72.10.160.171|17729|Canada|Montreal|GloboTech Communications|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|67.43.236.18|14267|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12051|Canada|Montreal|GloboTech Communications|
-|20|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|12|72.10.160.171|17729|Canada|Montreal|GloboTech Communications|
+|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|185.141.213.130|8082|Iran|Tehran|Asiatech Data Transmission company|
+|16|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|17|67.220.86.253|3128|United States|Phoenix|GTHost|
+|18|67.43.227.228|32923|Canada|Montreal|GloboTech Communications|
+|19|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
 
 
 
