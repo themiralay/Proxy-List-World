@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.170.155.116|3128|United States|Ashburn|SpeedyPage Ltd|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|188.132.222.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|103.170.155.116|3128|United States|Ashburn|SpeedyPage Ltd|
-|18|67.43.236.20|30455|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|29767|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|26231|Canada|Montreal|GloboTech Communications|
+|8|8.242.154.34|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|9|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.163.186.198|3128|United States|Ashburn|SpeedyPage Ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|103.170.155.116|3128|United States|Ashburn|SpeedyPage Ltd|
+|17|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|18|222.74.73.202|42055|China|Hechi|Chinanet|
+|19|103.170.155.116|3128|United States|Ashburn|SpeedyPage Ltd|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
