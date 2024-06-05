@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|177.93.60.70|999|Colombia|Riosucio|TV AZTECA SUCURSAL COLOMBIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.160.171|1817|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.91|21729|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|29835|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|28997|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|1817|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|29835|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|23309|Canada|Montreal|GloboTech Communications|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|67.43.228.253|29835|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23031|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1877|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|23309|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28997|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23031|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|7|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|67.43.228.253|5095|Canada|Montreal|GloboTech Communications|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|14|72.10.160.171|3501|Canada|Montreal|GloboTech Communications|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
