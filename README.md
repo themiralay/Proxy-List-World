@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|66.27.58.70|8080|United States|Moreno Valley|Spectrum|
-|11|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|67.43.228.250|32897|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|77.41.146.23|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|13|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|67.43.236.20|19115|Canada|Montreal|GloboTech Communications|
-|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|19|38.188.251.10|8080|Indonesia|Lamongan|PT. Menaksopal Link Nusantara|
-|20|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|19|72.10.164.178|13753|Canada|Montreal|GloboTech Communications|
+|20|103.164.213.78|8088|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
