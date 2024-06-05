@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|13|67.43.236.20|2785|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|13277|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13277|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13277|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13277|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|30275|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1135|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|9|177.93.60.70|999|Colombia|Riosucio|TV AZTECA SUCURSAL COLOMBIA|
+|10|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|5421|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|18137|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.90|21761|Canada|Montreal|GloboTech Communications|
+|17|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|20|67.43.236.19|8573|Canada|Montreal|GloboTech Communications|
 
 
 
