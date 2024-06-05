@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|9|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|14|67.43.228.251|21391|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|1169|Canada|Montreal|GloboTech Communications|
-|16|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
-|17|67.43.227.227|2079|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|2981|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|29617|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|15347|Canada|Montreal|GloboTech Communications|
+|12|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|185.208.101.149|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|15|67.43.228.253|1389|Canada|Montreal|GloboTech Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|72.10.164.178|13241|Canada|Montreal|GloboTech Communications|
+|20|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
 
 
 
