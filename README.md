@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|134.35.0.146|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|110.78.186.222|8080|Thailand|Chon Buri|CAT-BB|
-|9|181.192.29.80|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|10|207.180.228.55|80|Germany|Nuremberg|Contabo GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|91.232.241.114|8080|Ukraine|Lviv|LEOTEL Ltd.|
-|17|189.195.139.178|999|Mexico|Churintzio|Mega Cable, S.A. de C.V.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|4|86.189.191.132|80|United Kingdom|Maidstone|BT Public Internet Service|
+|5|110.78.186.222|8080|Thailand|Chon Buri|CAT-BB|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|67.43.236.20|16333|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|16333|Canada|Montreal|GloboTech Communications|
+|19|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|20|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
