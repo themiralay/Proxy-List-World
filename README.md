@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |7|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|9|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.236.18|31055|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|13677|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|14541|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|21999|Canada|Montreal|GloboTech Communications|
-|19|192.210.236.60|3128|United States|Elk Grove Village|HostPapa|
-|20|67.43.227.227|2745|Canada|Montreal|GloboTech Communications|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.236.18|31055|Canada|Montreal|GloboTech Communications|
+|17|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|18|72.10.164.178|13677|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|67.43.228.254|5717|Canada|Montreal|GloboTech Communications|
 
 
 
