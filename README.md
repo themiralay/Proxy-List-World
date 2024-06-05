@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|6|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|13|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.236.20|15305|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29329|Canada|Montreal|GloboTech Communications|
-|16|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|17|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
-|18|5.196.111.29|20090|France|Gravelines|OVH SAS|
-|19|67.43.228.250|2051|Canada|Montreal|GloboTech Communications|
-|20|45.122.228.10|8899|Australia|Sydney|NETPTYLTD|
+|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|13|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|67.43.236.20|26947|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|18445|Canada|Montreal|GloboTech Communications|
+|16|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|17|67.43.228.250|2051|Canada|Montreal|GloboTech Communications|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|67.43.227.227|27659|Canada|Montreal|GloboTech Communications|
 
 
 
