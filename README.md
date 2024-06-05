@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|62.210.37.74|8012|France|Paris|Online S.A.S.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |6|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|103.231.249.242|3128|Vietnam|Tay Ho|MTD|
-|18|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|19|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
-|20|85.215.49.159|3128|Germany|Berlin|IONOS SE|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|15|67.43.236.20|25433|Canada|Montreal|GloboTech Communications|
+|16|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|19|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|20|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 
 
 
