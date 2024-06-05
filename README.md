@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.73.203.176|443|Türkiye|Istanbul|Comnet Bilgi Iletisim Teknolojileri Ticaret A.S.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|103.170.155.116|3128|United States|Ashburn|SpeedyPage Ltd|
-|12|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|31683|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|187.16.12.95|27234|Brazil|Rio de Janeiro|Sustenta Telecom Ltda|
-|16|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|195.201.34.206|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|19|72.10.160.91|14265|Canada|Montreal|GloboTech Communications|
-|20|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|193.223.104.235|3128|Turkey|Bursa|Bursabil Teknoloji A.S.|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|18|216.246.49.195|3128|United States|Elk Grove Village|ColoCrossing|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|75.119.131.36|9393|Germany|Düsseldorf|Contabo GmbH|
 
 
 
