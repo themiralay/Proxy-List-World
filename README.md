@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|4|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|134.35.215.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|61.5.11.85|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|8|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.163.186.207|3128|United States|Ashburn|SpeedyPage Ltd|
-|11|46.246.12.20|8118|Sweden|Stockholm|Portlane Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|192.210.236.57|3128|United States|Elk Grove Village|HostPapa|
-|14|103.156.185.83|3128|Hong Kong|Ha Kwai Chung|ALLPASS|
-|15|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|16|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|147.139.176.118|3128|Indonesia|Jakarta|Alibaba.com LLC|
+|1|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|157.159.10.86|80|France|Ris-Orangis|IT-EVRY-8/22|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|134.35.215.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|41.111.188.39|80|Algeria|Oran|Algerie Telecom|
+|15|178.49.151.102|443|Russia|Novosibirsk|Novotelecom Ltd|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.170.155.132|3128|United States|Ashburn|SpeedyPage Ltd|
+|18|192.210.236.57|3128|United States|Elk Grove Village|HostPapa|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
