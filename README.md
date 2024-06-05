@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
 |4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|216.246.49.195|3128|United States|Elk Grove Village|ColoCrossing|
-|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|12|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|13|72.10.164.178|4321|Canada|Montreal|GloboTech Communications|
-|14|103.35.108.89|5020|Bangladesh|Dhaka|Ranks ITT|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.253|6441|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|19|72.10.160.93|10075|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1349|Canada|Montreal|GloboTech Communications|
+|5|200.10.31.218|999|Colombia|Pereira|Super Redes S.A.S|
+|6|103.159.194.151|8082|Indonesia|Welahan|PT Giga Digital Nusantara|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|103.48.68.11|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|186.30.118.116|999|Colombia|Bogotá|ETB - Colombia|
+|11|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|12|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|14|72.10.164.178|26163|Canada|Montreal|GloboTech Communications|
+|15|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
+|16|67.43.228.253|23783|Canada|Montreal|GloboTech Communications|
+|17|222.74.73.202|42055|China|Hechi|Chinanet|
+|18|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|19|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
