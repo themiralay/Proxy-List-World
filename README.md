@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|140.115.70.111|80|Taiwan|Taoyuan District|T-NCU.EDU.TW|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|72.10.164.178|18501|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|21933|Canada|Montreal|GloboTech Communications|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|140.115.70.111|80|Taiwan|Taoyuan District|T-NCU.EDU.TW|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
