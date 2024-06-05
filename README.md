@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|13|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|15|129.213.183.152|80|United States|Ashburn|Oracle Corporation|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|202.154.18.145|8085|Indonesia|Lamongan|DIGITNET|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|8|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|202.12.80.158|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|18|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
 
 
 
