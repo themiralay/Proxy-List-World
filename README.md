@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|103.141.109.171|1111|Indonesia|Wonokromo|Data Buana Nusantara|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|16|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|69.75.140.157|8080|United States|Whittier|Spectrum|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|19|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
