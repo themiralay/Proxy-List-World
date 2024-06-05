@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|51.255.204.242|8392|France|Gravelines|OVH SAS|
-|7|193.223.104.235|3128|Turkey|Bursa|Bursabil Teknoloji A.S.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|193.223.104.235|3128|Turkey|Bursa|Bursabil Teknoloji A.S.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|101.255.118.86|8080|Indonesia|Jakarta|PT Remala Abadi|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.253|32999|Canada|Montreal|GloboTech Communications|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|67.43.228.253|32999|Canada|Montreal|GloboTech Communications|
 
 
 
