@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
-|12|199.168.148.151|8800|United States|San Jose|ZSCALER, INC.|
-|13|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
-|14|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
-|15|178.62.229.28|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|17|67.43.236.21|29103|Canada|Montreal|GloboTech Communications|
-|18|199.168.148.150|8800|United States|San Jose|ZSCALER, INC.|
-|19|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|20|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|103.170.155.132|3128|United States|Ashburn|SpeedyPage Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|199.168.148.151|8800|United States|San Jose|ZSCALER, INC.|
+|9|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|199.168.148.150|8800|United States|San Jose|ZSCALER, INC.|
+|13|72.10.160.171|32269|Canada|Montreal|GloboTech Communications|
+|14|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
+|15|72.10.160.170|14433|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15617|Canada|Montreal|GloboTech Communications|
+|17|222.243.174.132|81|China|Xiangtan|Chinanet|
+|18|67.43.228.254|28919|Canada|Montreal|GloboTech Communications|
+|19|165.225.72.155|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|192.46.230.135|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
