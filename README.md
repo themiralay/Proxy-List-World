@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
 |9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|67.43.227.226|18913|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1901|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|72.10.160.90|33147|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1239|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|17235|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1901|Canada|Montreal|GloboTech Communications|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|67.43.227.226|10279|Canada|Montreal|GloboTech Communications|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|203.30.236.119|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|72.10.160.172|27763|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|28879|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14829|Canada|Montreal|GloboTech Communications|
 
 
 
