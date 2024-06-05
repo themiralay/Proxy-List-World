@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|7|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|11|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|20|72.10.160.172|30061|Canada|Montreal|GloboTech Communications|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
