@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.160.90|29565|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7881|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|116.58.224.192|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|3|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.9.65|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|160.248.9.66|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|18589|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|7881|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
