@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.9.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|223.25.100.237|8080|Indonesia|Surabaya|PT Indonesia Comnets Plus|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|20|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|41.75.123.117|32650|Malawi|Blantyre|Skyband Corporation Limited|
+|20|72.10.160.92|14743|Canada|Montreal|GloboTech Communications|
 
 
 
