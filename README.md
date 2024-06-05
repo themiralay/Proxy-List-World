@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|110.78.186.222|8080|Thailand|Chon Buri|CAT-BB|
-|13|86.189.191.132|80|United Kingdom|Maidstone|BT Public Internet Service|
-|14|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|85.209.154.148|33333|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|18|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|19|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|5|110.78.186.222|8080|Thailand|Chon Buri|CAT-BB|
+|6|20.37.207.8|8080|Australia|The Rocks|Microsoft Corporation|
+|7|61.14.233.28|8080|Vietnam|Ho Chi Minh City|LUUTRUSO|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|51.79.190.75|3128|Singapore|Singapore|OVH SAS|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
