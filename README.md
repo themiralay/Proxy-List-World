@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|61.5.11.85|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|46.246.12.20|8118|Sweden|Stockholm|Portlane Network|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|192.210.236.47|3128|United States|Elk Grove Village|HostPapa|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|103.170.155.115|3128|United States|Ashburn|SpeedyPage Ltd|
-|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.156.185.83|3128|Hong Kong|Ha Kwai Chung|ALLPASS|
-|18|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|8|134.35.215.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
+|19|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.170|15891|Canada|Montreal|GloboTech Communications|
 
 
 
