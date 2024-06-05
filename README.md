@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5145** proxies at the latest update. Usable proxies are below.
+> Scraper found **5121** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|779|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|292|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3010|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|72.10.160.92|30827|Canada|Montreal|GloboTech Communications|
-|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|15|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|16|72.10.164.178|10471|Canada|Montreal|GloboTech Communications|
-|17|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|72.10.160.170|19613|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|12|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|67.43.227.227|2745|Canada|Montreal|GloboTech Communications|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|72.10.164.178|1677|Canada|Montreal|GloboTech Communications|
+|18|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|19|67.43.236.22|21725|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
