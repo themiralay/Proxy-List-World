@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|221.152.19.11|3128|South Korea|Nam-gu|Korea Telecom|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|103.154.91.250|8081|Indonesia|Penggilingan|MORATELINDONAP|
-|10|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
-|19|79.124.77.148|3128|Bulgaria|Sofia|DA International Group Ltd.|
-|20|67.43.228.253|11481|Canada|Montreal|GloboTech Communications|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|17|67.43.236.20|17871|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|203.209.80.44|3128|Thailand|Bangkok|KSC Commercial Internet Co.Ltd.|
+|20|117.7.207.108|55402|Vietnam|Hanoi|Viettel Group|
 
 
 
