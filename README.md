@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|180.254.149.154|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|5|103.156.75.85|1111|Indonesia|Denpasar|PT Trika Global Media|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|157.230.178.216|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|45.65.227.161|999|Argentina|Avellaneda|Solution LAN S.A|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
-|16|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.90|1769|Canada|Montreal|GloboTech Communications|
-|18|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|19|67.43.227.227|27185|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|103.170.155.17|3128|United States|Ashburn|SpeedyPage Ltd|
+|17|181.78.23.135|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
 
 
 
