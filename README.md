@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|4|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|180.190.200.210|8085|Philippines|Lahug|Globe Telecom|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|72.10.164.178|23367|Canada|Montreal|GloboTech Communications|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|67.43.228.253|2875|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|112.198.186.77|8082|Philippines|Nasugbu|Globe Telecom|
-|16|67.43.236.20|20909|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|29179|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|7047|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23367|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23367|Canada|Montreal|GloboTech Communications|
+|7|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|8|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.164.178|1267|Canada|Montreal|GloboTech Communications|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|17|72.10.160.92|32747|Canada|Montreal|GloboTech Communications|
+|18|94.142.137.203|8080|The Netherlands|Amsterdam|First Server Limited|
+|19|67.43.227.227|1535|Canada|Montreal|GloboTech Communications|
+|20|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
 
 
 
