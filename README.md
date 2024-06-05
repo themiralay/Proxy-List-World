@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.9.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.153.63.154|1111|Indonesia|Rejoagung Satu|IMEDIANET|
-|10|3.9.71.167|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|67.43.228.251|23053|Canada|Montreal|GloboTech Communications|
-|14|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|5.196.111.29|20600|France|Gravelines|OVH SAS|
-|19|72.10.164.178|2817|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8017|Canada|Montreal|GloboTech Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|11|36.50.58.20|9000|Philippines|Makati City|Fiberbro Internet Communication Services Corp.|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|139.99.87.252|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
+|16|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|67.43.228.251|19829|Canada|Montreal|GloboTech Communications|
+|19|103.187.111.81|82|India|Hyderabad|Neolog Broadband Services|
+|20|67.43.228.253|28557|Canada|Montreal|GloboTech Communications|
 
 
 
