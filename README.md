@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|109.200.170.247|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|67.43.236.21|21301|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|3017|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|16807|Canada|Montreal|GloboTech Communications|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|15|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
+|18|67.43.228.253|4953|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|27195|Canada|Montreal|GloboTech Communications|
+|20|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
 
 
 
