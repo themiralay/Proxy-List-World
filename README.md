@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|170.239.205.114|999|Colombia|Bogotá|FIBERNET|
+|6|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|10|72.10.160.90|19809|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.227.227|1731|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|10553|Canada|Montreal|GloboTech Communications|
+|9|103.163.186.192|3128|United States|Ashburn|SpeedyPage Ltd|
+|10|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
+|12|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|67.43.227.227|1731|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|23555|Canada|Montreal|GloboTech Communications|
-|16|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|31619|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|219.135.230.77|8081|China|Guangzhou|Chinanet|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|67.43.227.227|1731|Canada|Montreal|GloboTech Communications|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|19|181.188.239.227|999|Ecuador|Latacunga|Otecel S.A.|
+|20|67.43.236.20|21355|Canada|Montreal|GloboTech Communications|
 
 
 
