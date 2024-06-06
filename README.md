@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.190.170.254|999|Peru|Lima region|Softbutterfly SAC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
-|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|45.173.7.10|999|Colombia|Bogotá|Columbus Networks Colombia|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|36.93.68.47|41890|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|38.180.146.230|3128|United States|Dallas|Scalaxy B.V.|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|190.121.239.195|999|Venezuela|Catia La Mar|Corporacion Digitel C.A|
+|18|118.99.124.147|8080|Indonesia|Depok|Biznet Metronet|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|45.173.231.220|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
