@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|72.10.164.178|29643|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|24015|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.236.20|24015|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29643|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12581|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12581|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|24015|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|28947|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|28947|Canada|Montreal|GloboTech Communications|
+|10|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|67.43.227.227|13219|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|29643|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|32297|Canada|Montreal|GloboTech Communications|
+|16|103.159.195.193|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|17|72.10.164.178|29643|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|32297|Canada|Montreal|GloboTech Communications|
+|19|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|20|67.43.227.227|13219|Canada|Montreal|GloboTech Communications|
 
 
 
