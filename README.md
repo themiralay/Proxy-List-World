@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|67.43.227.227|31621|Canada|Montreal|GloboTech Communications|
-|8|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|12|200.39.120.44|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.253|20279|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|22965|Canada|Montreal|GloboTech Communications|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|9|130.61.54.184|3222|Germany|Frankfurt am Main|Oracle Corporation|
+|10|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.228|16737|Canada|Montreal|GloboTech Communications|
+|14|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|15|72.10.160.173|26147|Canada|Montreal|GloboTech Communications|
 |16|67.43.227.228|16737|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22987|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|2157|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|16737|Canada|Montreal|GloboTech Communications|
-|20|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|17|72.10.164.178|3033|Canada|Montreal|GloboTech Communications|
+|18|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|20|67.43.227.228|16737|Canada|Montreal|GloboTech Communications|
 
 
 
