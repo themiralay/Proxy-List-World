@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5729** proxies at the latest update. Usable proxies are below.
+> Scraper found **5663** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|800|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|514|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|448|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3352|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|7|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|8|102.134.166.11|80|Botswana|Gaborone|STATURE (PTY) LTD|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|67.43.227.226|2555|Canada|Montreal|GloboTech Communications|
-|12|14.103.25.208|7890|China|Beijing|BITNET|
-|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|30229|Canada|Montreal|GloboTech Communications|
-|15|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|16|67.43.227.229|14677|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3129|Canada|Montreal|GloboTech Communications|
-|18|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.251.240.45|3128|Japan|Osaka|WENJING|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|10|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|191.102.68.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|20|67.43.227.229|14677|Canada|Montreal|GloboTech Communications|
 
 
 
