@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.228.253|30473|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|30473|Canada|Montreal|GloboTech Communications|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|3485|Canada|Montreal|GloboTech Communications|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|16891|Canada|Montreal|GloboTech Communications|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|67.43.227.228|7315|Canada|Montreal|GloboTech Communications|
+|16|103.234.159.5|8080|India|Bengaluru|MWPL|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |20|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
