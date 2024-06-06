@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5799** proxies at the latest update. Usable proxies are below.
+> Scraper found **5661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|523|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3342|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3204|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|103.159.194.129|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|142.79.227.226|63365|India|Mumbai|LEE|
-|8|103.170.155.31|3128|United States|Ashburn|SpeedyPage Ltd|
-|9|178.62.229.28|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|103.170.155.15|3128|United States|Ashburn|SpeedyPage Ltd|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.170.155.125|3128|United States|Ashburn|SpeedyPage Ltd|
-|14|67.43.228.250|8329|Canada|Montreal|GloboTech Communications|
-|15|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|16|67.43.228.253|12279|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15487|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|7373|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.170.155.31|3128|United States|Ashburn|SpeedyPage Ltd|
+|16|192.210.236.57|3128|United States|Elk Grove Village|HostPapa|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
+|19|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
