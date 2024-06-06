@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|72.10.164.178|28269|Canada|Montreal|GloboTech Communications|
+|10|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|11|72.10.160.172|6351|Canada|Montreal|GloboTech Communications|
 |12|67.43.227.228|18067|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16111|Canada|Montreal|GloboTech Communications|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|67.43.227.227|4477|Canada|Montreal|GloboTech Communications|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|72.10.164.178|16111|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16111|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|18067|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|19695|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|28269|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|16995|Canada|Montreal|GloboTech Communications|
+|15|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|16|80.66.81.44|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|72.10.164.178|28269|Canada|Montreal|GloboTech Communications|
+|18|180.180.123.40|8080|Thailand|Pluak Daeng|TOT Public Company Limited|
+|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.160.93|23031|Canada|Montreal|GloboTech Communications|
 
 
 
