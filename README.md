@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.236.20|20067|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|7015|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|67.43.236.20|20067|Canada|Montreal|GloboTech Communications|
-|15|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
-|16|171.226.29.241|16605|Vietnam|Long An|Viettel Corporation|
-|17|96.53.48.166|8080|Canada|Vancouver|Shaw Communications Inc.|
-|18|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|5|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|61.5.11.85|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|200.125.185.226|999|Venezuela|Caracas|Gold Data C.A|
+|16|191.5.53.167|8080|Brazil|Medianeira|VIAR TELECOMUNICAÇÕES LTDA|
+|17|80.65.28.57|30962|Russia|Krasnoyarsk|Orion Telecom LLC|
+|18|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
+|19|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|20|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
