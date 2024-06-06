@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
-|12|192.210.236.58|3128|United States|Elk Grove Village|HostPapa|
-|13|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|192.210.236.58|3128|United States|Elk Grove Village|HostPapa|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.163.186.192|3128|United States|Ashburn|SpeedyPage Ltd|
-|20|103.170.155.110|3128|United States|Ashburn|SpeedyPage Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|5|103.189.249.194|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|72.10.164.178|32373|Canada|Montreal|GloboTech Communications|
+|10|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|11|117.144.175.195|8800|China|Shanghai|China Mobile communications corporation|
+|12|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|13|101.255.208.18|3129|Indonesia|Wanaherang|PT Remala Abadi|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|16|203.150.166.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|17|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.172|7053|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|7053|Canada|Montreal|GloboTech Communications|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
