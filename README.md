@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|6727|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|15741|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|67.43.227.226|29895|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
-|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|67.43.227.226|29895|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|16877|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|8633|Canada|Montreal|GloboTech Communications|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|72.10.160.90|11197|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|67.43.236.20|2705|Canada|Montreal|GloboTech Communications|
+|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|16|94.154.152.3|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|17|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
+|18|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|72.10.160.90|11169|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
 
 
 
