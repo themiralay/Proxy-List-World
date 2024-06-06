@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|9|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|14|103.156.15.26|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|15|67.43.228.253|4033|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|43.153.52.223|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.172|31481|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|25107|Canada|Montreal|GloboTech Communications|
-|19|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|20|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.172|31481|Canada|Montreal|GloboTech Communications|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
