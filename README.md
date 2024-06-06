@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|219.135.230.77|8081|China|Guangzhou|Chinanet|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|67.43.228.251|6163|Canada|Montreal|GloboTech Communications|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|117.144.175.195|9401|China|Shanghai|China Mobile communications corporation|
-|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|21787|Canada|Montreal|GloboTech Communications|
-|18|219.135.230.77|8081|China|Guangzhou|Chinanet|
-|19|67.43.227.226|29533|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|11|117.144.175.195|9401|China|Shanghai|China Mobile communications corporation|
+|12|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
+|16|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|17|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|18|67.43.236.20|8251|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1075|Canada|Montreal|GloboTech Communications|
 
 
 
