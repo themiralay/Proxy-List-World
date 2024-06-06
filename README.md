@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|101.109.119.24|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
 |10|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|67.43.236.20|3295|Canada|Montreal|GloboTech Communications|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.20|3295|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|4455|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4617|Canada|Montreal|GloboTech Communications|
-|20|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.236.20|26293|Canada|Montreal|GloboTech Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|94.102.225.22|32650|Montenegro|Budva|One Crna Gora DOO|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|103.181.25.158|8080|Bangladesh|Nabīnagar|Right Net|
+|17|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
+|18|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|19|103.110.10.189|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|20|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
 
 
 
