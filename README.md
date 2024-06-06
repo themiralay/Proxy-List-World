@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|12|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|13|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|103.146.185.139|1111|Indonesia|Sragen|YAMNET|
-|16|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
-|17|72.10.164.178|3215|Canada|Montreal|GloboTech Communications|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|19|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
