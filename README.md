@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
 |4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
-|12|103.163.186.207|3128|United States|Ashburn|SpeedyPage Ltd|
-|13|103.170.155.31|3128|United States|Ashburn|SpeedyPage Ltd|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|17|72.10.160.170|28283|Canada|Montreal|GloboTech Communications|
-|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|199.168.148.150|8800|United States|San Jose|ZSCALER, INC.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
+|11|67.43.227.227|14331|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.254|32715|Canada|Montreal|GloboTech Communications|
+|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.159.194.129|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|31167|Canada|Montreal|GloboTech Communications|
 
 
 
