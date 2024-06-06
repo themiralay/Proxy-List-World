@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|72.10.164.178|31619|Canada|Montreal|GloboTech Communications|
-|6|103.139.242.181|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|7|219.135.230.77|8081|China|Guangzhou|Chinanet|
-|8|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|9|67.43.227.227|3907|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|8211|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|9135|Canada|Montreal|GloboTech Communications|
-|12|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|67.43.228.253|14403|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|9135|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|67.43.236.19|7989|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|8211|Canada|Montreal|GloboTech Communications|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
+|1|161.34.37.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.239.227|999|Ecuador|Latacunga|Otecel S.A.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|8|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|9|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|119.15.88.107|8083|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
