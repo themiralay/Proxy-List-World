@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |5|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|200.24.136.44|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|13171|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
+|18|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 
 
 
