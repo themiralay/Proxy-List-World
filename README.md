@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 |7|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|8|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|9|67.43.227.227|2463|Canada|Montreal|GloboTech Communications|
-|10|120.196.207.10|443|China|Shenzhen|China Mobile communications corporation|
-|11|72.10.160.92|14743|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|2277|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|14743|Canada|Montreal|GloboTech Communications|
-|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|15|72.10.160.92|14743|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1869|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2463|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|7961|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|23485|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1869|Canada|Montreal|GloboTech Communications|
+|8|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|9|72.10.160.90|30879|Canada|Montreal|GloboTech Communications|
+|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|67.43.236.20|1869|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.227.230|23485|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|9157|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|1869|Canada|Montreal|GloboTech Communications|
+|20|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
 
 
 
