@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.255.204.242|8392|France|Gravelines|OVH SAS|
-|3|103.158.27.88|1212|Indonesia|Magelang|PT Madina Solusi Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.139.126.30|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|72.10.164.178|10517|Canada|Montreal|GloboTech Communications|
-|16|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
-|17|72.10.160.171|24341|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|15713|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10517|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|9809|Canada|Montreal|GloboTech Communications|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|141.145.204.7|3128|France|Paris|Oracle Corporation|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|102.134.166.11|80|Botswana|Gaborone|STATURE (PTY) LTD|
+|10|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|18|72.10.164.178|13673|Canada|Montreal|GloboTech Communications|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|195.65.154.152|8800|Switzerland|Lausanne|Swisscom IP-Plus|
 
 
 
