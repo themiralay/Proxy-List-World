@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|2|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|7|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
-|8|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|125.26.130.76|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
-|12|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|13|67.43.236.20|16013|Canada|Montreal|GloboTech Communications|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.160.170|5671|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|32029|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.160.91|6817|Canada|Montreal|GloboTech Communications|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|67.43.236.20|28207|Canada|Montreal|GloboTech Communications|
+|13|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
+|14|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.160.91|6817|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|6893|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.164.178|18891|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.173|2879|Canada|Montreal|GloboTech Communications|
 
 
 
