@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
 |8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|49.13.165.213|49440|Germany|Nuremberg|Hetzner Online GmbH|
+|17|49.13.165.213|49440|Germany|Nuremberg|Hetzner Online GmbH|
+|18|49.13.165.213|49440|Germany|Nuremberg|Hetzner Online GmbH|
+|19|49.13.165.213|49440|Germany|Nuremberg|Hetzner Online GmbH|
+|20|49.13.165.213|49440|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
