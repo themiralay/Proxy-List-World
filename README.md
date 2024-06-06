@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|134.35.2.24|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|67.43.228.253|2111|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|14585|Canada|Montreal|GloboTech Communications|
-|16|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.164.178|12215|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|31235|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|36.95.154.175|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|10|72.10.164.178|19105|Canada|Montreal|GloboTech Communications|
+|11|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|15|72.10.160.90|15727|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|28087|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19105|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|27221|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|22583|Canada|Montreal|GloboTech Communications|
+|20|114.30.92.2|8989|Indonesia|Jakarta|ADSNET|
 
 
 
