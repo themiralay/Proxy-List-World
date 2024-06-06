@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.24.213.195|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|4|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|5.196.111.29|20121|France|Gravelines|OVH SAS|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|14|67.43.227.228|16569|Canada|Montreal|GloboTech Communications|
-|15|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|17|67.43.227.227|2967|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
-|20|67.43.227.228|16569|Canada|Montreal|GloboTech Communications|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|72.10.164.178|17209|Canada|Montreal|GloboTech Communications|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|67.43.227.227|6655|Canada|Montreal|GloboTech Communications|
 
 
 
