@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|4|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|182.253.153.100|8080|Indonesia|Jakarta|BIZNET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|18|72.10.164.178|2721|Canada|Montreal|GloboTech Communications|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|72.10.160.173|6089|Canada|Montreal|GloboTech Communications|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
