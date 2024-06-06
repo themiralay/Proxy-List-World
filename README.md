@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|67.43.228.253|27419|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.21|21479|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|25689|Canada|Montreal|GloboTech Communications|
-|11|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.236.20|21829|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9735|Canada|Montreal|GloboTech Communications|
-|15|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
-|16|72.10.164.178|9735|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|27419|Canada|Montreal|GloboTech Communications|
-|18|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|4|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|72.10.164.178|2703|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|27419|Canada|Montreal|GloboTech Communications|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|67.43.227.228|3193|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|9045|Canada|Montreal|GloboTech Communications|
 |19|72.10.160.173|32175|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9735|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|27419|Canada|Montreal|GloboTech Communications|
 
 
 
