@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |8|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|11|72.10.164.178|12793|Canada|Montreal|GloboTech Communications|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.236.18|20255|Canada|Montreal|GloboTech Communications|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|67.43.236.20|28729|Canada|Montreal|GloboTech Communications|
-|16|154.0.154.230|8080|Tanzania|Mwanza|Habari Node Public Limited|
-|17|72.10.160.90|26933|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12793|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12793|Canada|Montreal|GloboTech Communications|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|190.110.104.77|999|Chile|Port Montt|Silica Networks Argentina S.A.|
+|12|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
+|13|72.10.160.92|11257|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17277|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|32969|Canada|Montreal|GloboTech Communications|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|67.43.236.18|22369|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|17277|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|13881|Canada|Montreal|GloboTech Communications|
+|20|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
 
 
 
