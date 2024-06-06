@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
-|15|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.55.248.135|9888|United States|Sumner|First Light Fiber|
+|12|45.191.75.171|999|Colombia|Miranda|Global Raices|
+|13|67.43.227.227|24059|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17563|Canada|Montreal|GloboTech Communications|
+|15|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|185.198.3.1|11223|Poland|Gmina Widawa|Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
