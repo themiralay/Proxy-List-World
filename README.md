@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|72.10.160.91|10539|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|67.43.228.253|17599|Canada|Montreal|GloboTech Communications|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|67.43.227.227|3431|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|67.43.228.253|17599|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.94|29905|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|17599|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21489|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|10539|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|67.43.227.227|24937|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|17985|Canada|Montreal|GloboTech Communications|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|67.43.227.227|24937|Canada|Montreal|GloboTech Communications|
+|18|200.39.120.45|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
+|19|67.43.227.227|24937|Canada|Montreal|GloboTech Communications|
+|20|103.134.251.203|32650|India|Bhiwadi|Micronet It Services Private Limited|
 
 
 
