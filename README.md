@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.80.88.74|80|Indonesia|Gorontalo|PT Jala Lintas Media|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|10|115.127.114.209|5020|Bangladesh|Dhaka|BRACNet Limited|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |14|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.48.69.105|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|45.189.116.89|999|Peru|Lima|Conex TV E.I.R.L|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.92|12321|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
+|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|20|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
 
 
 
