@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|8|67.43.236.18|1313|Canada|Montreal|GloboTech Communications|
-|9|195.65.154.152|8800|Switzerland|Lausanne|Swisscom IP-Plus|
-|10|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
-|11|45.173.231.221|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|72.10.164.178|27183|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|32607|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|22171|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|16371|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|8897|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|18575|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|195.65.154.152|8800|Switzerland|Lausanne|Swisscom IP-Plus|
+|9|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|10|103.80.88.74|80|Indonesia|Gorontalo|PT Jala Lintas Media|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|14|156.236.31.44|1580|The Netherlands|Amsterdam|BitCommand LLC|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|72.10.164.178|1687|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1687|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1687|Canada|Montreal|GloboTech Communications|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |20|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
