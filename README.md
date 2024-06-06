@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|51.255.204.242|8392|France|Gravelines|OVH SAS|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
-|8|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.228.253|27481|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|12|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|20041|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|18267|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
+|6|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|9|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
+|10|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|114.30.92.2|8989|Indonesia|Jakarta|ADSNET|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|32041|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|32157|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.172|18267|Canada|Montreal|GloboTech Communications|
+|16|117.54.130.66|53281|Indonesia|Jakarta|PT IndoInternet|
+|17|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
 |18|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|31877|Canada|Montreal|GloboTech Communications|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
 |20|118.67.183.2|3128|South Korea|Gwangmyeong|Netropy CO.|
 
 
