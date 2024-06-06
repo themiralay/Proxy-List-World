@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
-|4|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|191.5.53.167|8080|Brazil|Medianeira|VIAR TELECOMUNICAÇÕES LTDA|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|72.10.164.178|25871|Canada|Montreal|GloboTech Communications|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|67.43.236.20|26811|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|72.10.160.170|28345|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|25871|Canada|Montreal|GloboTech Communications|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|67.43.227.228|6517|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|25859|Canada|Montreal|GloboTech Communications|
 
 
 
