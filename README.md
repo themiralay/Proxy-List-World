@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.159.195.193|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|13|67.43.227.227|9127|Canada|Montreal|GloboTech Communications|
-|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|15|72.10.164.178|7647|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|3783|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25907|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7647|Canada|Montreal|GloboTech Communications|
-|19|103.88.236.113|84|India|Hyderabad|Mana Communications|
-|20|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|9|67.43.227.227|11423|Canada|Montreal|GloboTech Communications|
+|10|103.177.9.104|8080|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
+|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|12|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|72.10.164.178|17535|Canada|Montreal|GloboTech Communications|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|114.30.92.2|8989|Indonesia|Jakarta|ADSNET|
+|17|67.43.227.227|11423|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|17535|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|29983|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
