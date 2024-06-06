@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5670** proxies at the latest update. Usable proxies are below.
+> Scraper found **5777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3342|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|8|103.163.186.207|3128|United States|Ashburn|SpeedyPage Ltd|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.163.244.22|83|India|Panipat|Infolink System|
-|11|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|15|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|38.199.30.170|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|12|103.163.186.207|3128|United States|Ashburn|SpeedyPage Ltd|
+|13|103.170.155.31|3128|United States|Ashburn|SpeedyPage Ltd|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|17|72.10.160.170|28283|Canada|Montreal|GloboTech Communications|
+|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|199.168.148.150|8800|United States|San Jose|ZSCALER, INC.|
 
 
 
