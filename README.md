@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|4|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|94.26.197.235|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|11|134.35.132.48|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|103.150.69.9|8080|Bangladesh|Tongi|Md Johirul Islam|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|15|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|77.238.235.219|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
