@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|125.26.130.76|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|110.77.171.197|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.160.91|8613|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10053|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|2451|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|26973|Canada|Montreal|GloboTech Communications|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|67.43.227.227|2451|Canada|Montreal|GloboTech Communications|
-|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|19|67.43.227.227|2451|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|125.26.130.76|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|110.77.171.197|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|72.10.160.91|8613|Canada|Montreal|GloboTech Communications|
+|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|72.10.160.170|27847|Canada|Montreal|GloboTech Communications|
+|15|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.172|3155|Canada|Montreal|GloboTech Communications|
+|18|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
