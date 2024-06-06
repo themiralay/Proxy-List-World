@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|61.5.11.85|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|172.96.117.205|38001|United States|San Jose|Zenlayer Inc|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|103.163.186.108|3128|United States|Ashburn|SpeedyPage Ltd|
+|12|192.210.236.61|3128|United States|Elk Grove Village|HostPapa|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|134.35.215.53|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|69.75.140.157|8080|United States|Whittier|Spectrum|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|8.219.167.122|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|18|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|20|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
 
 
 
