@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|113.176.118.255|7654|Vietnam|Hanoi|VNPT|
+|2|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|8.219.169.55|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|11|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|72.10.160.90|21421|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|15|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
-|16|219.135.230.77|8081|China|Guangzhou|Chinanet|
-|17|67.43.227.228|24971|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|67.43.236.20|25451|Canada|Montreal|GloboTech Communications|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.209.33|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|13|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|219.135.230.77|8081|China|Guangzhou|Chinanet|
+|16|117.144.175.195|8800|China|Shanghai|China Mobile communications corporation|
+|17|72.10.164.178|27579|Canada|Montreal|GloboTech Communications|
+|18|201.246.201.76|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
+|19|72.10.164.178|27579|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.252|30849|Canada|Montreal|GloboTech Communications|
 
 
 
