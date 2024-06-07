@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|103.139.127.243|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|117.102.87.66|8080|Indonesia|Jakarta|Biznet Networks|
-|15|67.43.227.227|22613|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18293|Canada|Montreal|GloboTech Communications|
-|17|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.228.250|27897|Canada|Montreal|GloboTech Communications|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|38.188.249.91|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |20|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
