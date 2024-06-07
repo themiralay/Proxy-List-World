@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|46.246.80.6|3128|Sweden|Stockholm|Portlane Network|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|18|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
 |19|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|20|67.43.228.250|13227|Canada|Montreal|GloboTech Communications|
+|20|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
 
 
 
