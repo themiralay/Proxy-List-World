@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.172.86.241|58080|India|Delhi|Juweriyah Networks Private Limited|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|67.43.227.227|2125|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6453|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|23259|Canada|Montreal|GloboTech Communications|
-|15|63.151.67.7|8080|United States|Gillette|Visionary Communications, Inc.|
-|16|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|67.43.228.253|12241|Canada|Montreal|GloboTech Communications|
-|18|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|19|67.43.227.227|2125|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|12241|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|103.154.90.190|3128|Indonesia|Bali|MORATELINDONAP|
+|5|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
+|6|80.66.81.179|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|72.10.164.178|29901|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|29901|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|23259|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29901|Canada|Montreal|GloboTech Communications|
+|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|19|67.43.227.227|22719|Canada|Montreal|GloboTech Communications|
+|20|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
