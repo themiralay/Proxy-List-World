@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|190.61.61.210|999|Colombia|Juan de Acosta|Ufinet Panama S.A.|
-|11|103.172.86.241|58080|India|Delhi|Juweriyah Networks Private Limited|
-|12|72.10.160.174|9575|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|17065|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|9043|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20933|Canada|Montreal|GloboTech Communications|
-|16|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.164.178|20933|Canada|Montreal|GloboTech Communications|
-|18|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.227.227|9043|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|7|103.65.238.174|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.228.253|3175|Canada|Montreal|GloboTech Communications|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|67.43.227.227|23285|Canada|Montreal|GloboTech Communications|
+|13|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|14|72.10.160.90|22033|Canada|Montreal|GloboTech Communications|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|17|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|18|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|19|67.43.236.20|15233|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|15233|Canada|Montreal|GloboTech Communications|
 
 
 
