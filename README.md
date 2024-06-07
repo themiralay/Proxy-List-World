@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.9.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.227.226|28403|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|1871|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|8743|Canada|Montreal|GloboTech Communications|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|9|177.38.72.49|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
+|10|103.164.213.78|8088|Indonesia|Jakarta|PT iForte Global Internet|
+|11|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 |12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|14|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|15|72.10.164.178|24203|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|24203|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|15899|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|15899|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|24103|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20517|Canada|Montreal|GloboTech Communications|
+|13|113.22.87.99|80|Vietnam|Hanoi|FPT Telecom Company|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|16|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|72.10.160.91|27501|Canada|Montreal|GloboTech Communications|
+|19|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|20|203.150.166.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
 
 
 
