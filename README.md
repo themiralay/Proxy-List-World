@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|6|49.49.192.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|7|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|2|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
 |9|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|38.54.56.67|3128|Japan|Tokyo|Kaopu Cloud HK Limited|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|65.21.141.136|17143|Finland|Helsinki|Hetzner Online GmbH|
+|19|49.49.192.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|20|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
 
 
 
