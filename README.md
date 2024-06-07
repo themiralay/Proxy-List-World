@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|72.10.160.174|24107|Canada|Montreal|GloboTech Communications|
-|14|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|15|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|16|5.196.111.29|20157|France|Gravelines|OVH SAS|
-|17|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|18|72.10.164.178|23557|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|3139|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|31771|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|72.10.164.178|29325|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|3139|Canada|Montreal|GloboTech Communications|
+|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|72.10.160.174|24107|Canada|Montreal|GloboTech Communications|
 
 
 
