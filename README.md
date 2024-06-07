@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.38.94|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|205.196.184.69|50704|United States|Houston|Phonoscope|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|15|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|16|177.221.44.113|49999|Brazil|Jaboatao dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|17|72.10.164.178|30685|Canada|Montreal|GloboTech Communications|
+|18|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|19|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|20|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
 
 
 
