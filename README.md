@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|72.10.164.178|6423|Canada|Montreal|GloboTech Communications|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|134.214.147.115|80|France|Villeurbanne|ROCAD|
-|7|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|8|128.106.14.227|9443|Singapore|Singapore|SingNet Pte Ltd|
-|9|67.43.236.19|3053|Canada|Montreal|GloboTech Communications|
-|10|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|12|128.106.14.227|9443|Singapore|Singapore|SingNet Pte Ltd|
-|13|72.10.164.178|6423|Canada|Montreal|GloboTech Communications|
-|14|128.106.14.227|9443|Singapore|Singapore|SingNet Pte Ltd|
-|15|67.43.227.227|5253|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|1031|Canada|Montreal|GloboTech Communications|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|72.10.160.90|21705|Canada|Montreal|GloboTech Communications|
-|19|117.102.81.4|53281|Indonesia|Jakarta|Biznet Networks|
-|20|67.43.236.20|17769|Canada|Montreal|GloboTech Communications|
+|4|95.214.63.218|3128|Russia|St Petersburg|Beget LLC|
+|5|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|200.229.80.182|3355|Brazil|Itajuípe|High Tech Telecom Ltda|
+|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|8|177.93.60.70|999|Colombia|Riosucio|TV AZTECA SUCURSAL COLOMBIA|
+|9|99.8.168.181|32770|United States|Roseville|AT&T Services, Inc.|
+|10|36.64.217.27|1313|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.164.178|19571|Canada|Montreal|GloboTech Communications|
+|15|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|17|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|18|90.77.2.161|999|Spain|Don Benito|UNI2-NET- Orange Spain Network|
+|19|128.106.14.227|9443|Singapore|Singapore|SingNet Pte Ltd|
+|20|103.88.239.178|84|India|Hyderabad|Mana Communications|
 
 
 
