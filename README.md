@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
-|2|156.240.111.19|59145|Hong Kong|Hong Kong|Hong Kong Communications International|
-|3|134.35.5.115|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|203.209.80.44|3128|Thailand|Bangkok|KSC Commercial Internet Co.Ltd.|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|65.49.38.202|3128|United States|Mount Pleasant|Hurricane Electric LLC|
+|8|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|12|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|202.154.19.7|8080|Indonesia|Lamongan|DIGITNET|
-|15|134.35.204.29|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|17|134.35.240.170|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|160.248.92.121|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|114.67.96.47|45064|China|Chaowai|China Unicom|
+|18|160.248.188.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
