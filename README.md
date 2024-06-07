@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.227.227|24689|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|67.43.227.227|24689|Canada|Montreal|GloboTech Communications|
-|19|154.73.29.201|8080|Libya|Tripoli|Rawafed|
-|20|103.186.204.48|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|103.130.212.53|3128|Vietnam|Hanoi|P815|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
