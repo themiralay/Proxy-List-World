@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|13|128.106.14.227|8800|Singapore|Singapore|SingNet Pte Ltd|
-|14|103.234.159.5|8080|India|Bengaluru|MWPL|
-|15|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|16|67.43.236.21|16565|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|1757|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12613|Canada|Montreal|GloboTech Communications|
-|20|128.106.14.227|8800|Singapore|Singapore|SingNet Pte Ltd|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
+|10|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.227.227|24383|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|30031|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|24383|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|1949|Canada|Montreal|GloboTech Communications|
+|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
 
 
 
