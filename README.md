@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|80.66.81.179|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|7|185.141.213.130|8082|Iran|Tehran|Asiatech Data Transmission company|
-|8|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.227.227|3261|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|23283|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|28345|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|15103|Canada|Montreal|GloboTech Communications|
-|13|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
-|14|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|15|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
-|16|67.43.227.228|29739|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|19|67.43.227.227|3261|Canada|Montreal|GloboTech Communications|
-|20|114.67.96.47|45064|China|Chaowai|China Unicom|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|138.197.120.142|3128|United States|Clifton|DigitalOcean, LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|103.174.236.55|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|192.210.236.57|3128|United States|Elk Grove Village|HostPapa|
+|16|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|18|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|19|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
