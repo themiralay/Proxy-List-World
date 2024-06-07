@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|109.73.39.202|8080|Russia|Moscow|Mastertel ISP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|5|63.151.67.7|8080|United States|Gillette|Visionary Communications, Inc.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|109.73.39.202|8080|Russia|Moscow|Mastertel ISP|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|10|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|103.143.169.210|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|13|212.52.167.199|33128|Hungary|Budapest|INTEGRITY Informatics Ltd|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|16|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|19|72.10.160.92|5197|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28397|Canada|Montreal|GloboTech Communications|
+|7|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|80.66.81.179|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|11|41.254.52.105|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|190.61.46.178|999|Colombia|Sincelejo|Ufinet Panama S.A.|
+|14|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.160.172|2203|Canada|Montreal|GloboTech Communications|
+|17|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
+|19|67.43.227.228|11607|Canada|Montreal|GloboTech Communications|
+|20|103.24.213.195|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
 
 
 
