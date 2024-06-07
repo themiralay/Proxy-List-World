@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|3|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.164.178|1295|Canada|Montreal|GloboTech Communications|
-|18|103.26.110.74|84|India|Mayiladuthurai|Niss Networks|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|12|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.164.178|16603|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
 
 
 
