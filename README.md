@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|3|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|113.22.87.99|80|Vietnam|Hanoi|FPT Telecom Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |9|160.248.9.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|67.43.227.227|2391|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|22569|Canada|Montreal|GloboTech Communications|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|179.189.50.160|80|Brazil|Sinop|EVO Networks|
-|16|117.144.175.204|8800|China|Shanghai|China Mobile communications corporation|
-|17|72.10.160.90|9135|Canada|Montreal|GloboTech Communications|
-|18|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
-|19|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|67.43.236.20|8111|Canada|Montreal|GloboTech Communications|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|181.192.29.80|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|15|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|16|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|17|103.26.110.74|84|India|Mayiladuthurai|Niss Networks|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 
 
 
