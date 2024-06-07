@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|200.110.105.2|999|Mexico|Tlaltenango de Sanchez Roman|Wistarip S De RL De CV|
-|7|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|18|67.43.227.228|22521|Canada|Montreal|GloboTech Communications|
-|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|67.43.227.228|17593|Canada|Montreal|GloboTech Communications|
 
 
 
