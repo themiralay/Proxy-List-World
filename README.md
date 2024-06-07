@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|202.154.36.117|8080|Indonesia|Surabaya|RADNET-BDG|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
