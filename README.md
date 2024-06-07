@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|18|67.43.227.227|20831|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|15115|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20831|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
+|13|72.10.164.178|29979|Canada|Montreal|GloboTech Communications|
+|14|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
+|15|67.43.227.227|1419|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1419|Canada|Montreal|GloboTech Communications|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|67.43.228.253|26137|Canada|Montreal|GloboTech Communications|
+|19|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
 
 
 
