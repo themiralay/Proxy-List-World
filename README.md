@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|101.255.116.125|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|72.10.164.178|3755|Canada|Montreal|GloboTech Communications|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|15|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|16|72.10.164.178|3755|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|4475|Canada|Montreal|GloboTech Communications|
-|18|179.24.93.12|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|19|67.43.236.20|4475|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|13|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|38.9.136.99|80|Indonesia|Medan|Cogent Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|103.130.212.53|3128|Vietnam|Hanoi|P815|
+|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
