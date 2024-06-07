@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.159.194.191|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.159.194.191|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
 |12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
+|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|20|80.87.178.175|8080|Czechia|Brno|Oxid - I|
 
 
 
