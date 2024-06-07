@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|113.22.87.99|80|Vietnam|Hanoi|FPT Telecom Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.9.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|12|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|117.144.175.204|9480|China|Shanghai|China Mobile communications corporation|
-|16|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.164.178|2523|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|93.170.123.5|3128|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
+|9|160.248.9.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|117.144.175.204|9480|China|Shanghai|China Mobile communications corporation|
+|17|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.164.213.78|8088|Indonesia|Jakarta|PT iForte Global Internet|
+|20|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
 
 
 
