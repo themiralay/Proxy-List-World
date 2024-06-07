@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|4|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|91.214.78.176|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|59.98.4.71|8080|India|Bengaluru|BSNL Internet|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|17|46.101.124.11|8022|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|20.235.47.207|3128|India|Chennai|Microsoft Corporation|
 
 
 
