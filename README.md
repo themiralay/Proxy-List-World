@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|103.171.89.100|8082|Philippines|Tagum|Infinivan Incorporated|
-|6|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|9|8.242.154.36|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
 |11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|13|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
