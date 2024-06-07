@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |4|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|5|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|14|72.10.160.170|12051|Canada|Montreal|GloboTech Communications|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|67.43.228.253|2607|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|16667|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31277|Canada|Montreal|GloboTech Communications|
-|19|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|103.156.15.35|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|16|103.176.96.178|1111|Indonesia|Bandung|PT Global Sarana Elektronika|
+|17|67.43.228.253|3635|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|12051|Canada|Montreal|GloboTech Communications|
+|19|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|20|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
 
 
 
