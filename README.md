@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|147.75.88.36|10011|United States|San Jose|Packet Host, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|16|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|67.43.236.20|1613|Canada|Montreal|GloboTech Communications|
-|20|170.239.205.114|999|Colombia|Bogotá|FIBERNET|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|147.75.88.36|10011|United States|San Jose|Packet Host, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|11|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
