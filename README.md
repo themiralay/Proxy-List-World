@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|9|179.50.90.164|8507|Colombia|Medellín|GTD COLOMBIA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|72.10.160.90|20317|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|65.21.141.136|17143|Finland|Helsinki|Hetzner Online GmbH|
+|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.228.253|10699|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20317|Canada|Montreal|GloboTech Communications|
 
 
 
