@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|12|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|103.159.90.14|83|India|Bhagwāngola|Pegasuswave Private Limited|
-|17|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|2.239.213.133|3128|Italy|Milan|Fastweb Networks|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|64.23.153.213|443|United States|San Francisco|DigitalOcean, LLC|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|18|5.196.111.29|20121|France|Gravelines|OVH SAS|
+|19|72.10.160.94|6937|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
