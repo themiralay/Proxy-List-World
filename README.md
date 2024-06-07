@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|13|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|14|103.234.159.5|8080|India|Bengaluru|MWPL|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|17|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|18|67.43.227.228|9201|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|28357|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|128.106.14.227|9480|Singapore|Singapore|SingNet Pte Ltd|
+|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|67.43.227.228|9201|Canada|Montreal|GloboTech Communications|
+|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|72.10.160.90|30763|Canada|Montreal|GloboTech Communications|
+|18|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|72.10.160.92|9443|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24083|Canada|Montreal|GloboTech Communications|
 
 
 
