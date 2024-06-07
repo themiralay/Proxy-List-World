@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|7|122.185.180.190|32650|India|Bhubaneswar|Bharti Airtel Limited|
-|8|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|10|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|5.196.111.29|20651|France|Gravelines|OVH SAS|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
-|15|67.43.227.227|28819|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|28819|Canada|Montreal|GloboTech Communications|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|67.43.227.227|28819|Canada|Montreal|GloboTech Communications|
-|19|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|20|67.43.236.20|26319|Canada|Montreal|GloboTech Communications|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|6|179.253.8.244|12341|Brazil|São Paulo|V tal|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|65.21.141.136|17143|Finland|Helsinki|Hetzner Online GmbH|
+|12|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
+|16|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|35.181.203.219|8080|France|Paris|Amazon.com, Inc.|
+|18|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|19|67.43.227.227|28675|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|9835|Canada|Montreal|GloboTech Communications|
 
 
 
