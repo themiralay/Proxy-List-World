@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|7|188.124.230.43|19775|Russia|Taman'|Miranda-Media B2C Static # 5|
 |8|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|9|209.14.115.33|999|Colombia|Bogotá|AGIS|
-|10|134.35.0.5|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|67.43.236.21|11455|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|27229|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|7659|Canada|Montreal|GloboTech Communications|
-|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|72.10.164.178|27229|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27229|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|67.43.236.21|8559|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
 
 
 
