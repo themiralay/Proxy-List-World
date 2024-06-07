@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |10|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|147.75.88.36|10001|United States|San Jose|Packet Host, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|15|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|181.209.111.148|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|97.64.70.2|16099|United States|College Station|PRONSS|
+|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|18|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
