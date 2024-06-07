@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|194.4.56.121|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|5|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|8|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|67.43.236.20|3921|Canada|Montreal|GloboTech Communications|
-|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|67.43.227.228|11751|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|1467|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1467|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1467|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22067|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|32501|Canada|Montreal|GloboTech Communications|
+|2|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|103.87.169.180|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|67.43.236.20|30897|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.160.170|5619|Canada|Montreal|GloboTech Communications|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|72.10.164.178|12805|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.170|5619|Canada|Montreal|GloboTech Communications|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.228.252|26963|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|26145|Canada|Montreal|GloboTech Communications|
 
 
 
