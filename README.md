@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|38.9.141.155|80|Indonesia|Medan|Cogent Communications|
+|5|38.52.155.178|8080|Colombia|Soacha|Giga Fibra SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.164.178|28811|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|28811|Canada|Montreal|GloboTech Communications|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|11|67.43.236.20|3333|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|21873|Canada|Montreal|GloboTech Communications|
-|13|128.106.14.227|10000|Singapore|Singapore|SingNet Pte Ltd|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.164.178|28811|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|20851|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3333|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|6235|Canada|Montreal|GloboTech Communications|
-|19|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|67.43.236.18|6235|Canada|Montreal|GloboTech Communications|
+|7|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.164.178|27229|Canada|Montreal|GloboTech Communications|
+|18|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|72.10.164.178|27229|Canada|Montreal|GloboTech Communications|
+|20|209.15.117.148|80|Thailand|Vadhana|catCloud|
 
 
 
