@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|72.10.160.171|25503|Canada|Montreal|GloboTech Communications|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|17|97.64.70.2|16099|United States|College Station|PRONSS|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|67.43.236.20|7493|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|33183|Canada|Montreal|GloboTech Communications|
+|5|167.172.228.60|3128|United States|Clifton|DigitalOcean, LLC|
+|6|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|72.10.160.171|4359|Canada|Montreal|GloboTech Communications|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|72.10.164.178|28683|Canada|Montreal|GloboTech Communications|
+|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|18|160.248.8.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|20|101.128.93.144|8090|Indonesia|Jakarta|CBN|
 
 
 
