@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |4|160.248.9.70|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|103.146.197.43|4995|Indonesia|Banyuwangi|RIYADNETWORK|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|113.22.87.99|80|Vietnam|Hanoi|FPT Telecom Company|
 |12|72.10.164.178|15901|Canada|Montreal|GloboTech Communications|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|72.10.164.178|15901|Canada|Montreal|GloboTech Communications|
-|16|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|17|67.43.228.252|11327|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|1935|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|4445|Canada|Montreal|GloboTech Communications|
-|20|146.59.147.182|3128|France|Gravelines|OVH SAS|
+|13|67.43.228.252|11327|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|14299|Canada|Montreal|GloboTech Communications|
+|15|160.248.9.94|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|117.144.175.195|9401|China|Shanghai|China Mobile communications corporation|
+|17|67.43.228.253|4425|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|22241|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.228.253|4425|Canada|Montreal|GloboTech Communications|
 
 
 
