@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|11|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 |12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.251|19203|Canada|Montreal|GloboTech Communications|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|67.43.228.253|2369|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6087|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|1683|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|1943|Canada|Montreal|GloboTech Communications|
-|20|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.228.251|19203|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.93|13351|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|20|67.43.228.253|30101|Canada|Montreal|GloboTech Communications|
 
 
 
