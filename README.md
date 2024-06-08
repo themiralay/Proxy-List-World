@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|49.0.34.194|80|Bangladesh|Sakhipur|Always On Network Bangladesh Ltd.|
-|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|101.255.208.18|3129|Indonesia|Wanaherang|PT Remala Abadi|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|8|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.160.170|6431|Canada|Montreal|GloboTech Communications|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|17|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|18|67.43.228.250|2857|Canada|Montreal|GloboTech Communications|
+|19|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|20|72.10.160.93|16121|Canada|Montreal|GloboTech Communications|
 
 
 
