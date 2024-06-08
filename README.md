@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|128.95.53.237|80|United States|Seattle|University of Washington|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|72.10.160.90|11181|Canada|Montreal|GloboTech Communications|
-|16|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
+|13|203.150.166.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|103.111.137.241|8080|Indonesia|Surabaya|FAZNET|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
