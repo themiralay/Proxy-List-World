@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|6|203.150.128.50|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|12|72.10.164.178|12939|Canada|Montreal|GloboTech Communications|
-|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|16|5.196.111.29|20121|France|Gravelines|OVH SAS|
-|17|72.10.160.94|16211|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|4671|Canada|Montreal|GloboTech Communications|
-|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|11|72.10.164.178|32657|Canada|Montreal|GloboTech Communications|
+|12|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|72.10.160.90|10245|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|4671|Canada|Montreal|GloboTech Communications|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|72.10.160.173|1057|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|10245|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.90|10245|Canada|Montreal|GloboTech Communications|
 
 
 
