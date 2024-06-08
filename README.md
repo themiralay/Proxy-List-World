@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|72.10.160.171|27541|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|6|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|11|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|67.43.236.20|31759|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|67.43.236.20|31759|Canada|Montreal|GloboTech Communications|
+|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
 
 
 
