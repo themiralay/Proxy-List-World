@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|185.142.53.153|10092|France|Paris|FBW NETWORKS SAS|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|72.10.160.90|20921|Canada|Montreal|GloboTech Communications|
-|16|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.171|18745|Canada|Montreal|GloboTech Communications|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|15|72.10.160.90|29681|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|37.187.115.135|42000|France|Roubaix|OVH SAS|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
