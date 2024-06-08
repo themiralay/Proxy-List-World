@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|13|72.10.160.90|32345|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|12455|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.160.174|22691|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|22691|Canada|Montreal|GloboTech Communications|
-|18|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|19|72.10.160.174|22691|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20695|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|12|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
