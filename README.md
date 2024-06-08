@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|8|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|10|67.43.227.227|16341|Canada|Montreal|GloboTech Communications|
-|11|104.218.52.160|3128|United States|Secaucus|Interserver, Inc|
-|12|67.43.227.227|16341|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|30887|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.160.171|13589|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|1389|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|12991|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18921|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|7|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|13|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|67.43.227.227|12881|Canada|Montreal|GloboTech Communications|
+|17|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.171|13589|Canada|Montreal|GloboTech Communications|
+|20|139.255.94.122|39635|Indonesia|Jakarta|PT. LINKNET|
 
 
 
