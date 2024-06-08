@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.231.177.120|5020|Bangladesh|Tongi|Sayed Farhad Ahmed|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|38.156.235.231|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|12|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|13|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
-|14|190.102.139.152|999|Peru|Lima Cercado|WIN EMPRESAS S.A.C.|
-|15|67.43.236.20|31071|Canada|Montreal|GloboTech Communications|
-|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|17|67.43.236.20|31071|Canada|Montreal|GloboTech Communications|
-|18|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|20|72.10.160.91|30143|Canada|Montreal|GloboTech Communications|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
+|14|67.43.236.20|2193|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|10835|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|30143|Canada|Montreal|GloboTech Communications|
+|17|142.190.149.206|8080|United States|Frisco City|Uniti Fiber Holdings Inc.|
+|18|72.10.160.173|22549|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2193|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20931|Canada|Montreal|GloboTech Communications|
 
 
 
