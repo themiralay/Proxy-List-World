@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|80.78.65.230|8080|Albania|Tirana|ABCom|
-|16|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|72.10.160.171|10005|Canada|Montreal|GloboTech Communications|
+|20|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 
 
 
