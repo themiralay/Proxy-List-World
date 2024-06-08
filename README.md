@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|67.43.236.22|23429|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|2281|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6481|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|2281|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|30723|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|67.43.228.253|10075|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|10075|Canada|Montreal|GloboTech Communications|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|12.133.53.17|83|United States|Beachwood|AT&T Services, Inc.|
+|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|15|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|16|72.10.164.178|6391|Canada|Montreal|GloboTech Communications|
+|17|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
 
 
 
