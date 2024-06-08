@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|178.236.247.252|3128|Poland|Warsaw|FAST|
-|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|154.26.129.27|3128|Singapore|Singapore|Cogent Communications|
-|19|67.43.236.20|12289|Canada|Montreal|GloboTech Communications|
-|20|103.139.242.173|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|146.59.147.182|3128|France|Gravelines|OVH SAS|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|19|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
