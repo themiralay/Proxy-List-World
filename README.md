@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5546** proxies at the latest update. Usable proxies are below.
+> Scraper found **5575** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|229|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3233|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|9|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.227.227|31063|Canada|Montreal|GloboTech Communications|
-|14|103.156.141.171|8081|Indonesia|Jember|PT Tekling Media Telematika|
-|15|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|16|114.106.136.136|8089|China|Hefei|Chinanet|
-|17|67.43.236.20|23973|Canada|Montreal|GloboTech Communications|
-|18|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|103.126.28.14|2525|Indonesia|Jakarta|PT Integra Kreasitama Solusindo|
+|14|67.43.227.227|25009|Canada|Montreal|GloboTech Communications|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|72.10.160.90|12741|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.236.20|20003|Canada|Montreal|GloboTech Communications|
 
 
 
