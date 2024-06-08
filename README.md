@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|51.79.49.178|3128|Canada|Beauharnois|OVH SAS|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|103.162.62.92|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|13|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|51.79.49.178|3128|Canada|Beauharnois|OVH SAS|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|203.150.166.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|181.39.24.147|999|Ecuador|Quito|Telconet S.A|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 |20|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
 
 
