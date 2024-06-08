@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.150.202|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
-|14|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|17|72.10.160.170|15709|Canada|Montreal|GloboTech Communications|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|178.124.232.6|3128|Belarus|Vitebsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
+|14|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|72.10.160.170|17297|Canada|Montreal|GloboTech Communications|
 |19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |20|67.43.227.228|29731|Canada|Montreal|GloboTech Communications|
 
