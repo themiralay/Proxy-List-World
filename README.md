@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.155.198.105|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|72.10.160.90|19555|Canada|Montreal|GloboTech Communications|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.228.250|2311|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|3409|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|1559|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1695|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|6135|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|103.185.184.67|10016|Vietnam|Hanoi|Vnso Technology Company|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|36.93.68.47|41890|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|72.10.160.90|33043|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|23079|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|6135|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|9713|Canada|Montreal|GloboTech Communications|
 
 
 
