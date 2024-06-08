@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|5|45.224.20.66|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|72.10.164.178|13469|Canada|Montreal|GloboTech Communications|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|14|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|13469|Canada|Montreal|GloboTech Communications|
-|17|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|18|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
-|19|67.43.228.253|14297|Canada|Montreal|GloboTech Communications|
-|20|128.106.14.227|10012|Singapore|Singapore|SingNet Pte Ltd|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|13469|Canada|Montreal|GloboTech Communications|
 
 
 
