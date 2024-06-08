@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|9|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.164.160.66|4995|Bangladesh|Feni|Genfive Technology|
-|12|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|9|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|12|67.43.227.227|25405|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|72.10.160.90|3279|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|21781|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|21897|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|21781|Canada|Montreal|GloboTech Communications|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
