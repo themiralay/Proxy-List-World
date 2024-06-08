@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|190.110.35.105|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.44.19.181|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|12|62.240.40.194|1974|Libya|Tripoli|LTT Network Backbone and POPs|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
-|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|72.10.164.178|29697|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|22349|Canada|Montreal|GloboTech Communications|
-|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.227.227|30463|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|14|72.10.160.171|22349|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.172|17137|Canada|Montreal|GloboTech Communications|
+|16|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|17|67.43.227.227|20605|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|6293|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8327|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|2167|Canada|Montreal|GloboTech Communications|
 
 
 
