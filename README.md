@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.236.21|3067|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|128.106.14.227|10012|Singapore|Singapore|SingNet Pte Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|128.106.14.227|10012|Singapore|Singapore|SingNet Pte Ltd|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
