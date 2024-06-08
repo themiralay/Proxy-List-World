@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|134.35.149.254|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|4|190.43.92.68|999|Peru|Tacna|Telefonica Del Peru|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|203.150.128.50|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
-|15|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|18|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|19|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|20|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|203.150.128.50|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|190.43.92.68|999|Peru|Tacna|Telefonica Del Peru|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|9|37.130.26.102|8081|Poland|Sochaczew|"InterKAM" S.C|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|15|134.35.149.254|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|128.106.14.227|11039|Singapore|Singapore|SingNet Pte Ltd|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.228|27949|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|30947|Canada|Montreal|GloboTech Communications|
 
 
 
