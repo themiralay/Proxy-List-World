@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|202.159.37.74|8080|Indonesia|Jakarta|PT IndoInternet|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|191.252.219.48|8889|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|15|188.244.38.227|7999|Russia|Moscow|2COM|
-|16|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|61.7.174.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|4|61.7.174.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
