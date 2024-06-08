@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
-|5|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|182.253.37.83|443|Indonesia|Jakarta Pusat|BIZNET|
-|8|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|9|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|14|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|15|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|67.43.236.20|3091|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|11139|Canada|Montreal|GloboTech Communications|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|72.10.160.170|21929|Canada|Montreal|GloboTech Communications|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|10|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|122.136.212.132|53281|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|18|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
 
 
 
