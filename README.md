@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|67.43.227.227|16439|Canada|Montreal|GloboTech Communications|
-|14|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|15|67.43.236.20|2725|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2725|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16439|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.228.253|30357|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|32321|Canada|Montreal|GloboTech Communications|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|18|67.43.236.20|30683|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|16439|Canada|Montreal|GloboTech Communications|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
