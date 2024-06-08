@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|205.164.84.247|8591|Brazil|Buritis|AGIS|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
 |15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|18|72.10.164.178|15863|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13495|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|19|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
