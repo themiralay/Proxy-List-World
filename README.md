@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|109.73.39.202|8080|Russia|Moscow|Mastertel ISP|
-|7|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|72.10.160.91|14197|Canada|Montreal|GloboTech Communications|
-|19|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.227.195.121|8082|Brazil|Sao Lourenco do Oeste|Mhnet Telecom|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|10|36.66.171.243|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|13|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.156.140.202|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
