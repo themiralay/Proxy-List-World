@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|51.79.49.178|3128|Canada|Beauharnois|OVH SAS|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|170.78.61.26|8080|Brazil|Maiquinique|Maiqvox Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|13|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
-|14|103.162.62.92|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|15|160.248.189.33|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|103.160.207.163|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|18|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|45.174.79.8|999|Mexico|Delicias|Raul Duarte Urita|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|51.79.49.178|3128|Canada|Beauharnois|OVH SAS|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|160.248.189.33|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|19|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
