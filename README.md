@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|7|38.156.235.35|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|8|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|10|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|11|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|94.154.152.108|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|5|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|10|67.43.227.227|14345|Canada|Montreal|GloboTech Communications|
+|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|12|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|13|67.43.228.254|11619|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|30485|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|30045|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
+|17|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|67.43.227.226|13449|Canada|Montreal|GloboTech Communications|
+|19|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|20|139.0.6.11|8080|Indonesia|Tangerang|PT. First Media, Tbk|
 
 
 
