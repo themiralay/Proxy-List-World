@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|72.10.160.90|12935|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|22269|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|67.43.227.227|14141|Canada|Montreal|GloboTech Communications|
-|12|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|72.10.160.91|21783|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|2091|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|67.43.228.253|28115|Canada|Montreal|GloboTech Communications|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|72.10.160.90|12935|Canada|Montreal|GloboTech Communications|
+|13|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|14|67.43.227.227|26031|Canada|Montreal|GloboTech Communications|
+|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|72.10.160.170|2091|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|22269|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15737|Canada|Montreal|GloboTech Communications|
-|19|172.235.39.242|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|181.209.102.237|999|Argentina|Sancti Spiritu|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|172.235.39.242|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 
 
 
