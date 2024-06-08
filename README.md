@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|527|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|527|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|527|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|209.145.61.97|1010|United States|St Louis|Nubes, LLC|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|191.102.254.10|8085|Argentina|Rosario|IP·RED|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|13|119.76.142.252|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|67.43.236.20|3069|Canada|Montreal|GloboTech Communications|
 
 
 
