@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|12|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|49.0.34.194|80|Bangladesh|Sakhipur|Always On Network Bangladesh Ltd.|
-|15|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|16|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|72.10.164.178|3057|Canada|Montreal|GloboTech Communications|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|13|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.164.178|15791|Canada|Montreal|GloboTech Communications|
+|16|181.78.94.188|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
 
 
 
