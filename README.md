@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|67.43.227.227|24171|Canada|Montreal|GloboTech Communications|
-|16|39.62.1.38|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|103.88.236.113|84|India|Hyderabad|Mana Communications|
-|19|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|20|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|15|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|16|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 
 
 
