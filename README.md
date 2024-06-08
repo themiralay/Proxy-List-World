@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.141.109.219|8080|Indonesia|Wonokromo|Data Buana Nusantara|
-|12|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|13|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
-|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|15|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|18|67.43.236.20|29317|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29317|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|179.49.117.21|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|10|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|11|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
+|12|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|16|67.43.236.20|3091|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|67.43.228.253|3139|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|6785|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|28055|Canada|Montreal|GloboTech Communications|
 
 
 
