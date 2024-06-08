@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
-|7|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
-|9|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|13|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|14|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|15|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|20|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|7|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|72.10.164.178|13319|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|32013|Canada|Montreal|GloboTech Communications|
 
 
 
