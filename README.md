@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|161.34.39.153|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|80.87.217.6|8080|Slovakia|Námestovo|DSI DATA, a. s.|
-|15|179.32.62.127|999|Colombia|Barranquilla|Colombia Telecomunicaciones S.a. ESP|
-|16|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|17|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|67.43.227.227|32021|Canada|Montreal|GloboTech Communications|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.227.227|25009|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
 
 
 
