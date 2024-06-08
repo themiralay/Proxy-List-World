@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|159.223.136.87|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|12|94.200.195.220|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|13|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
-|14|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
-|15|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|67.43.228.250|27241|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|25923|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|9559|Canada|Montreal|GloboTech Communications|
-|20|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|15|67.43.227.227|2703|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1063|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|19|67.43.227.228|27749|Canada|Montreal|GloboTech Communications|
+|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
