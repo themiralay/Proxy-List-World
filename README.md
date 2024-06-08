@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|72.10.160.173|21777|Canada|Montreal|GloboTech Communications|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|72.10.164.178|15487|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|16729|Canada|Montreal|GloboTech Communications|
 
 
 
