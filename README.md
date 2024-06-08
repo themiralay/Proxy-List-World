@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|109.233.209.166|8080|Russia|Chelyabinsk|OOO BENET|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|17|67.43.228.253|9997|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.227.226|32965|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|9997|Canada|Montreal|GloboTech Communications|
 
 
 
