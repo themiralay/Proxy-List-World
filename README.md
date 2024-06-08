@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|567|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|567|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|567|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
 |4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|9|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|12|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|13|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|185.126.183.120|8080|Russia|Moscow|"Telko" JSC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|179.24.93.12|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|20|23.225.72.125|3503|United States|Chicago|Cnservers LLC|
+|15|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 
 
 
