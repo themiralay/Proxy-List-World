@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|15|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|17|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|2193|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|23565|Canada|Montreal|GloboTech Communications|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|13|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
+|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
+|16|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|1961|Canada|Montreal|GloboTech Communications|
+|18|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|19|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|2655|Canada|Montreal|GloboTech Communications|
 
 
 
