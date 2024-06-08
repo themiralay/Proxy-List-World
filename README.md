@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -31,8 +31,8 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|228|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|201|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3206|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3180|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|12|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|97.64.70.2|16099|United States|College Station|PRONSS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|17|67.43.227.227|7145|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|24969|Canada|Montreal|GloboTech Communications|
-|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|7|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|95.216.227.84|5566|Finland|Helsinki|Hetzner Online GmbH|
+|17|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|103.88.239.26|84|India|Hyderabad|Mana Communications|
 
 
 
