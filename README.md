@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|209.15.117.148|80|Thailand|Vadhana|catCloud|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.167.68.255|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.236.20|5649|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|23365|Canada|Montreal|GloboTech Communications|
-|18|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|72.10.160.90|20827|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
