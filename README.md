@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|8|209.15.117.148|80|Thailand|Vadhana|catCloud|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|72.10.164.178|18447|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1943|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|72.10.164.178|18447|Canada|Montreal|GloboTech Communications|
-|20|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|14|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
+|15|72.10.164.178|10805|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.228.250|16975|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|33167|Canada|Montreal|GloboTech Communications|
 
 
 
