@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|10|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
-|11|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
-|12|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|13|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
-|14|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|18|72.10.160.90|33201|Canada|Montreal|GloboTech Communications|
-|19|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
+|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|161.34.39.149|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.165.125.182|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|149.81.6.202|8080|The Netherlands|Amsterdam|SoftLayer|
+|16|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
