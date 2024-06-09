@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|182.52.131.185|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 |7|161.34.38.244|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |9|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|67.43.236.20|23171|Canada|Montreal|GloboTech Communications|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|72.10.164.178|22495|Canada|Montreal|GloboTech Communications|
 |13|72.10.160.92|15365|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23997|Canada|Montreal|GloboTech Communications|
-|15|221.118.79.16|8080|Japan|Toyota|AITAI|
-|16|72.10.160.170|20221|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|20221|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|18449|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|29485|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23997|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.22|32557|Canada|Montreal|GloboTech Communications|
+|15|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|72.10.160.90|11197|Canada|Montreal|GloboTech Communications|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
