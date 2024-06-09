@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|179.1.192.21|999|Colombia|Neiva|INTERNEXA Brasil Operadora de Telecomunica??es S.A|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|119.47.90.45|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|169.255.56.177|3128|Ghana|Accra|VIDOLU Group Pty Ltd-Web4Africa|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|103.125.154.161|8080|India|Sulur|Live Fibernet|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|11|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|12|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
+|14|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.134.251.203|32650|India|Bhiwadi|Micronet It Services Private Limited|
 |17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
-|19|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
-|20|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|103.237.78.102|4995|Bangladesh|Dhaka|Combined Soft|
+|19|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|72.10.160.174|10817|Canada|Montreal|GloboTech Communications|
 
 
 
