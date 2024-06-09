@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
 |9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|18|72.10.164.178|6477|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|14435|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|22173|Canada|Montreal|GloboTech Communications|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|72.10.164.178|29719|Canada|Montreal|GloboTech Communications|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|67.43.227.228|12641|Canada|Montreal|GloboTech Communications|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|67.43.228.251|22173|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|12641|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|6939|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|5215|Canada|Montreal|GloboTech Communications|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
