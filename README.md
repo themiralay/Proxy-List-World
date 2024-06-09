@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|67.43.227.227|22277|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|194.233.68.9|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
-|12|116.105.21.47|9013|Vietnam|Da Nang|Viettel Corporation|
-|13|72.10.164.178|27125|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|22277|Canada|Montreal|GloboTech Communications|
-|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|72.10.160.90|21297|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|21297|Canada|Montreal|GloboTech Communications|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|67.43.227.228|25651|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|67.43.227.227|22277|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|67.43.236.20|7781|Canada|Montreal|GloboTech Communications|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|116.105.21.47|9013|Vietnam|Da Nang|Viettel Corporation|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|67.43.227.227|22277|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|7781|Canada|Montreal|GloboTech Communications|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
