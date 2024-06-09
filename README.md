@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|10|190.61.46.178|999|Colombia|Sincelejo|Ufinet Panama S.A.|
-|11|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
-|12|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|72.10.160.170|32823|Canada|Montreal|GloboTech Communications|
-|14|38.52.155.178|8080|Colombia|Soacha|Giga Fibra SAS|
-|15|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|72.10.160.90|13739|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|120.89.94.118|8080|Indonesia|Tangerang|PT Asia Teknologi Solusi|
-|20|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|43.243.174.3|83|India|Pune|Shah Solutions|
+|9|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|72.10.160.170|7435|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|67.43.227.227|33091|Canada|Montreal|GloboTech Communications|
+|17|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|103.234.159.5|8080|India|Bengaluru|MWPL|
+|19|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|20|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
 
 
 
