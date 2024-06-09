@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.95.16.6|8080|United Kingdom|Slough|Moneywheel Research Zrt.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|67.43.236.20|1149|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|1149|Canada|Montreal|GloboTech Communications|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|14|67.43.236.20|1149|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|21151|Canada|Montreal|GloboTech Communications|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|67.43.228.251|29345|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1149|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|16177|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10331|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|21151|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|29043|Canada|Montreal|GloboTech Communications|
+|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|20|103.111.137.241|8080|Indonesia|Surabaya|FAZNET|
 
 
 
