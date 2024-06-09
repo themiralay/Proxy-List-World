@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|12|67.43.227.227|2827|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
 |13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|72.10.160.173|7015|Canada|Montreal|GloboTech Communications|
-|15|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|67.43.236.20|13663|Canada|Montreal|GloboTech Communications|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|19|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|67.43.227.228|23891|Canada|Montreal|GloboTech Communications|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|72.10.160.90|14773|Canada|Montreal|GloboTech Communications|
+|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|200.125.170.20|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|18|72.10.160.170|29053|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|26999|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|29171|Canada|Montreal|GloboTech Communications|
 
 
 
