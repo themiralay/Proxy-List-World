@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.95.16.6|8080|United Kingdom|Slough|Moneywheel Research Zrt.|
-|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|160.248.93.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.93.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
 |8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|72.10.160.90|22951|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|12|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|67.43.227.227|5215|Canada|Montreal|GloboTech Communications|
-|15|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.171|14131|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5215|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|5215|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.229|12475|Canada|Montreal|GloboTech Communications|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|67.43.227.227|22005|Canada|Montreal|GloboTech Communications|
+|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.227.227|22005|Canada|Montreal|GloboTech Communications|
+|15|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|16|67.43.236.21|8285|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|22005|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|20|67.43.228.253|25409|Canada|Montreal|GloboTech Communications|
 
 
 
