@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 |15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|67.43.227.227|6321|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|67.43.236.20|17761|Canada|Montreal|GloboTech Communications|
-|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|20|67.43.227.227|6321|Canada|Montreal|GloboTech Communications|
+|16|183.80.232.103|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|89.135.59.65|8090|Hungary|Budapest|Vodafone Hungary Ltd.|
 
 
 
