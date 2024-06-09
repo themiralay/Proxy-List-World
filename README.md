@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |7|160.248.9.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|17|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|18|104.129.202.20|8800|United States|San Jose|ZSCALER, INC.|
-|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|20|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|104.129.202.20|8800|United States|San Jose|ZSCALER, INC.|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|67.43.227.227|5851|Canada|Montreal|GloboTech Communications|
+|20|104.129.206.80|8800|United States|Atlanta|ZSCALER, INC.|
 
 
 
