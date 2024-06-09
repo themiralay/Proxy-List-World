@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
 |4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.24.134.53|999|Ecuador|Guaranda|Ufinet Panama S.A.|
-|7|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|185.55.40.196|8282|Russia|Voronezh|LLC Real|
-|15|72.10.164.178|18469|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|32829|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|5633|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|67.43.228.253|5633|Canada|Montreal|GloboTech Communications|
-|20|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|10|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|67.43.227.227|32829|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|7551|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|9021|Canada|Montreal|GloboTech Communications|
+|17|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|67.43.228.253|9021|Canada|Montreal|GloboTech Communications|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|67.43.228.254|17997|Canada|Montreal|GloboTech Communications|
 
 
 
