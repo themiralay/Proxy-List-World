@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|30823|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15709|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.160.93|6351|Canada|Montreal|GloboTech Communications|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.172|30823|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|72.10.164.178|12389|Canada|Montreal|GloboTech Communications|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
