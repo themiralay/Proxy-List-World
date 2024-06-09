@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|13|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
-|14|67.43.228.252|17813|Canada|Montreal|GloboTech Communications|
-|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|67.43.228.253|22989|Canada|Montreal|GloboTech Communications|
-|17|167.99.55.197|3128|United States|Clifton|DigitalOcean, LLC|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|15|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|16|67.43.228.253|29039|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|17813|Canada|Montreal|GloboTech Communications|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
