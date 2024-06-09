@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|103.118.28.41|1004|Vietnam|Liên Chiểu|Idata Technology Solutions Company Limited|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|191.102.254.50|8085|Argentina|Rosario|IP·RED|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
 |13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.164.178|6477|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1657|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.227.230|32761|Canada|Montreal|GloboTech Communications|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
