@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.39.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|67.43.236.20|10519|Canada|Montreal|GloboTech Communications|
-|17|149.86.146.105|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.160.90|9027|Canada|Montreal|GloboTech Communications|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|170.106.172.170|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|161.34.39.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|18|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|19|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
