@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.90|22197|Canada|Montreal|GloboTech Communications|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.228.253|29039|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|72.10.160.174|15513|Canada|Montreal|GloboTech Communications|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
