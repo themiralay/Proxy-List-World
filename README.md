@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5452** proxies at the latest update. Usable proxies are below.
+> Scraper found **5595** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|403|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3066|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3209|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|67.43.236.18|22425|Canada|Montreal|GloboTech Communications|
-|10|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|124.105.180.29|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|72.10.160.172|5435|Canada|Montreal|GloboTech Communications|
-|15|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
-|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|72.10.160.170|2851|Canada|Montreal|GloboTech Communications|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|72.10.160.174|32389|Canada|Montreal|GloboTech Communications|
-|20|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|103.242.107.146|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|11|202.154.36.155|8080|Indonesia|Surabaya|RADNET-BDG|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
+|14|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|17|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|18|113.160.154.202|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.227.228|2809|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|3587|Canada|Montreal|GloboTech Communications|
 
 
 
