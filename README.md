@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
 |2|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|103.183.99.202|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
 |12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|17|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.107.84.124|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|18|72.10.160.172|14789|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6129|Canada|Montreal|GloboTech Communications|
+|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
 
 
 
