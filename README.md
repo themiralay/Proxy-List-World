@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.35.168.83|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
 |9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|38.188.249.91|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|13|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|221.118.79.16|8080|Japan|Toyota|AITAI|
-|18|157.230.178.216|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|20.187.127.130|2028|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|185.141.213.130|8082|Iran|Tehran|Asiatech Data Transmission company|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|221.118.79.16|8080|Japan|Toyota|AITAI|
+|13|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|14|157.230.178.216|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|16|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|67.43.228.252|20609|Canada|Montreal|GloboTech Communications|
 
 
 
