@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|117.53.46.42|3128|Indonesia|Jakarta|PT Infinys System Indonesia|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|12|201.246.207.109|999|Chile|Pozo Almonte|TELEFÓNICA CHILE S.A.|
-|13|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|14|72.10.164.178|7429|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|4163|Canada|Montreal|GloboTech Communications|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.228.253|4163|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4163|Canada|Montreal|GloboTech Communications|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|67.43.227.227|23975|Canada|Montreal|GloboTech Communications|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|14|221.152.19.11|3128|South Korea|Nam-gu|Korea Telecom|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|119.47.90.45|8080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|72.10.164.178|7429|Canada|Montreal|GloboTech Communications|
+|19|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|20|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
