@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|72.10.160.171|1285|Canada|Montreal|GloboTech Communications|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|6575|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|6575|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|30157|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|72.10.160.90|10375|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6575|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|22591|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6575|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|6575|Canada|Montreal|GloboTech Communications|
-|20|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|11|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|101.255.148.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.227|2899|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|4953|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|10465|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|4551|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|10465|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2899|Canada|Montreal|GloboTech Communications|
 
 
 
