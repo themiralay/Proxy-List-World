@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|46.35.84.21|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|5.9.112.247|3128|Germany|Giessen|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|176.236.124.252|10001|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|13|70.90.138.109|8080|United States|Northville|Comcast Cable Communications, LLC|
-|14|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.90|24009|Canada|Montreal|GloboTech Communications|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|13|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.101.193.50|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|16|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|17|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
+|18|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|19|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
