@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|14|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|43.252.144.72|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|67.43.236.20|4633|Canada|Montreal|GloboTech Communications|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.227.227|2749|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.248.189.38|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|67.43.236.20|27295|Canada|Montreal|GloboTech Communications|
+|17|94.250.201.140|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.228.250|3025|Canada|Montreal|GloboTech Communications|
 
 
 
