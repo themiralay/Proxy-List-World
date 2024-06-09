@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|67.43.227.227|33237|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|67.43.227.227|33237|Canada|Montreal|GloboTech Communications|
-|11|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|67.43.227.227|33237|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|17675|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|19769|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2103|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2103|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10005|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|17675|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29905|Canada|Montreal|GloboTech Communications|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|38.41.5.107|999|Venezuela|Cúa|MDS TELECOM C.A.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|10|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|67.43.227.227|11633|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|11633|Canada|Montreal|GloboTech Communications|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|67.43.236.18|19769|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|67.43.236.20|27939|Canada|Montreal|GloboTech Communications|
+|19|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|20|72.10.160.170|14089|Canada|Montreal|GloboTech Communications|
 
 
 
