@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|103.140.50.242|8080|India|Puducherry|Ramyaa Network Communication|
-|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|80.66.81.179|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|190.110.35.228|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|32.142.206.26|9081|United States|Winnsboro|AT&T Services, Inc.|
+|15|221.118.79.16|8080|Japan|Toyota|AITAI|
+|16|80.87.217.6|8080|Slovakia|Námestovo|DSI DATA, a. s.|
 |17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|18|221.118.79.16|8080|Japan|Toyota|AITAI|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|104.129.192.167|8800|United States|Santa Clara|ZSCALER, INC.|
+|18|104.129.192.167|8800|United States|Santa Clara|ZSCALER, INC.|
+|19|27.147.140.5|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|104.129.192.165|8800|United States|Santa Clara|ZSCALER, INC.|
 
 
 
