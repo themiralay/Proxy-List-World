@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|7|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|128.199.187.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|72.10.164.178|25125|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|25125|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|13865|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|28781|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|26639|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|10519|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14363|Canada|Montreal|GloboTech Communications|
+|9|128.199.187.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|160.248.93.32|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|221.118.79.16|8080|Japan|Toyota|AITAI|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|161.34.38.244|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|17|72.10.164.178|9401|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9401|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|14363|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|8531|Canada|Montreal|GloboTech Communications|
 
 
 
