@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|185.95.16.6|8080|United Kingdom|Slough|Moneywheel Research Zrt.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|8|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|9|38.123.79.3|999|Mexico|Tlajomulco de Zuniga|Cogent Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
 |12|160.248.93.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.236.20|23357|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|28235|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|23357|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|23357|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5009|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|29115|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|29115|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|29115|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|5571|Canada|Montreal|GloboTech Communications|
+|17|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.160.90|9201|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|29115|Canada|Montreal|GloboTech Communications|
 |20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
