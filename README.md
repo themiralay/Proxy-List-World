@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|9|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
-|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|67.43.236.20|24953|Canada|Montreal|GloboTech Communications|
-|12|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
-|13|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|80.66.81.43|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|20|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
+|4|103.169.130.17|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
+|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|15|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|16|180.94.64.58|8080|Afghanistan|Kabul|Cafe-AFGHANTELECOM|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|160.72.98.165|3128|United States|Manalapan|Lightower Fiber Networks I|
+|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
