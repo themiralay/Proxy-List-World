@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|67.43.236.20|17117|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.228.253|27955|Canada|Montreal|GloboTech Communications|
-|20|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
