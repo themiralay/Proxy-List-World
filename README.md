@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|11|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|67.43.236.20|3445|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|1855|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|3277|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|8931|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|31341|Canada|Montreal|GloboTech Communications|
-|19|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|20|72.10.160.170|3277|Canada|Montreal|GloboTech Communications|
+|8|202.137.8.146|8080|Indonesia|Bekasi|LINKNET|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.183.99.202|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|24.152.49.189|999|Dominican Republic|Jarabacoa|Lightwave S.R.L|
+|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.164.178|31341|Canada|Montreal|GloboTech Communications|
 
 
 
