@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
-|11|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|103.81.100.250|80|Indonesia|Banjarmasin|Universitas Lambung Mangkurat, y|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|67.43.236.20|14343|Canada|Montreal|GloboTech Communications|
-|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|19|67.43.228.250|8081|Canada|Montreal|GloboTech Communications|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|37.187.115.135|42000|France|Roubaix|OVH SAS|
+|13|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|14|67.43.228.250|8081|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|23559|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|8179|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|23559|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|26453|Canada|Montreal|GloboTech Communications|
+|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 
 
 
