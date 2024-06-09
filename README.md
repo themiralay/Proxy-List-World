@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.9.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|104.129.202.97|8800|United States|San Jose|ZSCALER, INC.|
-|19|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|20|104.129.192.183|8800|United States|Santa Clara|ZSCALER, INC.|
+|6|82.209.210.19|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.9.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|13|104.129.202.97|8800|United States|San Jose|ZSCALER, INC.|
+|14|104.129.192.183|8800|United States|Santa Clara|ZSCALER, INC.|
+|15|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|136.226.53.102|8800|United States|Reston|ZSCALER, INC.|
+|18|72.10.164.178|14679|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.160.170|22543|Canada|Montreal|GloboTech Communications|
 
 
 
