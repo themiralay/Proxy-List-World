@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|5|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|16|120.28.219.93|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.160.174|10089|Canada|Montreal|GloboTech Communications|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|5|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|6|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|10|72.10.160.174|8837|Canada|Montreal|GloboTech Communications|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|67.43.227.228|27273|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|27273|Canada|Montreal|GloboTech Communications|
+|14|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|15|160.248.9.45|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|103.166.8.234|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|17|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|18|103.189.249.217|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
