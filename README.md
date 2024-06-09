@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5036** proxies at the latest update. Usable proxies are below.
+> Scraper found **4978** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3083|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
 |8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|72.10.164.178|16631|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|19523|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|12297|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|12025|Canada|Montreal|GloboTech Communications|
-|19|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|67.43.228.253|19523|Canada|Montreal|GloboTech Communications|
+|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
