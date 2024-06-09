@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|72.10.164.178|11051|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|28521|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11051|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|17675|Canada|Montreal|GloboTech Communications|
-|17|160.248.9.45|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.227.226|12905|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|72.10.164.178|30763|Canada|Montreal|GloboTech Communications|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|72.10.164.178|30763|Canada|Montreal|GloboTech Communications|
+|17|95.158.174.111|8080|Bulgaria|Popovo|Internet Service Ltd|
+|18|160.248.9.45|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |19|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
