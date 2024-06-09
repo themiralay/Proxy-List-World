@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|6|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.93.32|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|34.204.82.119|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.93.32|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|154.91.1.213|3129|Hong Kong|Hong Kong|Telekomunikasi Indonesia International|
+|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|12|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |16|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
-|17|72.10.164.178|18893|Canada|Montreal|GloboTech Communications|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.164.178|18893|Canada|Montreal|GloboTech Communications|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
