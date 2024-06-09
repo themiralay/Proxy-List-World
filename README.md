@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|161.34.39.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|36.94.30.238|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|20|190.94.212.199|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.189.42|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|161.34.39.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|19|186.125.218.149|999|Argentina|Molinos|Telecom Argentina S.A.|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
