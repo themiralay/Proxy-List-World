@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|91.107.222.154|8118|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|222.216.37.138|808|China|Lilancun|Chinanet|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|152.42.244.76|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.236.19|12627|Canada|Montreal|GloboTech Communications|
-|20|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|10|124.105.180.29|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
+|19|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
