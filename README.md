@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|103.110.34.136|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|4|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|19|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
