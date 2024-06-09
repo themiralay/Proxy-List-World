@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|67.43.227.228|21393|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|12269|Canada|Montreal|GloboTech Communications|
-|14|188.136.162.9|7060|Iran|Falāvarjān|Ariana Gostar Spadana's|
-|15|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|21393|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|21211|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|10125|Canada|Montreal|GloboTech Communications|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|72.10.164.178|13165|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|29491|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|1129|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|1129|Canada|Montreal|GloboTech Communications|
+|14|201.150.9.53|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
+|15|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|17|67.43.227.227|25131|Canada|Montreal|GloboTech Communications|
+|18|188.136.162.9|7060|Iran|Falāvarjān|Ariana Gostar Spadana's|
+|19|67.43.228.251|27957|Canada|Montreal|GloboTech Communications|
+|20|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
 
 
 
