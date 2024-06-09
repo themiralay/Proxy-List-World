@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|5|185.95.16.6|8080|United Kingdom|Slough|Moneywheel Research Zrt.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|161.34.38.244|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|67.43.236.20|13775|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|23019|Canada|Montreal|GloboTech Communications|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.227.228|21505|Canada|Montreal|GloboTech Communications|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.95.16.6|8080|United Kingdom|Slough|Moneywheel Research Zrt.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|15|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|16|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|103.172.70.138|1111|Indonesia|Karangampel|AZNET|
+|20|161.34.38.244|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
