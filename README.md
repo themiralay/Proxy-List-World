@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|89.23.110.116|8082|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
-|6|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|67.43.236.19|10993|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|2669|Canada|Montreal|GloboTech Communications|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|13|67.43.227.227|18061|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|3627|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15901|Canada|Montreal|GloboTech Communications|
-|16|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.164.178|15901|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18779|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15901|Canada|Montreal|GloboTech Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.228.253|30319|Canada|Montreal|GloboTech Communications|
+|10|89.23.110.116|8082|The Netherlands|Amsterdam|Stark Industries Solutions LTD|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|67.43.236.19|17271|Canada|Montreal|GloboTech Communications|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|15|186.148.175.118|999|Colombia|Aguazul|TV AZTECA SUCURSAL COLOMBIA|
+|16|72.10.164.178|25521|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|7769|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|3627|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|72.10.160.90|12593|Canada|Montreal|GloboTech Communications|
 
 
 
