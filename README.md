@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.184.122.111|3128|United States|Council Bluffs|Google LLC|
-|7|72.10.160.93|14089|Canada|Montreal|GloboTech Communications|
-|8|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
-|9|72.10.164.178|15343|Canada|Montreal|GloboTech Communications|
+|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|67.43.236.20|3855|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|3855|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|4601|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|22125|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15343|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|15343|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|17821|Canada|Montreal|GloboTech Communications|
-|20|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|72.55.248.135|9888|United States|Sumner|First Light Fiber|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|35.184.122.111|3128|United States|Council Bluffs|Google LLC|
+|17|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
+|20|67.43.227.227|18809|Canada|Montreal|GloboTech Communications|
 
 
 
