@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.164.178|6987|Canada|Montreal|GloboTech Communications|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|67.43.236.20|15085|Canada|Montreal|GloboTech Communications|
-|20|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|8|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|72.10.164.178|18113|Canada|Montreal|GloboTech Communications|
+|20|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
 
 
 
