@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|91.202.197.1|3128|Russia|Vologda|Electrics Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|11|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|12|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|72.10.160.90|17891|Canada|Montreal|GloboTech Communications|
-|17|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|18|111.185.19.78|3128|Taiwan|Tianzibu|Hoshin Multimedia Center Inc.|
-|19|72.10.160.174|10965|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|10965|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|113.23.183.154|8989|Malaysia|Johor Bahru|Extreme Broadband|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|17|103.166.161.34|8080|Indonesia|Dumai|PT Link Kita Teknologi|
+|18|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|216.48.181.211|3128|India|Noida|E2E Networks Limited|
 
 
 
