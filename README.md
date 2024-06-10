@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4959** proxies at the latest update. Usable proxies are below.
+> Scraper found **4956** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|536|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3201|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|5|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|9|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|15|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|20|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
+|12|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|15|72.10.160.174|19469|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|3375|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
+|18|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|72.10.160.91|23387|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|2911|Canada|Montreal|GloboTech Communications|
 
 
 
