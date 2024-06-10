@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|103.115.227.21|80|Indonesia|Surakarta|Pemerintah Kota Surakarta|
-|7|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|8|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|11|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.21|10573|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|16869|Canada|Montreal|GloboTech Communications|
 |14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|13653|Canada|Montreal|GloboTech Communications|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|1737|Canada|Montreal|GloboTech Communications|
-|20|211.51.126.221|3128|South Korea|Uijeongbu-si|KORNET|
+|15|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|16|67.43.227.228|28143|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16869|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|16529|Canada|Montreal|GloboTech Communications|
+|19|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
