@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|11|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|12|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1513|Canada|Montreal|GloboTech Communications|
+|7|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|13|103.247.14.28|8080|Indonesia|Semarang|TERABIT|
 |14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
-|16|103.247.14.28|8080|Indonesia|Semarang|TERABIT|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|20|67.43.228.250|27391|Canada|Montreal|GloboTech Communications|
+|15|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|125.27.5.32|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
