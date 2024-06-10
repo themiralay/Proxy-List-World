@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
 |4|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|14|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|71.14.23.121|8080|United States|Decatur|Spectrum|
+|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |19|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|25379|Canada|Montreal|GloboTech Communications|
 
 
 
