@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.94|24143|Canada|Montreal|GloboTech Communications|
-|18|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|19|49.254.175.182|53210|South Korea|Paripark|HAIonNet|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|49.254.175.182|53210|South Korea|Paripark|HAIonNet|
+|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|16|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|20|72.10.160.94|13957|Canada|Montreal|GloboTech Communications|
 
 
 
