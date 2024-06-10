@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6192** proxies at the latest update. Usable proxies are below.
+> Scraper found **6242** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|994|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|616|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|595|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3602|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.77.171.70|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|8|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|9|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|12|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|13|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|14|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|15|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
-|16|37.44.247.217|3128|United States|Asheville|Hostinger International Limited|
-|17|180.251.1.74|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|19|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|20|13.58.44.191|8080|United States|Dublin|Amazon.com, Inc.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|12|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|13|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|16|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|18|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
+|19|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
+|20|5.104.75.193|8080|Germany|Frankfurt am Main|International Hosting Company Limited|
 
 
 
