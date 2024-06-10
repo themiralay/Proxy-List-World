@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|5|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|16|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
+|17|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 
 
 
