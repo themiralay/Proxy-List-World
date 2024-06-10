@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|9|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|10|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|12|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|16|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|18|160.248.92.131|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|72.10.160.171|4821|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|6907|Canada|Montreal|GloboTech Communications|
+|15|160.248.92.131|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|17|72.10.160.171|4821|Canada|Montreal|GloboTech Communications|
+|18|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|19|72.10.160.92|6907|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|4821|Canada|Montreal|GloboTech Communications|
 
 
 
