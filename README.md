@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|20.235.159.154|3128|India|Chennai|Microsoft Corporation|
-|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|4|103.169.189.125|3125|Indonesia|Surabaya|Sarana Media Cemerlang|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|194.58.123.38|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
