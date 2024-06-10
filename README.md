@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|129.151.239.175|8080|France|Marseille|Oracle Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
-|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
-|19|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|20|67.43.227.227|3287|Canada|Montreal|GloboTech Communications|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|4|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|5|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|11|67.43.227.227|13529|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|5.249.145.68|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|15|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|16|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|72.10.160.92|8159|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|10925|Canada|Montreal|GloboTech Communications|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|23541|Canada|Montreal|GloboTech Communications|
 
 
 
