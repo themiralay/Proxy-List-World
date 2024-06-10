@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|202.168.69.227|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|103.147.247.212|1234|Indonesia|Tangerang|PLBNET|
+|6|103.16.118.167|8080|Indonesia|Madiun|CV Trustnet Media|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|103.154.91.250|8081|Indonesia|Penggilingan|MORATELINDONAP|
+|13|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|16|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
