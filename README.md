@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|46.182.180.147|8080|The Netherlands|Amsterdam|BIT BV|
-|11|103.156.248.50|8181|Indonesia|Medan|Trans Media Telekomunikasi|
-|12|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|16|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|20|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|103.153.134.20|8080|Indonesia|Tangerang|WMINET|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|103.117.194.69|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|12|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|67.43.228.253|21935|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
