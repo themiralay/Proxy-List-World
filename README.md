@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|159.69.192.148|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|103.118.28.41|1004|Vietnam|Liên Chiểu|Idata Technology Solutions Company Limited|
+|7|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|20|103.106.243.153|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|19|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|20|65.1.191.65|8080|India|Mumbai|Amazon.com|
 
 
 
