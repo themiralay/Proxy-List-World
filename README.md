@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|72.10.160.90|14747|Canada|Montreal|GloboTech Communications|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|67.43.227.227|1321|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|72.10.160.90|14747|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|6027|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|14747|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|26255|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1753|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1753|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1753|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|26255|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|20355|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|20355|Canada|Montreal|GloboTech Communications|
-|19|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|20|67.43.228.251|10677|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|4|67.43.227.227|29019|Canada|Montreal|GloboTech Communications|
+|5|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|7|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|31865|Canada|Montreal|GloboTech Communications|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|72.10.160.90|12827|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
+|15|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|67.43.228.253|28207|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.252|21263|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|6351|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
