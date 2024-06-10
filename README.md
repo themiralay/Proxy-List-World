@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|7|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
-|8|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|67.43.228.253|11725|Canada|Montreal|GloboTech Communications|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|67.43.228.251|25893|Canada|Montreal|GloboTech Communications|
-|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|102.209.18.26|8080|Kenya|Nairobi|African Network Information Center - ( AfriNIC Ltd. )|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|185.93.204.33|8080|Italy|Ragusa|Novaquadri|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
