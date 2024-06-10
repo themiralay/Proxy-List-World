@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|49.254.175.183|53210|South Korea|Paripark|HAIonNet|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|49.254.175.183|53210|South Korea|Paripark|HAIonNet|
+|13|111.198.53.175|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|18|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
