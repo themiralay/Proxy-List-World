@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|121.172.52.126|3128|South Korea|Incheon|Korea Telecom|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|7|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|11|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|12|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
-|20|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|13|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|15|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|16|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|17|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|18|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
