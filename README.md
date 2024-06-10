@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|112.163.160.24|3128|South Korea|Nammyeon|Korea Telecom|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
 |12|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.164.178|21625|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|67.43.227.227|19947|Canada|Montreal|GloboTech Communications|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|16|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|20|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
