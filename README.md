@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|125.27.5.32|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|180.191.20.194|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|185.235.218.39|3128|Ukraine|Kyiv Oblast|Neth LLC|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|112.78.47.188|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
-|9|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|16169|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|16169|Canada|Montreal|GloboTech Communications|
-|17|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|67.43.227.228|19165|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3231|Canada|Montreal|GloboTech Communications|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|72.10.164.178|33095|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|33095|Canada|Montreal|GloboTech Communications|
+|15|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|72.128.133.154|16099|United States|Austin|Charter Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|33095|Canada|Montreal|GloboTech Communications|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
