@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|183.99.2.137|8080|South Korea|Seongnam-si|Korea Telecom|
 |7|111.185.19.78|3128|Taiwan|Tianzibu|Hoshin Multimedia Center Inc.|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|72.10.160.170|13301|Canada|Montreal|GloboTech Communications|
+|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
 |11|72.10.160.90|17891|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.236.19|26509|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|13301|Canada|Montreal|GloboTech Communications|
-|17|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|18|67.43.236.22|2887|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|32239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1719|Canada|Montreal|GloboTech Communications|
+|12|95.31.138.233|8080|Russia|Moscow|CORBINA|
+|13|67.43.236.20|27675|Canada|Montreal|GloboTech Communications|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|72.10.160.172|32239|Canada|Montreal|GloboTech Communications|
+|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|19|67.43.236.20|27675|Canada|Montreal|GloboTech Communications|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
