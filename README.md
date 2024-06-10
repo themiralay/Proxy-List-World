@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|49.49.77.247|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|12|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|20|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.155.198.105|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|13|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
