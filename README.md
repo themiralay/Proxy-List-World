@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|11|67.43.228.251|21385|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|2897|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|72.10.160.170|31707|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|5009|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|5009|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|30225|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|4959|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|27967|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2897|Canada|Montreal|GloboTech Communications|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|14|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.227.227|1821|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.170|9187|Canada|Montreal|GloboTech Communications|
+|19|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|20|67.43.228.253|20707|Canada|Montreal|GloboTech Communications|
 
 
 
