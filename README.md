@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|7|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|8|46.182.180.147|8080|The Netherlands|Amsterdam|BIT BV|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |10|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|72.10.160.90|10453|Canada|Montreal|GloboTech Communications|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|67.43.227.227|22989|Canada|Montreal|GloboTech Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|15|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|16|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|17|146.66.174.227|8080|Russia|St Petersburg|Home Internet ltd|
+|18|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
