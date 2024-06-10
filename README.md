@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.51.126.221|3128|South Korea|Uijeongbu-si|KORNET|
-|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|15|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|16|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|146.66.174.227|8080|Russia|St Petersburg|Home Internet ltd|
-|19|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|13|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|111.202.93.36|8082|China|Beijing|China Unicom Beijing Province Network|
+|19|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|20|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
