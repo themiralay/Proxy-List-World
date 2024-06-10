@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
+|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
 |11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|13|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |17|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
 
 
 
