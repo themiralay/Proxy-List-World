@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.236.21|16595|Canada|Montreal|GloboTech Communications|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|72.10.164.178|9831|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|10223|Canada|Montreal|GloboTech Communications|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.164.178|9831|Canada|Montreal|GloboTech Communications|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.164.178|9831|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|14|67.43.236.20|23145|Canada|Montreal|GloboTech Communications|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|72.10.164.178|16799|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|13179|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|20|67.43.227.227|13767|Canada|Montreal|GloboTech Communications|
 
 
 
