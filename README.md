@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|8|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|9|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|10|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 |11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|72.10.164.178|24541|Canada|Montreal|GloboTech Communications|
+|12|181.58.31.201|8080|Colombia|Neiva|Telmex Colombia S.A.|
+|13|118.99.127.165|8080|Indonesia|Malang|Biznet Metronet|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|28921|Canada|Montreal|GloboTech Communications|
 |16|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.228.253|23153|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|28921|Canada|Montreal|GloboTech Communications|
+|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 
 
 
