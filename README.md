@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|563|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|563|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|563|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|12|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|13|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
-|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|16|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|13|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|16|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
+|17|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
