@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|18|72.10.160.173|24759|Canada|Montreal|GloboTech Communications|
-|19|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|9|103.165.125.182|80|Indonesia|Jakarta|PT iForte Global Internet|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
