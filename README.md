@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
 |9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|188.125.169.11|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|77.37.47.251|3128|India|Mumbai|Hostinger International Limited|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|20|72.10.160.92|10099|Canada|Montreal|GloboTech Communications|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|18|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.236.18|21999|Canada|Montreal|GloboTech Communications|
 
 
 
