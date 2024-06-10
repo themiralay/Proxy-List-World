@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|6|211.51.126.221|3128|South Korea|Uijeongbu-si|KORNET|
-|7|103.173.139.220|8080|Indonesia|Wonosobo|PT Serayu Multi Connection|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
-|14|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|18|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|19|157.66.16.40|8080|Indonesia|Jatibarang|MMNET|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|8|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|13|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|17|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
 
 
 
