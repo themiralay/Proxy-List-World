@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
 |8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|72.10.160.90|1303|Canada|Montreal|GloboTech Communications|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|67.43.227.227|8777|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.236.20|22895|Canada|Montreal|GloboTech Communications|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|67.43.236.18|2641|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|20|67.43.228.253|5359|Canada|Montreal|GloboTech Communications|
+|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|223.204.177.121|3128|Thailand|Nakhon Sawan|Triple T Broadband Public Company Limited|
+|11|67.43.236.18|2641|Canada|Montreal|GloboTech Communications|
+|12|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|13|103.156.140.202|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|14|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|30913|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.94|18987|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|8699|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|8473|Canada|Montreal|GloboTech Communications|
 
 
 
