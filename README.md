@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
-|13|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|72.10.160.171|2697|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|4285|Canada|Montreal|GloboTech Communications|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|14|144.91.74.64|3128|Germany|Nuremberg|Contabo GmbH|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|72.10.160.90|1333|Canada|Montreal|GloboTech Communications|
 |17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.171|2697|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.171|25909|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|25909|Canada|Montreal|GloboTech Communications|
 
 
 
