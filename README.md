@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|211.51.126.221|3128|South Korea|Uijeongbu-si|KORNET|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|6|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|72.10.164.178|12745|Canada|Montreal|GloboTech Communications|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
