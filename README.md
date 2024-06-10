@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|91.202.197.1|3128|Russia|Vologda|Electrics Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
-|13|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|14|67.43.236.20|12769|Canada|Montreal|GloboTech Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|84.38.180.240|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|194.62.248.24|3128|Germany|Frankfurt Am Main|Alexander Fiedler|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|8|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
+|11|67.43.236.20|28491|Canada|Montreal|GloboTech Communications|
+|12|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|13|179.1.192.26|999|Colombia|Neiva|INTERNEXA Brasil Operadora de Telecomunica??es S.A|
+|14|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|72.10.160.171|18889|Canada|Montreal|GloboTech Communications|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
+|20|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
