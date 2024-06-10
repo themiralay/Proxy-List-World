@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|129.151.239.175|8080|France|Marseille|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|72.10.160.170|12227|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|22035|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|22035|Canada|Montreal|GloboTech Communications|
-|14|80.210.71.103|3128|Denmark|Vanløse|Hiper A/S|
-|15|72.10.160.171|7385|Canada|Montreal|GloboTech Communications|
-|16|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.90|9041|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|9041|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1479|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|203.150.113.115|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|80.66.81.39|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|217.196.139.160|8080|Italy|Ragusa|NOVAQUADRI|
+|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|12|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|13|129.151.239.175|8080|France|Marseille|Oracle Corporation|
+|14|103.186.204.48|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|15|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|20|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
 
 
 
