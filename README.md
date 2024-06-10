@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.92.130|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|67.43.236.20|15439|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|30883|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|30883|Canada|Montreal|GloboTech Communications|
-|17|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|20|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|10|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
+|11|49.254.175.183|53210|South Korea|Paripark|HAIonNet|
+|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|14|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|67.43.227.229|25989|Canada|Montreal|GloboTech Communications|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|67.43.228.253|10979|Canada|Montreal|GloboTech Communications|
 
 
 
