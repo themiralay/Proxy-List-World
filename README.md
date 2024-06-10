@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|14|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|17|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
-|18|171.6.72.170|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|5.104.75.193|8080|Germany|Frankfurt am Main|International Hosting Company Limited|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|61.97.191.101|9070|South Korea|Seongnam-si|NBP|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|178.71.222.49|8080|Russia|St Petersburg|Rostelecom networks|
+|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|122.223.26.7|8080|Japan|Shimorenjaku|ARTERIA Networks Corporation|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|18|46.161.196.222|9812|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|20|178.63.118.150|3128|Germany|Falkenstein|Hetzner|
 
 
 
