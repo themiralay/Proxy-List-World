@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|59.157.2.63|32304|Japan|Tokiwa|FreeBit Co., Ltd.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.236.20|3921|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3921|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26129|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|13171|Canada|Montreal|GloboTech Communications|
-|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|19|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|20|72.10.160.170|10099|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|64.62.200.198|3128|United States|Fremont|Hurricane Electric LLC|
+|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|14|72.10.160.90|17413|Canada|Montreal|GloboTech Communications|
+|15|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|72.10.164.178|31813|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|1613|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|2755|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|21731|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|3921|Canada|Montreal|GloboTech Communications|
 
 
 
