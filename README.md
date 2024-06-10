@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|590|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|590|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|590|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|13|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|16|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|18|185.143.103.22|3128|Switzerland|Geneva|Infomaniak Network SA|
-|19|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
-|20|5.104.75.193|8080|Germany|Frankfurt am Main|International Hosting Company Limited|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|9|13.58.44.191|8080|United States|Dublin|Amazon.com, Inc.|
+|10|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|11|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|16|85.235.150.219|3128|Italy|Arezzo|Aruba S.p.A.|
+|17|112.5.41.28|3128|China|Shenzhen|China Mobile|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
