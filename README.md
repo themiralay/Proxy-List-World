@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|6|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|85.235.150.219|3128|Italy|Arezzo|Aruba S.p.A.|
-|17|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|112.5.41.28|3128|China|Shenzhen|China Mobile|
-|20|72.10.160.172|12103|Canada|Montreal|GloboTech Communications|
+|1|110.77.171.70|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|8|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|9|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|12|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|13|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|14|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|15|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|16|37.44.247.217|3128|United States|Asheville|Hostinger International Limited|
+|17|180.251.1.74|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|19|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|20|13.58.44.191|8080|United States|Dublin|Amazon.com, Inc.|
 
 
 
