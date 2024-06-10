@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|103.105.76.99|8080|Indonesia|Bojonegoro|GARUDA|
-|18|157.66.16.40|8080|Indonesia|Jatibarang|MMNET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|10|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
