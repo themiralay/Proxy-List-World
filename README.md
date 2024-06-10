@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|159.89.159.228|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|159.89.159.228|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|13|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|67.43.228.251|30265|Canada|Montreal|GloboTech Communications|
-|15|14.140.167.189|10177|India|Chennai|Tata Communications Limited|
-|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|18|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13025|Canada|Montreal|GloboTech Communications|
-|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|8.222.207.176|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|17|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.164.178|31813|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|20425|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
