@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|9|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|67.43.227.228|4899|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|8925|Canada|Montreal|GloboTech Communications|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|103.84.235.162|8789|Indonesia|Bogor|PT Maxindo Mitra Solusi|
-|20|67.43.228.253|9503|Canada|Montreal|GloboTech Communications|
+|19|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|72.10.164.178|27695|Canada|Montreal|GloboTech Communications|
 
 
 
