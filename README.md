@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|4|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|5|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|8281|Canada|Montreal|GloboTech Communications|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|11|67.43.236.20|11431|Canada|Montreal|GloboTech Communications|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
-|15|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|67.43.227.230|4551|Canada|Montreal|GloboTech Communications|
-|18|35.184.122.111|3128|United States|Council Bluffs|Google LLC|
-|19|67.43.227.230|4551|Canada|Montreal|GloboTech Communications|
-|20|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|124.158.153.218|8180|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|15|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|187.251.230.10|3128|Mexico|Alto Lucero|Total Play Telecomunicaciones SA De CV|
+|20|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
 
 
 
