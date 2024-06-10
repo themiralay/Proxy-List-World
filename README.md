@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.47.164.233|8080|India|Noida|Magus Sales and Services Private limited|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|122.249.238.203|8080|Japan|Tokyo|ASAHI Net, Inc.|
+|17|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |19|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
 |20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
