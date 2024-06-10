@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5981** proxies at the latest update. Usable proxies are below.
+> Scraper found **5926** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|832|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|994|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|567|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|350|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3602|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|211.51.126.221|3128|South Korea|Uijeongbu-si|KORNET|
+|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|145.239.146.18|8080|France|Strasbourg|OVH SAS|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|65.108.126.45|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
-|15|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|16|148.72.165.71|30127|United States|St Louis|GoDaddy.com|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|20|45.81.233.101|8080|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|145.239.146.18|8080|France|Strasbourg|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|211.227.94.89|3128|South Korea|Gangbuk-gu|Korea Telecom|
+|16|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|146.66.174.227|8080|Russia|St Petersburg|Home Internet ltd|
+|19|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
 
 
 
