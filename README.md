@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|65.1.191.65|8080|India|Mumbai|Amazon.com|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|65.1.191.65|8080|India|Mumbai|Amazon.com|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |10|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|20|67.43.228.254|1593|Canada|Montreal|GloboTech Communications|
+|11|162.55.250.8|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|14|142.171.133.74|3128|United States|Los Angeles|Multacom Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|67.43.228.254|1593|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|18291|Canada|Montreal|GloboTech Communications|
+|19|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
