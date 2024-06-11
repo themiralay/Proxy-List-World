@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|67.43.228.251|29361|Canada|Montreal|GloboTech Communications|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
-|8|67.43.227.227|24923|Canada|Montreal|GloboTech Communications|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|67.43.228.253|2511|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.254|20975|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|16667|Canada|Montreal|GloboTech Communications|
-|13|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|14|67.43.227.228|8665|Canada|Montreal|GloboTech Communications|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|67.43.228.250|24649|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|30009|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|16667|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|103.56.206.93|8181|Indonesia|Medan|Argon Data Communication|
+|15|125.26.183.75|8080|Thailand|Lampang|TOT Public Company Limited|
+|16|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
