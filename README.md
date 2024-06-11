@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|195.179.230.51|3128|Italy|Sessa Aurunca|Contabo GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|103.48.68.123|84|India|Hyderabad|Country Online Services PVT LTD|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.227.228|13185|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|5817|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|11461|Canada|Montreal|GloboTech Communications|
-|18|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|19|72.10.160.170|5817|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|72.10.160.170|5817|Canada|Montreal|GloboTech Communications|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|72.10.164.178|12405|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|12405|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|72.10.160.174|8269|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|72.10.164.178|12405|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12405|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|12405|Canada|Montreal|GloboTech Communications|
 
 
 
