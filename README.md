@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|72.10.160.90|20777|Canada|Montreal|GloboTech Communications|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|72.10.164.178|28063|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2617|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|20777|Canada|Montreal|GloboTech Communications|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|67.43.227.228|5053|Canada|Montreal|GloboTech Communications|
 
 
 
