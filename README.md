@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|7|103.131.232.16|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|8|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.160.172|23259|Canada|Montreal|GloboTech Communications|
-|17|198.211.115.57|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|67.43.227.227|12425|Canada|Montreal|GloboTech Communications|
-|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|11|182.253.153.100|8080|Indonesia|Jakarta|BIZNET|
+|12|72.10.160.172|29805|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|15|179.49.117.21|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|18|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|19|67.43.227.227|16679|Canada|Montreal|GloboTech Communications|
+|20|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
 
 
 
