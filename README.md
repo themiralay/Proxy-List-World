@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|67.43.236.20|3105|Canada|Montreal|GloboTech Communications|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|15|67.43.228.253|24007|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|7487|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|22341|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|11837|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|32437|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|67.43.228.253|25665|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|5953|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|67.43.228.253|25665|Canada|Montreal|GloboTech Communications|
+|13|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|14|72.10.164.178|16521|Canada|Montreal|GloboTech Communications|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|72.10.164.178|16521|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|5953|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|26871|Canada|Montreal|GloboTech Communications|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|67.43.236.21|23475|Canada|Montreal|GloboTech Communications|
 
 
 
