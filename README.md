@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|72.10.164.178|3767|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|1645|Canada|Montreal|GloboTech Communications|
-|9|153.37.254.51|3128|China|Pudong|China Unicom Jiangsu Province Network|
-|10|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|12|72.10.160.170|15029|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|1645|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|1645|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|1645|Canada|Montreal|GloboTech Communications|
-|16|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|72.10.160.93|1417|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|9163|Canada|Montreal|GloboTech Communications|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
