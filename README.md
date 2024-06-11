@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|95.214.63.218|3128|Russia|St Petersburg|Beget LLC|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|15255|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|24647|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.171|19231|Canada|Montreal|GloboTech Communications|
+|16|156.54.62.158|8080|Italy|Milan|Telecom Italia S.p.A.|
+|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|72.10.164.178|9809|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
