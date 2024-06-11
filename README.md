@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|7|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|134.35.18.42|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
 |11|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|72.10.164.178|27797|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27797|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6225|Canada|Montreal|GloboTech Communications|
-|18|187.72.132.170|3128|Brazil|Rocinha|ALGAR TELECOM S/A|
-|19|72.10.160.170|14145|Canada|Montreal|GloboTech Communications|
-|20|188.191.107.228|3128|Türkiye|Bursa|Kerim Talha Tosun|
+|12|67.43.227.227|4521|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|14713|Canada|Montreal|GloboTech Communications|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|187.72.132.170|3128|Brazil|Rocinha|ALGAR TELECOM S/A|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
