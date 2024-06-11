@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.227|28833|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|113.160.166.196|6000|Vietnam|Thị Trấn Tân Yên|VietNam Post and Telecom Corporation|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|67.43.227.227|26253|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.172|27505|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11275|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11275|Canada|Montreal|GloboTech Communications|
+|16|45.147.201.125|3128|Russia|Moscow|LLC Baxet|
+|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
