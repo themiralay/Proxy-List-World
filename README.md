@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|182.253.169.184|8080|Indonesia|Jakarta|BIZNET|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|72.10.164.178|30755|Canada|Montreal|GloboTech Communications|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|72.10.160.90|4481|Canada|Montreal|GloboTech Communications|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|67.43.228.253|25499|Canada|Montreal|GloboTech Communications|
-|16|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|18|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|142.171.176.139|3128|United States|Los Angeles|Multacom Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|72.10.160.171|23179|Canada|Montreal|GloboTech Communications|
+|15|203.150.128.197|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|19|67.43.228.253|10349|Canada|Montreal|GloboTech Communications|
+|20|101.255.166.142|3128|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
