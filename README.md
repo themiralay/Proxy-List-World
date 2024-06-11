@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4793** proxies at the latest update. Usable proxies are below.
+> Scraper found **4899** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|621|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|286|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2871|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|11|182.253.153.100|8080|Indonesia|Jakarta|BIZNET|
-|12|72.10.160.172|29805|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|179.49.117.21|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|45.189.151.27|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|18|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|19|67.43.227.227|16679|Canada|Montreal|GloboTech Communications|
-|20|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|72.10.164.178|26617|Canada|Montreal|GloboTech Communications|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|67.43.228.251|26311|Canada|Montreal|GloboTech Communications|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|103.169.130.20|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
