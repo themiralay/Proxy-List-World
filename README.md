@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|38.188.248.34|8181|Indonesia|Madiun|PT. Menaksopal Link Nusantara|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|64.157.16.43|8080|United States|Francesville|Level 3|
-|16|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|17|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|72.10.160.90|15261|Canada|Montreal|GloboTech Communications|
-|19|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
