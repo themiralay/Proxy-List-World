@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|103.172.71.15|8080|Indonesia|Karawang|AZNET|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|15|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|72.10.164.178|8179|Canada|Montreal|GloboTech Communications|
 
 
 
