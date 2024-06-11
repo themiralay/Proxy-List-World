@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|72.10.164.178|33117|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
-|13|91.108.121.216|3128|Lithuania|Vilnius|HOSTINGER LT|
-|14|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
+|10|131.100.51.252|999|Colombia|Neiva|Fibernet TV SAS|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|13|72.10.164.178|30405|Canada|Montreal|GloboTech Communications|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |16|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.164.178|33117|Canada|Montreal|GloboTech Communications|
-|18|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|67.43.227.227|23337|Canada|Montreal|GloboTech Communications|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
