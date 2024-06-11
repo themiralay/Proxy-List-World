@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|95.214.63.218|3128|Russia|St Petersburg|Beget LLC|
-|3|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|67.43.227.227|6759|Canada|Montreal|GloboTech Communications|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|181.209.125.122|999|Argentina|Rio Grande|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |12|72.10.164.178|27797|Canada|Montreal|GloboTech Communications|
-|13|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|14|67.43.227.226|19477|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|67.43.236.19|20385|Canada|Montreal|GloboTech Communications|
+|16|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
 |17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|67.43.227.227|6759|Canada|Montreal|GloboTech Communications|
-|19|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|20|67.43.227.227|6759|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|20385|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27797|Canada|Montreal|GloboTech Communications|
+|20|65.21.141.136|17005|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
