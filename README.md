@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|67.43.227.228|31871|Canada|Montreal|GloboTech Communications|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|72.10.164.178|7525|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|7525|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|11811|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|29355|Canada|Montreal|GloboTech Communications|
-|16|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|17|72.10.160.170|25793|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9639|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29355|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7525|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|72.10.160.170|22195|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|72.10.160.90|19087|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
+|10|202.8.74.12|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|11|72.10.160.94|10323|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|10257|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|124.83.51.94|8082|Philippines|Mandaue City|Philippine Long Distance Telephone Co.|
+|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.164.178|10257|Canada|Montreal|GloboTech Communications|
+|19|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
 
 
 
