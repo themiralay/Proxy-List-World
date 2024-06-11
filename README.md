@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|182.253.169.184|8080|Indonesia|Jakarta|BIZNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|218.158.160.251|3128|South Korea|Daedeok-gu|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|149.104.22.117|3128|Singapore|Singapore|Xnnet LLC|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
 |19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
