@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4348** proxies at the latest update. Usable proxies are below.
+> Scraper found **4327** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|474|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|206|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|185|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2660|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|9|67.43.236.20|13027|Canada|Montreal|GloboTech Communications|
-|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
-|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|67.43.227.227|32335|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|6131|Canada|Montreal|GloboTech Communications|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.160.90|13327|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|17711|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|11|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|67.43.236.20|28161|Canada|Montreal|GloboTech Communications|
+|20|103.199.117.99|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
 
 
 
