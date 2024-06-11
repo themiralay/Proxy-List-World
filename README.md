@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|67.43.227.227|22843|Canada|Montreal|GloboTech Communications|
-|15|187.109.22.46|8080|Brazil|Santo Ângelo|Sulnet Telecom|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|20|117.68.38.188|30198|China|Rongcheng|China Telecom|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|18|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
