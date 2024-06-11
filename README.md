@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5073** proxies at the latest update. Usable proxies are below.
+> Scraper found **5112** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|272|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3298|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|10|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|15|72.10.164.178|3563|Canada|Montreal|GloboTech Communications|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|18|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|19|67.43.236.20|4199|Canada|Montreal|GloboTech Communications|
-|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|67.43.227.227|5121|Canada|Montreal|GloboTech Communications|
+|13|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|15|101.109.110.182|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|67.43.228.253|23289|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|18071|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|29765|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|23289|Canada|Montreal|GloboTech Communications|
 
 
 
