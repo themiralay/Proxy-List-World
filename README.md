@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.160.172|29235|Canada|Montreal|GloboTech Communications|
-|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|13|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|14|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|27097|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|20721|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|27097|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|181.192.2.23|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|203.150.128.183|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|67.43.228.253|3181|Canada|Montreal|GloboTech Communications|
+|20|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
