@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
-|18|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|170.239.205.114|999|Colombia|Bogotá|FIBERNET|
+|13|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|14|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|19|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
