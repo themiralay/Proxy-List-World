@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|12|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
-|17|67.43.227.227|19591|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|72.10.160.90|17149|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|17|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
