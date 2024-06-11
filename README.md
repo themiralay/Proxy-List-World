@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.90|16473|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7403|Canada|Montreal|GloboTech Communications|
-|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|67.43.228.253|1533|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|16473|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4461|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|72.10.164.178|14097|Canada|Montreal|GloboTech Communications|
+|15|99.107.240.88|8080|United States|Prosper|AT&T Services, Inc.|
+|16|72.10.160.90|16307|Canada|Montreal|GloboTech Communications|
+|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|18|67.43.236.18|25895|Canada|Montreal|GloboTech Communications|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
