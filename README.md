@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|65.1.40.47|1080|India|Mumbai|Amazon.com|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|171.6.76.210|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|7|188.94.156.144|3128|Kazakhstan|Almaty|It-grad TOO|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|18|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|129.151.239.175|8080|France|Marseille|Oracle Corporation|
 
 
 
