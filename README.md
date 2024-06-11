@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.236.22|22941|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|12315|Canada|Montreal|GloboTech Communications|
-|12|122.231.114.103|3128|China|Hangzhou|Chinanet|
-|13|72.10.160.173|12315|Canada|Montreal|GloboTech Communications|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|218.158.160.251|3128|South Korea|Daedeok-gu|Korea Telecom|
+|10|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|67.43.236.20|25269|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|12643|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|22643|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|22941|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|18|72.10.160.173|16797|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|222.216.37.138|808|China|Lilancun|Chinanet|
 
 
 
