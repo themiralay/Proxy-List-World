@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|7|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|8|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|14|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|13|72.10.160.93|13351|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|14261|Canada|Montreal|GloboTech Communications|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|91.108.121.216|3128|Lithuania|Vilnius|HOSTINGER LT|
-|17|67.43.227.227|27291|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|27601|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|27601|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|27601|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|25329|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|29383|Canada|Montreal|GloboTech Communications|
+|18|117.144.175.203|8800|China|Shanghai|China Mobile communications corporation|
+|19|72.10.164.178|17371|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|26531|Canada|Montreal|GloboTech Communications|
 
 
 
