@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |12|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
 |14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|72.10.164.178|7107|Canada|Montreal|GloboTech Communications|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|72.10.164.178|7107|Canada|Montreal|GloboTech Communications|
-|18|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.250|15091|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.160.90|12953|Canada|Montreal|GloboTech Communications|
+|19|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|20|67.43.236.19|1993|Canada|Montreal|GloboTech Communications|
 
 
 
