@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|9|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|10|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|11|97.76.251.138|8080|United States|Seminole|Spectrum|
-|12|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|13|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|14|103.8.164.16|80|India|Mumbai|Microscan Computers Private Limited|
-|15|207.230.8.69|999|Colombia|Bogotá|Cogent Communications|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|103.131.232.16|8080|Australia|Goulburn|RemoteISP Pty Ltd|
-|18|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|20|67.43.236.21|12529|Canada|Montreal|GloboTech Communications|
+|2|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|9|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|10|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|11|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|30819|Canada|Montreal|GloboTech Communications|
+|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|9123|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|84.38.180.240|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 
 
 
