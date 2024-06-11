@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|183.99.2.137|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|72.10.160.90|29425|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4387|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|6599|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|72.10.164.178|4387|Canada|Montreal|GloboTech Communications|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|18|72.10.164.178|4387|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|9089|Canada|Montreal|GloboTech Communications|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|38.7.106.66|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
