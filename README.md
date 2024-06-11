@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4910** proxies at the latest update. Usable proxies are below.
+> Scraper found **5055** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|726|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2871|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|170.239.205.114|999|Colombia|Bogotá|FIBERNET|
-|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|17|189.177.3.115|8080|Mexico|Puerto Vallarta|UNINET|
+|18|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|19|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|20|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
 
 
 
