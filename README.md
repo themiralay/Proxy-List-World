@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|67.43.236.20|15255|Canada|Montreal|GloboTech Communications|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|156.54.62.158|8080|Italy|Milan|Telecom Italia S.p.A.|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|3255|Canada|Montreal|GloboTech Communications|
-|14|222.243.174.132|81|China|Xiangtan|Chinanet|
-|15|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|115.127.114.209|5020|Bangladesh|Dhaka|BRACNet Limited|
-|17|67.43.228.252|9351|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|30913|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3255|Canada|Montreal|GloboTech Communications|
-|20|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|156.54.62.158|8080|Italy|Milan|Telecom Italia S.p.A.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|72.10.164.178|17301|Canada|Montreal|GloboTech Communications|
+|15|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
