@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|45.81.113.32|8080|Turkey|Bursa|Pembe Gul Isguzar Karagoz|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|67.43.236.20|4897|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|33189|Canada|Montreal|GloboTech Communications|
-|16|210.73.75.166|80|China|Beijing|NO.11 Xi San Huan Zhong Road, Beijing|
-|17|72.10.164.178|19923|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19923|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|19923|Canada|Montreal|GloboTech Communications|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|20|67.43.228.253|17267|Canada|Montreal|GloboTech Communications|
 
 
 
