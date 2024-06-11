@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
-|17|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|18|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|19|72.10.160.94|13107|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|213.218.251.103|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|10|213.218.251.105|8080|Türkiye|Istanbul|Tres Teknoloji Anonim Sirketi|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|200.39.154.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
 
 
 
