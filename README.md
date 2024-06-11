@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
-|9|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |13|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
-|14|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|15|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|16|72.10.160.172|1869|Canada|Montreal|GloboTech Communications|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|67.43.227.227|33259|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11367|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|19|67.43.227.227|3335|Canada|Montreal|GloboTech Communications|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
