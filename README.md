@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.236.20|30403|Canada|Montreal|GloboTech Communications|
-|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|72.10.160.90|9657|Canada|Montreal|GloboTech Communications|
-|17|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.164.178|23425|Canada|Montreal|GloboTech Communications|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|17|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|18|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
 |19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|72.10.164.178|23425|Canada|Montreal|GloboTech Communications|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
