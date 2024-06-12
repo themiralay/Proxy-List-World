@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|18|67.43.228.253|3301|Canada|Montreal|GloboTech Communications|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|72.10.160.174|10107|Canada|Montreal|GloboTech Communications|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
