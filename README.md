@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.130.105|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|67.43.228.253|8735|Canada|Montreal|GloboTech Communications|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|9|35.243.227.100|80|United States|North Charleston|Google LLC|
+|10|35.243.227.100|80|United States|North Charleston|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|103.170.155.155|3128|United States|Ashburn|SpeedyPage Ltd|
+|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |14|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|16|72.10.160.171|21971|Canada|Montreal|GloboTech Communications|
-|17|103.126.28.14|2525|Indonesia|Jakarta|PT Integra Kreasitama Solusindo|
-|18|72.10.164.178|16679|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|18|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
