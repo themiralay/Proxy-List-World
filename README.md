@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|15|35.208.56.143|8080|United States|Council Bluffs|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|12|72.10.164.178|32991|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|72.10.160.174|2281|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|3557|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|32991|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10289|Canada|Montreal|GloboTech Communications|
-|18|197.98.201.100|11267|South Africa|Johannesburg|Dimension Data|
-|19|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|67.43.236.20|31569|Canada|Montreal|GloboTech Communications|
 
 
 
