@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.243.227.100|80|United States|North Charleston|Google LLC|
-|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|72.10.160.170|22623|Canada|Montreal|GloboTech Communications|
-|9|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|67.43.236.20|29927|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|8621|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|14079|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|26311|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|14079|Canada|Montreal|GloboTech Communications|
-|17|177.93.36.74|3128|Colombia|Samaniego|TV AZTECA SUCURSAL COLOMBIA|
-|18|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|67.43.228.252|29087|Canada|Montreal|GloboTech Communications|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|35.243.227.100|80|United States|North Charleston|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|177.93.36.74|3128|Colombia|Samaniego|TV AZTECA SUCURSAL COLOMBIA|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|160.248.3.173|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|14|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|35.243.227.100|80|United States|North Charleston|Google LLC|
+|17|72.10.160.90|20245|Canada|Montreal|GloboTech Communications|
+|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|67.43.228.251|3581|Canada|Montreal|GloboTech Communications|
+|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
