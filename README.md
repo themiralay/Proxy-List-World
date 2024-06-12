@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
-|11|72.10.164.178|22541|Canada|Montreal|GloboTech Communications|
-|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|72.10.164.178|22541|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|2241|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|22113|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|6093|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22541|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|13481|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32493|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|8863|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|72.10.164.178|22541|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22541|Canada|Montreal|GloboTech Communications|
 
 
 
