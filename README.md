@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5534** proxies at the latest update. Usable proxies are below.
+> Scraper found **5587** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|859|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|111|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|846|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|399|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3273|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.87.169.153|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|11|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|16|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|72.10.164.178|15489|Canada|Montreal|GloboTech Communications|
-|20|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|119.76.142.161|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|103.148.130.50|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|103.154.77.204|8080|Indonesia|Magelang|T2NET|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|17|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|147.28.145.212|10012|United States|Ashburn|Packet Host, Inc.|
 
 
 
