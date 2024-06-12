@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.247.131.172|3128|Singapore|Singapore|Google LLC|
 |16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
