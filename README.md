@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|6|50.28.7.107|80|United States|Lansing|Liquid Web, L.L.C|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|12|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
-|13|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|72.10.164.178|19695|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19695|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|122.3.41.154|8090|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|9|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
+|10|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|18|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|19|72.10.164.178|7517|Canada|Montreal|GloboTech Communications|
+|20|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
