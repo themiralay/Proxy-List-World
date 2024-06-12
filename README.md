@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering Co. LTD|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering Co. LTD|
 |6|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|9|67.43.236.20|32133|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|67.43.227.227|17803|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|17175|Canada|Montreal|GloboTech Communications|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|67.43.227.228|6843|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17803|Canada|Montreal|GloboTech Communications|
-|18|65.21.141.136|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|67.43.227.227|31153|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|3387|Canada|Montreal|GloboTech Communications|
+|13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|45.173.231.229|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
+|18|72.10.160.171|19457|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
