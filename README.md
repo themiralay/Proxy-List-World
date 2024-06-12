@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|7|160.248.8.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|16073|Canada|Montreal|GloboTech Communications|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.91|18941|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16073|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|1211|Canada|Montreal|GloboTech Communications|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|72.10.160.170|9139|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|20517|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|15051|Canada|Montreal|GloboTech Communications|
-|20|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|14|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|15|160.248.8.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|72.10.160.90|1211|Canada|Montreal|GloboTech Communications|
 
 
 
