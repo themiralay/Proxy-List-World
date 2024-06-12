@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|78.158.171.57|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.243.227.100|80|United States|North Charleston|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.160.90|2821|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
 |15|72.10.164.178|31081|Canada|Montreal|GloboTech Communications|
-|16|41.216.178.108|3128|Indonesia|Jakarta|FASTHOSTING|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 |17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.164.178|31081|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2361|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|33083|Canada|Montreal|GloboTech Communications|
+|18|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|19|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|20|72.10.164.178|31081|Canada|Montreal|GloboTech Communications|
 
 
 
