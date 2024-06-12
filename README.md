@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|119.76.142.161|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|134.209.147.34|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|38.156.191.37|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|17|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|20|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|13|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|14|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|5.196.111.29|20178|France|Gravelines|OVH SAS|
+|19|72.10.160.173|22255|Canada|Montreal|GloboTech Communications|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
