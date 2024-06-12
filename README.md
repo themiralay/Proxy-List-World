@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
 |7|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
 |8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |10|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|160.248.8.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|160.248.8.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.8.113|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|160.248.8.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
 |15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|67.43.236.20|32683|Canada|Montreal|GloboTech Communications|
-|17|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|17|35.247.131.172|3128|Singapore|Singapore|Google LLC|
 |18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|67.43.228.253|28761|Canada|Montreal|GloboTech Communications|
-|20|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
