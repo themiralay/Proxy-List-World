@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|44.241.202.224|3128|United States|Portland|Amazon.com, Inc.|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|15899|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|72.10.160.173|16039|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|23619|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|67.43.236.20|5021|Canada|Montreal|GloboTech Communications|
-|14|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|72.10.160.170|28685|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|28685|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|6|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.164.178|20405|Canada|Montreal|GloboTech Communications|
 
 
 
