@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4754** proxies at the latest update. Usable proxies are below.
+> Scraper found **5001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|230|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2906|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3139|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|72.10.160.90|18815|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|32369|Canada|Montreal|GloboTech Communications|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|72.10.164.178|32369|Canada|Montreal|GloboTech Communications|
-|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|14|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|11|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
+|12|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|17|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
+|18|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
 
 
 
