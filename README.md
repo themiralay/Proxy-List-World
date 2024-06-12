@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4510** proxies at the latest update. Usable proxies are below.
+> Scraper found **4618** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2773|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.243.227.100|80|United States|North Charleston|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|72.10.164.178|31081|Canada|Montreal|GloboTech Communications|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|19|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|20|72.10.164.178|31081|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|78.158.171.57|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|10|117.54.181.21|8080|Indonesia|Jakarta|PT IndoInternet|
+|11|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|12|35.243.227.100|80|United States|North Charleston|Google LLC|
+|13|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|72.10.164.178|27833|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
 
 
 
