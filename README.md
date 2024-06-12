@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4695** proxies at the latest update. Usable proxies are below.
+> Scraper found **4694** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|67.43.227.228|5807|Canada|Montreal|GloboTech Communications|
-|10|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|67.43.228.251|24849|Canada|Montreal|GloboTech Communications|
+|1|35.243.227.100|80|United States|North Charleston|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|7|35.243.227.100|80|United States|North Charleston|Google LLC|
+|8|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|72.10.160.170|7873|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|24825|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|6387|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23169|Canada|Montreal|GloboTech Communications|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|67.43.236.20|6387|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|72.10.160.90|30313|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|5807|Canada|Montreal|GloboTech Communications|
+|14|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|15|72.10.160.92|17053|Canada|Montreal|GloboTech Communications|
+|16|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|67.43.227.227|29389|Canada|Montreal|GloboTech Communications|
 
 
 
