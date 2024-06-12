@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.243.227.100|80|United States|North Charleston|Google LLC|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|72.10.160.90|28233|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|22625|Canada|Montreal|GloboTech Communications|
-|10|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|67.43.227.227|22625|Canada|Montreal|GloboTech Communications|
-|12|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|13|72.10.160.90|28233|Canada|Montreal|GloboTech Communications|
-|14|117.144.175.204|9480|China|Shanghai|China Mobile communications corporation|
+|3|35.243.227.100|80|United States|North Charleston|Google LLC|
+|4|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.243.227.100|80|United States|North Charleston|Google LLC|
+|7|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|8|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|64.23.244.227|3128|United States|San Francisco|DigitalOcean, LLC|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.228.250|2075|Canada|Montreal|GloboTech Communications|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.164.178|11757|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22625|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.227.227|24821|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|24821|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|67.43.227.227|24821|Canada|Montreal|GloboTech Communications|
 
 
 
