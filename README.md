@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|103.80.82.9|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|12|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|13|188.72.43.162|47193|Iraq|Erbil|Pirmam For Information Technology Ltd|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|17|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.227.227|23555|Canada|Montreal|GloboTech Communications|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|67.43.227.227|19313|Canada|Montreal|GloboTech Communications|
+|15|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|16|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|72.10.160.171|6751|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|12685|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
