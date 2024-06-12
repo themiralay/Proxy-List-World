@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|19|177.93.51.213|999|Colombia|Vistahermosa|TV AZTECA SUCURSAL COLOMBIA|
-|20|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|75.119.131.36|9393|Germany|Düsseldorf|Contabo GmbH|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|142.171.108.179|3128|United States|Los Angeles|Multacom Corporation|
+|20|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
