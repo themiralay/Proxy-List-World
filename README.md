@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4627** proxies at the latest update. Usable proxies are below.
+> Scraper found **4586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|92|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|93|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|440|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|186|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2909|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.243.227.100|80|United States|North Charleston|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.243.227.100|80|United States|North Charleston|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering Co. LTD|
+|4|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering Co. LTD|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|35.243.227.100|80|United States|North Charleston|Google LLC|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|9|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|12|163.44.0.119|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|67.43.228.253|14461|Canada|Montreal|GloboTech Communications|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.243.227.100|80|United States|North Charleston|Google LLC|
+|12|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|163.44.0.119|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|67.43.227.227|23605|Canada|Montreal|GloboTech Communications|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|67.43.227.227|31645|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13405|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|31645|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|29783|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|18067|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|67.43.228.253|14461|Canada|Montreal|GloboTech Communications|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
