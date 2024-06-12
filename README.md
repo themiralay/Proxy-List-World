@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|101.108.249.51|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|188.240.104.182|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.243.227.100|80|United States|North Charleston|Google LLC|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|17|35.243.227.100|80|United States|North Charleston|Google LLC|
-|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|160.248.9.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|67.43.227.227|23169|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|23169|Canada|Montreal|GloboTech Communications|
 
 
 
