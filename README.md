@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5308** proxies at the latest update. Usable proxies are below.
+> Scraper found **5309** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|103|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|776|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|332|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.60.254.99|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|19|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|38.60.254.99|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|103.179.211.34|8080|India|Vijayawada|CtrlS|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|114.6.27.84|8520|Indonesia|Jakarta|GEBPP-ISAT|
+|19|65.1.40.47|1080|India|Mumbai|Amazon.com|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
