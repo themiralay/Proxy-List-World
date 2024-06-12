@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|160.248.184.111|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.236.18|20219|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|30611|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30611|Canada|Montreal|GloboTech Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|103.163.186.192|3128|United States|Ashburn|SpeedyPage Ltd|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|103.163.186.192|3128|United States|Ashburn|SpeedyPage Ltd|
+|12|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|207.180.234.234|3128|Germany|Nuremberg|Contabo GmbH|
+|18|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
