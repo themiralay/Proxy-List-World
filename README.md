@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|103.113.79.124|9080|Indonesia|Jakarta|Indonesia Network Information Center|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|72.10.164.178|10631|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10631|Canada|Montreal|GloboTech Communications|
-|16|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|18|45.188.164.3|999|Mexico|Tocumbo|Velocom SA De CV|
-|19|72.10.164.178|10631|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|15885|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|16|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|103.120.175.75|8080|Indonesia|Bekasi|PT. Eka Mas Republik|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
