@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.243.227.100|80|United States|North Charleston|Google LLC|
-|12|72.10.160.91|31561|Canada|Montreal|GloboTech Communications|
+|8|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|9|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|11|72.10.160.91|31561|Canada|Montreal|GloboTech Communications|
+|12|35.243.227.100|80|United States|North Charleston|Google LLC|
 |13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|14|67.43.228.253|9363|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|5803|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|5849|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|67.43.227.230|18499|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|14829|Canada|Montreal|GloboTech Communications|
 |17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|18|72.10.164.178|13341|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13341|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.228.253|13181|Canada|Montreal|GloboTech Communications|
+|20|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
