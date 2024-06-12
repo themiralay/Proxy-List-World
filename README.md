@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|1|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|38.60.254.99|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|49.145.121.164|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
 |13|161.34.0.163|8888|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
 |15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
 
 
 
