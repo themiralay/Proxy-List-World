@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.174.79.8|999|Mexico|Delicias|Raul Duarte Urita|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|67.43.236.20|9793|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.171|3005|Canada|Montreal|GloboTech Communications|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|218.81.253.163|3128|China|Shanghai|China Telecom (Group)|
-|11|72.10.160.170|28109|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|17571|Canada|Montreal|GloboTech Communications|
-|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|9089|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|67.43.227.227|32999|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|3005|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|9793|Canada|Montreal|GloboTech Communications|
+|4|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|10|180.33.99.94|8080|Japan|Kyoto|NTT Communications Corporation|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|67.43.236.20|31735|Canada|Montreal|GloboTech Communications|
+|16|129.213.160.66|3128|United States|Ashburn|Oracle Corporation|
+|17|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|18|72.10.160.171|3005|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9089|Canada|Montreal|GloboTech Communications|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
