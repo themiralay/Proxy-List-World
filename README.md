@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|103.88.237.6|84|India|Hyderabad|Mana Communications|
-|9|18.231.172.196|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|8|18.231.172.196|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.125.117.50|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|38.65.172.10|999|Mexico|San Jose Iturbide|Guillermo Robles Ramirez|
-|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|45.229.56.64|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|12|104.167.6.218|80|United States|Boca Raton|CloudS|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
