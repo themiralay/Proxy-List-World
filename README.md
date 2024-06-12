@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|12|195.35.32.249|80|United States|Phoenix|HOSTINGER US|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|45.65.227.97|999|Argentina|Tres de Febrero|Solution LAN S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|181.209.124.10|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|195.35.32.249|80|United States|Phoenix|HOSTINGER US|
+|14|65.21.141.136|17005|Finland|Helsinki|Hetzner Online GmbH|
 |15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|17|67.43.227.228|2753|Canada|Montreal|GloboTech Communications|
-|18|196.115.52.146|8080|Morocco|Casablanca|MEDITELECOM|
-|19|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|10063|Canada|Montreal|GloboTech Communications|
+|20|35.247.131.172|3128|Singapore|Singapore|Google LLC|
 
 
 
