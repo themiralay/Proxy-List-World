@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
-|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|119.2.48.2|8745|Indonesia|Yogyakarta|GMEDIA|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|103.155.198.105|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|148.72.165.7|10529|United States|St Louis|GoDaddy.com|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|18|38.60.254.99|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|19|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|170.238.104.213|8080|Brazil|Sao Fidelis|Ubbinet Provedor de Servicos de Internet Ltda ME|
 
 
 
