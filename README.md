@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|23.22.220.30|3128|United States|Ashburn|Amazon.com|
-|5|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
-|10|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3875|Canada|Montreal|GloboTech Communications|
-|15|148.72.140.24|30182|United States|St Louis|GoDaddy.com|
-|16|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|3999|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|67.43.236.20|3875|Canada|Montreal|GloboTech Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|18.231.146.18|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|13|72.10.160.171|9355|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|16971|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|17|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|72.10.164.178|6601|Canada|Montreal|GloboTech Communications|
+|20|157.100.7.146|999|Ecuador|Quito|Telconet S.A|
 
 
 
