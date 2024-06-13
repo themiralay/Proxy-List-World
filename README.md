@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|195.58.43.231|8080|Russia|Yekaterinburg|LLC "KomTehCentr"|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|17|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|18|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|178.207.11.148|3129|Russia|Al'met'yevsk|TATTELECOM|
+|19|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|20|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
 
 
 
