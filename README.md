@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|4|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|12|23.225.72.123|3501|United States|Chicago|Cnservers LLC|
-|13|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|1|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|11|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 |14|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|67.43.228.250|27577|Canada|Montreal|GloboTech Communications|
-|20|157.66.50.57|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|17|67.43.228.250|33085|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|4133|Canada|Montreal|GloboTech Communications|
+|19|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|20|67.43.228.250|33085|Canada|Montreal|GloboTech Communications|
 
 
 
