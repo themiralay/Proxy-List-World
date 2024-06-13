@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|51.79.49.178|3128|Canada|Beauharnois|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |8|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|11|72.10.160.171|5797|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|4475|Canada|Montreal|GloboTech Communications|
-|13|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|14|72.10.160.90|1633|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|8127|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|27945|Canada|Montreal|GloboTech Communications|
-|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|18|67.43.227.228|11859|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|1633|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|11525|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|2871|Canada|Montreal|GloboTech Communications|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|203.190.113.164|8071|Indonesia|Sorosutan|PT Union Routelink Communication|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|117.144.175.195|8800|China|Shanghai|China Mobile communications corporation|
+|18|67.43.236.21|20613|Canada|Montreal|GloboTech Communications|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|20|184.185.105.105|4481|United States|Providence|Cox Communications Inc.|
 
 
 
