@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|10|67.43.227.226|12191|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|67.43.227.229|21289|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16863|Canada|Montreal|GloboTech Communications|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|16863|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|72.10.160.174|1053|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16863|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|27149|Canada|Montreal|GloboTech Communications|
+|15|102.214.167.129|1981|Libya|Darnah|Taqnyat Aljeel Company Communication and Information|
+|16|72.10.160.92|10663|Canada|Montreal|GloboTech Communications|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
