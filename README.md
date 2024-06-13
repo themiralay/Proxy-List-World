@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|7|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|8|67.43.228.253|31771|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.131.18.194|8080|Indonesia|Karanganyar Wetankali|PT Global Media Data Prima|
-|11|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|72.10.160.170|2411|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|12191|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.22|18279|Canada|Montreal|GloboTech Communications|
-|15|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|67.43.236.20|15587|Canada|Montreal|GloboTech Communications|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|198.71.49.163|3128|United States|Philadelphia|IONOS SE|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|85.234.119.37|32650|Russia|Irkutsk|JSC "Regional company Svyaztranzit"|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|12|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|14|190.121.137.81|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|16|131.100.51.46|999|Colombia|Neiva|Fibernet TV SAS|
+|17|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|18|72.10.164.178|7273|Canada|Montreal|GloboTech Communications|
+|19|170.239.205.114|999|Colombia|Bogotá|FIBERNET|
 |20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
