@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |8|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|9|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|12|72.10.164.178|7429|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|27835|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|12629|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7429|Canada|Montreal|GloboTech Communications|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|72.10.160.170|3935|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7429|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27835|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|22613|Canada|Montreal|GloboTech Communications|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|12|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|80.66.81.26|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|14|72.10.164.178|24513|Canada|Montreal|GloboTech Communications|
+|15|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|16|72.10.164.178|24513|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|33237|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8699|Canada|Montreal|GloboTech Communications|
+|19|51.255.204.242|8392|France|Gravelines|OVH SAS|
+|20|65.21.141.136|17119|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
