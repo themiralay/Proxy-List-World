@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.160.92|10099|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|148.230.206.229|8080|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|72.10.164.178|4913|Canada|Montreal|GloboTech Communications|
+|13|160.248.91.68|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
 
 
 
