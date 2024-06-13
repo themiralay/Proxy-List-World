@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5279** proxies at the latest update. Usable proxies are below.
+> Scraper found **5318** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|119|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|242|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3264|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|112.163.160.24|3128|South Korea|Nammyeon|Korea Telecom|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|8|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.243.227.100|80|United States|North Charleston|Google LLC|
+|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|18|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|160.248.6.134|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|74.50.91.22|3128|United States|Englewood Cliffs|Interserver, Inc|
+|18|72.10.164.178|16741|Canada|Montreal|GloboTech Communications|
+|19|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|20|67.43.227.227|27607|Canada|Montreal|GloboTech Communications|
 
 
 
