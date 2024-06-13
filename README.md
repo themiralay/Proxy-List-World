@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|35.187.204.53|8080|Japan|Tokyo|Google LLC|
-|14|103.156.185.83|3128|Hong Kong|Ha Kwai Chung|ALLPASS|
-|15|67.43.227.227|27743|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|5829|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29085|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|5829|Canada|Montreal|GloboTech Communications|
-|19|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|20|103.156.233.165|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|187.109.28.185|8080|Brazil|Santo Ângelo|Sulnet Telecom|
+|11|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|12|103.180.194.149|8080|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
+|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|67.43.227.227|22115|Canada|Montreal|GloboTech Communications|
+|17|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|190.19.114.104|8080|Argentina|La Plata|Telecom Argentina S.A|
+|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|72.10.164.178|19527|Canada|Montreal|GloboTech Communications|
 
 
 
