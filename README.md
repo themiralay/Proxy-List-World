@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|14|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.160.90|14433|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|14417|Canada|Montreal|GloboTech Communications|
-|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|117.68.38.174|44162|China|Rongcheng|China Telecom|
-|20|67.43.227.227|20843|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|59.38.61.220|9999|China|Guangzhou|Chinanet|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.91|11351|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|20299|Canada|Montreal|GloboTech Communications|
 
 
 
