@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|13|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.228.253|28899|Canada|Montreal|GloboTech Communications|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|72.10.164.178|22721|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.227.228|1451|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|14|72.10.164.178|5519|Canada|Montreal|GloboTech Communications|
+|15|65.21.141.136|17053|Finland|Helsinki|Hetzner Online GmbH|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|200.39.120.45|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
+|18|72.10.164.178|5519|Canada|Montreal|GloboTech Communications|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
