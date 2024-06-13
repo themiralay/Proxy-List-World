@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5065** proxies at the latest update. Usable proxies are below.
+> Scraper found **5064** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|115|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|114|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|13|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|16|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
-|17|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|18|67.43.236.20|25587|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|31799|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7277|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|8|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|80.66.81.26|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|16|72.10.164.178|16493|Canada|Montreal|GloboTech Communications|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|19|80.66.81.44|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|20|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 
 
 
