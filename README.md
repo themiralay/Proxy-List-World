@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5075** proxies at the latest update. Usable proxies are below.
+> Scraper found **5178** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|113|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|340|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2985|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|103.189.116.109|8091|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.227.229|20195|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|9|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
+|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|67.43.227.226|25569|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|1631|Canada|Montreal|GloboTech Communications|
+|15|185.231.207.104|3128|Ireland|Dublin|Stark Industries Solutions LTD|
+|16|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.174|17577|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5051|Canada|Montreal|GloboTech Communications|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|67.43.227.227|4629|Canada|Montreal|GloboTech Communications|
 
 
 
