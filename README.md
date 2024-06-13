@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|125.26.140.241|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|125.26.140.241|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|186.148.181.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|167.250.181.133|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
