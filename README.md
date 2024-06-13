@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|202.162.36.197|2019|Indonesia|Kebumen Satu|PT Global Prima Utama|
-|4|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|9|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|12|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|14|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|16|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
 |17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
