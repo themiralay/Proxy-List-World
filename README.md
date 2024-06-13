@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|160.248.90.64|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|11|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |15|168.138.14.24|3128|Australia|Melbourne|Oracle Corporation|
-|16|72.10.164.178|3481|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|25409|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|4709|Canada|Montreal|GloboTech Communications|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|18|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
 |19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|3481|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
