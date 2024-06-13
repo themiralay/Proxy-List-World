@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|9|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|13|59.38.61.220|9999|China|Guangzhou|Chinanet|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.227.227|22087|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|32937|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8539|Canada|Montreal|GloboTech Communications|
-|18|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|19|67.43.227.227|22087|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|22087|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|10|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|67.43.227.227|14681|Canada|Montreal|GloboTech Communications|
 
 
 
