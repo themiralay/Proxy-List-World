@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|49.48.96.182|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|189.198.224.1|80|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
-|11|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|19|67.43.227.227|12407|Canada|Montreal|GloboTech Communications|
-|20|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|1|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|2|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|12|189.198.224.1|80|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|185.139.228.243|3128|Sweden|Stockholm|Kamatera, Inc.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|18|112.5.41.28|3128|China|Shenzhen|China Mobile|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 
 
 
