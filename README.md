@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|201.217.247.82|999|Argentina|Resistencia|Ecom Chaco S.A.|
-|7|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|67.43.228.253|20749|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|67.43.227.228|1527|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|1527|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|17835|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|9873|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|72.10.164.178|25749|Canada|Montreal|GloboTech Communications|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|6|223.25.100.42|2222|Indonesia|Surabaya|PT Indonesia Comnets Plus|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|175.100.113.237|8084|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|16|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|17|207.248.108.129|20185|Mexico|Pátzcuaro|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|194.146.42.93|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|20|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
 
 
 
