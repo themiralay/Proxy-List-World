@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.187.204.53|8080|Japan|Tokyo|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|185.14.233.40|8080|Czechia|Říčany|INTERCONNECT s.r.o.|
-|16|65.21.141.136|17053|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.227.227|7973|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|7973|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.253|8657|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|10|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|17|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|18|185.185.168.112|8080|Finland|Helsinki|Local Loop Oy|
+|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
