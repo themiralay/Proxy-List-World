@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|109.111.136.199|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|14.192.138.27|8080|Pakistan|Lahore|Fariya Networks 138|
-|13|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|19|160.248.6.150|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|170.239.207.229|999|Colombia|Bogotá|FIBERNET|
+|11|160.248.6.150|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|136.226.232.125|11066|India|Mumbai|ZSCALER, INC.|
+|14|136.226.232.124|9400|India|Mumbai|ZSCALER, INC.|
+|15|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|16|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|72.10.164.178|23263|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23263|Canada|Montreal|GloboTech Communications|
 
 
 
