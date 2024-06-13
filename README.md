@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |3|35.243.227.100|80|United States|North Charleston|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|12|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|13|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
 |14|35.243.227.100|80|United States|North Charleston|Google LLC|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|18|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|72.10.160.90|24703|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|41.65.251.47|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|19|72.10.160.90|5063|Canada|Montreal|GloboTech Communications|
+|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
