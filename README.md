@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|102.216.74.209|8888|South Africa|Vredenburg|Rapid Networks Sub2|
+|5|94.131.203.7|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|6|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|8|85.234.119.37|32650|Russia|Irkutsk|JSC "Regional company Svyaztranzit"|
+|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|67.43.227.226|25405|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|8755|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|28125|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5481|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|28125|Canada|Montreal|GloboTech Communications|
-|19|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|67.43.236.20|28125|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|103.28.114.140|8090|Indonesia|Bantul|PT Lintas Data Prima|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
