@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.198.224.1|80|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
-|14|31.13.212.99|3128|Bulgaria|Sofia|DarkNet Ltd|
-|15|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|72.10.160.90|2769|Canada|Montreal|GloboTech Communications|
-|20|112.5.41.28|3128|China|Shenzhen|China Mobile|
+|5|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.154.77.204|8080|Indonesia|Magelang|T2NET|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|18|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
