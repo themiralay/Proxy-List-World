@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5144** proxies at the latest update. Usable proxies are below.
+> Scraper found **5145** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|112|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|113|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|370|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|75.119.129.192|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|1|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|2|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|187.60.167.45|8090|Brazil|Linhares|Linhares Servi?os Online LTDA EPP|
+|10|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|16|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
-|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|193.123.251.151|3128|South Korea|Seoul|Oracle Corporation|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
