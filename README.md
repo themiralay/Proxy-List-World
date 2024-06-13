@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|67.43.228.253|17855|Canada|Montreal|GloboTech Communications|
-|16|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|17|103.131.18.194|8080|Indonesia|Karanganyar Wetankali|PT Global Media Data Prima|
-|18|111.198.53.175|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|14|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|15|72.10.160.170|8009|Canada|Montreal|GloboTech Communications|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|201.184.108.44|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|202.146.230.102|8080|Indonesia|Bandung|PT Centrin Utama|
 
 
 
