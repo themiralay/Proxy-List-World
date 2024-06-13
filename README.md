@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|157.100.57.180|999|Ecuador|Quito|Ufinet Panama S.A.|
-|9|3.71.196.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|67.43.227.227|2107|Canada|Montreal|GloboTech Communications|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|67.43.228.253|13077|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7643|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|13077|Canada|Montreal|GloboTech Communications|
-|20|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|1|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|4|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|6|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|14|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|15|67.43.236.20|17591|Canada|Montreal|GloboTech Communications|
+|16|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|65.21.141.136|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|20|72.10.160.92|2227|Canada|Montreal|GloboTech Communications|
 
 
 
