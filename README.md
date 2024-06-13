@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.243.227.100|80|United States|North Charleston|Google LLC|
-|8|112.198.132.13|8081|Philippines|Nasugbu|Globe Telecom|
-|9|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|10|14.194.136.125|80|India|Chennai|Tata Tele Services GSM|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|15|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|35.243.227.100|80|United States|North Charleston|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|143.208.245.117|8080|Brazil|Itapuranga|Conectiva Telecom Tecnologia Ltda - ME|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.243.227.100|80|United States|North Charleston|Google LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|16|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.164.178|15427|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|15427|Canada|Montreal|GloboTech Communications|
+|20|37.187.109.70|10111|France|Gravelines|OVH SAS|
 
 
 
