@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|7|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|8|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.243.227.100|80|United States|North Charleston|Google LLC|
-|11|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|160.248.6.134|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|74.50.91.22|3128|United States|Englewood Cliffs|Interserver, Inc|
-|18|72.10.164.178|16741|Canada|Montreal|GloboTech Communications|
-|19|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|20|67.43.227.227|27607|Canada|Montreal|GloboTech Communications|
+|6|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|9|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|10|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.6.134|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|16|72.10.164.178|16741|Canada|Montreal|GloboTech Communications|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|103.19.58.179|8082|Indonesia|Madiun|BITSNET|
+|19|72.10.164.178|16741|Canada|Montreal|GloboTech Communications|
+|20|41.65.251.47|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
 
 
 
