@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|67.43.227.226|10669|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.228|21163|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|17751|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|17089|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|21263|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|7987|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|13005|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|19271|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|19271|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|13005|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21263|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5029|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|15399|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|46.35.72.37|8080|Yemen|Laḩij|Public Telecommunication Corporation|
+|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|114.9.24.198|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|67.43.236.20|21263|Canada|Montreal|GloboTech Communications|
+|16|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
