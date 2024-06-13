@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|3813|Canada|Montreal|GloboTech Communications|
-|14|192.210.228.107|3128|United States|Elk Grove Village|HostPapa|
-|15|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|17|67.43.228.250|1349|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|17271|Canada|Montreal|GloboTech Communications|
-|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|20|67.43.228.253|20785|Canada|Montreal|GloboTech Communications|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|185.64.208.184|53281|Russia|Kstovo|Svyazist LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|8|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|9|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|13|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|14|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|15|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|19|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
