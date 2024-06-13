@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|49.48.110.175|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
-|9|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|11|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
-|12|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
-|15|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|16|202.146.230.102|8080|Indonesia|Bandung|PT Centrin Utama|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|14127|Canada|Montreal|GloboTech Communications|
-|20|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.248.91.67|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|111.198.53.175|3128|China|Beijing|China Unicom Beijing Province Network|
+|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|15|103.247.14.37|8080|Indonesia|Semarang|TERABIT|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|18|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
+|19|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
