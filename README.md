@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|72.10.164.178|27557|Canada|Montreal|GloboTech Communications|
-|13|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|14|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|7|72.10.164.178|16475|Canada|Montreal|GloboTech Communications|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|12|72.10.160.170|1493|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|17|72.10.164.178|27557|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1493|Canada|Montreal|GloboTech Communications|
-|19|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|72.10.164.178|16475|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
