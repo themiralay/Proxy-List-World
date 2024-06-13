@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|35.247.131.172|3128|Singapore|Singapore|Google LLC|
-|12|60.174.1.250|8089|China|Guangzhou|Chinanet|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|72.10.160.90|21453|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|21377|Canada|Montreal|GloboTech Communications|
-|17|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|4|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|14|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
 |18|194.146.42.93|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|67.43.236.20|19643|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24077|Canada|Montreal|GloboTech Communications|
+|19|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|67.43.227.227|18725|Canada|Montreal|GloboTech Communications|
 
 
 
