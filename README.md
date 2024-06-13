@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|149.86.140.141|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|5|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|7|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|9|185.108.226.143|80|The Netherlands|Almere Stad|Cfit B.V.|
-|10|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|160.248.6.150|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|103.148.130.215|8088|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|67.43.236.21|12717|Canada|Montreal|GloboTech Communications|
-|16|65.21.141.136|18017|Finland|Helsinki|Hetzner Online GmbH|
-|17|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|72.10.160.174|21261|Canada|Montreal|GloboTech Communications|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|13|161.34.68.229|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
+|19|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
