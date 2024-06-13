@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|168.138.14.24|3128|Australia|Melbourne|Oracle Corporation|
-|3|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|41.59.210.2|8080|Tanzania|Tanga|Tanzania Telecommunications CO. LTD|
-|14|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|15|45.176.97.98|999|Dominican Republic|Santo Domingo Este|Cable Onda Oriental, SRL|
-|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|103.48.71.58|82|India|Hyderabad|Country Online Services PVT LTD|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|20|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.187.204.53|8080|Japan|Tokyo|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|176.106.22.125|8080|Russia|Tuapse|LLC "Multiservice"|
+|14|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|15|222.243.174.132|81|China|Xiangtan|Chinanet|
+|16|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|17|72.10.160.170|6961|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|160.248.91.69|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
