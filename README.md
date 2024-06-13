@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
-|3|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.243.227.100|80|United States|North Charleston|Google LLC|
-|6|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.243.227.100|80|United States|North Charleston|Google LLC|
-|13|67.43.227.227|19355|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|21359|Canada|Montreal|GloboTech Communications|
-|15|200.39.120.45|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
-|16|67.43.227.227|19355|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|23281|Canada|Montreal|GloboTech Communications|
-|18|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|19|149.86.140.141|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|67.43.227.227|19355|Canada|Montreal|GloboTech Communications|
+|2|160.248.6.149|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|160.248.6.137|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|85.111.60.196|8080|Türkiye|Istanbul|TurkTelecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|72.10.164.178|7055|Canada|Montreal|GloboTech Communications|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|67.43.227.227|19355|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|19355|Canada|Montreal|GloboTech Communications|
+|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|160.248.6.150|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
