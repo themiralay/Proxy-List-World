@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|12|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|203.150.128.46|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|103.174.236.52|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|8|103.122.0.113|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|9|54.219.200.88|3128|United States|San Jose|Amazon.com, Inc.|
+|10|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|39.129.73.6|443|China|Kunming|China Mobile|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|117.144.175.204|80|China|Shanghai|China Mobile communications corporation|
+|18|117.144.175.195|8800|China|Shanghai|China Mobile communications corporation|
+|19|207.230.8.69|999|Colombia|Bogotá|Cogent Communications|
+|20|165.16.31.19|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
 
 
 
