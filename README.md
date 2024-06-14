@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|116.97.37.139|4000|Vietnam|Hanoi|Viettel Corporation|
-|11|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|181.119.67.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|116.97.37.139|4000|Vietnam|Hanoi|Viettel Corporation|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.153.35.87|3127|Indonesia|Subang|JMExpress|
+|9|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|12|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|136.243.73.229|9999|Germany|Cologne|Hetzner Online GmbH|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
