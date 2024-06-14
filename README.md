@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.227.228|29983|Canada|Montreal|GloboTech Communications|
-|15|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.160.91|14237|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|24963|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|27587|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|33081|Canada|Montreal|GloboTech Communications|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.228|29983|Canada|Montreal|GloboTech Communications|
 
 
 
