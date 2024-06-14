@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4957** proxies at the latest update. Usable proxies are below.
+> Scraper found **4964** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|128|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3045|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|140.227.143.198|3128|Japan|Hyōgo|InfoSphere|
-|10|67.43.236.20|14959|Canada|Montreal|GloboTech Communications|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|67.43.236.20|14959|Canada|Montreal|GloboTech Communications|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|72.10.160.173|21141|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|16|67.43.228.253|26497|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2689|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|8099|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24793|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|26497|Canada|Montreal|GloboTech Communications|
+|9|116.97.37.139|4000|Vietnam|Hanoi|Viettel Corporation|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|140.227.143.198|3128|Japan|Hyōgo|InfoSphere|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|16|72.10.160.173|1767|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|67.43.228.253|18157|Canada|Montreal|GloboTech Communications|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|67.43.228.253|18157|Canada|Montreal|GloboTech Communications|
 
 
 
