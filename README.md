@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|10|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|67.43.227.227|18997|Canada|Montreal|GloboTech Communications|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|67.43.228.253|22953|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|72.10.160.174|30457|Canada|Montreal|GloboTech Communications|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|197.98.201.95|10964|South Africa|Johannesburg|Dimension Data|
+|17|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |18|197.98.201.95|10964|South Africa|Johannesburg|Dimension Data|
-|19|67.43.227.227|18997|Canada|Montreal|GloboTech Communications|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|72.10.164.178|4955|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|20715|Canada|Montreal|GloboTech Communications|
 
 
 
