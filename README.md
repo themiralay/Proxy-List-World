@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|125.26.128.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|51.68.231.190|3128|France|Gravelines|OVH SAS|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|116.97.204.236|4000|Vietnam|Thanh Hóa|Viettel Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|189.22.142.29|8091|Brazil|São Paulo|Claro S.A|
-|14|140.227.143.198|3128|Japan|Hyōgo|InfoSphere|
-|15|116.96.34.59|4000|Vietnam|Hanoi|Viettel Corporation|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3415|Canada|Montreal|GloboTech Communications|
-|19|116.97.204.236|4000|Vietnam|Thanh Hóa|Viettel Corporation|
-|20|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.143.198|3128|Japan|Hyōgo|InfoSphere|
+|7|72.10.164.178|19497|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|72.10.164.178|19497|Canada|Montreal|GloboTech Communications|
+|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|72.10.160.170|17675|Canada|Montreal|GloboTech Communications|
+|14|103.172.120.96|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
+|15|67.43.227.228|12093|Canada|Montreal|GloboTech Communications|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|94.23.171.143|50001|Czechia|New Town|OVH ISP|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
