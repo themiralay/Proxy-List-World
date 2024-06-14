@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|196.251.221.20|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|181.198.53.6|3128|Ecuador|La Mana|Telconet S.A|
-|10|190.242.125.186|8080|Colombia|Bogotá|Liberty Networks De Colombia|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|14|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
-|15|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|171.245.85.200|4001|Vietnam|Hanoi|Viettel Corporation|
-|17|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
-|18|197.98.201.96|10089|South Africa|Johannesburg|Dimension Data|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|110.78.146.217|8080|Thailand|Ko Samui|CAT-BB|
+|13|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|14|147.28.145.213|10004|United States|Ashburn|Packet Host, Inc.|
+|15|175.100.113.237|8084|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|103.240.110.242|8080|Indonesia|Kupang|PT.ArseNET Global Solusi|
+|19|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
+|20|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
 
 
 
