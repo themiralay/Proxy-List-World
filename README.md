@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|3.112.208.79|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|72.10.160.171|9519|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|72.10.164.178|19307|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|3981|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|3915|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10901|Canada|Montreal|GloboTech Communications|
-|19|13.200.232.164|3128|India|Mumbai|Amazon.com, Inc.|
-|20|72.10.164.178|19307|Canada|Montreal|GloboTech Communications|
+|2|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|164.163.40.15|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|5|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|6|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|7|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|8|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|9|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|176.32.2.193|8080|Ukraine|Kamianets-Podilskyi|Lanet Network|
+|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|14|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|72.10.160.171|9519|Canada|Montreal|GloboTech Communications|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|1111|Canada|Montreal|GloboTech Communications|
+|20|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 
 
 
