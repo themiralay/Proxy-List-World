@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|181.119.68.107|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|160.248.9.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|182.253.109.4|8080|Indonesia|Semarang|Biznet Metronet|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|197.98.201.96|10230|South Africa|Johannesburg|Dimension Data|
+|18|197.98.201.96|10230|South Africa|Johannesburg|Dimension Data|
+|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|197.98.201.96|10230|South Africa|Johannesburg|Dimension Data|
 
 
 
