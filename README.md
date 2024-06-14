@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|45.70.171.211|999|Colombia|Bogotá|Comunicaciones Wifi Colombia S.A.S|
 |9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|39.129.73.6|443|China|Kunming|China Mobile|
-|16|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|19|80.248.77.125|8081|Togo|Lomé|AS de CAFE Informatique|
-|20|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|91.214.78.171|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
+|15|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
