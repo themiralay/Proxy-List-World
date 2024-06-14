@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|5|49.145.121.164|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|11|72.10.164.178|7373|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|12991|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|16631|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|16835|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7373|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.227.227|24515|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|24515|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|7373|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|9|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|14|35.247.131.172|3128|Singapore|Singapore|Google LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|67.43.227.228|25853|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
+|19|72.10.160.90|4113|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14217|Canada|Montreal|GloboTech Communications|
 
 
 
