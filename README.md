@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|7|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|103.48.69.54|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
-|15|185.55.40.196|8282|Russia|Voronezh|LLC Real|
-|16|115.178.49.181|8080|Indonesia|Pengasinan|NOC SIMAYA|
-|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|18|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|41.65.55.10|1976|Egypt|Giza|Etisalat Misr Mobile BB|
-|20|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|181.119.68.107|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|80.91.27.209|3128|Russia|Tyumen|Russian company LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|13|113.78.190.20|1111|China|Dongguan|Chinanet|
+|14|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|15|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|19|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
