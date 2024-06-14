@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|11|72.10.160.170|18759|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|8|45.136.197.46|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|67.43.236.20|1571|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|22937|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|9577|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|72.10.164.178|15741|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|12405|Canada|Montreal|GloboTech Communications|
-|20|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|103.88.90.53|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|18|72.10.160.93|7783|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|22265|Canada|Montreal|GloboTech Communications|
+|20|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
 
 
 
