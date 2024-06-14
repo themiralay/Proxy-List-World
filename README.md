@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|41.186.184.2|3128|Rwanda|Kigali|MTN Rwandacell|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|117.144.175.204|443|China|Shanghai|China Mobile communications corporation|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|45.70.238.182|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|117.144.175.204|9400|China|Shanghai|China Mobile communications corporation|
-|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|117.144.175.204|9400|China|Shanghai|China Mobile communications corporation|
-|18|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|117.144.175.195|9401|China|Shanghai|China Mobile communications corporation|
+|19|46.166.165.33|4001|Lithuania|Šiauliai|Cherry Servers|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
