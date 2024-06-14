@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|67.43.227.227|14467|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6849|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|10413|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|14467|Canada|Montreal|GloboTech Communications|
-|16|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.236.20|9775|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6849|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|6849|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6849|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|6|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|164.163.40.15|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|110.49.34.126|32650|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|67.43.228.253|23085|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|4305|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|4305|Canada|Montreal|GloboTech Communications|
 
 
 
