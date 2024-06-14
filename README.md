@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|17505|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|7693|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|72.10.160.90|10655|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|72.10.164.178|13115|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|19051|Canada|Montreal|GloboTech Communications|
 |12|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|13|67.43.236.20|7693|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|19051|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.172|30415|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17505|Canada|Montreal|GloboTech Communications|
+|15|38.156.93.242|999|Colombia|Ipiales|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
 |16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|72.10.160.90|14961|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|72.10.160.174|15065|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17505|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|13115|Canada|Montreal|GloboTech Communications|
+|18|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|19|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
+|20|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 
 
 
