@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.214.78.176|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
-|6|103.171.89.100|8082|Philippines|Tagum|Infinivan Incorporated|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|103.165.218.234|8085|Indonesia|Pegadungan|PT iForte Global Internet|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|200.39.120.123|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
 |11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|72.10.160.173|13387|Canada|Montreal|GloboTech Communications|
-|17|134.35.162.215|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|67.43.227.228|2331|Canada|Montreal|GloboTech Communications|
+|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|67.43.227.228|2331|Canada|Montreal|GloboTech Communications|
 
 
 
