@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|82.138.114.148|3128|France|Saint-Denis|Flex Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|91.214.78.176|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|72.10.160.93|6901|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|72.10.160.91|17137|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|122.144.6.66|3777|Indonesia|Pengarengan|Maxindo|
+|15|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|16|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|17|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|18|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|20|85.234.119.37|32650|Russia|Irkutsk|JSC "Regional company Svyaztranzit"|
 
 
 
