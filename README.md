@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|72.10.160.173|4773|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|31871|Canada|Montreal|GloboTech Communications|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|72.10.164.178|5535|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|27333|Canada|Montreal|GloboTech Communications|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|72.10.160.90|32289|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32289|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|15859|Canada|Montreal|GloboTech Communications|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|72.10.164.178|5535|Canada|Montreal|GloboTech Communications|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|67.43.227.227|14381|Canada|Montreal|GloboTech Communications|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|67.43.228.253|13863|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|5209|Canada|Montreal|GloboTech Communications|
+|19|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|72.10.160.90|32355|Canada|Montreal|GloboTech Communications|
 
 
 
