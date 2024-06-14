@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|41.186.184.2|3128|Rwanda|Kigali|MTN Rwandacell|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|67.43.228.250|23873|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|32561|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|1969|Canada|Montreal|GloboTech Communications|
-|15|185.204.0.94|8080|Russia|Moscow|First Server Limited|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|103.203.174.81|84|India|Hyderabad|Softgaurd Powertronics|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|165.16.30.225|1976|Libya|Umm Sā'ad|Aljeel Aljadeed For Technology|
+|6|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|72.10.160.171|13691|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|12871|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|11297|Canada|Montreal|GloboTech Communications|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|67.43.227.227|8247|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|12871|Canada|Montreal|GloboTech Communications|
+|17|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|72.10.160.90|12871|Canada|Montreal|GloboTech Communications|
+|20|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
