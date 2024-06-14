@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|72.10.164.178|23833|Canada|Montreal|GloboTech Communications|
 |16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|23833|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23833|Canada|Montreal|GloboTech Communications|
-|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|72.10.160.90|12215|Canada|Montreal|GloboTech Communications|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|72.10.160.90|12215|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|23833|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|32345|Canada|Montreal|GloboTech Communications|
 
 
 
