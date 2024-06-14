@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|203.150.128.71|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|72.10.164.178|30277|Canada|Montreal|GloboTech Communications|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|67.43.228.250|4821|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|117.68.38.139|22001|China|Rongcheng|China Telecom|
-|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|9|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|13|72.10.160.171|7093|Canada|Montreal|GloboTech Communications|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.228.250|4821|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.236.18|1081|Canada|Montreal|GloboTech Communications|
+|20|37.195.166.140|80|Russia|Novosibirsk|Novotelecom Ltd.|
 
 
 
