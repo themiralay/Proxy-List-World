@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|3.133.69.211|3128|United States|Dublin|Amazon.com, Inc.|
-|4|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|13.214.182.59|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|17|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|94.231.192.144|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|69.75.140.157|8080|United States|Whittier|Spectrum|
-|20|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|188.244.38.227|7999|Russia|Moscow|2COM|
+|10|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|186.125.218.169|999|Argentina|Molinos|Telecom Argentina S.A.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|209.14.115.33|999|Colombia|Bogotá|AGIS|
+|17|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
+|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
 
 
 
