@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|109.109.166.176|8080|United Kingdom|Wythenshawe|Vispa Limited|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|200.155.142.97|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|82.200.106.177|5225|Russia|Novosibirsk|ZSTTK|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|67.43.228.250|17321|Canada|Montreal|GloboTech Communications|
-|14|41.87.77.34|32650|Nigeria|Abuja|Phase3 Telecom Limited|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|72.10.160.90|12215|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|20039|Canada|Montreal|GloboTech Communications|
-|18|18.193.116.149|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|67.43.228.252|22489|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23833|Canada|Montreal|GloboTech Communications|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|14.142.36.210|1111|India|Mumbai|Tata Communications Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|67.43.228.252|22489|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|14485|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|29695|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|9763|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|10269|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
+|17|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|18|72.10.160.90|1815|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29695|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|12389|Canada|Montreal|GloboTech Communications|
 
 
 
