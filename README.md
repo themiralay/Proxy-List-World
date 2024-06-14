@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|188.132.146.101|8080|Turkey|Bayraklı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|13|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|49.48.44.175|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|72.10.160.173|24207|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1465|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|4853|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|24547|Canada|Montreal|GloboTech Communications|
-|19|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|1|119.76.142.200|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|49.48.44.175|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.227|25721|Canada|Montreal|GloboTech Communications|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
