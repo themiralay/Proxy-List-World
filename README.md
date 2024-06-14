@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|6|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|177.93.59.54|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|9|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|85.234.119.37|32650|Russia|Irkutsk|JSC "Regional company Svyaztranzit"|
-|11|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.236.20|13075|Canada|Montreal|GloboTech Communications|
-|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|15|67.43.236.21|11591|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|7169|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|29573|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|6545|Canada|Montreal|GloboTech Communications|
-|19|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|17|67.43.227.227|1455|Canada|Montreal|GloboTech Communications|
+|18|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
