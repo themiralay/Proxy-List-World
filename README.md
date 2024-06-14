@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|67.43.228.251|2081|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
-|8|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|9|54.219.200.88|3128|United States|San Jose|Amazon.com, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|67.43.236.20|2661|Canada|Montreal|GloboTech Communications|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|72.10.164.178|31759|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|72.10.164.178|31759|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|67.43.227.227|16207|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|103.169.254.9|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|11|67.43.228.253|2727|Canada|Montreal|GloboTech Communications|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|72.10.160.170|3235|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|10509|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|27045|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|27045|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|22879|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|22657|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|22021|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|22657|Canada|Montreal|GloboTech Communications|
 
 
 
