@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|194.146.42.93|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|72.10.160.170|28105|Canada|Montreal|GloboTech Communications|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |7|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.170|28105|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|11849|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|26955|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|67.43.228.250|25527|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|10139|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18501|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|25527|Canada|Montreal|GloboTech Communications|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|67.43.236.19|3377|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|10139|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
+|10|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|11|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|12|67.43.228.250|24623|Canada|Montreal|GloboTech Communications|
+|13|88.247.209.143|8080|Türkiye|Izmir|TurkTelecom|
+|14|175.100.113.237|8084|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|17|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
+|18|103.165.241.58|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|67.43.228.253|19237|Canada|Montreal|GloboTech Communications|
+|20|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
 
 
 
