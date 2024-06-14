@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|72.10.160.171|15339|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|25817|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4123|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15801|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17951|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|72.10.164.178|15801|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|25817|Canada|Montreal|GloboTech Communications|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.160.171|15339|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|25817|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|4123|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|25817|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|27921|Canada|Montreal|GloboTech Communications|
 
 
 
