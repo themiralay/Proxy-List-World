@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|103.88.239.118|84|India|Hyderabad|Mana Communications|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|5.196.111.29|20329|France|Gravelines|OVH SAS|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|65.21.141.136|17005|Finland|Helsinki|Hetzner Online GmbH|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|116.97.37.139|4000|Vietnam|Hanoi|Viettel Corporation|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|16|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
+|17|198.12.254.161|3128|United States|Ashburn|GoDaddy.com, LLC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
