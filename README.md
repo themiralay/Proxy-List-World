@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5230** proxies at the latest update. Usable proxies are below.
+> Scraper found **5256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -25,7 +25,7 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|3067|Canada|Montreal|GloboTech Communications|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|67.43.236.20|1525|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.22|16207|Canada|Montreal|GloboTech Communications|
-|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|72.10.160.94|13631|Canada|Montreal|GloboTech Communications|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|72.10.164.178|3067|Canada|Montreal|GloboTech Communications|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|72.10.164.178|12501|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|12501|Canada|Montreal|GloboTech Communications|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|72.10.164.178|12501|Canada|Montreal|GloboTech Communications|
+|17|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|18|67.43.236.20|25985|Canada|Montreal|GloboTech Communications|
+|19|177.93.59.54|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|20|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
 
 
 
