@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|206.189.158.234|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|85.237.46.168|53468|Russia|Penza|PJSC Rostelecom|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|15|72.10.160.90|19597|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|27221|Canada|Montreal|GloboTech Communications|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|67.43.227.227|15429|Canada|Montreal|GloboTech Communications|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|72.10.160.90|19597|Canada|Montreal|GloboTech Communications|
+|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.90|19597|Canada|Montreal|GloboTech Communications|
+|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|67.43.227.227|13243|Canada|Montreal|GloboTech Communications|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|72.10.164.178|25127|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|19597|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|23937|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.160.174|18861|Canada|Montreal|GloboTech Communications|
 
 
 
