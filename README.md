@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|91.214.78.176|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
-|4|122.144.6.66|3777|Indonesia|Pengarengan|Maxindo|
-|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|72.10.160.171|25909|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|33081|Canada|Montreal|GloboTech Communications|
-|20|103.156.16.236|8080|Indonesia|Indramayu|RSTNET|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.113.93.166|80|Brazil|Planaltina|AGE TELECOMUNICACOES LTDA|
+|8|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|82.138.114.148|3128|France|Saint-Denis|Flex Network|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.247.23.198|8080|Indonesia|Cileungsir|PT wifian Solution|
+|15|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|16|72.10.164.178|24025|Canada|Montreal|GloboTech Communications|
+|17|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|18|72.10.164.178|24025|Canada|Montreal|GloboTech Communications|
+|19|112.5.41.28|3128|China|Shenzhen|China Mobile|
+|20|72.10.164.178|24025|Canada|Montreal|GloboTech Communications|
 
 
 
