@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|72.10.164.178|30577|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|30577|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7273|Canada|Montreal|GloboTech Communications|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|72.10.164.178|30577|Canada|Montreal|GloboTech Communications|
-|20|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|182.16.171.42|43188|Indonesia|Depok|PT iForte Global Internet|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|72.10.164.178|22669|Canada|Montreal|GloboTech Communications|
+|17|54.93.217.90|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|72.10.160.90|24893|Canada|Montreal|GloboTech Communications|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
