@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5137** proxies at the latest update. Usable proxies are below.
+> Scraper found **5090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|747|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|700|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3088|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|3.27.77.150|3128|Australia|Sydney|Amazon.com, Inc.|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|72.10.160.170|1385|Canada|Montreal|GloboTech Communications|
-|16|3.71.14.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
-|20|103.80.82.9|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|11923|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|45.71.200.175|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|19|67.43.228.253|25785|Canada|Montreal|GloboTech Communications|
+|20|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
 
 
 
