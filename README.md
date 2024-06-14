@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|8.215.58.244|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|218.81.253.163|3128|China|Shanghai|China Telecom (Group)|
 |10|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|8397|Canada|Montreal|GloboTech Communications|
 |12|67.43.236.20|8397|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|8397|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|8397|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|22265|Canada|Montreal|GloboTech Communications|
-|16|190.90.233.33|8080|Colombia|Girón|InterNexa Global Network|
-|17|67.43.227.228|24125|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|22265|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|24125|Canada|Montreal|GloboTech Communications|
-|20|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|13|67.43.227.227|30159|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|24125|Canada|Montreal|GloboTech Communications|
+|15|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|72.10.160.90|1707|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1621|Canada|Montreal|GloboTech Communications|
+|18|188.132.146.101|8080|Turkey|Bayraklı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|19|67.43.236.20|8397|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|5621|Canada|Montreal|GloboTech Communications|
 
 
 
