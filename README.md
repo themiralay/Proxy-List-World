@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.38.121|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.248.91.254|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.185.24|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.185.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.8.27|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.185.47|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|222.127.170.189|3128|Philippines|Lahug|Globe Telecom Inc.|
-|9|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|10|160.248.185.49|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|160.248.185.22|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|103.153.63.154|1111|Indonesia|Rejoagung Satu|IMEDIANET|
-|17|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|20|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|77.242.22.225|8080|Albania|Tirana|Abissnet ISP|
+|4|67.43.227.230|17035|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|72.10.160.170|13343|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.226|17235|Canada|Montreal|GloboTech Communications|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|160.248.188.130|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|191.102.254.50|8085|Argentina|Rosario|IP·RED|
+|12|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.185.22|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|17|160.248.8.23|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.236.20|25273|Canada|Montreal|GloboTech Communications|
+|19|103.104.214.239|3128|Pakistan|Lahore|Netze Telecom (Private) Limited|
+|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
