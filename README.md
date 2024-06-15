@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.184.131|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|125.26.238.56|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|9|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|13|192.210.228.107|3128|United States|Elk Grove Village|HostPapa|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|103.110.36.65|83|India|Lucknow|Bytel Tranet Private Limited|
+|14|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
 |15|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|18|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
 |19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|160.248.189.194|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
