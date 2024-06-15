@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|14|207.230.8.3|999|Colombia|Bogotá|Cogent Communications|
-|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|8|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
+|9|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|36.95.142.35|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|19|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|20|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
 
 
 
