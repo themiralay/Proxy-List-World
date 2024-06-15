@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|72.10.160.172|8937|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28787|Canada|Montreal|GloboTech Communications|
-|16|41.65.55.3|1981|Egypt|Giza|Etisalat Misr Mobile BB|
-|17|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|18|67.43.236.20|24441|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2117|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|77.91.124.248|8000|Finland|Helsinki|Daniil Yevchenko|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|17|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|6951|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|10537|Canada|Montreal|GloboTech Communications|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
