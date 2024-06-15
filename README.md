@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
-|4|161.34.38.146|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.242.104.101|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|30089|Canada|Montreal|GloboTech Communications|
+|2|160.248.6.156|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.8.23|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.248.92.101|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|140.227.143.213|3128|Japan|Hyōgo|InfoSphere|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.248.90.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|66.54.106.56|8104|United States|Itta Bena|Mobile Communications, LLC|
-|14|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|15|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|72.10.164.178|11793|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|38.188.249.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|16|200.39.120.123|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
+|17|72.10.160.90|24071|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28207|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.173|24395|Canada|Montreal|GloboTech Communications|
 
 
 
