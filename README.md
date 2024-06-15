@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.92.2|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.37.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|160.248.90.126|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
+|1|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
+|6|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering Co. LTD|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|161.34.37.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|160.248.90.126|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 |13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.18|20477|Canada|Montreal|GloboTech Communications|
-|16|148.72.173.18|10679|United States|St Louis|GoDaddy.com, LLC|
-|17|67.43.228.253|2787|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17141|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21933|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3981|Canada|Montreal|GloboTech Communications|
+|14|202.154.19.7|8080|Indonesia|Lamongan|DIGITNET|
+|15|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
+|16|67.43.236.18|20477|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|6127|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|67.43.228.253|2787|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
