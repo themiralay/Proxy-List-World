@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|112.78.170.251|8080|Indonesia|Jakarta|BIZNET|
-|13|74.50.91.22|3128|United States|Englewood Cliffs|Interserver, Inc|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|109.74.35.240|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
 |17|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|160.248.92.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|161.34.38.119|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|161.34.38.119|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
