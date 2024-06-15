@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|1|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.252.236.158|8080|Indonesia|Bogor|NET|
-|11|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|18|161.34.38.123|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|161.34.38.123|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.92.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
 
 
 
