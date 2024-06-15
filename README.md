@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|15|190.90.28.18|999|Colombia|Pasto|Internexa S.a. E.S.P|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|3|194.146.42.93|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|9|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|187.245.214.7|999|Mexico|Comitán|Mega Cable|
+|16|41.186.184.2|3128|Rwanda|Kigali|MTN Rwandacell|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
