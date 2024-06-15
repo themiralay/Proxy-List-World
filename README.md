@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|152.231.87.10|999|Chile|Santiago|Entel Chile S.A.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|161.34.36.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
-|17|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|18|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|19|217.100.239.117|8090|The Netherlands|Alblasserdam|Vodafone Libertel B.V.|
-|20|163.44.0.54|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|6|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|7|119.2.43.143|8080|Indonesia|Bogor|PT. Laxo Global Akses|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|190.109.168.196|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.155.198.105|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|12|200.94.96.174|999|Mexico|Benito Juarez|Alestra, S. de R.L. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|15|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|16|202.138.248.107|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|190.220.1.173|56974|Argentina|Buenos Aires|AMX Argentina S.A.|
+|19|152.231.87.10|999|Chile|Santiago|Entel Chile S.A.|
+|20|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
