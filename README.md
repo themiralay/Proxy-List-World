@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4468** proxies at the latest update. Usable proxies are below.
+> Scraper found **4469** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|146|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|160.248.185.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|160.248.92.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|11|67.43.228.253|21077|Canada|Montreal|GloboTech Communications|
-|12|160.248.185.49|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|188.244.38.227|7999|Russia|Moscow|2COM|
-|14|67.43.228.252|10011|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|29825|Canada|Montreal|GloboTech Communications|
-|16|160.248.185.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.236.20|19039|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2419|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|11187|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|12595|Canada|Montreal|GloboTech Communications|
+|6|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|160.248.185.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|160.248.92.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|16|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|67.43.228.253|1509|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
