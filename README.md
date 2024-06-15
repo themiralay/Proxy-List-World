@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|163.44.0.54|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|16|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|17|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|20|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
