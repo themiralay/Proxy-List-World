@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.8.20|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|5|160.248.92.4|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|11|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|72.10.160.174|27585|Canada|Montreal|GloboTech Communications|
-|18|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|19|72.10.160.90|2423|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2423|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.248.8.20|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.155.197.117|7777|Indonesia|Sukabumi|JEMBATANDATA|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|16|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|17|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|18|72.10.160.174|16539|Canada|Montreal|GloboTech Communications|
+|19|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
