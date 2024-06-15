@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|160.248.8.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.38.138|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.38.119|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|1|161.34.38.123|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.248.8.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|161.34.38.119|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.36.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.8.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|72.10.160.90|14597|Canada|Montreal|GloboTech Communications|
-|17|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|161.34.38.146|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|6695|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|160.248.8.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|161.34.38.138|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.38.119|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|161.34.38.146|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
