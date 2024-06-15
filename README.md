@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.34.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|209.126.84.8|3128|United States|St Louis|Nubes, LLC|
-|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|160.248.90.126|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|72.10.164.178|4549|Canada|Montreal|GloboTech Communications|
-|16|161.34.38.146|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|8257|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4549|Canada|Montreal|GloboTech Communications|
-|19|200.39.120.45|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
-|20|72.10.160.90|28339|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|12|103.148.28.218|8080|Indonesia|Sigi|DEWATA|
+|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|160.248.90.126|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|161.34.38.146|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|7077|Canada|Montreal|GloboTech Communications|
 
 
 
