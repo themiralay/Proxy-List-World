@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|10|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|14|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
-|15|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.184.131|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|18|160.248.92.5|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|8|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
+|11|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.184.131|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|17|160.248.92.5|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|103.89.4.163|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
