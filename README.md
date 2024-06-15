@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|163.44.0.54|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|125.133.249.86|8080|South Korea|Bucheon-si|Korea Telecom|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|39.129.73.6|443|China|Kunming|China Mobile|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|67.43.227.227|10577|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|16689|Canada|Montreal|GloboTech Communications|
-|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.20|24441|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8381|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|10577|Canada|Montreal|GloboTech Communications|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|67.43.236.18|30805|Canada|Montreal|GloboTech Communications|
+|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
