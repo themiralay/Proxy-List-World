@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.38.120|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|103.203.172.178|84|India|Hyderabad|Softgaurd Powertronics|
+|10|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|161.34.38.120|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|161.34.38.122|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.37.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|218.81.253.163|3128|China|Shanghai|China Telecom (Group)|
+|20|160.248.185.51|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
