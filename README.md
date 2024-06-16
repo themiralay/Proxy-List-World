@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|5|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |13|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.160.171|6461|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1675|Canada|Montreal|GloboTech Communications|
+|14|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.10.160.171|6461|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|29287|Canada|Montreal|GloboTech Communications|
+|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|18|67.43.228.253|7989|Canada|Montreal|GloboTech Communications|
+|19|77.91.124.248|8000|Finland|Helsinki|Daniil Yevchenko|
+|20|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
