@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.228.251|20557|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|25487|Canada|Montreal|GloboTech Communications|
-|11|103.163.244.22|83|India|Panipat|Infolink System|
-|12|72.10.164.178|15503|Canada|Montreal|GloboTech Communications|
-|13|1.54.175.5|4002|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|67.43.227.227|30469|Canada|Montreal|GloboTech Communications|
-|17|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|18|72.10.164.178|15503|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15503|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|4077|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.170|9897|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|1335|Canada|Montreal|GloboTech Communications|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|67.43.227.227|8143|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|4077|Canada|Montreal|GloboTech Communications|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|103.180.1.242|1111|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
+|14|72.10.160.94|11511|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|67.43.228.252|2357|Canada|Montreal|GloboTech Communications|
+|17|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
 
 
 
