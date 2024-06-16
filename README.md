@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|7|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|11|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|160.248.189.193|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.160.90|9329|Canada|Montreal|GloboTech Communications|
-|16|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|17|160.248.189.190|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.227.228|15279|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22637|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20823|Canada|Montreal|GloboTech Communications|
+|9|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|160.248.189.193|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|160.248.189.190|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|67.43.227.227|27675|Canada|Montreal|GloboTech Communications|
 
 
 
