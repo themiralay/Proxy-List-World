@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.205.251.115|999|Colombia|Medellín|Colombia Móvil|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.205.124.4|3128|Belgium|Brussels|Google LLC|
-|9|104.129.206.209|8800|United States|Atlanta|ZSCALER, INC.|
-|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|11|160.248.189.193|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|13|104.129.206.191|8800|United States|Atlanta|ZSCALER, INC.|
-|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|22157|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|3333|Canada|Montreal|GloboTech Communications|
-|18|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
-|19|72.10.164.178|2855|Canada|Montreal|GloboTech Communications|
-|20|104.129.206.103|8800|United States|Atlanta|ZSCALER, INC.|
+|1|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|203.150.113.139|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|9|160.248.189.193|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|104.129.206.209|8800|United States|Atlanta|ZSCALER, INC.|
+|13|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|14|104.129.206.191|8800|United States|Atlanta|ZSCALER, INC.|
+|15|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|16|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
+|17|104.129.206.103|8800|United States|Atlanta|ZSCALER, INC.|
+|18|104.129.206.173|8800|United States|Atlanta|ZSCALER, INC.|
+|19|69.79.101.97|999|United States|North Miami Beach|Columbus Networks USA, Inc.|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
