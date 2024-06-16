@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.55.202.206|3128|The Netherlands|Amsterdam|ESTOXY OU|
-|8|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|67.43.236.20|11745|Canada|Montreal|GloboTech Communications|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|67.43.236.20|11745|Canada|Montreal|GloboTech Communications|
-|16|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|20|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|77.41.146.34|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|20|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
 
 
 
