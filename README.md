@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|77.91.124.248|8000|Finland|Helsinki|Daniil Yevchenko|
-|4|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|202.29.232.62|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.184.122.89|3128|Indonesia|Bandung|PT Wijaya Trimitra Indonesia|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|67.43.228.250|18921|Canada|Montreal|GloboTech Communications|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|202.29.221.14|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|10|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|11|67.43.236.20|13475|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.254|7373|Canada|Montreal|GloboTech Communications|
+|13|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|67.43.227.227|22925|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.94|3895|Canada|Montreal|GloboTech Communications|
+|18|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|19|72.10.160.91|13759|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|19131|Canada|Montreal|GloboTech Communications|
 
 
 
