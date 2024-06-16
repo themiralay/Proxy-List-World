@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|14|72.10.160.90|26649|Canada|Montreal|GloboTech Communications|
-|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|16|72.10.160.90|26649|Canada|Montreal|GloboTech Communications|
-|17|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|190.82.105.122|43949|Chile|Puente Alto|Telefonica Empresas|
-|19|103.155.197.117|7777|Indonesia|Sukabumi|JEMBATANDATA|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|3|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|7|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|13|72.10.160.90|16835|Canada|Montreal|GloboTech Communications|
+|14|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|1.54.175.5|4001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|5.196.111.29|20071|France|Gravelines|OVH SAS|
+|18|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
+|20|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
