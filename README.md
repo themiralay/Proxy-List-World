@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|94.158.155.138|54698|Ukraine|Odesa|Comfo LTD|
-|8|72.10.160.90|3337|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|11|67.43.236.20|13891|Canada|Montreal|GloboTech Communications|
-|12|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|14|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.236.20|13891|Canada|Montreal|GloboTech Communications|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|72.10.164.178|13125|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|20|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|101.51.107.249|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|18|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|24341|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
