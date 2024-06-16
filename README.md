@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.148.130.50|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |11|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|16|67.43.227.227|27645|Canada|Montreal|GloboTech Communications|
-|17|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|18|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|19|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|187.102.217.23|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
+|12|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|20|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
 
 
 
