@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|15|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|18|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|19|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|19|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
