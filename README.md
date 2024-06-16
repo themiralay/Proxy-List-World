@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|1.10.133.222|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|103.144.90.24|1080|Indonesia|Ponorogo|BEAT|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|77.41.146.34|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|15|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|17|223.25.110.227|8080|Indonesia|Malang|SinergiNet|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|1.10.133.222|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|77.41.146.34|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 
 
 
