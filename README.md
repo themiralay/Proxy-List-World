@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|72.10.164.178|3981|Canada|Montreal|GloboTech Communications|
-|12|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|6|103.49.28.23|12113|Indonesia|Jakarta|PT Pascal Solusi Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|72.10.164.178|24701|Canada|Montreal|GloboTech Communications|
+|12|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |14|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|15|67.43.228.251|32061|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.228.253|26245|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|20|72.10.160.171|15503|Canada|Montreal|GloboTech Communications|
+|15|103.165.218.234|8085|Indonesia|Pegadungan|PT iForte Global Internet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|18|67.43.228.251|32061|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
