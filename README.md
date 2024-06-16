@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|160.248.189.194|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.79.214|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.189.194|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.79.214|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|160.248.8.104|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |8|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|160.248.10.104|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.248.8.104|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|13|160.248.189.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|67.43.227.227|27007|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|4171|Canada|Montreal|GloboTech Communications|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|67.43.236.20|16159|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19941|Canada|Montreal|GloboTech Communications|
-|20|5.196.111.29|20329|France|Gravelines|OVH SAS|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|160.248.189.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|67.43.227.227|15465|Canada|Montreal|GloboTech Communications|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|72.10.160.90|4171|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|11269|Canada|Montreal|GloboTech Communications|
+|16|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|17|189.193.195.140|8080|Mexico|Ciudad Hidalgo|Mega Cable, S.A. de C.V.|
+|18|72.10.164.178|23777|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
