@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|177.234.211.79|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|161.34.38.123|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|160.248.185.22|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.230|29053|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18445|Canada|Montreal|GloboTech Communications|
+|1|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|181.78.19.254|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
+|11|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|16|160.248.185.22|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|161.34.38.123|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.38.118|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
 
 
 
