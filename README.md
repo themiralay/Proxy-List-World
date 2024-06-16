@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|110.78.143.240|8080|Thailand|Nakhon Pathom|CAT-BB|
-|5|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
-|9|67.43.236.18|9263|Canada|Montreal|GloboTech Communications|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|72.10.164.178|10597|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|20181|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|20181|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10597|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|160.248.79.214|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|20|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|109.230.92.50|3128|Iran|Kīsh|Boomerang|
+|4|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|160.248.79.214|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.228.253|15811|Canada|Montreal|GloboTech Communications|
+|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|16|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.160.170|20433|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
