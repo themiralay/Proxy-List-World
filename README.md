@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
-|9|27.147.157.77|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|15|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|16|117.144.175.203|8800|China|Shanghai|China Mobile communications corporation|
-|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|18|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
-|19|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|20|81.0.197.250|5808|Czechia|Prague|CASA to WIA transfer|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|9|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|14|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|117.144.175.203|8800|China|Shanghai|China Mobile communications corporation|
+|16|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|17|67.43.228.250|1365|Canada|Montreal|GloboTech Communications|
+|18|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|19|72.10.164.178|30881|Canada|Montreal|GloboTech Communications|
+|20|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
