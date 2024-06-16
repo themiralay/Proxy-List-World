@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.189.191|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|172.245.108.49|19999|United States|Seattle|HostPapa|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|67.43.228.254|5775|Canada|Montreal|GloboTech Communications|
-|14|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.90|23483|Canada|Montreal|GloboTech Communications|
-|20|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|11|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|179.50.90.164|8511|Colombia|Medellín|GTD COLOMBIA|
+|13|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|72.10.160.92|3301|Canada|Montreal|GloboTech Communications|
+|18|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
