@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|190.104.129.38|22800|Paraguay|Asunción|Núcleo S.A.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |10|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.34.38.122|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.185.24|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|103.125.117.50|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|14|152.67.221.233|8008|South Korea|Chuncheon|Oracle Corporation|
-|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|16|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|17227|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|20|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|64.226.74.138|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|161.34.38.122|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.185.24|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|217.182.194.108|3128|France|Gravelines|OVH SAS|
+|18|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
