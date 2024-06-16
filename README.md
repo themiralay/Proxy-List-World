@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|13|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|18|67.43.227.229|8601|Canada|Montreal|GloboTech Communications|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|142.171.108.179|3128|United States|Los Angeles|Multacom Corporation|
+|7|181.192.22.182|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|10|200.39.120.123|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
+|11|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
+|12|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|122.50.6.186|80|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|17|91.209.114.179|8080|Hungary|Kálmáncsa|MVM NET Zrt.|
+|18|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
