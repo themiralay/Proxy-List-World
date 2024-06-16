@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|103.115.31.181|8090|Indonesia|Depok|HSPNET|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
 |12|72.10.160.90|15107|Canada|Montreal|GloboTech Communications|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|72.10.164.178|27871|Canada|Montreal|GloboTech Communications|
-|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|16|72.10.160.93|14659|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6751|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|6751|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|67.43.236.20|15801|Canada|Montreal|GloboTech Communications|
+|14|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|15|67.43.227.227|29281|Canada|Montreal|GloboTech Communications|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|67.43.228.251|15703|Canada|Montreal|GloboTech Communications|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|67.43.228.253|29171|Canada|Montreal|GloboTech Communications|
 
 
 
