@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|6|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|11|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|16|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|72.10.164.178|12673|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.236.20|23323|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.236.20|30067|Canada|Montreal|GloboTech Communications|
+|20|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
