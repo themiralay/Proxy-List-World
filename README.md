@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.186.204.52|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|7|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|160.248.185.22|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|10849|Canada|Montreal|GloboTech Communications|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|179.1.134.75|999|Colombia|Ibagué|Internexa S.a. E.S.P|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|175.100.113.237|8084|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|109.235.189.207|8080|Russia|Sochi|Dmitriy V. Kozmenko|
+|16|177.234.192.14|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|154.236.189.20|1981|Egypt|Cairo|Etisalat Fixed BB|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
