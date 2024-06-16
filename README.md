@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|5|103.164.213.78|8088|Indonesia|Jakarta|PT iForte Global Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|14|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|103.166.33.110|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|46.35.72.4|8080|Yemen|Laḩij|Public Telecommunication Corporation|
-|19|67.43.236.20|14211|Canada|Montreal|GloboTech Communications|
-|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|67.43.236.20|18493|Canada|Montreal|GloboTech Communications|
+|18|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
+|19|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
