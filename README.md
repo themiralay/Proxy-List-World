@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|202.29.221.14|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|9|67.43.236.22|15121|Canada|Montreal|GloboTech Communications|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|72.10.160.90|15027|Canada|Montreal|GloboTech Communications|
-|12|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
-|15|39.129.73.6|443|China|Kunming|China Mobile|
-|16|72.10.160.170|19627|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|72.10.160.170|19627|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|202.29.221.14|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|4|101.51.107.249|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|16|67.43.236.22|15121|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|16897|Canada|Montreal|GloboTech Communications|
+|18|190.181.59.211|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|39.129.73.6|443|China|Kunming|China Mobile|
 
 
 
