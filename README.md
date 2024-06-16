@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5380** proxies at the latest update. Usable proxies are below.
+> Scraper found **5338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|688|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3257|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|189.203.181.34|8080|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|9|107.180.76.49|8118|United States|Ashburn|GoDaddy.com, LLC|
-|10|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|11|213.19.123.178|229|Czechia|Voděrady|FORTECH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.65.180.190|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|14|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|67.43.228.253|21355|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|67.43.228.253|12021|Canada|Montreal|GloboTech Communications|
+|12|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|13|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
+|14|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |16|97.64.22.192|3128|United States|Los Angeles|IT7 Networks Inc|
-|17|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|17|72.10.160.94|5273|Canada|Montreal|GloboTech Communications|
+|18|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.236.20|23253|Canada|Montreal|GloboTech Communications|
+|20|160.248.189.193|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
