@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|9|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|130.61.54.184|3222|Germany|Frankfurt am Main|Oracle Corporation|
-|18|67.43.236.20|21125|Canada|Montreal|GloboTech Communications|
-|19|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|67.43.228.250|6369|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|67.43.236.20|32967|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.236.20|32967|Canada|Montreal|GloboTech Communications|
 
 
 
