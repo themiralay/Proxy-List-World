@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|10|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|170.78.211.33|999|Mexico|Los Cerritos|Wantelco SAS de CV|
-|14|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|159.69.110.232|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|85.232.243.235|8080|Poland|Warsaw|ATMAN|
+|14|192.210.228.107|3128|United States|Elk Grove Village|HostPapa|
+|15|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|16|160.248.8.16|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|160.248.2.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
