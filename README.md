@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|3|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|90.77.2.161|999|Spain|Don Benito|UNI2-NET- Orange Spain Network|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|7|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
+|8|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
 |14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|103.81.158.137|8080|India|Talwandi Bhai|Digitax India Communications Pvt Ltd.|
-|18|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|170.239.205.113|999|Colombia|Bogotá|FIBERNET|
-|20|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|15|36.88.148.138|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
+|18|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|19|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
