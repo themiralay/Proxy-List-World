@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|16491|Canada|Montreal|GloboTech Communications|
-|14|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.170|27315|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1661|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|19|72.10.160.90|9507|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1661|Canada|Montreal|GloboTech Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.180.123.203|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|16|67.43.228.253|27593|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|9507|Canada|Montreal|GloboTech Communications|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.93|29755|Canada|Montreal|GloboTech Communications|
 
 
 
