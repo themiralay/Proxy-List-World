@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4678** proxies at the latest update. Usable proxies are below.
+> Scraper found **4645** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|409|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3102|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.189.190|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.189.198|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|72.10.164.178|5051|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|19029|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
-|12|67.43.228.254|6755|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|19029|Canada|Montreal|GloboTech Communications|
-|14|160.248.189.196|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.227.228|20031|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|72.10.164.178|5051|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19029|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6371|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|160.248.79.214|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.248.189.196|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.189.200|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|13|72.10.160.172|21679|Canada|Montreal|GloboTech Communications|
+|14|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|74.62.179.122|8080|United States|Los Angeles|Charter Communications Inc|
+|16|67.43.227.227|30947|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|2827|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|11629|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|16645|Canada|Montreal|GloboTech Communications|
+|20|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
 
 
 
