@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.80.111|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.87.169.154|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
-|11|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|12|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|13|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.80.224.17|82|India|Vadodara|Robust Pixel Connect Private Limited|
-|16|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|18|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|20|67.43.227.226|12043|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|8|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|15|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.156.23.230|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|18|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|19|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|20|160.248.189.192|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
