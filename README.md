@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.227.228|1921|Canada|Montreal|GloboTech Communications|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
-|13|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|5.196.111.29|20471|France|Gravelines|OVH SAS|
-|15|67.43.228.253|25675|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|30923|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|202.29.232.62|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|160.248.81.242|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|12|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|67.43.228.253|26165|Canada|Montreal|GloboTech Communications|
+|16|77.91.124.248|8000|Finland|Helsinki|Daniil Yevchenko|
+|17|5.196.111.29|20471|France|Gravelines|OVH SAS|
 |18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|72.10.164.178|14833|Canada|Montreal|GloboTech Communications|
-|20|202.29.232.62|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|19|67.43.227.227|25595|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14833|Canada|Montreal|GloboTech Communications|
 
 
 
