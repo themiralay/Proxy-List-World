@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|72.10.164.178|3479|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|30009|Canada|Montreal|GloboTech Communications|
-|13|147.28.145.212|9443|United States|Ashburn|Packet Host, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|49.49.144.15|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
 |14|67.43.227.227|26859|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|5633|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|26859|Canada|Montreal|GloboTech Communications|
-|17|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|15|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|72.10.160.170|24685|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|72.10.160.93|23031|Canada|Montreal|GloboTech Communications|
 |20|67.43.228.253|12895|Canada|Montreal|GloboTech Communications|
 
 
