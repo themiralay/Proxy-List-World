@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|195.54.171.227|24099|Hong Kong|Hong Kong|M247 Europe SRL|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|15|67.43.228.250|29083|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29253|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29253|Canada|Montreal|GloboTech Communications|
-|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|19|72.10.160.90|8985|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|45.143.233.197|3128|Japan|Tokyo|xTom Pty Ltd|
+|17|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
