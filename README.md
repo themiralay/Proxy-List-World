@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.166.8.234|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|157.230.178.216|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|67.43.236.20|21253|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|203.150.113.119|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|16|72.10.160.92|4891|Canada|Montreal|GloboTech Communications|
-|17|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
-|18|67.43.236.20|21253|Canada|Montreal|GloboTech Communications|
-|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|67.43.236.20|21253|Canada|Montreal|GloboTech Communications|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|141.145.204.7|3128|France|Paris|Oracle Corporation|
+|17|67.43.236.20|8167|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.227.228|8585|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
 
 
 
