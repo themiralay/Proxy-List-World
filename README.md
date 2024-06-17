@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|163.47.210.74|8080|India|Chennai|Microsense Pvt. Limited|
-|12|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|67.43.236.20|13623|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|29505|Canada|Montreal|GloboTech Communications|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|8|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|9|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|67.43.227.228|29505|Canada|Montreal|GloboTech Communications|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|72.10.160.94|32937|Canada|Montreal|GloboTech Communications|
 
 
 
