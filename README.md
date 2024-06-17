@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|13|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|14|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|72.10.160.90|25939|Canada|Montreal|GloboTech Communications|
-|18|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.150.113.119|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|18|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|19|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|20|72.10.164.178|2381|Canada|Montreal|GloboTech Communications|
 
 
 
