@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|1|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|7|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|8|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|11|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|12|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|67.43.236.21|4003|Canada|Montreal|GloboTech Communications|
-|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|17|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|11651|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|5241|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|30967|Canada|Montreal|GloboTech Communications|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|10|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.228.253|12167|Canada|Montreal|GloboTech Communications|
+|14|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|17|67.43.236.21|4003|Canada|Montreal|GloboTech Communications|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
 
 
 
