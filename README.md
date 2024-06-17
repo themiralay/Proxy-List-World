@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4954** proxies at the latest update. Usable proxies are below.
+> Scraper found **4902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|562|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|239|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3096|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|15|203.150.113.119|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|17|170.239.205.113|999|Colombia|Bogotá|FIBERNET|
-|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|13|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|14|67.43.228.252|18087|Canada|Montreal|GloboTech Communications|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|67.43.228.253|29359|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.174|15869|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|11345|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|31995|Canada|Montreal|GloboTech Communications|
 
 
 
