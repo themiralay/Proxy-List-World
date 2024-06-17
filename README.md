@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.136.19.223|80|United Kingdom|London|Ipxo LLC|
-|9|170.39.194.215|2223|United States|Ashburn|Rackdog, LLC|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|210.247.253.244|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|14|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|15|170.39.194.215|2223|United States|Ashburn|Rackdog, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.136.19.223|80|United Kingdom|London|Ipxo LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
 
 
 
