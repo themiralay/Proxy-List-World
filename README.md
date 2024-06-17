@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.111.253.54|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|49.49.144.15|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|13|82.223.234.4|80|Spain|Logroño|arsys.es|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
