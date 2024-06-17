@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|4|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|157.66.16.40|8080|Indonesia|Jatibarang|MMNET|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|16|170.39.194.215|2223|United States|Ashburn|Rackdog, LLC|
-|17|103.165.64.74|83|India|Seoni Chhapara|Navyug Networks Info Private Limited|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|19|72.10.164.178|1167|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
