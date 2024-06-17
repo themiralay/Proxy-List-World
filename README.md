@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|6|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|11|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
-|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|15|170.239.205.113|999|Colombia|Bogotá|FIBERNET|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|11|72.10.160.90|32561|Canada|Montreal|GloboTech Communications|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|72.10.164.178|27767|Canada|Montreal|GloboTech Communications|
+|14|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|15|72.10.160.90|32561|Canada|Montreal|GloboTech Communications|
+|16|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|17|67.43.227.227|31995|Canada|Montreal|GloboTech Communications|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|72.10.164.178|27767|Canada|Montreal|GloboTech Communications|
+|20|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
 
 
 
