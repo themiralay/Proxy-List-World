@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|190.90.233.65|8080|Colombia|Girón|InterNexa Global Network|
-|11|72.10.164.178|11465|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|14747|Canada|Montreal|GloboTech Communications|
-|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|67.43.228.254|11207|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|4825|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11465|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|8881|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|14711|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|22423|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|19551|Canada|Montreal|GloboTech Communications|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.10.164.178|27453|Canada|Montreal|GloboTech Communications|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|67.43.227.228|1941|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.230|9521|Canada|Montreal|GloboTech Communications|
+|12|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|15|103.190.171.137|8080|Indonesia|Jakarta|WMS|
+|16|67.43.228.254|11207|Canada|Montreal|GloboTech Communications|
+|17|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|20|72.10.160.90|2177|Canada|Montreal|GloboTech Communications|
 
 
 
