@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.177.3.115|8080|Mexico|Puerto Vallarta|UNINET|
-|12|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|13|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|186.125.218.188|999|Argentina|Molinos|Telecom Argentina S.A.|
-|15|67.43.236.19|9627|Canada|Montreal|GloboTech Communications|
-|16|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|67.43.228.253|30635|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|17987|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|18987|Canada|Montreal|GloboTech Communications|
-|20|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|189.177.3.115|8080|Mexico|Puerto Vallarta|UNINET|
+|7|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.227.227|27267|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|186.125.218.188|999|Argentina|Molinos|Telecom Argentina S.A.|
+|13|67.43.227.226|7413|Canada|Montreal|GloboTech Communications|
+|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|15|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|27267|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|27267|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|4145|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19419|Canada|Montreal|GloboTech Communications|
+|20|171.102.10.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
