@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|49.49.144.15|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |10|103.247.14.37|8080|Indonesia|Semarang|TERABIT|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|72.10.164.178|23053|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.236.20|13577|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|19|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
