@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|12|67.43.227.227|12075|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|14|5.196.111.29|20471|France|Gravelines|OVH SAS|
-|15|72.10.160.90|11021|Canada|Montreal|GloboTech Communications|
-|16|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.172|8263|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11021|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|12075|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|9381|Canada|Montreal|GloboTech Communications|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|67.43.227.227|22861|Canada|Montreal|GloboTech Communications|
+|14|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|22861|Canada|Montreal|GloboTech Communications|
+|16|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|17|67.43.228.250|16437|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|72.10.160.90|32765|Canada|Montreal|GloboTech Communications|
 
 
 
