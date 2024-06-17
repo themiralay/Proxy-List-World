@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|72.10.164.178|22295|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|9331|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|18|72.10.164.178|22295|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|25491|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25491|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|4039|Canada|Montreal|GloboTech Communications|
+|8|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
+|9|67.43.227.227|8179|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|4039|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|12|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|14|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.170|25989|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|25989|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8179|Canada|Montreal|GloboTech Communications|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
