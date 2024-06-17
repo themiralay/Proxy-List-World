@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.235|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|188.116.22.67|24099|Hong Kong|Admiralty|M247 Europe SRL|
-|10|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|13|72.10.160.170|11949|Canada|Montreal|GloboTech Communications|
-|14|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|18|67.43.227.227|9369|Canada|Montreal|GloboTech Communications|
-|19|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.164.178|32365|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
+|8|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|12|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|13|67.43.236.20|1615|Canada|Montreal|GloboTech Communications|
+|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|72.10.164.178|5901|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|32903|Canada|Montreal|GloboTech Communications|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
