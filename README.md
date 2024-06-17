@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|8|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|188.132.222.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|20|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|202.29.221.14|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|38.183.184.56|999|Venezuela|Santa Teresa del Tuy|TRANSPORTE DE DATOS INTERKING, C.A.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|180.191.23.9|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|67.43.228.253|8063|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|16081|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
