@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.188.127.123|1080|Indonesia|Blitar|PT Data Buana Nusantara|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|200.125.170.106|999|Dominican Republic|Mejia de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.160.171|26797|Canada|Montreal|GloboTech Communications|
-|19|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|67.43.228.253|3747|Canada|Montreal|GloboTech Communications|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.0.224|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|103.169.149.254|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
+|18|67.43.228.253|29255|Canada|Montreal|GloboTech Communications|
+|19|45.236.106.243|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
 
 
 
