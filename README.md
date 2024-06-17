@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|72.10.160.172|17371|Canada|Montreal|GloboTech Communications|
-|11|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|12|72.10.160.170|2091|Canada|Montreal|GloboTech Communications|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20909|Canada|Montreal|GloboTech Communications|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|72.10.160.171|3849|Canada|Montreal|GloboTech Communications|
-|18|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|20|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|161.34.38.95|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.160.170|3849|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|27557|Canada|Montreal|GloboTech Communications|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|67.43.228.253|3287|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|29625|Canada|Montreal|GloboTech Communications|
 
 
 
