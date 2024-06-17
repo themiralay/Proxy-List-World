@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|18|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|45.224.22.63|999|Ecuador|San Miguel|Ufinet Panama S.A.|
+|14|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
 
 
 
