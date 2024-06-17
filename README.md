@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|6|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
-|11|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|12|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|67.43.228.250|20031|Canada|Montreal|GloboTech Communications|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|72.10.160.90|8401|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|23495|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|8693|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|2475|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|12|103.246.113.94|3128|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|13|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
+|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|102.68.137.1|80|Zambia|Lusaka|AirLink Broadband Limited|
 
 
 
