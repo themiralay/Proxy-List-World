@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|67.43.227.227|19429|Canada|Montreal|GloboTech Communications|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.227.228|6951|Canada|Montreal|GloboTech Communications|
-|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|16|72.10.160.91|7239|Canada|Montreal|GloboTech Communications|
+|17|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|18|117.144.175.203|8800|China|Shanghai|China Mobile communications corporation|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
