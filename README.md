@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|45.171.242.3|8083|Brazil|Atibaia|MaetingaNET Informática e Telecomunicações|
-|10|103.111.136.110|443|Indonesia|Samarinda|FAZNET|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.167.170.201|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|13|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|213.133.98.201|1369|Germany|Nuremberg|Hetzner Online GmbH|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|170.39.194.215|2223|United States|Ashburn|Rackdog, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.88.238.225|83|India|Hyderabad|Mana Communications|
-|20|95.51.18.49|443|Poland|Jaworzno|Orange Polska Spolka Akcyjna|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|91.173.236.172|3128|France|Saint-Etienne|Free|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
