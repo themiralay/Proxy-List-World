@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|67.43.227.226|10677|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|72.10.160.170|17213|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|10113|Canada|Montreal|GloboTech Communications|
-|14|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|14857|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|27605|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14857|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|26819|Canada|Montreal|GloboTech Communications|
-|19|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|13|103.106.115.50|3128|Indonesia|Bandar Lampung|SMSNET|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
