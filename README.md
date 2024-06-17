@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|9|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|72.10.160.90|31447|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|12033|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7745|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|31447|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|17|67.43.236.21|23603|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|31447|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12689|Canada|Montreal|GloboTech Communications|
-|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|8|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|10|72.10.164.178|19139|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|6267|Canada|Montreal|GloboTech Communications|
+|12|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|13|67.43.227.227|32679|Canada|Montreal|GloboTech Communications|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|31.40.154.223|8080|Russia|Temryuk|pool-21vek|
+|16|67.43.236.20|25539|Canada|Montreal|GloboTech Communications|
+|17|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.228.250|26139|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|128.199.116.70|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
