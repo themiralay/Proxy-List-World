@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|10|72.10.164.178|3479|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|25451|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|72.10.164.178|3479|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|22159|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|14707|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|14707|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|14707|Canada|Montreal|GloboTech Communications|
-|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|19|67.43.227.227|14707|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|14707|Canada|Montreal|GloboTech Communications|
+|3|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|13|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|18|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|19|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
