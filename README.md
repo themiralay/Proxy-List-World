@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
-|9|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|13|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|16|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|95.158.44.63|8080|Ukraine|Irpin|Company with additional responsibility ""BEST"|
+|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|12|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|29277|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|67.43.236.20|15299|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|27595|Canada|Montreal|GloboTech Communications|
 
 
 
