@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|11|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|15|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|18|119.2.53.145|8080|Indonesia|Semarang|GMEDIA|
-|19|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|202.29.221.14|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.186.90.49|7777|Indonesia|Jepara|PT Akses Data Internusa|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|11|103.160.184.222|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 
 
 
