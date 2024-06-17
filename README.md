@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|67.43.236.20|28809|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|33241|Canada|Montreal|GloboTech Communications|
-|12|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|72.10.164.178|13395|Canada|Montreal|GloboTech Communications|
-|15|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|67.43.228.253|17951|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13395|Canada|Montreal|GloboTech Communications|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|161.34.36.236|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|12|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|13|187.188.101.205|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|140.227.143.94|3128|Japan|Hyōgo|InfoSphere|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 |18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|19|67.43.227.227|20469|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7671|Canada|Montreal|GloboTech Communications|
+|19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
