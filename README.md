@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|5|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|49.49.148.183|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|67.43.236.20|31561|Canada|Montreal|GloboTech Communications|
 |11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 |12|67.43.236.20|31561|Canada|Montreal|GloboTech Communications|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|15|67.43.236.20|31561|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|6207|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|67.43.227.227|31483|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.254|15383|Canada|Montreal|GloboTech Communications|
+|14|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|15|67.43.227.227|18319|Canada|Montreal|GloboTech Communications|
+|16|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
 |19|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|103.169.254.9|8090|Indonesia|Sidoarjo|PT Master Star Network|
 
 
 
