@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|67.43.236.18|7905|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|4325|Canada|Montreal|GloboTech Communications|
-|12|103.88.238.225|83|India|Hyderabad|Mana Communications|
-|13|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
-|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|15|67.43.236.20|18657|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|2409|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22839|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22839|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|67.43.236.20|18657|Canada|Montreal|GloboTech Communications|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|16|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|17|67.43.227.227|18311|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|17343|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|7079|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|18311|Canada|Montreal|GloboTech Communications|
 
 
 
