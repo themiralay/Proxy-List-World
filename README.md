@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|12|67.43.227.227|15607|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14427|Canada|Montreal|GloboTech Communications|
-|14|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|15|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|16|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|7|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|9|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|14|77.91.124.245|8000|Finland|Helsinki|Daniil Yevchenko|
+|15|67.43.227.227|26739|Canada|Montreal|GloboTech Communications|
+|16|117.50.55.159|3128|China|Beijing|UCLOUD|
+|17|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
+|18|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
