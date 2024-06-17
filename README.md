@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.227.227|31995|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|11481|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12077|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29039|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|2545|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|11481|Canada|Montreal|GloboTech Communications|
-|18|5.196.111.29|20016|France|Gravelines|OVH SAS|
-|19|67.43.228.253|25101|Canada|Montreal|GloboTech Communications|
-|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|9|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|10|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|14|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|67.43.228.253|21471|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|20005|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|20|67.43.236.20|3463|Canada|Montreal|GloboTech Communications|
 
 
 
