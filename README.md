@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|192.121.102.93|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|9|47.74.56.230|3128|Japan|Tokyo|Alibaba Cloud LLC|
-|10|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.10.160.92|3699|Canada|Montreal|GloboTech Communications|
-|12|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
-|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|16|67.43.227.226|10521|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.164.178|21557|Canada|Montreal|GloboTech Communications|
-|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|67.43.227.228|11293|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|23665|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|24481|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.251|4177|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|67.43.228.254|32295|Canada|Montreal|GloboTech Communications|
+|19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|20|67.43.227.227|2893|Canada|Montreal|GloboTech Communications|
 
 
 
