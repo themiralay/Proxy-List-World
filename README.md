@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|16|67.43.227.227|16935|Canada|Montreal|GloboTech Communications|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|161.34.0.183|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|194.62.248.24|3128|Germany|Frankfurt Am Main|Alexander Fiedler|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|194.62.248.24|3128|Germany|Frankfurt Am Main|Alexander Fiedler|
+|13|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|14|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
+|15|103.151.223.209|8080|Indonesia|Bangkinang|CMEDIANET|
+|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
