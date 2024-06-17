@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
 |8|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|90.77.2.161|999|Spain|Don Benito|UNI2-NET- Orange Spain Network|
+|9|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|11|67.43.228.250|8231|Canada|Montreal|GloboTech Communications|
-|12|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|13|67.43.236.20|19777|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24105|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|11|172.247.31.126|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|103.135.48.30|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|15|67.43.236.20|19777|Canada|Montreal|GloboTech Communications|
 |16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|24105|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24105|Canada|Montreal|GloboTech Communications|
-|19|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|20|72.10.160.94|32937|Canada|Montreal|GloboTech Communications|
+|17|181.64.75.158|999|Peru|Lima region|TDP-GRS|
+|18|67.43.236.20|19777|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|19777|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|1701|Canada|Montreal|GloboTech Communications|
 
 
 
