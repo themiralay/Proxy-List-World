@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|67.43.227.228|12173|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.251|32411|Canada|Montreal|GloboTech Communications|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|67.43.227.227|2461|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|32411|Canada|Montreal|GloboTech Communications|
-|13|103.169.254.9|8090|Indonesia|Sidoarjo|PT Master Star Network|
-|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|15|72.10.160.90|31147|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|8167|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|8989|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|31147|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30785|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2461|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|67.43.227.227|8727|Canada|Montreal|GloboTech Communications|
+|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|11|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|12|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|67.43.236.20|20111|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|26179|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|8727|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|67.43.227.226|3395|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|21167|Canada|Montreal|GloboTech Communications|
 
 
 
