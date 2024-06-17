@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|9|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|10|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|11|72.10.160.90|11303|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|2941|Canada|Montreal|GloboTech Communications|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|11181|Canada|Montreal|GloboTech Communications|
-|18|65.21.141.136|17005|Finland|Helsinki|Hetzner Online GmbH|
-|19|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
-|20|67.43.236.20|11181|Canada|Montreal|GloboTech Communications|
+|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|188.132.222.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|67.43.227.228|1077|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|2941|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10545|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|16|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|17|67.43.227.227|18135|Canada|Montreal|GloboTech Communications|
+|18|162.252.147.225|8282|United States|Richmond|ALTIUS Broadband, LLC|
+|19|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
 
 
 
