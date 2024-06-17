@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.247.31.124|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|1|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.36.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|8|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|172.247.31.122|3128|Hong Kong|Tseung Kwan O|Cnservers LLC|
-|13|115.72.35.29|80|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|190.104.129.38|22800|Paraguay|Asunción|Núcleo S.A.|
+|13|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |16|67.43.227.227|6221|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|161.34.38.91|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
-|20|72.10.164.178|4775|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19931|Canada|Montreal|GloboTech Communications|
+|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|19|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
