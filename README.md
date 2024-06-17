@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|13|67.43.227.226|12305|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|8167|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|20579|Canada|Montreal|GloboTech Communications|
-|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|20|67.43.228.253|10385|Canada|Montreal|GloboTech Communications|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|67.43.227.227|9063|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|15|67.43.227.226|12763|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|20579|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|21935|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13881|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13881|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
