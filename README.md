@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|119.17.55.101|8080|Australia|Sydney|BROADBANDSOLUTIONS|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|11|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|14|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|17|195.128.96.213|8080|Russia|Kazan'|SkyNetwork Ltd.|
-|18|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|19|187.204.18.213|8081|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|20|72.10.164.178|8893|Canada|Montreal|GloboTech Communications|
+|13|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|14|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|18|72.10.164.178|13047|Canada|Montreal|GloboTech Communications|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
