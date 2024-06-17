@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|82.223.234.4|80|Spain|Logroño|arsys.es|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 |13|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
+|17|72.10.160.91|1489|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|72.10.164.178|2821|Canada|Montreal|GloboTech Communications|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
