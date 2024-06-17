@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|6|43.252.144.72|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|7|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|11|89.189.94.76|8080|Yemen|Taiz|Public Telecommunication Corporation|
-|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|210.247.252.68|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|201.77.108.48|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|43.247.38.57|8080|Indonesia|Bekasi|Maxindo|
+|4|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|201.77.108.48|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|171.6.79.141|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|67.43.236.21|29983|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|4145|Canada|Montreal|GloboTech Communications|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|89.189.94.76|8080|Yemen|Taiz|Public Telecommunication Corporation|
+|19|67.43.227.227|3143|Canada|Montreal|GloboTech Communications|
+|20|89.105.220.130|3128|United States|Secaucus|NovoServe LLC|
 
 
 
