@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.107.152.96|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|5.75.132.26|3129|Germany|Nuremberg|Hetzner Online GmbH|
-|6|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|7|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|202.29.232.62|3128|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|11|67.43.227.227|27961|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1051|Canada|Montreal|GloboTech Communications|
-|13|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|14|67.43.227.227|27961|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|22315|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|27961|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|188.132.146.75|8080|Turkey|Bayraklı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|19|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|20|161.34.38.62|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.215.56.13|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|161.34.38.62|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|180.210.120.42|8081|South Korea|Naju-si|NHNCLOUD|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|8.243.161.210|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|14|72.10.160.171|24445|Canada|Montreal|GloboTech Communications|
+|15|89.40.142.236|3128|Italy|Milan|Seflow S.N.C. Di Marco Brame' & C.|
+|16|72.10.164.178|31797|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|39.129.73.6|443|China|Kunming|China Mobile|
+|19|184.185.105.105|4481|United States|Providence|Cox Communications Inc.|
+|20|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
 
 
 
