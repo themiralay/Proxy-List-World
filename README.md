@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|67.43.228.253|33131|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|2091|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|16995|Canada|Montreal|GloboTech Communications|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|13|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|103.99.27.162|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|11|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|67.43.228.253|17149|Canada|Montreal|GloboTech Communications|
+|13|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|14|72.10.164.178|9205|Canada|Montreal|GloboTech Communications|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |17|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|67.43.227.227|6169|Canada|Montreal|GloboTech Communications|
-|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|67.43.236.20|31145|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|18433|Canada|Montreal|GloboTech Communications|
+|20|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
