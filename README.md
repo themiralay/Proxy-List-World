@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|15|67.43.227.227|2219|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2699|Canada|Montreal|GloboTech Communications|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|20|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|171.239.137.209|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|19|91.214.78.176|8000|The Netherlands|Amsterdam|Partner Hosting LTD|
+|20|80.91.27.209|3128|Russia|Tyumen|Russian company LLC|
 
 
 
