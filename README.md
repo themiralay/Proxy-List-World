@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|19|46.161.196.141|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|101.255.209.42|8080|Indonesia|Wanaherang|PT Remala Abadi|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|7|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|65.21.141.136|17037|Finland|Helsinki|Hetzner Online GmbH|
+|15|72.10.160.90|13281|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|10959|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
