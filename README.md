@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|7|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|8|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|38.158.202.82|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|72.10.160.170|5895|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|3729|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26153|Canada|Montreal|GloboTech Communications|
-|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.228|12601|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|9619|Canada|Montreal|GloboTech Communications|
-|18|113.107.4.198|1105|China|Guangzhou|Chinanet|
-|19|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|12|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|20|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
 
 
 
