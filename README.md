@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|8|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|9|193.106.138.52|3128|Ukraine|Kyiv|Industrial Media Network LLC|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|38.183.145.156|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|16|202.57.2.19|8080|Indonesia|Pademangan Timur|Primanet - ISP|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.227.227|30821|Canada|Montreal|GloboTech Communications|
-|20|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|67.43.236.18|33159|Canada|Montreal|GloboTech Communications|
+|14|103.159.194.97|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|15|72.10.160.90|20121|Canada|Montreal|GloboTech Communications|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|72.10.160.172|19253|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25529|Canada|Montreal|GloboTech Communications|
+|20|84.51.15.254|32650|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
