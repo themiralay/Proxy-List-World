@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.236.20|28561|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|31319|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|28293|Canada|Montreal|GloboTech Communications|
-|13|144.91.120.73|3128|Germany|Nuremberg|Contabo GmbH|
-|14|67.43.228.253|20519|Canada|Montreal|GloboTech Communications|
-|15|186.148.195.165|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|147.28.145.213|9443|United States|Ashburn|Packet Host, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|147.28.145.213|10002|United States|Ashburn|Packet Host, Inc.|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|38.45.44.4|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|17|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 
 
 
