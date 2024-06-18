@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|9|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
-|10|203.150.128.77|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|142.171.108.179|3128|United States|Los Angeles|Multacom Corporation|
-|15|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|142.171.108.179|3128|United States|Los Angeles|Multacom Corporation|
-|20|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|1|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|67.43.236.20|19497|Canada|Montreal|GloboTech Communications|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|17|72.10.164.178|18259|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|18259|Canada|Montreal|GloboTech Communications|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|72.10.160.90|28849|Canada|Montreal|GloboTech Communications|
 
 
 
