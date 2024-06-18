@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|77.41.146.29|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 |8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|17|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|19|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
-|20|72.10.160.90|21049|Canada|Montreal|GloboTech Communications|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|117.50.55.159|3128|China|Beijing|UCLOUD|
+|17|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
