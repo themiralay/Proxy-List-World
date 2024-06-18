@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
 |4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|9|120.89.94.118|8080|Indonesia|Tangerang|PT Asia Teknologi Solusi|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|18|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|19|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|20|67.43.228.253|7869|Canada|Montreal|GloboTech Communications|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|35.197.74.64|8888|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|14|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|15|72.10.164.178|8885|Canada|Montreal|GloboTech Communications|
+|16|103.167.170.201|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|8885|Canada|Montreal|GloboTech Communications|
 
 
 
