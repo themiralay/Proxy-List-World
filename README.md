@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|7|115.147.23.249|8181|Philippines|Davao del Norte|Philippine Long Distance Telephone Co.|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|10|88.255.65.113|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|11|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|12|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|15|191.101.214.46|3128|Thailand|Bangkok|CSNE Co., Ltd.|
-|16|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
