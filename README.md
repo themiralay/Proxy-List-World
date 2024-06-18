@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4895** proxies at the latest update. Usable proxies are below.
+> Scraper found **4843** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|578|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3147|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|107.174.246.209|3128|United States|Seattle|HostPapa|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|107.174.246.209|3128|United States|Seattle|HostPapa|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|18|72.10.160.174|25755|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|17157|Canada|Montreal|GloboTech Communications|
-|20|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|101.255.209.118|8080|Indonesia|Wanaherang|PT Remala Abadi|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|107.174.246.209|3128|United States|Seattle|HostPapa|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
