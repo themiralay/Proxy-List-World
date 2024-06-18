@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|103.106.216.113|8080|Indonesia|Tuban|PT. ARTHA LINTAS DATA MANDIRI|
-|9|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.197.74.64|80|United States|The Dalles|Google LLC|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |12|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|16|34.92.250.88|11111|Hong Kong|Hong Kong|Google LLC|
-|17|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|18|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|67.43.227.228|8473|Canada|Montreal|GloboTech Communications|
 
 
 
