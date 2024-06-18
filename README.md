@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|182.52.193.51|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|15|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|16|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|19|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|13|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|15|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|16|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|20391|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 
 
 
