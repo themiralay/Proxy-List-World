@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|88.200.195.120|80|Russia|Samara|Rostelecom networks|
-|16|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|17|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|18|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|46.161.196.141|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
