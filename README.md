@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5511** proxies at the latest update. Usable proxies are below.
+> Scraper found **5434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|77|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|352|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3280|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
-|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|67.43.227.228|21305|Canada|Montreal|GloboTech Communications|
-|12|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|13|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
-|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|22359|Canada|Montreal|GloboTech Communications|
-|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|19|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|16|67.43.228.250|30573|Canada|Montreal|GloboTech Communications|
+|17|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|18|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|19|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
 |20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
