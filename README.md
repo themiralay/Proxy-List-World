@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.136.216.54|3128|United States|Council Bluffs|Google LLC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|12|72.10.164.178|11059|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|13045|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|13045|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|72.10.160.170|1879|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|103.167.71.39|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
-|20|65.21.141.136|17005|Finland|Helsinki|Hetzner Online GmbH|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|11|103.13.204.143|8090|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|12|72.10.160.90|15181|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|11059|Canada|Montreal|GloboTech Communications|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|65.21.141.136|17024|Finland|Helsinki|Hetzner Online GmbH|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
