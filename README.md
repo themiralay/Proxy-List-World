@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|203.190.44.252|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
-|7|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|14|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|103.169.254.9|8090|Indonesia|Sidoarjo|PT Master Star Network|
-|17|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
-|18|129.146.198.205|3129|United States|Phoenix|Oracle Corporation|
-|19|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
-|20|181.225.191.6|9992|Colombia|Medellín|Ufinet Panama S.A.|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|201.134.169.214|8204|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|203.194.108.23|3129|India|Mumbai|In2cable|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|14|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|103.148.201.67|8080|Indonesia|Surakarta|WORTEL|
+|18|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|81.173.84.146|3128|Switzerland|Zurich|Easyname Cloudserver|
 
 
 
