@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|7|202.57.2.19|8080|Indonesia|Pademangan Timur|Primanet - ISP|
-|8|37.26.86.206|47464|Albania|Tirana|ATU|
-|9|203.150.113.41|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
+|3|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|67.43.227.228|21305|Canada|Montreal|GloboTech Communications|
-|12|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|15|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
-|16|67.43.236.18|22359|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
+|13|188.247.194.210|3128|Kazakhstan|Astana|FTTB 2DayTeelcom Oskemen|
+|14|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|22359|Canada|Montreal|GloboTech Communications|
+|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|19|38.156.74.87|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
