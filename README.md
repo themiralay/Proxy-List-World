@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|5|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|124.105.180.29|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|17|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|18|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|20|67.43.228.250|10809|Canada|Montreal|GloboTech Communications|
+|20|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
