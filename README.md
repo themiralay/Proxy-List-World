@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|67.43.236.20|8063|Canada|Montreal|GloboTech Communications|
+|15|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |17|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|67.43.236.20|13093|Canada|Montreal|GloboTech Communications|
-|20|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 
 
 
