@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.227|6269|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|6269|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.254|11859|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|13037|Canada|Montreal|GloboTech Communications|
-|14|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
-|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|17|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|18|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|19|67.43.236.20|27337|Canada|Montreal|GloboTech Communications|
-|20|121.227.178.101|8089|China|Nanjing|China Telecom|
+|10|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|101.255.209.118|8080|Indonesia|Wanaherang|PT Remala Abadi|
+|12|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|15|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|140.227.143.126|3128|Japan|Hyōgo|InfoSphere|
+|17|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|18|72.10.164.178|19215|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
 
 
 
