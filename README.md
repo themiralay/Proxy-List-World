@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|16|67.43.228.253|3717|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|15003|Canada|Montreal|GloboTech Communications|
-|18|5.196.111.29|20471|France|Gravelines|OVH SAS|
-|19|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|10|210.247.252.54|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|49.48.69.175|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|13|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|14|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.233.62.18|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|67.43.228.250|30835|Canada|Montreal|GloboTech Communications|
 
 
 
