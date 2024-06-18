@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|72.10.164.178|3029|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|67.43.236.20|1469|Canada|Montreal|GloboTech Communications|
-|11|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|12|67.43.227.227|29793|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|1469|Canada|Montreal|GloboTech Communications|
-|14|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|15|67.43.227.230|16823|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|30859|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|29793|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|16823|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|6321|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3029|Canada|Montreal|GloboTech Communications|
+|5|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|147.28.145.212|443|United States|Ashburn|Packet Host, Inc.|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|20|72.10.160.93|27801|Canada|Montreal|GloboTech Communications|
 
 
 
