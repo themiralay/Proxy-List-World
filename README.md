@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|14|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|15|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|16|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|20|103.65.214.144|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|13|72.10.164.178|30113|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|9959|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|72.10.160.174|28779|Canada|Montreal|GloboTech Communications|
+|17|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|72.10.164.178|30113|Canada|Montreal|GloboTech Communications|
+|19|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|20|67.43.236.20|13313|Canada|Montreal|GloboTech Communications|
 
 
 
