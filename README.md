@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|16867|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.160.170|29217|Canada|Montreal|GloboTech Communications|
-|18|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|19|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|20|72.10.164.178|16867|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
+|10|67.43.227.227|6053|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|45.227.195.121|8082|Brazil|Sao Lourenco do Oeste|Mhnet Telecom|
+|20|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 
 
 
