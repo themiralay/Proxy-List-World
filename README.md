@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|18|72.10.164.178|11423|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5085|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1631|Canada|Montreal|GloboTech Communications|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|43.163.193.7|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|67.43.227.227|33035|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|29161|Canada|Montreal|GloboTech Communications|
+|20|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
