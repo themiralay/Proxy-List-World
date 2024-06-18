@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|6|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|203.150.128.77|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|103.169.254.37|8080|Indonesia|Sidoarjo|PT Master Star Network|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|35.197.74.64|80|United States|The Dalles|Google LLC|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|16|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|17|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|18|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|19|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|67.43.227.227|13403|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|26777|Canada|Montreal|GloboTech Communications|
+|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|18|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
