@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5149** proxies at the latest update. Usable proxies are below.
+> Scraper found **5102** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|77|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|829|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2956|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|13|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|14|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
-|15|72.10.164.178|8885|Canada|Montreal|GloboTech Communications|
-|16|103.167.170.201|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|18|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|8885|Canada|Montreal|GloboTech Communications|
+|6|203.190.44.252|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
+|7|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|14|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|103.169.254.9|8090|Indonesia|Sidoarjo|PT Master Star Network|
+|17|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
+|18|129.146.198.205|3129|United States|Phoenix|Oracle Corporation|
+|19|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|20|181.225.191.6|9992|Colombia|Medellín|Ufinet Panama S.A.|
 
 
 
