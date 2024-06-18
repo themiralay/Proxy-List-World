@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|6|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|121.200.48.58|8080|India|Coimbatore|WLSNET|
-|15|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|182.16.171.42|43188|Indonesia|Depok|PT iForte Global Internet|
+|19|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
