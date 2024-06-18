@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|17|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|20753|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|1|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.136.197.46|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|14|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|72.10.164.178|20753|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 
 
 
