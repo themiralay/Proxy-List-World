@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|14|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|17|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
