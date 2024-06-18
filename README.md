@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
 |3|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |12|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |13|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|16|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|17|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|72.10.160.91|9959|Canada|Montreal|GloboTech Communications|
-|20|41.231.37.76|3128|Tunisia|Tunis|ATI - ISP|
+|14|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|15|72.10.160.90|15281|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|12457|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|15281|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|9959|Canada|Montreal|GloboTech Communications|
+|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
