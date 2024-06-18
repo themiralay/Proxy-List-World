@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|8|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.226|1587|Canada|Montreal|GloboTech Communications|
-|12|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|13|67.43.227.227|17009|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1777|Canada|Montreal|GloboTech Communications|
-|15|103.188.82.134|3128|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
-|16|72.10.160.90|29533|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17009|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|10|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|15|72.10.160.90|29533|Canada|Montreal|GloboTech Communications|
+|16|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|103.188.82.134|3128|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
 |18|67.43.227.227|17009|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|12269|Canada|Montreal|GloboTech Communications|
-|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
