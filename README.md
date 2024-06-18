@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.197.74.64|8888|United States|The Dalles|Google LLC|
-|6|191.102.254.9|8085|Argentina|Rosario|IP·RED|
-|7|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|8|185.89.156.2|44224|Albania|Tirana|ATU|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|67.43.236.20|6375|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|8|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|9|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|12|147.28.145.213|443|United States|Ashburn|Packet Host, Inc.|
+|13|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|67.43.236.20|4107|Canada|Montreal|GloboTech Communications|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|6655|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|2031|Canada|Montreal|GloboTech Communications|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|140.227.143.72|3128|Japan|Hyōgo|InfoSphere|
+|19|72.10.164.178|6655|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|6655|Canada|Montreal|GloboTech Communications|
 
 
 
