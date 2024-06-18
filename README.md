@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|157.230.242.86|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|92.255.232.231|8080|Russia|Kirov|JSC "ER-Telecom Holding"|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|144.91.120.73|3128|Germany|Nuremberg|Contabo GmbH|
+|18|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|72.10.160.173|29219|Canada|Montreal|GloboTech Communications|
 
 
 
