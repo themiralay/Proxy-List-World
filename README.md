@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|171.6.78.122|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|119.76.142.165|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|185.165.232.45|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
-|12|72.10.160.171|26665|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|13003|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|4345|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5905|Canada|Montreal|GloboTech Communications|
-|16|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|72.10.160.173|32431|Canada|Montreal|GloboTech Communications|
-|18|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
-|19|67.43.227.227|4345|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|31199|Canada|Montreal|GloboTech Communications|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|72.10.164.178|9017|Canada|Montreal|GloboTech Communications|
+|11|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|67.43.227.227|4345|Canada|Montreal|GloboTech Communications|
+|13|140.227.143.85|3128|Japan|Hyōgo|InfoSphere|
+|14|72.10.160.173|32431|Canada|Montreal|GloboTech Communications|
+|15|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|72.10.160.92|30079|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|67.43.227.227|4345|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2747|Canada|Montreal|GloboTech Communications|
+|20|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
 
 
 
