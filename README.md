@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|171.232.79.226|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|41.65.236.58|1976|Egypt|Cairo|Etisalat Misr|
 |9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|113.160.155.121|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|113.179.83.118|3128|Vietnam|Bac Giang|VNPT|
-|12|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|67.43.227.227|2219|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|31973|Canada|Montreal|GloboTech Communications|
-|16|147.28.145.212|10012|United States|Ashburn|Packet Host, Inc.|
-|17|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|147.28.145.212|10012|United States|Ashburn|Packet Host, Inc.|
-|20|67.43.227.227|2219|Canada|Montreal|GloboTech Communications|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|147.28.145.212|9443|United States|Ashburn|Packet Host, Inc.|
+|12|67.43.227.228|17407|Canada|Montreal|GloboTech Communications|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|31641|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|2655|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|18|67.43.227.227|9751|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|7445|Canada|Montreal|GloboTech Communications|
+|20|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
 
 
 
