@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|67.43.228.253|7247|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.91|13015|Canada|Montreal|GloboTech Communications|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|20|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|67.43.228.251|1883|Canada|Montreal|GloboTech Communications|
+|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|67.43.228.253|15147|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|30211|Canada|Montreal|GloboTech Communications|
+|15|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|17|72.10.164.178|7717|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|20|67.43.228.253|15147|Canada|Montreal|GloboTech Communications|
 
 
 
