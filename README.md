@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|189.240.60.164|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|12|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|13|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
-|14|67.43.227.227|24393|Canada|Montreal|GloboTech Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|17|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|20|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|10|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|11|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|12|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|14|67.43.227.227|14031|Canada|Montreal|GloboTech Communications|
+|15|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|16|140.227.143.95|3128|Japan|Hyōgo|InfoSphere|
+|17|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|18|67.43.236.20|4001|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8107|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14031|Canada|Montreal|GloboTech Communications|
 
 
 
