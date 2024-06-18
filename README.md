@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|2|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|189.240.60.171|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|7|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|10|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|11|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
 |12|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|17|72.10.160.172|21385|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7639|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|19045|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7445|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|144.91.120.73|3128|Germany|Nuremberg|Contabo GmbH|
+|17|67.43.236.20|12833|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|20|67.43.236.20|12833|Canada|Montreal|GloboTech Communications|
 
 
 
