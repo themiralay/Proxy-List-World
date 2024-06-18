@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
 |9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.115.31.39|8181|Indonesia|Nganjuk|HSPNET|
-|15|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|17|72.10.160.90|9049|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|178.48.68.61|18080|Hungary|Nyáregyháza|UPC|
+|10|189.240.60.166|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|11|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|12|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
 
 
 
