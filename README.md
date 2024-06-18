@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|101.255.209.118|8080|Indonesia|Wanaherang|PT Remala Abadi|
-|13|189.240.60.163|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|107.174.246.209|3128|United States|Seattle|HostPapa|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
-|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|20|189.240.60.168|9090|Mexico|Cuauhtémoc|Uninet S.A. de C.V.|
+|8|107.174.246.209|3128|United States|Seattle|HostPapa|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|107.174.246.209|3128|United States|Seattle|HostPapa|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|134.195.156.211|3128|United States|Ashburn|AB E-Commerce|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.170|7981|Canada|Montreal|GloboTech Communications|
+|19|107.174.246.209|3128|United States|Seattle|HostPapa|
+|20|72.10.160.94|10813|Canada|Montreal|GloboTech Communications|
 
 
 
