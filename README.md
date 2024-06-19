@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.87.144.122|8086|Brazil|Sao Jose do Rio Pardo|Videomar Rede Nordeste S/A|
-|10|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|11|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|177.234.223.29|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|49.145.121.164|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|72.10.160.170|14435|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|14435|Canada|Montreal|GloboTech Communications|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|72.10.160.90|16799|Canada|Montreal|GloboTech Communications|
-|20|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|178.233.140.211|3128|Türkiye|Erzurum|Turksat Internet Services|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|124.106.116.34|1337|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|14|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|15|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|38.172.128.24|8080|Peru|Lima|Conex TV E.I.R.L.|
+|20|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 
 
 
