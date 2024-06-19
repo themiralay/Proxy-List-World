@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|113.22.154.21|4002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|67.43.236.20|30113|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|67.43.236.20|30113|Canada|Montreal|GloboTech Communications|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|67.43.236.20|33097|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.94|20817|Canada|Montreal|GloboTech Communications|
+|14|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|15|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|16|67.43.228.253|21605|Canada|Montreal|GloboTech Communications|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|67.43.228.253|21605|Canada|Montreal|GloboTech Communications|
+|20|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
 
 
 
