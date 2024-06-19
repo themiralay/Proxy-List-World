@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|122.3.129.123|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|12|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
-|13|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
-|14|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
-|15|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|65.21.141.136|17017|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.172|13499|Canada|Montreal|GloboTech Communications|
+|9|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|72.10.160.90|10133|Canada|Montreal|GloboTech Communications|
+|18|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
