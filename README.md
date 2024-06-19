@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|11|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|131.100.148.76|8080|Brazil|Brasília|ALLREDE TELECOM (LINKWAP PROVEDOR)|
-|18|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|103.172.42.93|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|202.154.18.69|8081|Indonesia|Lamongan|DIGITNET|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|20|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
