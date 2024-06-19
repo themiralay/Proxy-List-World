@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|12|186.148.175.118|999|Colombia|Aguazul|TV AZTECA SUCURSAL COLOMBIA|
-|13|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.174.236.55|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|67.43.227.227|22733|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|49.49.148.183|8080|Thailand|Mae Mo|Triple T Broadband Public Company Limited|
+|11|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|187.204.18.213|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.160.90|11203|Canada|Montreal|GloboTech Communications|
+|19|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|20|62.103.66.18|3128|Greece|Athens|OTEnet|
 
 
 
