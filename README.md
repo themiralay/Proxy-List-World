@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|67.43.228.252|29787|Canada|Montreal|GloboTech Communications|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|67.43.236.20|19519|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |11|72.10.160.90|8009|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|1555|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|28889|Canada|Montreal|GloboTech Communications|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.253|5425|Canada|Montreal|GloboTech Communications|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|67.43.227.227|1555|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|28071|Canada|Montreal|GloboTech Communications|
-|20|181.78.3.170|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|12|67.43.228.252|29787|Canada|Montreal|GloboTech Communications|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|104.238.234.48|8800|United States|Kirkland|EliteWork LLC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|67.43.227.227|9351|Canada|Montreal|GloboTech Communications|
+|18|103.172.71.15|8080|Indonesia|Karawang|AZNET|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
