@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4916** proxies at the latest update. Usable proxies are below.
+> Scraper found **4758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|907|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2616|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.217.224.69|8989|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|12|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|181.115.93.74|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|15|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|171.6.172.7|8080|Thailand|Pathum Thani|Triple T Broadband Public Company Limited|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|152.231.87.10|999|Chile|Santiago|Entel Chile S.A.|
+|18|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
