@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|36.83.51.205|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|7|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|10|67.43.227.227|10009|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|17611|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|17611|Canada|Montreal|GloboTech Communications|
-|13|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|14|72.10.160.90|4693|Canada|Montreal|GloboTech Communications|
-|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|16|67.43.228.253|33075|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|33075|Canada|Montreal|GloboTech Communications|
-|18|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|72.10.160.173|17611|Canada|Montreal|GloboTech Communications|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|72.10.160.173|17637|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|14897|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|8273|Canada|Montreal|GloboTech Communications|
+|15|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|67.43.227.227|10389|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|17493|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|22353|Canada|Montreal|GloboTech Communications|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
