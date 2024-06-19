@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.150.113.217|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.92|23965|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|26505|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29573|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
