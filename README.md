@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|176.215.1.25|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
-|15|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|67.43.227.227|8811|Canada|Montreal|GloboTech Communications|
-|19|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.90|32495|Canada|Montreal|GloboTech Communications|
+|7|185.88.158.34|3128|Russia|St Petersburg|LLC Country Online|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
+|13|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|72.10.164.178|28705|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|29415|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|31011|Canada|Montreal|GloboTech Communications|
 
 
 
