@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|182.53.20.113|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|6|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|16|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|17|67.43.236.19|14375|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|67.43.227.228|29511|Canada|Montreal|GloboTech Communications|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|222.216.37.138|808|China|Lilancun|Chinanet|
+|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|18|67.43.236.19|14375|Canada|Montreal|GloboTech Communications|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
