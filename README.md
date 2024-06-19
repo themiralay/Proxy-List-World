@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|4|61.244.131.154|8118|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|176.215.1.25|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|13|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|16|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
-|20|72.10.164.178|32929|Canada|Montreal|GloboTech Communications|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
