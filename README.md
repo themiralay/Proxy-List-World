@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|17|72.10.160.170|27689|Canada|Montreal|GloboTech Communications|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|67.43.236.20|23583|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|38.172.128.24|8080|Peru|Lima|Conex TV E.I.R.L.|
+|18|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
