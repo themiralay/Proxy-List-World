@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|17|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|19|148.72.173.18|30127|United States|St Louis|GoDaddy.com, LLC|
-|20|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|113.22.154.21|4013|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|14|45.71.115.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|67.43.228.253|31635|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|20835|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|20835|Canada|Montreal|GloboTech Communications|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
