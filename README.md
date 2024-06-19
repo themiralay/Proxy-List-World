@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|192.121.102.110|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|12|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|15|72.10.160.90|20775|Canada|Montreal|GloboTech Communications|
+|16|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
 |17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|72.10.160.90|2319|Canada|Montreal|GloboTech Communications|
+|18|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|20|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
 
 
 
