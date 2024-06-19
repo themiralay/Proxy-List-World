@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|17|152.231.87.10|999|Chile|Santiago|Entel Chile S.A.|
-|18|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|43.247.38.57|8080|Indonesia|Bekasi|Maxindo|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|13.127.4.182|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
