@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.34.38.208|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|50.21.190.20|80|United States|Philadelphia|IONOS SE|
-|15|67.43.236.20|1107|Canada|Montreal|GloboTech Communications|
-|16|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
-|19|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|65.21.141.136|17032|Finland|Helsinki|Hetzner Online GmbH|
+|20|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
 
 
 
