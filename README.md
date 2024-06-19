@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|72.10.160.170|3791|Canada|Montreal|GloboTech Communications|
-|13|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|72.10.160.90|25131|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.90|25131|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3633|Canada|Montreal|GloboTech Communications|
-|18|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|19|72.10.164.178|3633|Canada|Montreal|GloboTech Communications|
-|20|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|11|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|179.49.117.19|999|Honduras|Rio Comayagua|Asociacion De Servicio De Internet S. De RL.|
+|15|72.10.160.170|3791|Canada|Montreal|GloboTech Communications|
+|16|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|17|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|18|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
