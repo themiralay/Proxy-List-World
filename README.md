@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|185.88.158.34|3128|Russia|St Petersburg|LLC Country Online|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|6|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|72.10.164.178|17751|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|26875|Canada|Montreal|GloboTech Communications|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|67.43.228.253|26141|Canada|Montreal|GloboTech Communications|
-|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|17|67.43.236.20|24587|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|7981|Canada|Montreal|GloboTech Communications|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|67.43.236.20|1525|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|22159|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|1525|Canada|Montreal|GloboTech Communications|
+|15|36.83.51.205|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|16|67.43.227.227|16655|Canada|Montreal|GloboTech Communications|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
 
 
 
