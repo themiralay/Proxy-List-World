@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |8|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|15|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|72.10.160.170|6141|Canada|Montreal|GloboTech Communications|
-|18|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|13|103.232.228.138|8080|Nepal|Tānsen|RO-228 BroadLink|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|181.78.8.154|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|188.125.169.11|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
