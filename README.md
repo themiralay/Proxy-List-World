@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|13|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
-|18|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
-|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|157.230.254.254|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|87.126.65.11|1388|Bulgaria|Dimitrovgrad|Vivacom Bulgaria EAD|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|72.10.160.90|22095|Canada|Montreal|GloboTech Communications|
 
 
 
