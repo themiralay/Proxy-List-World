@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|10|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|210.247.253.244|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|203.190.113.167|8071|Indonesia|Jakarta|PT Union Routelink Communication|
+|14|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |15|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|17|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
-|18|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|138.118.106.234|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|17|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
+|18|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|19|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
