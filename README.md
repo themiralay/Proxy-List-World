@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.141.109.237|8080|Indonesia|Surabaya|Data Buana Nusantara|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|11|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|181.78.11.218|999|Colombia|La Paz|IFX Networks Argentina S.R.L|
-|17|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|72.10.160.171|32927|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|11|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|17|123.31.19.244|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|152.231.87.10|999|Chile|Santiago|Entel Chile S.A.|
+|19|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
