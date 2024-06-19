@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|67.43.227.227|2575|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|30671|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|23685|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|23579|Canada|Montreal|GloboTech Communications|
-|14|103.189.116.109|8091|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|15|72.10.160.94|1985|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|23579|Canada|Montreal|GloboTech Communications|
-|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|18|67.43.236.20|32839|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|87.126.65.11|1388|Bulgaria|Dimitrovgrad|Vivacom Bulgaria EAD|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|38.183.145.156|8080|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|17|67.43.227.230|23685|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|6839|Canada|Montreal|GloboTech Communications|
 |19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|67.43.228.253|23579|Canada|Montreal|GloboTech Communications|
 
 
 
