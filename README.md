@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.234.254.6|7777|Indonesia|Jakarta|Maxindo|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
-|11|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|67.43.236.20|7009|Canada|Montreal|GloboTech Communications|
+|8|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|178.233.140.211|3128|Türkiye|Erzurum|Turksat Internet Services|
+|11|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|116.108.118.117|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|20|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
