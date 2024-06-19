@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|67.43.236.19|32255|Canada|Montreal|GloboTech Communications|
-|5|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.173|16659|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|200.24.134.53|999|Ecuador|Guaranda|Ufinet Panama S.A.|
+|7|45.231.223.250|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |10|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|67.43.236.20|19125|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|13559|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 |13|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|9529|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|9529|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|16659|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|19125|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|1057|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|9141|Canada|Montreal|GloboTech Communications|
+|14|38.156.236.162|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|67.43.228.253|26365|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|11639|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|14647|Canada|Montreal|GloboTech Communications|
+|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 
 
 
