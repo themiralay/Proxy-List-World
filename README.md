@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |2|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|203.161.54.164|5555|United States|Ashburn|Namecheap, Inc.|
-|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|14|91.232.241.114|8080|Ukraine|Lviv|LEOTEL Ltd.|
-|15|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
-|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|17|103.89.4.163|3128|Indonesia|Jakarta Pusat|PT Biznet Gio Nusantara|
+|5|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|8|138.118.106.234|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|72.10.164.178|28911|Canada|Montreal|GloboTech Communications|
+|11|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|12|67.43.236.18|13849|Canada|Montreal|GloboTech Communications|
+|13|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|14|72.10.160.170|31515|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|4413|Canada|Montreal|GloboTech Communications|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
 |18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.227.230|11743|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|17301|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|27697|Canada|Montreal|GloboTech Communications|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
