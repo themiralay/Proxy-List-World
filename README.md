@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|16|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|17|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|186.225.40.62|3128|Brazil|Ubajara|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|9|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|14|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|15|202.57.2.19|8080|Indonesia|Pademangan Timur|Primanet - ISP|
+|16|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|17|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|18|72.10.160.171|4061|Canada|Montreal|GloboTech Communications|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
