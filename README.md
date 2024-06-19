@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|187.204.18.213|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
-|10|67.43.236.18|16867|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|7645|Canada|Montreal|GloboTech Communications|
-|12|110.235.129.14|1337|Philippines|Marikina City|RADIUS TELECOMS, INC.|
-|13|72.10.164.178|7645|Canada|Montreal|GloboTech Communications|
-|14|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|222.216.37.138|808|China|Lilancun|Chinanet|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|67.43.227.226|19251|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|20|67.43.227.228|20319|Canada|Montreal|GloboTech Communications|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|8|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|11|72.10.164.178|16593|Canada|Montreal|GloboTech Communications|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|14.226.244.181|11310|Vietnam|Ho Chi Minh City|VNPT|
+|14|171.239.137.209|4018|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|221.168.33.155|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|17|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|67.43.227.226|13955|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|8169|Canada|Montreal|GloboTech Communications|
 
 
 
