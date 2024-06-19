@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|1.10.133.222|8080|Thailand|Ban Saladan|TOT Public Company Limited|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|16|140.227.143.79|3128|Japan|Hyōgo|InfoSphere|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|61.7.191.121|80|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|9|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|14|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|157.100.7.146|999|Ecuador|Quito|Telconet S.A|
+|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
