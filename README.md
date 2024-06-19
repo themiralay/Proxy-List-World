@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|61.7.191.225|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|134.35.4.247|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|178.233.140.211|3128|Türkiye|Erzurum|Turksat Internet Services|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|165.16.27.43|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|67.43.228.253|24893|Canada|Montreal|GloboTech Communications|
+|15|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|185.139.94.70|8080|Germany|Ravensburg|Norbert Herter trading as Regionetz.net|
+|18|72.10.160.90|16307|Canada|Montreal|GloboTech Communications|
+|19|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|20|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
