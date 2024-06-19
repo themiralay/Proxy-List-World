@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|87.242.123.92|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|9|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|10|72.10.164.178|26425|Canada|Montreal|GloboTech Communications|
-|11|71.14.23.121|8080|United States|Hoover|Spectrum|
-|12|67.43.228.251|24697|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|22151|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|3047|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|2765|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|23375|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32257|Canada|Montreal|GloboTech Communications|
-|18|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|180.251.243.31|80|Indonesia|Sungaigerong|PT. TELKOM INDONESIA|
+|4|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|212.46.210.236|8080|Russia|Moscow|VympelKom broadband internet|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|19|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.21|10309|Canada|Montreal|GloboTech Communications|
 
 
 
