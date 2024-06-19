@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|72.10.160.91|2671|Canada|Montreal|GloboTech Communications|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|178.233.140.211|3128|Türkiye|Erzurum|Turksat Internet Services|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|14|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
