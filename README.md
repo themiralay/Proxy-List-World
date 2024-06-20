@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|36.94.47.59|4480|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|12|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|14|38.172.128.24|8080|Peru|Lima|Conex TV E.I.R.L.|
+|15|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
