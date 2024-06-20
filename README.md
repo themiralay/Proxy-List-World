@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|72.10.164.178|23723|Canada|Montreal|GloboTech Communications|
-|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|15|72.10.164.178|23723|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|18|45.70.203.116|999|Ecuador|Chone|Ufinet Panama S.A.|
-|19|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|72.10.164.178|13859|Canada|Montreal|GloboTech Communications|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|94.74.148.183|8080|Iran|Malekābād|Farahoosh Dena PLC|
+|16|67.43.227.227|2173|Canada|Montreal|GloboTech Communications|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
