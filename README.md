@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
-|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|19|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
-|20|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|10|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|11|188.94.156.144|3128|Kazakhstan|Almaty|It-grad TOO|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|15|119.110.75.222|3999|Indonesia|Bekasi|Maxindo|
+|16|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
