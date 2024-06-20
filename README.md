@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|149.28.128.233|10000|Singapore|Singapore|The Constant Company|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|110.78.149.193|8080|Thailand|Bangkok|CAT-BB|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|10|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|110.78.149.193|8080|Thailand|Bangkok|CAT-BB|
+|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|8|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|181.209.78.78|999|Argentina|Daireaux|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
 |16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|72.10.160.90|19099|Canada|Montreal|GloboTech Communications|
 
 
 
