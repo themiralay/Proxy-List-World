@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|154.70.115.76|8080|Cameroon|Garoua|MTN Network Solutions (Cameroon)|
-|13|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|187.204.18.213|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
-|16|178.128.93.46|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|113.22.154.21|4002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|20|67.43.236.20|12049|Canada|Montreal|GloboTech Communications|
+|1|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|111.89.130.106|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
