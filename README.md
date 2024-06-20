@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|3|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|71.14.23.121|8080|United States|Hoover|Spectrum|
-|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|15|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|45.9.26.254|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|6|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|7|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|72.10.164.178|10939|Canada|Montreal|GloboTech Communications|
+|14|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|171.227.246.4|4012|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|67.43.228.253|8539|Canada|Montreal|GloboTech Communications|
+|17|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|67.43.236.20|27833|Canada|Montreal|GloboTech Communications|
+|19|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|67.43.227.230|18189|Canada|Montreal|GloboTech Communications|
 
 
 
