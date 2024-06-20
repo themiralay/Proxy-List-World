@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|182.151.17.172|3128|China|Chengdu|CHINANET SiChuan Telecom Internet Data Center|
-|13|72.10.160.91|11351|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|6393|Canada|Montreal|GloboTech Communications|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|87.242.123.92|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|18|67.43.236.20|2747|Canada|Montreal|GloboTech Communications|
-|19|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|20|67.43.227.227|18141|Canada|Montreal|GloboTech Communications|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|171.97.35.159|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|15|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|222.243.174.132|81|China|Xiangtan|Chinanet|
+|17|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|18|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|67.43.228.253|31869|Canada|Montreal|GloboTech Communications|
 
 
 
