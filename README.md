@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|116.197.132.166|8989|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|104.129.206.209|8800|United States|Atlanta|ZSCALER, INC.|
-|17|104.129.206.211|8800|United States|Atlanta|ZSCALER, INC.|
-|18|67.43.228.253|31373|Canada|Montreal|GloboTech Communications|
-|19|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|67.43.227.228|11625|Canada|Montreal|GloboTech Communications|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|104.129.206.209|8800|United States|Atlanta|ZSCALER, INC.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
