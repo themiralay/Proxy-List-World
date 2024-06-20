@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|5|116.197.132.162|8989|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|11|67.43.236.19|10015|Canada|Montreal|GloboTech Communications|
 |12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|16|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|67.43.228.253|15155|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|10015|Canada|Montreal|GloboTech Communications|
+|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|16|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
