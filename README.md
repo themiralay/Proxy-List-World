@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|182.253.66.148|8989|Indonesia|Jakarta Pusat|BIZNET|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|14|67.43.227.227|3147|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5831|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3147|Canada|Montreal|GloboTech Communications|
-|17|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
-|18|72.10.164.178|2195|Canada|Montreal|GloboTech Communications|
-|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|20|67.43.227.227|3147|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|152.32.67.243|10101|Philippines|Marikina City|Converge ICT Solution Inc|
+|11|67.43.227.227|22593|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|5571|Canada|Montreal|GloboTech Communications|
+|13|104.238.234.48|3128|United States|Kirkland|EliteWork LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|103.180.1.242|1111|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
+|16|67.43.236.20|5571|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.94|14965|Canada|Montreal|GloboTech Communications|
+|18|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|58.210.227.210|8088|China|Nanjing|Chinanet|
+|20|72.10.160.172|4001|Canada|Montreal|GloboTech Communications|
 
 
 
