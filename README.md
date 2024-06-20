@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5057** proxies at the latest update. Usable proxies are below.
+> Scraper found **5056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|156|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|155|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|253|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
-|9|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|16|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
+|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|10|47.236.11.175|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.160.90|20775|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|10467|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21151|Canada|Montreal|GloboTech Communications|
+|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
