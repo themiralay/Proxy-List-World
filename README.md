@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|89.116.21.210|3128|India|Mumbai|Hostinger International Limited|
-|3|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|5|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
-|18|72.10.164.178|2259|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|11257|Canada|Montreal|GloboTech Communications|
-|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|1|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|154.26.130.175|3128|Singapore|Singapore|Cogent Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|39.129.73.6|443|China|Kunming|China Mobile|
+|15|194.246.34.188|3128|United States|Los Angeles|NetLab Global|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|72.10.160.170|19971|Canada|Montreal|GloboTech Communications|
 
 
 
