@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|38.60.195.244|3128|Malaysia|Kuala Lumpur|Kaopu Cloud HK Limited|
-|14|67.43.228.254|1179|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|10181|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|10181|Canada|Montreal|GloboTech Communications|
-|17|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|19|72.10.164.178|22237|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|32199|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|15|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|67.43.228.254|1179|Canada|Montreal|GloboTech Communications|
+|20|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
