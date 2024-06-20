@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|178.128.91.36|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|16|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|103.172.70.27|1111|Indonesia|Gemolong|AZNET|
+|6|178.128.91.36|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|12|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|103.76.108.94|8080|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|20|79.139.61.227|3128|Hungary|Budapest|Rackforest Zrt.|
 
 
 
