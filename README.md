@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|144.91.120.73|3128|Germany|Nuremberg|Contabo GmbH|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|72.10.164.178|14343|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|200.24.141.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|124.105.230.147|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
 |15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.164.178|17201|Canada|Montreal|GloboTech Communications|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|16|186.148.175.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|72.10.160.90|6695|Canada|Montreal|GloboTech Communications|
+|19|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
