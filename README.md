@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|3|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |5|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|8.215.63.145|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|29927|Canada|Montreal|GloboTech Communications|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
