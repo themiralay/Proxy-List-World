@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|180.191.20.194|8082|Philippines|Cabanatuan City|Globe Telecom|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|213.221.46.10|3128|Russia|Moscow|EDN Sovintel|
-|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|10|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.236.20|30385|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|30385|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|31289|Canada|Montreal|GloboTech Communications|
-|15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|67.43.236.18|4177|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|21749|Canada|Montreal|GloboTech Communications|
-|18|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|113.22.154.21|4000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|20|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|113.22.154.21|4000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|12|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|113.22.154.21|4000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|18|72.10.164.178|18209|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.164.178|18209|Canada|Montreal|GloboTech Communications|
 
 
 
