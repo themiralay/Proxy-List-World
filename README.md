@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.31|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|181.198.53.6|3128|Ecuador|Calceta|Telconet S.A|
-|12|67.43.227.230|14197|Canada|Montreal|GloboTech Communications|
-|13|39.129.73.6|443|China|Kunming|China Mobile|
-|14|67.43.236.20|10089|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5867|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|9693|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|72.10.160.91|1711|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|12093|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|116.197.132.166|8989|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|45.70.203.116|999|Ecuador|Chone|Ufinet Panama S.A.|
+|16|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|67.43.236.20|31569|Canada|Montreal|GloboTech Communications|
+|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 
 
 
