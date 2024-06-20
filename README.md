@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|96.88.127.107|8080|United States|Fort Lauderdale|Comcast Cable Communications, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|171.227.246.4|4012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|96.88.127.107|8080|United States|Fort Lauderdale|Comcast Cable Communications, LLC|
-|10|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|182.151.17.172|3128|China|Chengdu|CHINANET SiChuan Telecom Internet Data Center|
-|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|13|103.88.238.1|84|India|Hyderabad|Mana Communications|
-|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|67.43.236.19|9491|Canada|Montreal|GloboTech Communications|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|96.88.127.107|8080|United States|Fort Lauderdale|Comcast Cable Communications, LLC|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|96.88.127.107|8080|United States|Fort Lauderdale|Comcast Cable Communications, LLC|
+|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|17|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|18|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
 |19|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
