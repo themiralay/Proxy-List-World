@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|152.231.62.1|999|Argentina|Santa Rosa de Calamuchita|Intercom SRL|
-|11|67.43.228.251|23817|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|13989|Canada|Montreal|GloboTech Communications|
-|13|39.129.73.6|443|China|Kunming|China Mobile|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|112.198.132.13|8081|Philippines|Nasugbu|Globe Telecom|
-|18|72.10.160.90|26173|Canada|Montreal|GloboTech Communications|
-|19|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|45.159.188.7|7777|The Netherlands|Amsterdam|Hosting Solution Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.56.205.84|8080|Indonesia|Cirebon|Argon Data Communication|
+|11|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
+|13|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|67.43.228.253|13989|Canada|Montreal|GloboTech Communications|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|20.249.92.222|8080|South Korea|Seoul|Microsoft Corporation|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
