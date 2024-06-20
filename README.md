@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|113.22.154.21|4000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
 |6|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|7|67.43.227.226|18383|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|31241|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|17157|Canada|Montreal|GloboTech Communications|
-|10|113.22.154.21|4000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|11|67.43.228.253|27967|Canada|Montreal|GloboTech Communications|
-|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|72.10.164.178|31241|Canada|Montreal|GloboTech Communications|
-|14|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |15|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|72.10.164.178|1475|Canada|Montreal|GloboTech Communications|
 |17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|31241|Canada|Montreal|GloboTech Communications|
-|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|67.43.228.252|28533|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
