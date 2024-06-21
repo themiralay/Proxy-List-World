@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|186.30.118.116|999|Colombia|Zipaquirá|ETB - Colombia|
-|11|38.9.141.79|80|Indonesia|Medan|Cogent Communications|
-|12|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|181.209.82.196|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|31245|Canada|Montreal|GloboTech Communications|
-|18|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.90|3199|Canada|Montreal|GloboTech Communications|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|72.10.164.178|18963|Canada|Montreal|GloboTech Communications|
+|8|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|9|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.90|7805|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|11495|Canada|Montreal|GloboTech Communications|
+|14|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|15|72.10.164.178|18963|Canada|Montreal|GloboTech Communications|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.228.253|11495|Canada|Montreal|GloboTech Communications|
+|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|20|67.43.236.20|13819|Canada|Montreal|GloboTech Communications|
 
 
 
