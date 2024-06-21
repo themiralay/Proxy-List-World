@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|7|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|9|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |13|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|14|201.71.2.127|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|103.167.15.213|83|Bangladesh|Mātuail|Sajid Trading Limited|
-|16|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
-|17|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
