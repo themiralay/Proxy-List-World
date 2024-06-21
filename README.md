@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|72.10.164.178|2195|Canada|Montreal|GloboTech Communications|
-|17|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|18|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|72.10.160.90|13993|Canada|Montreal|GloboTech Communications|
-|20|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|117.250.3.58|8080|India|Lucknow|Bharat Sanchar Nigam Ltd|
+|9|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|10|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|103.234.28.50|8181|Indonesia|Blora|PT Agung Barokah Network|
+|14|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|16|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|19|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
