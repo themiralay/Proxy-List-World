@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4954** proxies at the latest update. Usable proxies are below.
+> Scraper found **4798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|160|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|486|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|261|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3115|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2946|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|15|67.43.227.228|5021|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|7183|Canada|Montreal|GloboTech Communications|
-|17|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|72.10.160.90|28389|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|16|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|103.120.167.109|8885|Bangladesh|Narsingdi|Discovery Internet/ Madhabdi|
+|19|72.10.160.90|30153|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|30153|Canada|Montreal|GloboTech Communications|
 
 
 
