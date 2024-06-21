@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|20.235.104.105|3729|India|Pune|Microsoft Corporation|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|10|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|11|62.3.30.120|8080|Georgia||Enbinet Ltd.|
 |12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|143.202.186.34|8080|Brazil|Sorocaba|Brem Technology Ltda - ME|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|17|203.150.128.202|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|18|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|62.3.30.120|8080|Georgia||Enbinet Ltd.|
-|20|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|13|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|14|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|15|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|18|67.43.236.20|16749|Canada|Montreal|GloboTech Communications|
+|19|152.32.67.243|10101|Philippines|Marikina City|Converge ICT Solution Inc|
+|20|72.10.160.90|9377|Canada|Montreal|GloboTech Communications|
 
 
 
