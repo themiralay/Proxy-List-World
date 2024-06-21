@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.143.195|3128|Japan|Hyōgo|InfoSphere|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.20.90.119|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|7|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|216.122.181.234|999|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.160.90|2271|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|2271|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5021|Canada|Montreal|GloboTech Communications|
+|6|221.168.37.223|8888|South Korea|Seongnam-si|Korea Telecom|
+|7|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|8|103.20.90.119|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|45.231.170.137|999|Mexico|Cancún|GigNet, S.A. de C.V.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|181.78.3.170|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|17|67.43.228.253|14545|Canada|Montreal|GloboTech Communications|
 |18|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|178.62.233.42|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|72.10.164.178|2893|Canada|Montreal|GloboTech Communications|
 
 
 
