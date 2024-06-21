@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|6|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|7|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|16|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|17|160.248.5.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
