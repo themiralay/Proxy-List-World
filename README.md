@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|9|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|10|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|16|58.210.227.210|8088|China|Nanjing|Chinanet|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|20|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|17|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
