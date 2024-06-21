@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5214** proxies at the latest update. Usable proxies are below.
+> Scraper found **5014** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|14|34.87.1.56|55443|Singapore|Singapore|Google LLC|
-|15|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|5.196.111.29|20329|France|Gravelines|OVH SAS|
-|17|67.43.228.253|13313|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|20|67.43.236.20|18887|Canada|Montreal|GloboTech Communications|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|7|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.90|4815|Canada|Montreal|GloboTech Communications|
+|13|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|67.43.236.20|7335|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|20181|Canada|Montreal|GloboTech Communications|
+|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|17|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|72.10.160.90|4815|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
