@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|12|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.92|1407|Canada|Montreal|GloboTech Communications|
-|17|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
-|18|216.48.181.211|3128|India|Noida|E2E Networks Limited|
-|19|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|20|72.10.160.91|24299|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|8|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
+|9|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|10|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|67.43.228.253|22143|Canada|Montreal|GloboTech Communications|
+|12|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|13|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|14|67.43.227.227|24201|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
+|17|72.10.160.170|30163|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|2955|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29043|Canada|Montreal|GloboTech Communications|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
