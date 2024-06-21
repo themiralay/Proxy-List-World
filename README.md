@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|67.220.86.253|3128|United States|Phoenix|GTHost|
-|11|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|12|67.43.236.20|27377|Canada|Montreal|GloboTech Communications|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|18923|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|26131|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18923|Canada|Montreal|GloboTech Communications|
-|18|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|67.43.227.228|1387|Canada|Montreal|GloboTech Communications|
-|20|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|67.43.236.20|10545|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|1387|Canada|Montreal|GloboTech Communications|
+|14|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|15|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|72.10.164.178|3589|Canada|Montreal|GloboTech Communications|
+|17|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|18|67.43.227.228|1387|Canada|Montreal|GloboTech Communications|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
