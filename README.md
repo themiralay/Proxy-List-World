@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5255** proxies at the latest update. Usable proxies are below.
+> Scraper found **5235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|168|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|649|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|629|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|255|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3251|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|7|171.239.143.209|4015|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|12|72.128.133.154|16099|United States|Austin|Charter Communications|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|87.126.65.11|1388|Bulgaria|Dimitrovgrad|Vivacom Bulgaria EAD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|17|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|19|72.10.160.172|13555|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3051|Canada|Montreal|GloboTech Communications|
+|2|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|8|216.48.181.211|3128|India|Noida|E2E Networks Limited|
+|9|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|3179|Canada|Montreal|GloboTech Communications|
+|11|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|11803|Canada|Montreal|GloboTech Communications|
+|15|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|16|67.43.228.254|1333|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
+|19|91.108.120.118|3128|Lithuania|Vilnius|HOSTINGER LT|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
