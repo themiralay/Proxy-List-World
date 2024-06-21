@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
-|8|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|12|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|17|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|187.204.18.213|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|9|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|15|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|16|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|20|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
