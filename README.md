@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|187.188.169.169|8080|Mexico|Atoyatempan|Total Play Telecomunicaciones SA De CV|
-|13|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|14|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|15|181.58.31.201|8080|Colombia|Neiva|Telmex Colombia S.A.|
-|16|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
-|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|181.214.208.191|8080|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|67.43.236.20|5421|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|72.10.160.172|22003|Canada|Montreal|GloboTech Communications|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
