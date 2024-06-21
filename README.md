@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|9|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|12|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
-|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|17|72.10.160.170|30295|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|72.10.160.92|26061|Canada|Montreal|GloboTech Communications|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|16|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
+|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|20|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
 
 
 
