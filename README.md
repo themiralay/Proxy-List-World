@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|113.160.247.27|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|205.201.49.153|53281|United States|Dexter|BPS Networks|
+|10|187.87.206.97|3128|Brazil|Salvador|Screen Saver Informática LTDA|
+|11|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|103.159.194.97|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|13|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
