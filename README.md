@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|103.101.24.77|8080|India|Delhi|Vajra Telecom Pvt Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|13|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|103.169.186.153|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|11|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|111.89.130.116|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|19|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|20|72.10.160.172|16897|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|103.164.58.190|8080|Indonesia|Sangkalputung|PT Fivendro Mandiri Indonesia|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
+|20|67.43.227.227|21279|Canada|Montreal|GloboTech Communications|
 
 
 
