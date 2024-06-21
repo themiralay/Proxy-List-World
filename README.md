@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.143.195|3128|Japan|Hyōgo|InfoSphere|
 |3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|134.35.201.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|134.35.207.233|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|11|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|34.146.221.23|3128|Japan|Tokyo|Google LLC|
-|13|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|67.43.236.20|27833|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|134.35.201.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|9|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|134.35.207.233|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|15|216.122.181.234|999|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|16|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|111.89.130.108|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
