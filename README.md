@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|157.230.36.198|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
-|11|181.192.25.234|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|12|87.107.166.6|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|13|103.191.129.126|8080|Indonesia|Depok|PT Metro Ring Bersama|
-|14|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|15|81.91.31.182|8080|Yemen|Bayt Ghadir|Public Telecommunication Corporation|
-|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|157.230.36.198|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|10|181.192.25.234|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|17|81.91.31.182|8080|Yemen|Bayt Ghadir|Public Telecommunication Corporation|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
