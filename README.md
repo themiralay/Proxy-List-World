@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|125.25.72.34|8080|Thailand|Rayong|TOT Public Company Limited|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|14|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|67.43.236.20|13109|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|24971|Canada|Montreal|GloboTech Communications|
-|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|72.10.160.173|4687|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|24971|Canada|Montreal|GloboTech Communications|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|185.200.37.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|41.205.24.188|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|16|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|17|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
+|18|103.87.169.203|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|19|187.204.18.213|8081|Mexico|Autlan de Navarro|Uninet S.A. de C.V.|
+|20|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
 
 
 
