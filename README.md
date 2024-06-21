@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.130.50|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|2|180.214.179.92|9090|Taiwan|New Taipei City|DADA|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|10|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|8|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |11|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|15|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|16|72.10.160.91|31749|Canada|Montreal|GloboTech Communications|
-|17|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
-|18|67.43.227.227|28273|Canada|Montreal|GloboTech Communications|
-|19|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|72.10.160.91|31749|Canada|Montreal|GloboTech Communications|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
+|18|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|19|13.52.98.218|3128|United States|San Jose|Amazon.com, Inc.|
+|20|160.248.93.71|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
