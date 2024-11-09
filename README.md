@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|146.190.114.113|10003|United States|Santa Clara|DigitalOcean, LLC|
-|8|67.43.227.227|4709|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.91|14915|Canada|Montreal|GloboTech Communications|
-|10|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|12|72.10.164.178|12233|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|20163|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.242.105.187|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|67.43.228.250|9617|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|4709|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|10535|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|20163|Canada|Montreal|GloboTech Communications|
-|20|188.132.221.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|95.38.174.119|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|11|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|13|72.10.160.91|9305|Canada|Montreal|GloboTech Communications|
+|14|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|15|67.43.227.227|4709|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|26507|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|15673|Canada|Montreal|GloboTech Communications|
+|18|181.78.82.214|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
