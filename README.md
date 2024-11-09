@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|115.72.174.90|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|72.10.160.170|9987|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9607|Canada|Montreal|GloboTech Communications|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|101.255.119.68|1080|Indonesia|Jakarta|PT Remala Abadi|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|194.5.248.191|8000|Romania|Bucharest|Zergrush SRL|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|15|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|192.121.245.140|8118|Canada|Toronto|PVDataNet AB|
 
 
 
