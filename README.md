@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|157.15.66.108|8181|Indonesia|Jatidowo|PT Trimitra Aditama Koneksindo|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|45.4.0.28|999|Chile|Santiago|Tlink SPA|
-|14|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|19|72.10.160.91|28507|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20297|Canada|Montreal|GloboTech Communications|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.154.178.106|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|72.10.160.91|4229|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.228.251|4095|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|14681|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|20631|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|28719|Canada|Montreal|GloboTech Communications|
 
 
 
