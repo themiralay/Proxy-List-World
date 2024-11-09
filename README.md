@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|42.119.164.44|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|119.110.233.203|3129|Thailand|Lat Bua Luang|Symphony Communication Public Company Limited|
-|14|67.43.228.253|10589|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|21429|Canada|Montreal|GloboTech Communications|
-|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|67.43.236.20|17655|Canada|Montreal|GloboTech Communications|
-|18|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|19|67.43.227.229|30433|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|11163|Canada|Montreal|GloboTech Communications|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|68.235.41.101|3129|United States|Chicago|tzulo, inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|13|67.43.227.226|26321|Canada|Montreal|GloboTech Communications|
+|14|45.5.116.144|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|17|119.18.156.245|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
+|18|103.101.193.46|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|19|186.125.218.154|999|Argentina|Molinos|Telecom Argentina S.A.|
+|20|188.72.6.178|8083|Iraq|Seyid Sadiq|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
 
 
 
