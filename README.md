@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|10|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|16|157.20.157.4|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.191.196.96|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|19|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|112.78.40.210|8080|Indonesia|Jakarta|PT DES Teknologi Informasi|
+|14|103.189.123.246|7777|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
