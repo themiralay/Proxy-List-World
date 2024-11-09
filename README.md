@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|10|103.177.199.47|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|15|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.203.139.209|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|103.91.86.85|8080|India|Mumbai|Winista Technologies Private Limited|
+|19|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|20|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
