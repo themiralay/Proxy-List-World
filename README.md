@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|72.10.164.178|26293|Canada|Montreal|GloboTech Communications|
-|15|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|72.10.164.178|26293|Canada|Montreal|GloboTech Communications|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|103.156.86.130|8080|Indonesia|Palopo|PT Chacha Networking System|
+|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|16|72.10.164.178|26293|Canada|Montreal|GloboTech Communications|
+|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
 |18|72.10.164.178|26293|Canada|Montreal|GloboTech Communications|
-|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|20|72.10.160.90|9987|Canada|Montreal|GloboTech Communications|
+|19|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|67.43.227.228|1429|Canada|Montreal|GloboTech Communications|
 
 
 
