@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|67.43.227.227|2177|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|22907|Canada|Montreal|GloboTech Communications|
-|11|51.178.17.147|3129|France|Gravelines|OVH SAS|
-|12|34.87.149.159|80|Singapore|Singapore|Google LLC|
-|13|67.43.227.227|2177|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22907|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|7005|Canada|Montreal|GloboTech Communications|
-|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|17|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|18|67.43.236.18|3061|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22907|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|9191|Canada|Montreal|GloboTech Communications|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|72.10.164.178|4311|Canada|Montreal|GloboTech Communications|
+|11|117.1.59.115|39201|Vietnam|Ha Long|Viettel Corporation|
+|12|72.10.164.178|4311|Canada|Montreal|GloboTech Communications|
+|13|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|14|67.43.236.19|15335|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4311|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|22945|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|21239|Canada|Montreal|GloboTech Communications|
+|18|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|19|67.43.227.227|13173|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
