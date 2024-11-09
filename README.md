@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.98.119.210|10057|Vietnam|Da Nang|Viettel Corporation|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
-|15|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|36.93.4.59|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|68.235.41.101|3129|United States|Chicago|tzulo, inc.|
+|7|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|186.117.148.73|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|10|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
+|11|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|12|121.101.133.195|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|112.78.40.210|8080|Indonesia|Jakarta|PT DES Teknologi Informasi|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.4.203.115|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|72.10.160.170|9983|Canada|Montreal|GloboTech Communications|
+|20|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
