@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|6|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|146.190.114.113|10011|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.28.114.157|66|Indonesia|Malang|PT Lintas Data Prima|
-|15|8.222.217.94|8989|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.253|29735|Canada|Montreal|GloboTech Communications|
-|17|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.160.172|3089|Canada|Montreal|GloboTech Communications|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|103.242.105.187|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|8.222.217.94|8989|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|67.43.228.253|25433|Canada|Montreal|GloboTech Communications|
+|17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|20|101.51.139.219|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
