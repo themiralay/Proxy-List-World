@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|7|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|42.119.164.44|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|72.10.160.92|7859|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|8361|Canada|Montreal|GloboTech Communications|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|72.10.160.93|15133|Canada|Montreal|GloboTech Communications|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.189.151.27|999|Mexico|Caparroso|Javier Tamayo Garcia|
 |16|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|17|72.10.160.173|4183|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8211|Canada|Montreal|GloboTech Communications|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.160.91|30143|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.164.178|4815|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|10995|Canada|Montreal|GloboTech Communications|
 
 
 
