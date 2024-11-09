@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
-|11|103.146.185.143|2022|Indonesia|Wonogiri|YAMNET|
-|12|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|146.190.114.113|10005|United States|Santa Clara|DigitalOcean, LLC|
-|16|72.10.164.178|12823|Canada|Montreal|GloboTech Communications|
-|17|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|18|72.10.160.170|7711|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|22519|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29395|Canada|Montreal|GloboTech Communications|
+|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.125.17.22|8080|Indonesia|Tangerang|JAVAMEDIA|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.174.176.161|8088|Brazil|São Francisco do Piauí|M & G TELECON LTDA|
+|16|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|67.43.227.227|13111|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|22519|Canada|Montreal|GloboTech Communications|
+|19|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|72.10.164.178|8681|Canada|Montreal|GloboTech Communications|
 
 
 
