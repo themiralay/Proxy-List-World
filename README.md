@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|89.179.71.21|3128|Russia|Kursk|PJSC "Vimpelcom"|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|147.28.155.20|10035|United States|Dallas|Packet Host, Inc.|
-|17|147.28.155.20|10035|United States|Dallas|Packet Host, Inc.|
-|18|147.28.155.20|10035|United States|Dallas|Packet Host, Inc.|
-|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|20|147.28.155.20|10035|United States|Dallas|Packet Host, Inc.|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|213.14.137.23|3129|Türkiye|Istanbul|Superonline|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|171.97.9.119|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|67.43.236.19|15335|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|14.177.42.220|8080|Vietnam|Hanoi|VNPT|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
