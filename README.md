@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5287** proxies at the latest update. Usable proxies are below.
+> Scraper found **5350** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3250|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|109.123.229.224|4003|Japan|Tokyo|Contabo Asia Private Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|194.5.248.191|8000|Romania|Bucharest|Zergrush SRL|
-|16|72.10.164.178|5125|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|25845|Canada|Montreal|GloboTech Communications|
-|18|23.236.70.6|3129|United States|Los Angeles|Zenlayer Inc|
-|19|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|20|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
+|1|103.169.131.54|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.130.167.25|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|4|157.15.66.108|8181|Indonesia|Jatidowo|PT Trimitra Aditama Koneksindo|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|72.10.164.178|27731|Canada|Montreal|GloboTech Communications|
+|11|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|12|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|101.109.176.175|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|67.43.236.20|12387|Canada|Montreal|GloboTech Communications|
+|19|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|20|67.43.228.250|10937|Canada|Montreal|GloboTech Communications|
 
 
 
