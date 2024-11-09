@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|72.10.164.178|1577|Canada|Montreal|GloboTech Communications|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|67.43.227.227|2177|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.228|7749|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|7749|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|9191|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|2177|Canada|Montreal|GloboTech Communications|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|67.43.228.250|32681|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|27043|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|2445|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|1939|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1577|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|2745|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|1577|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|1577|Canada|Montreal|GloboTech Communications|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|67.43.236.19|16927|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|2745|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|21753|Canada|Montreal|GloboTech Communications|
+|15|88.198.39.240|10004|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|17|67.43.227.227|2177|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|72.10.164.178|1577|Canada|Montreal|GloboTech Communications|
-|20|41.33.174.100|3128|Egypt|Cairo|TE Data|
+|20|67.43.228.250|6265|Canada|Montreal|GloboTech Communications|
 
 
 
