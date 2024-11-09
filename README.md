@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5294** proxies at the latest update. Usable proxies are below.
+> Scraper found **5323** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|231|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|558|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3250|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |2|115.72.13.65|10001|Vietnam|Bà Rịa|VIETELmetro|
-|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|72.10.160.171|5521|Canada|Montreal|GloboTech Communications|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|103.25.79.74|32650|Myanmar|Yangon|Global Technology Co|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.236.20|11341|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|6027|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|171.225.224.132|54404|Vietnam|Hanoi|Viettel Corporation|
+|9|171.225.224.132|54404|Vietnam|Hanoi|Viettel Corporation|
+|10|171.225.224.132|54404|Vietnam|Hanoi|Viettel Corporation|
+|11|171.225.224.132|54404|Vietnam|Hanoi|Viettel Corporation|
+|12|72.10.164.178|26169|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|103.25.79.74|32650|Myanmar|Yangon|Global Technology Co|
+|15|67.43.227.227|27069|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|1739|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|23259|Canada|Montreal|GloboTech Communications|
+|18|45.71.187.112|8082|Ecuador|Loja|Ufinet Panama S.A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|67.43.227.226|15063|Canada|Montreal|GloboTech Communications|
 
 
 
