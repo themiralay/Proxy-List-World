@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|14183|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30823|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|16115|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|8335|Canada|Montreal|GloboTech Communications|
+|1|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|67.43.228.253|20433|Canada|Montreal|GloboTech Communications|
+|15|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|16|72.10.160.171|1959|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14921|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|10873|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.227.227|14921|Canada|Montreal|GloboTech Communications|
 
 
 
