@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|5|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|7|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 |11|89.179.71.21|3128|Russia|Kursk|PJSC "Vimpelcom"|
-|12|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
-|13|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|103.177.199.5|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|72.10.160.92|4341|Canada|Montreal|GloboTech Communications|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|190.43.92.185|999|Peru|Lima|Telefonica Del Peru|
+|12|72.10.160.92|26331|Canada|Montreal|GloboTech Communications|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|72.10.160.90|1101|Canada|Montreal|GloboTech Communications|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|67.43.227.227|4387|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30317|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|26449|Canada|Montreal|GloboTech Communications|
 
 
 
