@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|14|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|15|72.10.164.178|30317|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|8493|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|27031|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|1529|Canada|Montreal|GloboTech Communications|
-|19|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|202.146.228.251|8088|Indonesia|Bandung|PT Centrin Utama|
+|7|45.77.64.252|3129|Germany|Frankfurt am Main|The Constant Company|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
+|14|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|15|200.59.10.42|999|Argentina|General Pacheco|COTELCAM|
+|16|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|72.10.164.178|30317|Canada|Montreal|GloboTech Communications|
+|19|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
