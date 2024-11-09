@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|36.72.240.103|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|109.111.135.231|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|12|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.250|1463|Canada|Montreal|GloboTech Communications|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|72.10.164.178|30481|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|30481|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|23123|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30481|Canada|Montreal|GloboTech Communications|
-|20|119.2.52.152|8282|Indonesia|Yogyakarta|GMEDIA|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|67.43.236.20|2407|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|24199|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|2407|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|29581|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|16325|Canada|Montreal|GloboTech Communications|
 
 
 
