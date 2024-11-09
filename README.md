@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.77.64.252|3129|Germany|Frankfurt am Main|The Constant Company|
+|6|103.76.91.50|8080|Indonesia|Bekasi|PT Kampung Dua Net|
+|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|18.134.236.231|80|United Kingdom|London|Amazon Technologies Inc.|
 |10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|22159|Canada|Montreal|GloboTech Communications|
-|16|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|17|67.43.236.20|10007|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|18571|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|72.10.164.178|22159|Canada|Montreal|GloboTech Communications|
+|15|103.28.114.157|66|Indonesia|Malang|PT Lintas Data Prima|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|67.43.236.18|18763|Canada|Montreal|GloboTech Communications|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
