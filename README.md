@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|160.248.93.122|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|3|45.119.114.203|3128|India|Hyderabad|Netrun Technologies PVT LTD|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.162.55.42|8080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
+|13|160.248.93.122|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|18|125.124.225.211|3128|China|Yanguan|Chinanet|
+|19|67.43.236.20|12245|Canada|Montreal|GloboTech Communications|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
