@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|160.22.207.29|8080|Indonesia|Jakarta|PT Teradata Bintang Selaras|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|72.10.160.91|4485|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|4061|Canada|Montreal|GloboTech Communications|
-|18|103.160.15.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|19|72.10.160.170|32305|Canada|Montreal|GloboTech Communications|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
+|5|103.172.197.245|7777|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|88.198.39.240|10011|Germany|Nuremberg|Hetzner Online GmbH|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|72.10.164.178|2729|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|2729|Canada|Montreal|GloboTech Communications|
+|13|147.28.155.20|10011|United States|Dallas|Packet Host, Inc.|
+|14|67.43.236.20|11747|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.171.240.174|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
 
 
 
