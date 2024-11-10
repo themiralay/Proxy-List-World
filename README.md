@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|223.206.53.117|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|16|36.75.154.226|8080|Indonesia|Ciamis|PT. Telekomunikasi Indonesia|
-|17|45.163.66.247|8088|Brazil|Caldazinha|CDM TELECOM|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|103.190.171.37|1080|Indonesia|Jakarta|WMS|
+|9|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.122.32.101|8080|Indonesia|Bogor|PT. Mora Telematika Indonesia|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|72.10.164.178|33217|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|14329|Canada|Montreal|GloboTech Communications|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
