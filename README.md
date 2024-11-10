@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|103.173.139.88|8080|Indonesia|Wonosobo|PT Serayu Multi Connection|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|125.124.225.211|3128|China|Yanguan|Chinanet|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|36.92.150.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|9|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|16|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|17|115.74.2.89|8080|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|18|71.42.125.218|4444|United States|Corpus Christi|Spectrum|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
