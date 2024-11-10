@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.177.42.220|8080|Vietnam|Hanoi|VNPT|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
 |6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|13|146.190.114.113|10000|United States|Santa Clara|DigitalOcean, LLC|
-|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|19|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
