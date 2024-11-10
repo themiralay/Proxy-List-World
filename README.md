@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5430** proxies at the latest update. Usable proxies are below.
+> Scraper found **5426** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|220|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|219|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|435|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3150|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|110.78.186.53|8080|Thailand|Pattaya|CAT-BB|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|147.28.155.20|10007|United States|Dallas|Packet Host, Inc.|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|82.180.146.116|3128|India|Mumbai|Contabo Asia Private Limited|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|51.159.159.73|80|France|Paris|SCALEWAY|
+|7|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|10|103.76.109.104|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|103.101.193.46|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|20|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|45.77.64.252|3129|Germany|Frankfurt am Main|The Constant Company|
+|16|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|104.167.6.218|80|United States|Boca Raton|CloudS|
+|19|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|20|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
