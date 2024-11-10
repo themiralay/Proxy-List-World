@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.93.122|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|180.191.42.241|8082|Philippines|Caloocan City|Globe Telecom|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
-|15|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|17|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
