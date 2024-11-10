@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.190.171.37|1080|Indonesia|Jakarta|WMS|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|13|115.72.165.90|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|17|89.211.191.65|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|18|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|1|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|2.50.47.254|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|17|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
 
 
 
