@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|11|49.49.213.237|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|72.10.160.90|9135|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|4301|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|23065|Canada|Montreal|GloboTech Communications|
-|15|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|72.10.160.91|12989|Canada|Montreal|GloboTech Communications|
-|17|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|72.10.160.92|24879|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|6435|Canada|Montreal|GloboTech Communications|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|103.18.232.145|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|72.10.160.91|12989|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|16237|Canada|Montreal|GloboTech Communications|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|72.10.160.170|6385|Canada|Montreal|GloboTech Communications|
+|17|125.124.225.211|3128|China|Yanguan|Chinanet|
+|18|72.10.160.90|9135|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|3705|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|31885|Canada|Montreal|GloboTech Communications|
 
 
 
