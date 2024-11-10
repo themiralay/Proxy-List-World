@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5307** proxies at the latest update. Usable proxies are below.
+> Scraper found **5326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|265|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|602|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3194|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|1.20.214.46|8080|Thailand|Pran Buri|TOT Public Company Limited|
+|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|2.50.47.254|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|13|125.124.225.211|3128|China|Yanguan|Chinanet|
-|14|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|17|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
-|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|11|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|2.50.47.254|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|103.175.46.39|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
