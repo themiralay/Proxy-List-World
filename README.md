@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|38.183.146.43|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|42.119.164.44|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|2.59.181.248|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|16|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|45.236.242.71|8080|Brazil|Manaus|SIDI SERVIÇOS DE COMUNICAÇÃO LTDA-ME|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|103.172.71.140|8080|Indonesia|Gemolong|AZNET|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|19|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|20|154.73.28.79|8080|Libya|Tripoli|Rawafed|
 
 
 
