@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|159.192.133.250|8088|Thailand|Bang Rak|CAT-BB|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|125.124.225.211|3128|China|Yanguan|Chinanet|
-|11|121.236.236.245|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|12|67.43.227.230|1331|Canada|Montreal|GloboTech Communications|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
-|17|119.76.142.203|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|27.189.132.82|8089|China|Langfang|Chinanet|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|24.172.82.94|53281|United States|Gastonia|Spectrum|
+|14|119.76.142.203|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|67.43.227.230|1331|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
