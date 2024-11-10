@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|2.50.47.254|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|125.124.225.211|3128|China|Yanguan|Chinanet|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
-|16|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.164.178|4477|Canada|Montreal|GloboTech Communications|
-|19|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
-|20|45.119.114.203|3128|India|Hyderabad|Netrun Technologies PVT LTD|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|1.20.214.46|8080|Thailand|Pran Buri|TOT Public Company Limited|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|2.50.47.254|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|125.124.225.211|3128|China|Yanguan|Chinanet|
+|14|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|49.48.96.64|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|148.72.168.80|30127|United States|St Louis|GoDaddy.com, LLC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
