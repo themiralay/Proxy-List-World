@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|67.43.236.20|32341|Canada|Montreal|GloboTech Communications|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|67.43.236.18|3051|Canada|Montreal|GloboTech Communications|
-|13|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|14|67.43.236.20|32341|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|1801|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
-|19|72.10.160.171|4611|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|8293|Canada|Montreal|GloboTech Communications|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|122.228.246.248|3128|China|Wenzhou|China Telecom|
+|13|72.10.164.178|12641|Canada|Montreal|GloboTech Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|67.43.236.20|17317|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.171|12773|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|6849|Canada|Montreal|GloboTech Communications|
+|20|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
 
 
 
