@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.150.113.250|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
-|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|67.43.228.253|22335|Canada|Montreal|GloboTech Communications|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|125.124.225.211|3128|China|Yanguan|Chinanet|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|45.77.64.252|3129|Germany|Frankfurt am Main|The Constant Company|
+|17|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|72.10.164.178|20223|Canada|Montreal|GloboTech Communications|
 
 
 
