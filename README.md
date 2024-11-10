@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|125.124.225.211|3128|China|Yanguan|Chinanet|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|67.43.227.230|26227|Canada|Montreal|GloboTech Communications|
-|19|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
+|13|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|14|67.43.228.254|18185|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|31927|Canada|Montreal|GloboTech Communications|
+|16|139.180.161.46|80|Australia|Sydney|Choopa|
+|17|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
+|18|124.217.66.114|8080|Philippines|Magalang|Philippine Long Distance Telephone Co.|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|15791|Canada|Montreal|GloboTech Communications|
 
 
 
