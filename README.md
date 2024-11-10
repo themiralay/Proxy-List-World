@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5297** proxies at the latest update. Usable proxies are below.
+> Scraper found **5118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|357|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|258|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3190|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|45.77.64.252|3129|Germany|Frankfurt am Main|The Constant Company|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|182.253.10.20|8080|Indonesia|Jakarta Pusat|BIZNET|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|201.252.56.188|9080|Argentina|Villa Allende|Telecom Argentina S.A.|
-|12|194.5.248.191|8000|Romania|Bucharest|Zergrush SRL|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|115.72.165.90|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|15|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|18|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|19|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|10|125.124.225.211|3128|China|Yanguan|Chinanet|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|103.156.16.145|1111|Indonesia|Jakarta|RSTNET|
+|13|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|194.5.248.191|8000|Romania|Bucharest|Zergrush SRL|
+|15|72.10.160.171|11423|Canada|Montreal|GloboTech Communications|
+|16|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|72.10.160.90|13321|Canada|Montreal|GloboTech Communications|
+|18|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|72.10.160.170|15389|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|8525|Canada|Montreal|GloboTech Communications|
 
 
 
