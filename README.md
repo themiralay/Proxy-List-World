@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|38.158.202.121|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.213.218.86|25513|Vietnam|Lê Chân District|V9ERP|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.93|32535|Canada|Montreal|GloboTech Communications|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|42.119.164.44|9400|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.236.20|30101|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|23031|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|72.10.164.178|27319|Canada|Montreal|GloboTech Communications|
 |17|67.43.236.20|30101|Canada|Montreal|GloboTech Communications|
-|18|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|72.10.164.178|14929|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|7407|Canada|Montreal|GloboTech Communications|
+|18|45.163.66.247|8088|Brazil|Caldazinha|CDM TELECOM|
+|19|72.10.164.178|27319|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|30101|Canada|Montreal|GloboTech Communications|
 
 
 
