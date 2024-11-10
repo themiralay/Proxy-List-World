@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|88.218.170.167|3129|Russia|Moscow|TimeWeb Ltd.|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|67.43.227.227|13423|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|14463|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|11779|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19107|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|16205|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|30383|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19107|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|72.10.164.178|2583|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|19941|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|2583|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|72.10.164.178|2583|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2583|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|19877|Canada|Montreal|GloboTech Communications|
 
 
 
