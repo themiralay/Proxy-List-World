@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|72.10.160.92|19731|Canada|Montreal|GloboTech Communications|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|67.43.227.227|24887|Canada|Montreal|GloboTech Communications|
-|9|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|10|67.43.227.227|24887|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|19731|Canada|Montreal|GloboTech Communications|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|67.43.228.253|5149|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|11737|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|27391|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|6781|Canada|Montreal|GloboTech Communications|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|67.43.228.253|5149|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24887|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.163.251.97|8080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|72.10.160.92|30961|Canada|Montreal|GloboTech Communications|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|67.43.227.227|20395|Canada|Montreal|GloboTech Communications|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|103.115.31.45|8181|Indonesia|Curug|HSPNET|
+|14|125.124.225.211|3128|China|Yanguan|Chinanet|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|67.43.227.226|10213|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|8985|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
