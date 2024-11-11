@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.72.249.46|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|181.13.53.38|8081|Argentina|San Miguel de Tucumán|Noanet S.A|
+|19|72.10.164.178|28977|Canada|Montreal|GloboTech Communications|
+|20|157.10.7.84|3128|Pakistan|Lahore|Blue Bird Networks|
 
 
 
