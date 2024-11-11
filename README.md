@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|193.227.129.196|20947|United States|Bend|Tier.Net Technologies LLC|
-|14|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|89.135.59.65|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
-|19|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|20|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|14|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|15|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
 
 
 
