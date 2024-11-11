@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
 |8|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|12|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|80.209.242.219|8080|United States|New York|HOSTKEY|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|125.63.164.251|8080|Australia|Sydney|SingTel Optus Pty Ltd|
-|16|144.126.141.40|60339|United States|St Louis|Nubes, LLC|
-|17|144.126.141.40|60339|United States|St Louis|Nubes, LLC|
-|18|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|19|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|10|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|12|103.186.69.33|8080|India|Shimoga|Gatik Greenergy PVT LTD|
+|13|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|45.76.123.210|80|Australia|Sydney|The Constant Company|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|67.43.227.227|6717|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
