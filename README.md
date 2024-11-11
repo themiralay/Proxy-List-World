@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|45.32.244.63|80|Australia|Sydney|Choopa|
-|17|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
-|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|20|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
+|4|118.99.103.200|8080|Indonesia|Jakarta|Biznet Metronet|
+|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|10|193.227.129.213|8001|United States|Bend|Tier.Net Technologies LLC|
+|11|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|12|193.227.129.213|8001|United States|Bend|Tier.Net Technologies LLC|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|154.73.29.65|8080|Libya|Tripoli|Rawafed|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 
 
 
