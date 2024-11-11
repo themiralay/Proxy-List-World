@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|8|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
 |10|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|212.174.79.180|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|15|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|16|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|15|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|16|14.167.210.42|8080|Vietnam|Can Tho|VNPT-VNNIC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
