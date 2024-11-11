@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|3|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|2|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|7|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|8|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|209.14.116.75|999|Colombia|Neiva|AGIS|
-|11|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
-|12|121.227.183.130|8089|China|Shanghai|China Telecom|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|16|67.43.236.20|19307|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|11535|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|17407|Canada|Montreal|GloboTech Communications|
-|19|116.108.8.246|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|171.239.239.68|10001|Vietnam|Bình Dương|Viettel Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|115.72.6.204|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|10|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|19|117.0.137.47|10002|Vietnam|Hanoi|Viettel Group|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
