@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|7|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|116.104.135.114|5000|Vietnam|Hanoi|Viettel Corporation|
-|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|1|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|72.10.164.178|2709|Canada|Montreal|GloboTech Communications|
 
 
 
