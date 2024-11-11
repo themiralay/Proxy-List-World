@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5087** proxies at the latest update. Usable proxies are below.
+> Scraper found **5250** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|126|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|512|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3189|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|23.237.145.36|31288|United States|Miami|FDCservers.net|
 |3|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|4|115.72.34.167|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|14|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|15|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|16|198.24.187.93|31476|United States|Ashburn|Secured Servers LLC|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|198.24.187.93|31476|United States|Ashburn|Secured Servers LLC|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|67.43.227.230|32115|Canada|Montreal|GloboTech Communications|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|185.255.132.129|8118|Russia|Moscow|First Server Limited|
+|8|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|71.42.125.219|4444|United States|Leander|Spectrum|
+|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
+|14|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|114.218.165.12|8089|China|Guangzhou|China Telecom|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|138.204.233.188|58080|Brazil|Cabo de Santo Agostinho|Nossarede Telecom LTDA ME|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
