@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
+|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
+|15|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|17|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|125.124.225.211|3128|China|Yanguan|Chinanet|
+|19|72.10.160.170|7879|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.252|4115|Canada|Montreal|GloboTech Communications|
 
 
 
