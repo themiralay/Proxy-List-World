@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5158** proxies at the latest update. Usable proxies are below.
+> Scraper found **5240** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|72.10.164.178|17703|Canada|Montreal|GloboTech Communications|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|67.43.236.21|3217|Canada|Montreal|GloboTech Communications|
-|8|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.236.18|30155|Canada|Montreal|GloboTech Communications|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|72.10.160.90|10879|Canada|Montreal|GloboTech Communications|
-|13|45.119.114.203|3128|India|Hyderabad|Netrun Technologies PVT LTD|
-|14|43.130.146.142|3128|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|193.227.129.212|8001|United States|Bend|Tier.Net Technologies LLC|
-|17|80.93.179.245|3128|Russia|Moscow|SELECTEL|
-|18|72.10.160.172|29607|Canada|Montreal|GloboTech Communications|
-|19|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|11|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|148.72.168.81|30119|United States|St Louis|GoDaddy.com, LLC|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
