@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|3|36.72.249.46|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|113.53.61.41|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|72.10.160.91|31311|Canada|Montreal|GloboTech Communications|
-|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
