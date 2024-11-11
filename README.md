@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|115.72.34.167|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|10|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|11|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|149.28.161.56|80|Australia|Sydney|The Constant Company|
-|18|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|19|101.109.101.192|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|72.10.164.178|9127|Canada|Montreal|GloboTech Communications|
+|2|117.0.142.66|10011|Vietnam|Hanoi|Viettel Group|
+|3|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|4|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|148.72.169.225|30127|United States|St Louis|velia.net|
+|8|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|9|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|10|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|11|148.72.169.225|30127|United States|St Louis|velia.net|
+|12|71.42.125.219|4444|United States|Leander|Spectrum|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|15|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|16|116.98.60.64|10057|Vietnam|Da Nang|Viettel Corporation|
+|17|115.74.4.98|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|18|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
+|19|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|20|72.10.164.178|11121|Canada|Montreal|GloboTech Communications|
 
 
 
