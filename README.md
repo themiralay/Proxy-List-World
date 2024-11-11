@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|124.217.106.250|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|72.10.160.170|1715|Canada|Montreal|GloboTech Communications|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
