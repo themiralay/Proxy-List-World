@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|3|171.239.239.68|10001|Vietnam|Bình Dương|Viettel Corporation|
-|4|171.243.169.72|10001|Vietnam|Tuy Hoa|Viettel Corporation|
-|5|171.248.205.13|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|2|117.0.137.34|10002|Vietnam|Hanoi|Viettel Group|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|1.54.43.105|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|171.248.117.160|1014|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|116.102.41.51|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|125.124.225.211|3128|China|Yanguan|Chinanet|
-|16|171.226.33.93|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|115.74.4.98|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|19|148.72.169.225|30119|United States|St Louis|velia.net|
-|20|171.239.239.68|10001|Vietnam|Bình Dương|Viettel Corporation|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|116.102.32.206|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|72.10.164.178|16905|Canada|Montreal|GloboTech Communications|
+|16|171.243.169.72|10001|Vietnam|Tuy Hoa|Viettel Corporation|
+|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|18|1.54.43.105|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|72.10.160.172|21625|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
