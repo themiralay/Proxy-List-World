@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|1.173.149.145|8080|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|15|80.209.242.219|8080|United States|New York|HOSTKEY|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
