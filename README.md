@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
-|4|160.22.134.3|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|116.102.32.206|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|36.89.89.7|8080|Indonesia|Setia Budi|PT. Telekomunikasi Indonesia|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|148.72.169.225|30127|United States|St Louis|velia.net|
-|12|157.66.16.48|8181|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|13|116.108.8.246|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|185.64.208.245|53281|Russia|Kstovo|Svyazist LLC|
-|15|71.42.125.219|4444|United States|Leander|Spectrum|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|146.190.114.113|10013|United States|Santa Clara|DigitalOcean, LLC|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|115.74.4.98|10002|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|9|115.77.162.89|10001|Vietnam|Vũng Tàu|Viettel Group|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|14.236.4.30|7001|Vietnam|Da Nang|VNPT|
+|12|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|13|185.64.208.245|53281|Russia|Kstovo|Svyazist LLC|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|19|72.10.160.90|22151|Canada|Montreal|GloboTech Communications|
+|20|14.235.23.31|8080|Vietnam|Hanoi|VNPT|
 
 
 
