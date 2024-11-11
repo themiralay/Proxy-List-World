@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|125.25.32.157|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|125.25.32.157|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|14.187.182.151|10002|Vietnam|Ho Chi Minh City|VNPT|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|198.24.187.93|30221|United States|Ashburn|Secured Servers LLC|
-|13|72.10.160.170|24007|Canada|Montreal|GloboTech Communications|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|13.126.79.133|1080|India|Mumbai|Amazon Technologies Inc.|
-|16|72.10.160.92|13293|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|24007|Canada|Montreal|GloboTech Communications|
-|18|198.24.187.93|30221|United States|Ashburn|Secured Servers LLC|
-|19|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|20|67.43.236.20|18435|Canada|Montreal|GloboTech Communications|
+|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|115.72.34.167|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|14|114.116.214.19|8128|China|Beijing|IDC, China Telecommunications Corporation|
+|15|116.103.23.249|4002|Vietnam|Da Nang|Viettel Corporation|
+|16|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|17|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|18|67.43.227.227|6583|Canada|Montreal|GloboTech Communications|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 
 
 
