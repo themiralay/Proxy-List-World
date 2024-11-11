@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
 |8|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|9|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|146.190.114.113|10005|United States|Santa Clara|DigitalOcean, LLC|
-|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|67.43.228.250|15329|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|67.43.236.20|7349|Canada|Montreal|GloboTech Communications|
-|16|146.190.114.113|10005|United States|Santa Clara|DigitalOcean, LLC|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|7349|Canada|Montreal|GloboTech Communications|
+|9|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|16|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
