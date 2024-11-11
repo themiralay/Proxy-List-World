@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|31.40.248.2|8080|Russia|St Petersburg|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|113.160.132.33|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
-|20|148.72.168.81|30127|United States|St Louis|GoDaddy.com, LLC|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|14.167.35.32|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|72.10.164.178|32485|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|32485|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|22775|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32485|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.22|10441|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|25923|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|25923|Canada|Montreal|GloboTech Communications|
+|20|101.109.54.31|8080|Thailand|Pattaya|TOT Public Company Limited|
 
 
 
