@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|19|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|171.251.169.36|4001|Vietnam|Hanoi|Viettel Corporation|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|45.4.194.230|8080|Brazil|Brasília|Orbitel Telecomunicações e Informática Ltda|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|148.72.169.225|30119|United States|St Louis|GoDaddy.com, LLC|
+|19|222.252.194.204|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
