@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5277** proxies at the latest update. Usable proxies are below.
+> Scraper found **5262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3189|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3174|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|125.25.32.157|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|125.124.225.211|3128|China|Yanguan|Chinanet|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
-|13|148.72.169.225|30119|United States|St Louis|velia.net|
-|14|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|15|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|161.34.40.111|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|31.29.245.88|8424|Russia|Saratov|CMST-BLKV|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|116.98.69.114|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|115.72.6.204|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|115.77.162.89|10001|Vietnam|Vũng Tàu|Viettel Group|
+|11|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|15|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|17|161.34.40.111|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |18|67.43.227.228|19789|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24475|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24475|Canada|Montreal|GloboTech Communications|
+|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|20|31.29.245.88|8424|Russia|Saratov|CMST-BLKV|
 
 
 
