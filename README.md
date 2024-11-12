@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|8|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|9|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|10|125.124.225.211|3128|China|Yanguan|Chinanet|
-|11|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|91.121.106.55|4444|France|Roubaix|OVH SAS|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|14|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|17|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.236.20|27619|Canada|Montreal|GloboTech Communications|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
+|15|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|45.117.29.45|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
