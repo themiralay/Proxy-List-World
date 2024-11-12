@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|171.237.105.234|5020|Vietnam|Ninh Bình|Viettel Corporation|
-|5|103.144.18.49|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|12|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|171.228.180.60|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|72.10.160.90|32313|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|4859|Canada|Montreal|GloboTech Communications|
 |14|72.10.164.178|4859|Canada|Montreal|GloboTech Communications|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|72.10.164.178|4859|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|13987|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|18201|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|24195|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|23259|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|4859|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|67.43.227.227|11677|Canada|Montreal|GloboTech Communications|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|67.43.236.20|14617|Canada|Montreal|GloboTech Communications|
 
 
 
