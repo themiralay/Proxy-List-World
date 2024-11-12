@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |6|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|10|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|11|5.223.41.197|8080|Singapore|Singapore|Hetzner Online GmbH|
-|12|72.10.164.178|7583|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|19149|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|31825|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|22677|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|19149|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|22677|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|12275|Canada|Montreal|GloboTech Communications|
-|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|72.10.160.173|22965|Canada|Montreal|GloboTech Communications|
+|7|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|8|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|72.10.164.178|14749|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.94|26069|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|30321|Canada|Montreal|GloboTech Communications|
+|15|103.172.120.148|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
+|16|161.34.40.112|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|17|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|18|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|19|72.10.160.93|1169|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|23085|Canada|Montreal|GloboTech Communications|
 
 
 
