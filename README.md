@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|9|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|157.15.66.92|8090|Indonesia|Jatidowo|PT Trimitra Aditama Koneksindo|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|103.179.188.210|7001|Vietnam|Hanoi|INETSOLUTION|
-|17|72.10.160.91|8503|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|16419|Canada|Montreal|GloboTech Communications|
-|19|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
-|20|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
+|10|67.43.236.19|27247|Canada|Montreal|GloboTech Communications|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|20|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 
 
 
