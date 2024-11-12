@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4814** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|392|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|347|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3164|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
-|7|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
-|8|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
-|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|72.10.164.178|14749|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|26069|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|30321|Canada|Montreal|GloboTech Communications|
-|15|103.172.120.148|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
-|16|161.34.40.112|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|19|72.10.160.93|1169|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|23085|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|4|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|5|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|13|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|17|72.10.160.93|25705|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|2285|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|27363|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|27729|Canada|Montreal|GloboTech Communications|
 
 
 
