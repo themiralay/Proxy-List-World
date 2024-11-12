@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4793** proxies at the latest update. Usable proxies are below.
+> Scraper found **4812** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|156|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|709|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|728|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2586|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|121.132.60.117|3128|South Korea|Gimpo-si|Korea Telecom|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|16|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|17|146.12.5.237|8888|United States|Duncannon|PenTeleData Inc.|
-|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|125.124.225.211|3128|China|Yanguan|Chinanet|
+|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|67.43.228.254|5635|Canada|Montreal|GloboTech Communications|
+|17|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
+|18|114.218.165.50|8089|China|Guangzhou|China Telecom|
+|19|121.227.179.167|8089|China|Nanjing|China Telecom|
+|20|72.10.160.171|30013|Canada|Montreal|GloboTech Communications|
 
 
 
