@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|116.102.46.206|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|10|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
-|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|88.198.39.240|10009|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.228.253|12819|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|30829|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16955|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|16955|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|11229|Canada|Montreal|GloboTech Communications|
+|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|67.43.228.253|12819|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|11|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|72.10.160.91|1079|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|11229|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|12819|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|1079|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|15961|Canada|Montreal|GloboTech Communications|
+|20|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
