@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|14.187.169.135|10004|Vietnam|Ho Chi Minh City|VNPT|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|121.132.60.117|3128|South Korea|Gimpo-si|Korea Telecom|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|125.124.225.211|3128|China|Yanguan|Chinanet|
-|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|67.43.228.254|5635|Canada|Montreal|GloboTech Communications|
-|17|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|18|114.218.165.50|8089|China|Guangzhou|China Telecom|
-|19|121.227.179.167|8089|China|Nanjing|China Telecom|
-|20|72.10.160.171|30013|Canada|Montreal|GloboTech Communications|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|14.187.160.128|10001|Vietnam|Ho Chi Minh City|VNPT|
+|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|79.96.240.105|59246|Poland|Szczecin|home.pl network|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|17|128.140.113.110|5678|Germany|Falkenstein|Hetzner Online GmbH|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
