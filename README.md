@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|14.187.169.135|10004|Vietnam|Ho Chi Minh City|VNPT|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|14.187.175.95|10005|Vietnam|Ho Chi Minh City|VNPT|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|192.9.150.212|29399|United States|San Jose|Oracle Corporation|
-|12|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|20|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
+|3|45.78.59.180|3128|Japan|Osaka|IT7 Networks Inc|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|16|14.187.169.135|10004|Vietnam|Ho Chi Minh City|VNPT|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
 
 
 
