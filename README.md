@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5015** proxies at the latest update. Usable proxies are below.
+> Scraper found **5107** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|480|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.118.175.240|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|8|116.108.2.131|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|49.48.67.233|8080|Thailand|Phanom Dong Rak|Triple T Broadband Public Company Limited|
-|10|2.178.9.188|8080|Iran|Tehran|Information Technology Company|
-|11|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|12|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|14.187.143.233|10011|Vietnam|Ho Chi Minh City|VNPT|
+|7|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
+|8|171.236.124.40|80|Vietnam|Hanoi|Viettel Corporation|
+|9|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|115.72.6.204|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|13|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|72.10.164.178|5855|Canada|Montreal|GloboTech Communications|
 
 
 
