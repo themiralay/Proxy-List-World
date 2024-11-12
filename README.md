@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5267** proxies at the latest update. Usable proxies are below.
+> Scraper found **5254** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|149|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|621|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|49.51.244.112|8888|United States|Phoenix|OPHL|
+|7|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|14.225.215.117|1992|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|13|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|125.124.225.211|3128|China|Yanguan|Chinanet|
-|17|67.43.227.227|22517|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|17621|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28849|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|17507|Canada|Montreal|GloboTech Communications|
+|11|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|148.72.169.225|30119|United States|St Louis|velia.net|
+|14|95.163.235.117|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|72.10.160.170|32649|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|129.153.197.111|3128|United States|Phoenix|Oracle Corporation|
+|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|104.129.194.46|8800|United States|Reston|ZSCALER, INC.|
+|20|68.72.106.234|3128|United States|Valdosta|AT&T Services, Inc.|
 
 
 
