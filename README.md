@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|8|171.236.124.40|80|Vietnam|Hanoi|Viettel Corporation|
-|9|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|115.72.6.204|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|13|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|9|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|177.207.80.121|3128|Brazil|Fortaleza|TELEFÔNICA BRASIL S.A|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|72.10.164.178|16559|Canada|Montreal|GloboTech Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|72.10.164.178|5855|Canada|Montreal|GloboTech Communications|
+|17|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|18|38.172.130.238|999|Peru|Lima|Conex TV E.I.R.L.|
+|19|72.10.164.178|16559|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|10819|Canada|Montreal|GloboTech Communications|
 
 
 
