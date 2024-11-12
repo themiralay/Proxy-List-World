@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|185.44.65.171|9595|United States|New York|Massivegrid LTD|
-|10|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|124.106.173.56|8082|Philippines|Tagbilaran|Philippine Long Distance Telephone Co.|
-|17|114.33.18.16|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|18|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
-|19|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|20|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|8|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|31.197.137.186|3128|Italy|Ortona|Telecom Italia S.p.A.|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|15|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|16|72.10.164.178|19715|Canada|Montreal|GloboTech Communications|
+|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|20|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
 
 
 
