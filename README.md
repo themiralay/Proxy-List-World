@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4993** proxies at the latest update. Usable proxies are below.
+> Scraper found **4965** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|449|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|238|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3213|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
-|12|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|13|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|14|185.188.182.168|3128|Russia|Moscow|First Server Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|67.43.236.18|18521|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11183|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|6031|Canada|Montreal|GloboTech Communications|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|13.234.24.116|80|India|Mumbai|Amazon Technologies Inc.|
+|8|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|67.43.236.20|5155|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|20583|Canada|Montreal|GloboTech Communications|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|171.241.19.83|5102|Vietnam|Hanoi|Viettel Corporation|
+|15|67.43.228.253|20583|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|5155|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|20583|Canada|Montreal|GloboTech Communications|
+|18|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|19|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|125.66.122.153|9999|China|Chengdu|Chinanet|
 
 
 
