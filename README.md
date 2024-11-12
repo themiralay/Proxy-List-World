@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4948** proxies at the latest update. Usable proxies are below.
+> Scraper found **4972** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|490|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|218|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3164|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|12|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|16|123.22.176.208|8080|Vietnam|Bà Rịa|VietNam Post and Telecom Corporation|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
-|19|148.72.169.225|30119|United States|St Louis|velia.net|
-|20|14.187.166.199|10013|Vietnam|Ho Chi Minh City|VNPT|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
+|7|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|17|72.10.160.174|13055|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|32869|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16809|Canada|Montreal|GloboTech Communications|
 
 
 
