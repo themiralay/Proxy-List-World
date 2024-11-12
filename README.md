@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5033** proxies at the latest update. Usable proxies are below.
+> Scraper found **5111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|149|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|263|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3222|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|148.72.169.225|30119|United States|St Louis|velia.net|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|125.124.225.211|3128|China|Yanguan|Chinanet|
-|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
-|14|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|15|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|16|114.236.93.208|42119|China|Guangzhou|Chinanet|
-|17|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|12|125.124.225.211|3128|China|Yanguan|Chinanet|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|148.72.169.225|30119|United States|St Louis|velia.net|
+|17|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|27.115.22.54|80|China|Shanghai|China Unicom Shanghai Province Network|
+|19|114.218.86.200|8089|China|Nanjing|China Telecom|
 |20|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 
 
