@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|14.187.169.135|10004|Vietnam|Ho Chi Minh City|VNPT|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|14.187.160.128|10001|Vietnam|Ho Chi Minh City|VNPT|
+|6|116.103.23.249|4002|Vietnam|Da Nang|Viettel Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.132.54.150|8080|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|125.124.225.211|3128|China|Yanguan|Chinanet|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
