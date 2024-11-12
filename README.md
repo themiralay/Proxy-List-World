@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|67.43.236.20|6449|Canada|Montreal|GloboTech Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.227.227|24701|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|22903|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|4181|Canada|Montreal|GloboTech Communications|
-|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.227.226|25509|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|32293|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|24701|Canada|Montreal|GloboTech Communications|
-|18|41.65.71.136|1976|Egypt|Cairo|Etisalat Misr|
-|19|72.10.160.93|4181|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.118.175.240|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|8|116.108.2.131|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|49.48.67.233|8080|Thailand|Phanom Dong Rak|Triple T Broadband Public Company Limited|
+|10|2.178.9.188|8080|Iran|Tehran|Information Technology Company|
+|11|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|12|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|14.187.143.233|10011|Vietnam|Ho Chi Minh City|VNPT|
+|16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
