@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|161.34.40.35|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|161.34.40.35|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
+|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|11|72.10.160.91|24935|Canada|Montreal|GloboTech Communications|
-|12|115.72.15.104|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.119.114.203|3128|India|Hyderabad|Netrun Technologies PVT LTD|
-|16|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.164.178|6923|Canada|Montreal|GloboTech Communications|
-|18|103.130.128.66|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|19|125.124.225.211|3128|China|Yanguan|Chinanet|
-|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|7|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|11|148.72.169.225|30119|United States|St Louis|velia.net|
+|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|13|72.10.164.178|6923|Canada|Montreal|GloboTech Communications|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|88.198.39.240|10006|Germany|Nuremberg|Hetzner Online GmbH|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|18|72.10.160.171|14505|Canada|Montreal|GloboTech Communications|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|161.34.40.115|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 
 
 
