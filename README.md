@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|203.150.113.128|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.158.202.222|999|Mexico|Aguascalientes|Onfiber SA De CV|
-|7|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|17|72.10.160.174|13055|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|32869|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24779|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|16809|Canada|Montreal|GloboTech Communications|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|120.133.37.235|1080|China|Chaowai|IDC, China Telecommunications Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|16|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
+|18|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|19|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|26573|Canada|Montreal|GloboTech Communications|
 
 
 
