@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4499** proxies at the latest update. Usable proxies are below.
+> Scraper found **4561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|309|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2551|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|34.48.186.69|80|United States|Washington|Google LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.31.241.213|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
 |5|34.48.186.69|80|United States|Washington|Google LLC|
-|6|147.75.34.85|10035|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|13|38.57.232.46|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
-|14|88.198.39.240|10006|Germany|Nuremberg|Hetzner Online GmbH|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|171.252.33.207|24001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|72.10.164.178|20579|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|22193|Canada|Montreal|GloboTech Communications|
-|19|165.16.27.36|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|20|72.10.164.178|20579|Canada|Montreal|GloboTech Communications|
+|6|147.75.92.244|10035|Japan|Tokyo|Packet Host, Inc.|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|14|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|15|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.227.227|25817|Canada|Montreal|GloboTech Communications|
+|19|103.54.218.203|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|20|67.43.227.226|25817|Canada|Montreal|GloboTech Communications|
 
 
 
