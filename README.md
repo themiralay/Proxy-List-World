@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|34.48.186.69|80|United States|Washington|Google LLC|
-|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|52.221.186.5|3128|Singapore|Singapore|Amazon.com, Inc.|
-|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|14.187.166.236|10004|Vietnam|Ho Chi Minh City|VNPT|
-|11|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|12|95.215.8.225|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|15|67.43.236.20|19985|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.114|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|27.115.22.54|80|China|Shanghai|China Unicom Shanghai Province Network|
-|18|72.10.160.173|9657|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|29839|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6053|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|200.24.152.210|999|Ecuador|Manta|Negocios Y Telefonia Nedetel S.A|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|119.95.231.49|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|138.0.141.46|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|10|125.124.225.211|3128|China|Yanguan|Chinanet|
+|11|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
+|12|118.99.68.165|8080|Indonesia|Surabaya|Biznet Metronet|
+|13|37.143.129.242|47313|Finland|Helsinki|ONEPROVIDER|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|16|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|17|103.189.116.110|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|18|5.187.13.106|8080|Georgia||LLC Skytel|
+|19|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|20|148.72.169.225|30119|United States|St Louis|velia.net|
 
 
 
