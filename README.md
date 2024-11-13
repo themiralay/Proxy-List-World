@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.111|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |3|34.48.186.69|80|United States|Washington|Google LLC|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|10|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|182.253.93.2|53281|Indonesia|Jakarta Pusat|BIZNET|
-|16|46.8.252.17|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|139.64.245.176|80|Canada|Kitchener|DataCity|
+|4|34.48.186.69|80|United States|Washington|Google LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|200.10.31.148|999|Colombia|Pereira|Super Redes S.A.S|
+|16|125.124.225.211|3128|China|Yanguan|Chinanet|
+|17|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|79.96.240.105|59245|Poland|Szczecin|home.pl network|
+|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
