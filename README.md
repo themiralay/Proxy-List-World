@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|13|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|19|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|45.4.0.28|999|Chile|Santiago|Tlink SPA|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|186.65.107.2|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|15|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|217.52.247.68|1976|Egypt|Cairo|Etisalat Misr|
+|20|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
