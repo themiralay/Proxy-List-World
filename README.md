@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4837** proxies at the latest update. Usable proxies are below.
+> Scraper found **4792** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|168|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|726|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|447|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2570|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.154.78.253|80|India|Mumbai|Amazon Technologies Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|125.124.225.211|3128|China|Yanguan|Chinanet|
-|19|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|115.74.3.152|10011|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|45.162.78.222|8080|Colombia|Armenia|InterNexa Global Network|
+|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|17|152.32.67.107|65535|Philippines|San Juan|Converge ICT Solution Inc|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|20|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
 
 
 
