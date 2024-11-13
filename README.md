@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|116.108.12.86|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
 |11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|15|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|16|103.171.240.141|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|67.43.227.227|25517|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4385|Canada|Montreal|GloboTech Communications|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|156.67.172.185|3128|Germany|Willich|Deutsche Glasfaser Business GmbH|
+|16|147.75.92.251|9400|Japan|Tokyo|Packet Host, Inc.|
+|17|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
