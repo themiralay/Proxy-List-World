@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|10|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|11|72.10.160.93|13155|Canada|Montreal|GloboTech Communications|
-|12|121.236.236.210|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|13|45.132.236.230|8888|United States|Los Angeles|Zenlayer Inc|
-|14|72.10.164.178|5263|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|23191|Canada|Montreal|GloboTech Communications|
-|16|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.236.19|3003|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|22163|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5263|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|15969|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|2|161.34.40.32|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|131.72.89.53|9500|Brazil|Formosa do Oeste|MR Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|213.32.104.189|8080|Spain|Madrid|OVH SAS|
+|11|72.10.160.170|24109|Canada|Montreal|GloboTech Communications|
+|12|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|67.43.227.230|10737|Canada|Montreal|GloboTech Communications|
+|16|79.96.240.107|59245|Poland|Szczecin|home.pl network|
+|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|18|67.43.227.227|9069|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9069|Canada|Montreal|GloboTech Communications|
+|20|188.132.222.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
