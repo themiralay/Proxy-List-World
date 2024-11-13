@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|161.34.40.111|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|19|37.143.129.242|47224|Finland|Helsinki|ONEPROVIDER|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
