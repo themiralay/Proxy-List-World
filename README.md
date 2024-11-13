@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.154.49.209|8080|Bangladesh|Bhātāra|Windstream Communication Limited|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|19|161.34.40.115|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|20|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|103.177.101.42|1111|Indonesia|Bekasi|MORATELINDONAP|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|20|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
