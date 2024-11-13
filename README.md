@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|149.28.181.52|80|Australia|Sydney|The Constant Company|
-|7|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|14.187.186.99|10011|Vietnam|Ho Chi Minh City|VNPT|
-|11|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.153.96.99|8181|Indonesia|Serang|NITNET|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|185.255.132.129|8118|Russia|Moscow|First Server Limited|
-|17|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|14.187.130.112|10011|Vietnam|Ho Chi Minh City|VNPT|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|14.187.186.99|10011|Vietnam|Ho Chi Minh City|VNPT|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
+|15|115.72.13.136|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|149.28.181.52|80|Australia|Sydney|The Constant Company|
+|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|121.227.179.185|8089|China|Nanjing|China Telecom|
 
 
 
