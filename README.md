@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |2|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|112.78.167.56|8080|Indonesia|Jakarta|Biznet Networks|
-|8|77.221.140.199|12345|Sweden|Stockholm|Aeza International LTD|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|157.66.50.98|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|103.106.219.119|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|148.72.169.225|30119|United States|St Louis|velia.net|
-|20|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|103.167.170.237|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
