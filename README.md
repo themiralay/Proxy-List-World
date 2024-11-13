@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|7|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|16|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|19|67.43.228.250|14251|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22337|Canada|Montreal|GloboTech Communications|
+|9|161.34.40.110|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|10|169.62.227.172|80|United States|Chicago|SoftLayer|
+|11|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|67.43.227.227|8019|Canada|Montreal|GloboTech Communications|
+|16|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|17|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|18|169.62.227.172|80|United States|Chicago|SoftLayer|
+|19|72.10.164.178|23945|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|7319|Canada|Montreal|GloboTech Communications|
 
 
 
