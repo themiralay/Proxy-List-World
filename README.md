@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|49.145.181.132|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|16|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|12|125.124.225.211|3128|China|Yanguan|Chinanet|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|72.10.164.178|19449|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.229|27935|Canada|Montreal|GloboTech Communications|
+|18|152.32.67.107|65535|Philippines|San Juan|Converge ICT Solution Inc|
+|19|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
