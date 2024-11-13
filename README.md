@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|7|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|148.72.169.225|30119|United States|St Louis|velia.net|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|39.170.37.201|65534|China|Hangzhou|China Mobile Communications Corporation|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
-|19|72.10.160.173|19093|Canada|Montreal|GloboTech Communications|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|12|161.34.40.114|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|13|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|14|125.124.225.211|3128|China|Yanguan|Chinanet|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|17|72.10.164.178|33231|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|15549|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|13873|Canada|Montreal|GloboTech Communications|
+|20|125.124.225.211|3128|China|Yanguan|Chinanet|
 
 
 
