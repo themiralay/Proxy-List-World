@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4291** proxies at the latest update. Usable proxies are below.
+> Scraper found **4395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|443|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|281|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2478|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|103.167.170.90|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|72.10.160.170|21997|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|10915|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|14669|Canada|Montreal|GloboTech Communications|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|72.10.160.170|21997|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10915|Canada|Montreal|GloboTech Communications|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|72.10.160.173|28079|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|21997|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|25965|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|72.10.160.172|28797|Canada|Montreal|GloboTech Communications|
-|20|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|6|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|11|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|12|27.115.22.54|80|China|Shanghai|China Unicom Shanghai Province Network|
+|13|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|72.10.164.178|24901|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|6053|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|24901|Canada|Montreal|GloboTech Communications|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|157.100.60.146|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
 
 
 
