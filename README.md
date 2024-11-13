@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|14.187.189.190|10002|Vietnam|Ho Chi Minh City|VNPT|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|209.38.67.51|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|148.72.169.225|30119|United States|St Louis|velia.net|
-|13|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|14|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|72.10.164.178|29623|Canada|Montreal|GloboTech Communications|
-|17|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|29623|Canada|Montreal|GloboTech Communications|
-|20|149.28.181.52|80|Australia|Sydney|The Constant Company|
+|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|14.187.189.190|10002|Vietnam|Ho Chi Minh City|VNPT|
+|5|14.187.158.145|10002|Vietnam|Ho Chi Minh City|VNPT|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|17|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|18|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|222.59.160.93|45015|China|Qinnan|China Mobile Communications Corporation|
 
 
 
