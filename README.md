@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|27.73.86.58|10002|Vietnam|Bắc Giang|Newass2011xDSLHN|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|15|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|19|121.227.179.176|8089|China|Nanjing|China Telecom|
-|20|45.173.198.227|999|Venezuela|Palo Negro|360net C.A.|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|12|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|16|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|17|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|161.34.40.116|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
