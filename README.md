@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
 |2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|34.48.186.69|80|United States|Washington|Google LLC|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|188.125.167.82|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|72.10.164.178|24333|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|20|79.96.240.105|59245|Poland|Szczecin|home.pl network|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|11|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|12|121.132.60.117|3128|South Korea|Gimpo-si|Korea Telecom|
+|13|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|14|188.125.167.82|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|125.124.225.211|3128|China|Yanguan|Chinanet|
+|16|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|79.96.240.105|59245|Poland|Szczecin|home.pl network|
+|18|79.96.240.105|59245|Poland|Szczecin|home.pl network|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
