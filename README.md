@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|182.150.24.104|7979|China|Muping|Chinanet|
+|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|203.150.113.44|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|20|125.124.225.211|3128|China|Yanguan|Chinanet|
 
 
 
