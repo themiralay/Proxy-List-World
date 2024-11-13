@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|147.28.145.213|10057|United States|Ashburn|Packet Host, Inc.|
+|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |2|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
 |3|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.113|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|67.43.227.230|26879|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|13209|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|17171|Canada|Montreal|GloboTech Communications|
-|11|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|12|67.43.227.227|14069|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|30105|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|22753|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|11111|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|30105|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|13175|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|27043|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|15997|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|20097|Canada|Montreal|GloboTech Communications|
+|4|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|9|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
+|12|161.34.40.113|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|13|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
+|14|157.230.254.107|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|72.10.160.90|2839|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|4925|Canada|Montreal|GloboTech Communications|
+|17|103.54.80.194|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
+|18|72.10.164.178|26469|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|23457|Canada|Montreal|GloboTech Communications|
+|20|34.48.186.69|80|United States|Washington|Google LLC|
 
 
 
