@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|5.196.101.18|3128|France|Commune de Chemillé-en-Anjou|OVH SAS|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|147.75.92.251|9400|Japan|Tokyo|Packet Host, Inc.|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|34.48.186.69|80|United States|Washington|Google LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|203.150.128.234|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.236.18|20707|Canada|Montreal|GloboTech Communications|
-|14|79.96.240.105|59246|Poland|Szczecin|home.pl network|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|17|72.10.160.171|20613|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|12411|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|24683|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9969|Canada|Montreal|GloboTech Communications|
+|8|34.48.186.69|80|United States|Washington|Google LLC|
+|9|203.150.128.234|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|65.108.159.129|999|Finland|Helsinki|Hetzner Online GmbH|
+|17|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|20|79.96.240.105|59246|Poland|Szczecin|home.pl network|
 
 
 
