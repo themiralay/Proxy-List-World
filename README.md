@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|161.34.40.33|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |2|161.34.40.37|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 |3|161.34.40.32|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
 |6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
-|11|103.148.44.197|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|12|161.34.40.114|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|13|157.66.50.98|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|14|72.10.160.173|14715|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|9577|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|20921|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21637|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|14559|Canada|Montreal|GloboTech Communications|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|67.43.228.250|20921|Canada|Montreal|GloboTech Communications|
+|7|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|8|161.34.40.114|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|72.10.164.178|30289|Canada|Montreal|GloboTech Communications|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|72.10.164.178|30289|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|32019|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.113|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|15|72.10.164.178|30289|Canada|Montreal|GloboTech Communications|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|72.10.160.171|18297|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.252|32737|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|30493|Canada|Montreal|GloboTech Communications|
 
 
 
