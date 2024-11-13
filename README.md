@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|11|157.245.59.236|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|72.10.164.178|10041|Canada|Montreal|GloboTech Communications|
-|17|116.198.36.86|8080|China|Beijing|IDC, China Telecommunications Corporation|
-|18|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|67.43.236.20|11955|Canada|Montreal|GloboTech Communications|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|43.252.107.119|7777|Indonesia|Blitar|PT Lintas Data Prima|
+|12|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|115.72.36.85|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
 
 
 
