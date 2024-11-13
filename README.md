@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.179.188.210|7001|Vietnam|Hanoi|INETSOLUTION|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|10|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|12|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|13|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|14|38.156.75.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
+|16|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|18|209.45.108.230|1011|Peru|Lima|Red Cientifica Peruana|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|14.225.215.117|1992|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
