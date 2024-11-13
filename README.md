@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|34.48.186.69|80|United States|Washington|Google LLC|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|77.52.187.54|8080|Ukraine|Cherkasy|UMC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|12|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|13|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|14|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|15|125.124.225.211|3128|China|Yanguan|Chinanet|
-|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|67.43.227.230|4643|Canada|Montreal|GloboTech Communications|
-|18|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|19|67.43.236.20|1275|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|34.48.186.69|80|United States|Washington|Google LLC|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|5|34.48.186.69|80|United States|Washington|Google LLC|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|148.72.169.225|30119|United States|St Louis|velia.net|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|45.117.29.25|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|72.10.160.172|21279|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|16601|Canada|Montreal|GloboTech Communications|
+|12|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|67.43.236.20|4423|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|17135|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|12911|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12911|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|12457|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.19|3273|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|12457|Canada|Montreal|GloboTech Communications|
 
 
 
