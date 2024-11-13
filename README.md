@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|66.96.232.250|8181|Indonesia|Jakarta|MYREPUBLIC|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|66.96.232.250|8181|Indonesia|Jakarta|MYREPUBLIC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|43.243.141.10|8080|Indonesia|Jakarta|CEPATNET|
-|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|11|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|13|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
-|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|11|49.49.56.209|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
