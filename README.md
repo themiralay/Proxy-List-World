@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|9|152.32.67.107|65535|Philippines|San Juan|Converge ICT Solution Inc|
-|10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
-|12|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|13|125.124.225.211|3128|China|Yanguan|Chinanet|
-|14|67.43.227.226|28087|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|32015|Canada|Montreal|GloboTech Communications|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|72.10.164.178|25825|Canada|Montreal|GloboTech Communications|
-|19|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|20|72.10.160.171|14953|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|12|149.28.181.52|80|Australia|Sydney|The Constant Company|
+|13|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|79.96.240.105|59245|Poland|Szczecin|home.pl network|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|18|114.33.18.16|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|20|160.248.93.122|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
 
 
 
