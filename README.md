@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|125.124.225.211|3128|China|Yanguan|Chinanet|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|148.72.169.225|30119|United States|St Louis|velia.net|
-|12|72.10.164.178|1625|Canada|Montreal|GloboTech Communications|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|161.34.40.112|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|15|67.43.227.227|14655|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|8229|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|72.10.164.178|1625|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14655|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|8499|Canada|Montreal|GloboTech Communications|
+|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|15|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|16|125.124.225.211|3128|China|Yanguan|Chinanet|
+|17|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|18|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|161.34.40.112|3128|Japan|Atsugi|NTT PC Communications, Inc.|
 
 
 
