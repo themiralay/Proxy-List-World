@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4839** proxies at the latest update. Usable proxies are below.
+> Scraper found **4777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|161|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|768|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|706|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|388|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2596|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|3|34.48.186.69|80|United States|Washington|Google LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.48.186.69|80|United States|Washington|Google LLC|
-|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|9|152.32.67.107|65535|Philippines|San Juan|Converge ICT Solution Inc|
 |10|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|41.111.188.39|80|Algeria|Kouba|Algerie Telecom|
-|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|17|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|19|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
+|12|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
+|13|125.124.225.211|3128|China|Yanguan|Chinanet|
+|14|67.43.227.226|28087|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|32015|Canada|Montreal|GloboTech Communications|
+|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|72.10.164.178|25825|Canada|Montreal|GloboTech Communications|
+|19|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|20|72.10.160.171|14953|Canada|Montreal|GloboTech Communications|
 
 
 
