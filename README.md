@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.48.186.69|80|United States|Washington|Google LLC|
-|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.179.188.210|7001|Vietnam|Hanoi|INETSOLUTION|
-|5|34.48.186.69|80|United States|Washington|Google LLC|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|148.72.168.81|30127|United States|St Louis|velia.net|
-|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|11|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|148.72.168.81|30127|United States|St Louis|velia.net|
-|15|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|16|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|143.110.226.180|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|18.211.153.77|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|18.211.153.77|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|139.255.21.74|8080|Indonesia|Jakarta|PT. LINKNET|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|203.150.113.16|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
 |17|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|45.70.236.193|999|Ecuador|Vinces|Ufinet Panama S.A.|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
 
 
 
