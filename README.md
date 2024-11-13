@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|34.48.186.69|80|United States|Washington|Google LLC|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
+|3|4.7.147.233|8082|United States|Broomfield|Level 3 Communications, Inc.|
 |4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.177.199.67|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|8|65.108.159.129|999|Finland|Helsinki|Hetzner Online GmbH|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|121.132.60.117|3128|South Korea|Gimpo-si|Korea Telecom|
-|11|103.203.233.144|3125|Indonesia|Kedok|INDANA|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|147.75.34.83|10086|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|38.57.232.46|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|17|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|18|148.72.169.225|30119|United States|St Louis|velia.net|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.172.71.113|1111|Indonesia|Bekasi|AZNET|
+|7|103.177.199.61|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.64.208.28|53281|Russia|Kstovo|Svyazist LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|103.144.18.55|1010|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|13|103.105.53.110|7777|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|14|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|15|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
+|16|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|19|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|20|104.129.194.43|10003|United States|Reston|ZSCALER, INC.|
 
 
 
