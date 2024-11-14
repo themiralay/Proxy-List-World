@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
-|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|148.72.168.81|30127|United States|St Louis|velia.net|
-|12|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|49.48.43.181|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|20|47.243.199.44|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
