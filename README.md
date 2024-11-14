@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|103.153.191.43|8081|Indonesia|Kudus|WANET|
-|6|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|7|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|8|72.10.164.178|18149|Canada|Montreal|GloboTech Communications|
-|9|148.72.169.225|30119|United States|St Louis|velia.net|
-|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|72.10.160.90|24843|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|13069|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|33079|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18149|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|13069|Canada|Montreal|GloboTech Communications|
-|16|148.72.169.225|30119|United States|St Louis|velia.net|
-|17|67.43.227.227|5059|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|24843|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18149|Canada|Montreal|GloboTech Communications|
-|20|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|128.140.113.110|5678|Germany|Falkenstein|Hetzner Online GmbH|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|11|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|36.92.132.114|1010|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|72.10.160.170|19287|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|20731|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|2453|Canada|Montreal|GloboTech Communications|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|19|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|20|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 
 
 
