@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|14.187.164.82|10013|Vietnam|Ho Chi Minh City|VNPT|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
-|15|103.76.149.102|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|16|85.232.243.235|8080|Poland|Warsaw|ATMAN|
-|17|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|18|103.153.39.25|8080|Pakistan|Chishtian|Getlinks (SMC-Private) Limited|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|103.177.199.47|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|1|14.187.164.82|10013|Vietnam|Ho Chi Minh City|VNPT|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|15|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|103.153.39.25|8080|Pakistan|Chishtian|Getlinks (SMC-Private) Limited|
+|18|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
