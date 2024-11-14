@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|2|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|3|18.211.153.77|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|67.43.227.227|3375|Canada|Montreal|GloboTech Communications|
-|5|67.43.236.20|4455|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.227|3375|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|4455|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|3375|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|4455|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1831|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|24231|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|28179|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3375|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11197|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4455|Canada|Montreal|GloboTech Communications|
+|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|3|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|4|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|186.148.180.243|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|72.10.164.178|15461|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|13997|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|15461|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|8523|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15461|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|17|72.10.164.178|15461|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|15461|Canada|Montreal|GloboTech Communications|
 
 
 
