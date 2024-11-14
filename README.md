@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|171.97.12.108|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|61.29.96.146|8000|Australia|Saint Albans|AAPT Limited|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|171.97.12.108|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.155.62.8|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
 |8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|116.98.60.64|10057|Vietnam|Da Nang|Viettel Corporation|
-|15|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|16|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|17|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|19|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|18|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|19|171.245.119.229|5000|Vietnam|Thái Bình|Viettel Corporation|
+|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
