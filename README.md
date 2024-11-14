@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|31.197.137.186|3128|Italy|Ortona|Telecom Italia S.p.A.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|31.197.137.186|3128|Italy|Ortona|Telecom Italia S.p.A.|
-|15|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|67.43.228.250|25159|Canada|Montreal|GloboTech Communications|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|72.10.164.178|17291|Canada|Montreal|GloboTech Communications|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|11|121.132.60.117|3128|South Korea|Gimpo-si|Korea Telecom|
+|12|148.72.168.81|30127|United States|St Louis|velia.net|
+|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
+|15|72.10.160.93|4893|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|5.187.13.106|8080|Georgia||LLC Skytel|
+|18|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|19|195.26.247.26|6969|United States|St Louis|Nubes, LLC|
+|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
