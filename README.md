@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|2|110.77.171.42|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|103.178.194.199|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
-|6|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|10|58.147.186.226|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|11|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|14|186.148.195.67|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|67.43.227.226|2511|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7751|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|6753|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|5|31.56.78.129|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|72.10.164.178|18211|Canada|Montreal|GloboTech Communications|
+|12|125.124.225.211|3128|China|Yanguan|Chinanet|
+|13|72.10.164.178|18211|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.117|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|72.10.160.91|14175|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|9923|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|26033|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
 
 
 
