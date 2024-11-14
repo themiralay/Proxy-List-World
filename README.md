@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|147.28.155.20|10057|United States|Dallas|Packet Host, Inc.|
-|5|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|185.10.129.14|3128|Russia|Yaroslavl|Yarnet Ltd.|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|203.150.113.61|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|95.217.22.143|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|146.190.114.113|10004|United States|Santa Clara|DigitalOcean, LLC|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|18.211.153.77|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|67.43.236.20|27567|Canada|Montreal|GloboTech Communications|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|72.10.160.92|13093|Canada|Montreal|GloboTech Communications|
+|19|148.72.169.225|30119|United States|St Louis|velia.net|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
