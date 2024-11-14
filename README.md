@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|10|103.111.136.110|8081|Indonesia|Gubengairlangga|PT Mitra Lintas Multimedia|
-|11|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
-|17|14.187.164.82|10013|Vietnam|Ho Chi Minh City|VNPT|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|72.10.160.94|21633|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20953|Canada|Montreal|GloboTech Communications|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|14.187.164.82|10013|Vietnam|Ho Chi Minh City|VNPT|
+|6|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|171.245.125.101|5008|Vietnam|Thái Bình|Viettel Corporation|
+|11|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
+|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|58.69.117.149|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|116.254.96.167|8080|Indonesia|Jakarta|SpaceX Starlink|
+|18|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|19|72.10.164.178|15177|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|15177|Canada|Montreal|GloboTech Communications|
 
 
 
