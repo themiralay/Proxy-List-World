@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|72.10.160.171|11291|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.174|28731|Canada|Montreal|GloboTech Communications|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|8|67.43.228.253|12533|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|14627|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.22|22991|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|12533|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|12313|Canada|Montreal|GloboTech Communications|
-|13|121.227.183.165|8089|China|Shanghai|China Telecom|
-|14|67.43.228.254|31625|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|14627|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|17|67.43.228.250|15579|Canada|Montreal|GloboTech Communications|
+|1|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|38.159.229.89|999|Ecuador|Vinces|Turbonet S.A.|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|67.43.228.250|15579|Canada|Montreal|GloboTech Communications|
+|14|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|15|72.10.164.178|30813|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|2857|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|15097|Canada|Montreal|GloboTech Communications|
 |18|67.43.236.18|15097|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|15097|Canada|Montreal|GloboTech Communications|
-|20|171.245.119.229|5000|Vietnam|Thái Bình|Viettel Corporation|
+|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|20|72.10.164.178|30813|Canada|Montreal|GloboTech Communications|
 
 
 
