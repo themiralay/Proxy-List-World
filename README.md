@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.112|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
-|9|103.172.70.29|1111|Indonesia|Bekasi|AZNET|
-|10|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.160.91|17155|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15383|Canada|Montreal|GloboTech Communications|
-|15|121.101.134.214|1111|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|16|67.43.228.253|16545|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.229|20931|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|16545|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|67.43.227.226|12623|Canada|Montreal|GloboTech Communications|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
