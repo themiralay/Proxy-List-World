@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|45.174.80.83|20183|Brazil|Riachão das Neves|Davilson Dos Santos Correia-me|
-|16|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|148.72.168.81|30127|United States|St Louis|velia.net|
-|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.227.227|8551|Canada|Montreal|GloboTech Communications|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|72.10.164.178|14973|Canada|Montreal|GloboTech Communications|
+|13|36.92.132.114|1010|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|72.10.164.178|14973|Canada|Montreal|GloboTech Communications|
+|15|208.67.28.19|58090|United States|Eagle River|SonicNet Inc.|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
+|18|72.10.160.91|3865|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|20|67.43.227.226|1223|Canada|Montreal|GloboTech Communications|
 
 
 
