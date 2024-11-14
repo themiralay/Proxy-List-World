@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|3|139.178.67.134|10068|United States|Parsippany|Packet Host, Inc.|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|6|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|139.178.67.134|10068|United States|Parsippany|Packet Host, Inc.|
-|8|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|72.10.160.93|7407|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.59.163.206|80|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|17|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
-|18|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|19|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|20|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|72.10.160.93|4893|Canada|Montreal|GloboTech Communications|
+|13|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|67.43.228.251|27749|Canada|Montreal|GloboTech Communications|
+|17|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|72.10.160.90|4253|Canada|Montreal|GloboTech Communications|
 
 
 
