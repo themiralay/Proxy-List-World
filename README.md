@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|125.124.225.211|3128|China|Yanguan|Chinanet|
-|19|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|12|148.72.168.81|30127|United States|St Louis|velia.net|
+|13|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|67.43.228.253|5531|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|14807|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|27511|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9743|Canada|Montreal|GloboTech Communications|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
