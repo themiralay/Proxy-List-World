@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.134.74|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|14.187.167.71|10013|Vietnam|Ho Chi Minh City|VNPT|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|7|103.76.150.206|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
-|8|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|9|38.183.209.53|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|10|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
-|11|190.121.157.141|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|72.10.160.91|12025|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16421|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|16421|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|30379|Canada|Montreal|GloboTech Communications|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|148.72.169.225|30119|United States|St Louis|velia.net|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|16|103.76.150.206|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|20|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
 
 
 
