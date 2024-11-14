@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|79.96.240.105|59246|Poland|Szczecin|home.pl network|
-|5|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|186.148.195.70|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|146.190.114.113|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|45.117.29.45|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|17|67.43.236.22|16579|Canada|Montreal|GloboTech Communications|
-|18|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.92|7711|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|26929|Canada|Montreal|GloboTech Communications|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|7|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|103.175.240.87|8080|Indonesia|Banyumas|LDP|
+|10|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|11|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|12|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
+|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|161.34.40.36|3128|Japan|Atsugi|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|14.224.183.185|8080|Vietnam|Hanoi|VNPT|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|72.10.160.92|7711|Canada|Montreal|GloboTech Communications|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|72.10.164.178|6337|Canada|Montreal|GloboTech Communications|
 
 
 
