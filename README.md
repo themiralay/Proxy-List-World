@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|103.153.191.43|8081|Indonesia|Kudus|WANET|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|72.10.160.90|32373|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|23765|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22623|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|26311|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|11|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.160.173|24279|Canada|Montreal|GloboTech Communications|
+|16|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|17|72.10.164.178|2273|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|29755|Canada|Montreal|GloboTech Communications|
 |19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.160.173|12313|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
