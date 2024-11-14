@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
-|8|103.153.191.43|8081|Indonesia|Kudus|WANET|
-|9|72.10.160.173|15065|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|1719|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|26327|Canada|Montreal|GloboTech Communications|
-|12|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|13|67.43.228.253|10813|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|14079|Canada|Montreal|GloboTech Communications|
-|15|121.236.236.26|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|67.43.228.252|14527|Canada|Montreal|GloboTech Communications|
-|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|67.43.227.230|16725|Canada|Montreal|GloboTech Communications|
+|1|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
+|5|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|6|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|7|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|72.10.160.170|3235|Canada|Montreal|GloboTech Communications|
+|10|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|67.43.227.227|31933|Canada|Montreal|GloboTech Communications|
+|13|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|14|67.43.227.230|16725|Canada|Montreal|GloboTech Communications|
+|15|1.20.203.149|8080|Thailand|Ban Karon|TOT Public Company Limited|
+|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|17|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|114.244.78.139|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|72.10.160.90|14469|Canada|Montreal|GloboTech Communications|
+|20|45.249.122.198|8080|India|Kotagiri|Airconnect Services|
 
 
 
