@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|14.187.167.71|10013|Vietnam|Ho Chi Minh City|VNPT|
-|3|3.8.134.74|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|148.72.168.81|30127|United States|St Louis|velia.net|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|148.72.168.81|30127|United States|St Louis|velia.net|
-|9|103.159.96.50|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
-|12|72.10.160.92|30379|Canada|Montreal|GloboTech Communications|
-|13|156.67.172.185|3128|Germany|Willich|Deutsche Glasfaser Business GmbH|
-|14|72.10.164.178|24623|Canada|Montreal|GloboTech Communications|
-|15|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|16|14.187.167.71|10013|Vietnam|Ho Chi Minh City|VNPT|
-|17|72.10.160.172|3155|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.228.253|19315|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|19315|Canada|Montreal|GloboTech Communications|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|14.187.164.82|10011|Vietnam|Ho Chi Minh City|VNPT|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|3.8.134.74|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.151.247.242|7777|Indonesia|Bogor|MANAKARRANET|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|171.228.181.120|26639|Vietnam|Vĩnh Tường|Viettel Corporation|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
