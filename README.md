@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|2|165.22.3.179|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|38.49.129.237|999|Mexico|Francisco I. Madero Municipality|Ientc S De RL De CV|
-|4|165.22.3.179|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|203.150.128.154|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
-|11|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|12|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|15581|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|12549|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|3771|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12549|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30975|Canada|Montreal|GloboTech Communications|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
+|12|59.36.239.108|21133|China|Jiangmen|Chinanet|
+|13|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|67.43.227.227|30975|Canada|Montreal|GloboTech Communications|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|67.43.228.252|26181|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30975|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12549|Canada|Montreal|GloboTech Communications|
 
 
 
