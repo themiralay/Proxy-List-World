@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.70.129.79|4001|Vietnam|Hanoi|Viettel Group|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|157.66.16.44|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|27.70.129.79|4001|Vietnam|Hanoi|Viettel Group|
 |6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|65.109.71.86|7777|Finland|Helsinki|Hetzner Online GmbH|
-|11|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|171.245.119.229|5000|Vietnam|Thái Bình|Viettel Corporation|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|7|171.245.125.101|5008|Vietnam|Thái Bình|Viettel Corporation|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|72.10.160.170|4035|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|17|67.43.227.227|17149|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|13867|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11495|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11495|Canada|Montreal|GloboTech Communications|
 
 
 
