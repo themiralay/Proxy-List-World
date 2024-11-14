@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|12|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|124.248.180.162|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|17|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|139.64.245.176|80|Canada|Kitchener|DataCity|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|6|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|43.250.182.11|1234|Indonesia|Jakarta|PT Aris Media Globalindo|
+|10|67.43.227.227|14715|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.250|5465|Canada|Montreal|GloboTech Communications|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|209.14.116.75|999|Colombia|Neiva|AGIS|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|72.10.160.93|11873|Canada|Montreal|GloboTech Communications|
+|17|148.72.169.225|30118|United States|St Louis|velia.net|
+|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|19|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|20|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
