@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|171.245.125.101|5008|Vietnam|Thái Bình|Viettel Corporation|
-|3|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|14.187.164.82|10013|Vietnam|Ho Chi Minh City|VNPT|
-|6|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|9|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.164.178|14657|Canada|Montreal|GloboTech Communications|
+|1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|4|51.8.104.70|3128|Germany|Magdeburg|Microsoft Germany|
+|5|116.246.9.164|443|China|Shanghai|China Telecom (Group)|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|8|67.43.236.20|19061|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|9593|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|9593|Canada|Montreal|GloboTech Communications|
+|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|12|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 |13|67.43.236.20|19061|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|19061|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
-|16|36.80.24.180|8080|Indonesia|Makassar|PT. TELKOM INDONESIA|
-|17|72.10.164.178|14657|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|30823|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|16231|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|9593|Canada|Montreal|GloboTech Communications|
+|15|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|17|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|18|72.10.160.171|26303|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9593|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|10459|Canada|Montreal|GloboTech Communications|
 
 
 
