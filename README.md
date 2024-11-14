@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Atsugi|NTT PC Communications, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|223.25.110.88|1080|Indonesia|Prapen|SinergiNet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|103.144.18.55|1010|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|14|103.156.217.15|8080|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|15|102.217.139.31|8180|South Africa|Cape Town|Opnaxs PTY LTD|
-|16|188.132.150.86|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|146.190.114.113|10065|United States|Santa Clara|DigitalOcean, LLC|
-|18|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.227.228|8453|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|5513|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|67.43.228.250|3495|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|80.209.242.219|8080|United States|New York|HOSTKEY|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|3495|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|16683|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11029|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|13193|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|33207|Canada|Montreal|GloboTech Communications|
+|18|103.105.55.207|8999|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|19|67.43.227.226|13193|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11029|Canada|Montreal|GloboTech Communications|
 
 
 
