@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|114.134.95.222|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|9|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|67.43.227.227|16821|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|8471|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|8471|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|16821|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|16821|Canada|Montreal|GloboTech Communications|
-|16|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
-|17|67.43.236.20|7079|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|21349|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|17713|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2633|Canada|Montreal|GloboTech Communications|
+|1|160.22.207.29|8080|Indonesia|Bekasi|PT Teradata Bintang Selaras|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|4|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|5|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|8|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|9|72.10.160.90|9941|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.251|28481|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|21349|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|14|157.100.60.146|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|15|67.43.236.20|22531|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|21007|Canada|Montreal|GloboTech Communications|
+|19|112.78.47.188|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|20|72.10.160.91|18673|Canada|Montreal|GloboTech Communications|
 
 
 
