@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|2|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|4|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|67.43.236.20|10113|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|23827|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|23827|Canada|Montreal|GloboTech Communications|
-|9|14.187.189.197|10005|Vietnam|Ho Chi Minh City|VNPT|
-|10|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|67.43.228.253|10813|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|2361|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|23157|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|18163|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|30137|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23827|Canada|Montreal|GloboTech Communications|
-|18|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|67.43.227.228|17213|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|1|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|4|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|5|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|6|103.36.10.223|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|7|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|8|148.72.169.225|30119|United States|St Louis|velia.net|
+|9|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|10|72.10.160.90|2361|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|22615|Canada|Montreal|GloboTech Communications|
+|12|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|14|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|5.187.13.106|8080|Georgia||LLC Skytel|
+|16|72.10.160.173|30469|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|5059|Canada|Montreal|GloboTech Communications|
+|18|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|67.43.227.230|4643|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|5059|Canada|Montreal|GloboTech Communications|
 
 
 
