@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|5|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.133.27.237|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|10|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|104.129.194.45|9443|United States|Reston|ZSCALER, INC.|
-|12|72.10.164.178|32777|Canada|Montreal|GloboTech Communications|
-|13|104.129.194.45|9443|United States|Reston|ZSCALER, INC.|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|176.36.235.47|8087|Ukraine|Kyiv|Lanet Network|
-|17|72.10.164.178|32777|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|22029|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|23153|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|22029|Canada|Montreal|GloboTech Communications|
+|1|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|116.254.96.167|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|104.129.194.45|9443|United States|Reston|ZSCALER, INC.|
+|10|104.129.194.45|9443|United States|Reston|ZSCALER, INC.|
+|11|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|72.10.164.178|32777|Canada|Montreal|GloboTech Communications|
+|14|200.41.170.212|11201|Argentina|Picún Leufú|Telefonica de Argentina|
+|15|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|16|67.43.227.227|23149|Canada|Montreal|GloboTech Communications|
+|17|223.25.110.225|1080|Indonesia|Prapen|SinergiNet|
+|18|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|104.129.194.38|10086|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.38|10086|United States|Reston|ZSCALER, INC.|
 
 
 
