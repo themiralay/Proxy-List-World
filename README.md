@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.119|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|185.44.65.187|9595|United States|New York|Massivegrid LTD|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|103.155.199.182|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|185.44.65.187|3128|United States|New York|Massivegrid LTD|
+|6|190.71.82.182|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
 |8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|10|190.71.82.182|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P|
-|11|45.174.57.22|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|72.10.160.170|11969|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|19937|Canada|Montreal|GloboTech Communications|
-|15|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|104.129.194.38|10086|United States|Reston|ZSCALER, INC.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|125.124.225.211|3128|China|Yanguan|Chinanet|
+|14|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|72.10.160.170|11969|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16271|Canada|Montreal|GloboTech Communications|
 |18|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|19|72.10.160.90|4973|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19937|Canada|Montreal|GloboTech Communications|
+|19|104.129.194.38|10086|United States|Reston|ZSCALER, INC.|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
