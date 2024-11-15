@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|46.39.105.40|8080|Sweden|Sundbyberg|Stockholms Stadsnat AB|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|16|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
 |18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|19|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
