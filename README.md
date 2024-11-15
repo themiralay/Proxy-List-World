@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|203.150.128.117|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|10|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|148.72.169.225|30119|United States|St Louis|velia.net|
-|12|104.129.194.38|10086|United States|Reston|ZSCALER, INC.|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|16|72.10.164.178|26591|Canada|Montreal|GloboTech Communications|
-|17|104.129.194.45|11066|United States|Reston|ZSCALER, INC.|
-|18|72.10.164.178|26591|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|23023|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26591|Canada|Montreal|GloboTech Communications|
+|2|45.81.131.202|8888|United States|Los Angeles|Zenlayer Inc|
+|3|45.81.131.202|8888|United States|Los Angeles|Zenlayer Inc|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|84.201.151.210|80|Russia|Moscow|Yandex enterprise network|
+|12|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|36.64.5.74|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|17|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|18|203.150.128.117|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
