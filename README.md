@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|65.108.159.129|999|Finland|Helsinki|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|171.7.67.167|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
+|9|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|18|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|19|37.97.176.179|3128|The Netherlands|Amsterdam|TransIP BV|
-|20|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|16|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|203.150.128.141|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
