@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|9|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|11|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.35|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|14|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|19|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|17|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|18|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|19|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
 |20|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
