@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|13|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|14|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
+|12|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
+|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|16|121.101.133.195|8080|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
 |20|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
