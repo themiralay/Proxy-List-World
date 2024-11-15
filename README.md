@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.189.96.168|8080|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |15|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|67.43.228.253|8009|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|19|1.20.214.46|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
