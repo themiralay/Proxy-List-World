@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.110.70.230|8080|Indonesia|Serang|Maxindo|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|1|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|83.147.13.69|3128|Taiwan|Taipei|Akile LTD|
-|13|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|72.10.160.173|5335|Canada|Montreal|GloboTech Communications|
-|16|104.129.194.45|10011|United States|Reston|ZSCALER, INC.|
-|17|104.129.194.38|18080|United States|Reston|ZSCALER, INC.|
-|18|104.129.194.45|10011|United States|Reston|ZSCALER, INC.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.55.159.53|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|12|119.110.70.230|8080|Indonesia|Serang|Maxindo|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|104.129.194.45|10011|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.38|18080|United States|Reston|ZSCALER, INC.|
 |19|104.129.194.38|18080|United States|Reston|ZSCALER, INC.|
-|20|67.43.228.252|18259|Canada|Montreal|GloboTech Communications|
+|20|104.129.194.45|10011|United States|Reston|ZSCALER, INC.|
 
 
 
