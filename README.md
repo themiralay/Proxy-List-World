@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.187.149.193|10005|Vietnam|Ho Chi Minh City|VNPT|
-|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|2|14.187.149.193|10005|Vietnam|Ho Chi Minh City|VNPT|
+|3|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
 |8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|14|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|15|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|42.119.164.44|80|Vietnam|Hanoi|FPT Telecom Company|
-|17|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|192.145.205.110|8080|Brazil|Capitão Enéas|Vianet Guaraciama Eireli ME|
-|19|38.183.146.181|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.243.199.44|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
+|18|67.43.228.252|29425|Canada|Montreal|GloboTech Communications|
+|19|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|20|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
