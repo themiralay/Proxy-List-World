@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|203.150.128.98|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|203.150.128.98|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.156.161.193|8080|Indonesia|Bekasi|MYREPUBLIC|
-|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|41.139.166.117|8080|Kenya|Nairobi|Converged services Eastern|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|20|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|11|103.46.10.198|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|12|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|103.159.96.146|3128|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
