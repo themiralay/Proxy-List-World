@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|3|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|4|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |17|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|20|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
