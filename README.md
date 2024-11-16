@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
-|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|11|129.18.210.10|8080|Nigeria|Ikeja|Swift Networks Limited|
-|12|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|45.162.144.3|8080|Brazil|Alhandra|Anderson Paiva Alves ME|
-|14|125.124.225.211|3128|China|Yanguan|Chinanet|
-|15|176.37.139.137|41890|Ukraine|Kyiv|Lanet Network|
-|16|67.43.228.252|7947|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|6991|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|29389|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19059|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19059|Canada|Montreal|GloboTech Communications|
+|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|14.187.149.193|10005|Vietnam|Ho Chi Minh City|VNPT|
+|7|14.187.147.216|10003|Vietnam|Ho Chi Minh City|VNPT|
+|8|14.187.150.31|10003|Vietnam|Ho Chi Minh City|VNPT|
+|9|14.187.144.180|10003|Vietnam|Ho Chi Minh City|VNPT|
+|10|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|16|222.252.194.29|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
 
 
 
