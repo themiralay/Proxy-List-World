@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.125.32|3128|Japan|Chiyoda|InfoSphere|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.128.106.215|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|10|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|1|140.227.125.32|3128|Japan|Chiyoda|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|42.119.164.44|80|Vietnam|Hanoi|FPT Telecom Company|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|62.99.66.56|8080|Spain|Barakaldo|Euskaltel S.A.|
-|13|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|14.187.147.68|10004|Vietnam|Ho Chi Minh City|VNPT|
-|17|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|17|62.99.66.56|8080|Spain|Barakaldo|Euskaltel S.A.|
+|18|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
+|19|34.100.189.30|8561|India|Mumbai|Google LLC|
 |20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
