@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|103.166.158.33|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.69.150.24|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|121.227.183.158|8089|China|Shanghai|China Telecom|
-|13|72.10.164.178|3837|Canada|Montreal|GloboTech Communications|
-|14|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
-|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|16|67.43.236.20|21079|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|11941|Canada|Montreal|GloboTech Communications|
-|18|164.70.66.139|3128|Japan|Chiyoda|InfoSphere|
-|19|72.10.164.178|3837|Canada|Montreal|GloboTech Communications|
-|20|164.70.66.105|3128|Japan|Chiyoda|InfoSphere|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|192.145.205.110|8080|Brazil|Capitão Enéas|Vianet Guaraciama Eireli ME|
+|12|1.241.89.30|3128|South Korea|Anyang-si|SK Broadband Co Ltd|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|1.241.89.30|3128|South Korea|Anyang-si|SK Broadband Co Ltd|
 
 
 
