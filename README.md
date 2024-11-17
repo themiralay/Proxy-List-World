@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|164.70.114.69|3128|Japan|Chiyoda|InfoSphere|
-|6|140.227.124.186|3128|Japan|Chiyoda|InfoSphere|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|164.70.114.76|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.114.67|3128|Japan|Chiyoda|InfoSphere|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
-|12|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|72.10.164.178|31789|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|11967|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2497|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|27221|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4309|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2011|Canada|Montreal|GloboTech Communications|
+|4|164.70.114.69|3128|Japan|Chiyoda|InfoSphere|
+|5|140.227.124.186|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.114.76|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.114.67|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
+|9|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|11|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|12|67.43.228.250|11967|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|2497|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10467|Canada|Montreal|GloboTech Communications|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|114.218.167.47|8089|China|Guangzhou|China Telecom|
+|18|67.43.227.230|29413|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|17429|Canada|Montreal|GloboTech Communications|
+|20|190.97.228.198|9999|Venezuela|El Vigía|Viginet C.A|
 
 
 
