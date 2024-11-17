@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|6|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|10|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
-|15|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
-|16|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|164.70.66.139|3128|Japan|Chiyoda|InfoSphere|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
+|15|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|16|116.104.246.185|5012|Vietnam|Thanh Hóa|Viettel Corporation|
+|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|64.23.190.91|8080|United States|San Francisco|DigitalOcean, LLC|
 
 
 
