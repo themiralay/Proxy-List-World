@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|103.168.44.209|3127|Indonesia|Kuningan Barat|PT CYB Media Group|
-|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|7|128.140.113.110|5678|Germany|Falkenstein|Hetzner Online GmbH|
-|8|140.227.125.61|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.114.76|3128|Japan|Chiyoda|InfoSphere|
-|12|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|13|140.227.124.186|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|17|164.70.114.67|3128|Japan|Chiyoda|InfoSphere|
-|18|67.43.228.250|23957|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|7171|Canada|Montreal|GloboTech Communications|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|1|140.227.125.61|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
+|4|164.70.114.76|3128|Japan|Chiyoda|InfoSphere|
+|5|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|125.124.225.211|3128|China|Yanguan|Chinanet|
+|8|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|9|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|67.43.236.19|30979|Canada|Montreal|GloboTech Communications|
+|12|140.227.124.186|3128|Japan|Chiyoda|InfoSphere|
+|13|72.10.160.90|8085|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|7781|Canada|Montreal|GloboTech Communications|
+|15|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|18|67.43.227.228|23959|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|8085|Canada|Montreal|GloboTech Communications|
+|20|164.70.114.67|3128|Japan|Chiyoda|InfoSphere|
 
 
 
