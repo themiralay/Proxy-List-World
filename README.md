@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|10|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|37.143.129.242|47313|Finland|Helsinki|ONEPROVIDER|
-|15|41.33.174.100|3128|Egypt|Cairo|TE Data|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|9|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
