@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|164.70.66.101|3128|Japan|Chiyoda|InfoSphere|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|49.147.50.213|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|18|164.70.66.142|3128|Japan|Chiyoda|InfoSphere|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|164.70.114.85|3128|Japan|Chiyoda|InfoSphere|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|164.70.66.101|3128|Japan|Chiyoda|InfoSphere|
+|9|43.128.106.215|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|11|148.72.168.81|30127|United States|St Louis|velia.net|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|164.70.66.142|3128|Japan|Chiyoda|InfoSphere|
 
 
 
