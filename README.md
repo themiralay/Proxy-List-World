@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
+|5|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|45.224.149.179|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|7|116.104.128.122|5022|Vietnam|Hanoi|Viettel Corporation|
 |8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|9|194.233.91.107|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|11|72.10.160.173|23989|Canada|Montreal|GloboTech Communications|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|67.43.236.20|2963|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|4285|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18193|Canada|Montreal|GloboTech Communications|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|67.43.236.20|2963|Canada|Montreal|GloboTech Communications|
+|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|13|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|14|72.10.160.90|19947|Canada|Montreal|GloboTech Communications|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|17|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|18|67.43.227.227|22761|Canada|Montreal|GloboTech Communications|
+|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
