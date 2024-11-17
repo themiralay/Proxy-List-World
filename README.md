@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4586** proxies at the latest update. Usable proxies are below.
+> Scraper found **4662** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|685|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2593|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|67.43.227.227|25035|Canada|Montreal|GloboTech Communications|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|58.187.120.214|8080|Vietnam|Hanoi|FPT Telecom Company|
-|13|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|14|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|5.128.120.101|8181|Russia|Novosibirsk|Novotelecom Ltd|
-|16|67.43.228.253|10813|Canada|Montreal|GloboTech Communications|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|72.10.160.171|12895|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|17741|Canada|Montreal|GloboTech Communications|
-|20|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|37.143.129.242|47224|Finland|Helsinki|ONEPROVIDER|
+|12|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|15|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|16|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|67.43.236.20|24761|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|24761|Canada|Montreal|GloboTech Communications|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|121.227.179.129|8089|China|Nanjing|China Telecom|
 
 
 
