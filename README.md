@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
-|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|181.13.53.38|8081|Argentina|San Miguel de Tucumán|Noanet S.A|
+|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|5|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|11|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|12|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|13|148.72.169.225|30119|United States|St Louis|velia.net|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|16|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|17|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|18|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
+|19|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
