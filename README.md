@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|200.34.227.28|8080|Brazil|Gramado|UNIFIQUE TELECOMUNICACOES S/A|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|82.200.237.11|8080|Kazakhstan|Almaty|Kazakhtelecom Data Network Administration|
-|10|38.183.146.191|1010|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
-|17|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.171|1449|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|72.10.160.172|13575|Canada|Montreal|GloboTech Communications|
+|19|45.174.57.26|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
+|20|67.43.236.20|12651|Canada|Montreal|GloboTech Communications|
 
 
 
