@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
 |6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|115.127.95.81|8080|Bangladesh|Dhaka|BRACNet Limited|
-|14|31.211.82.158|3128|Russia|Tomsk|OOO NETCOM|
-|15|140.227.124.214|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.66.140|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
-|20|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|10|140.227.124.214|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.66.140|3128|Japan|Chiyoda|InfoSphere|
+|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|164.70.114.88|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
+|16|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
