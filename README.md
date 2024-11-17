@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|54|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|56|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2614|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2668|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|11|45.188.111.242|999|Mexico|Veracruz|Conectared SA De CV|
-|12|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
-|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|14|203.150.172.151|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|15|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|6|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|12|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|34.100.189.30|8561|India|Mumbai|Google LLC|
+|15|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|17|14.181.90.224|1001|Vietnam|Hanoi|VNPT|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|67.43.228.254|23471|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|27995|Canada|Montreal|GloboTech Communications|
 
 
 
