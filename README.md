@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.173.6.201|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|12|181.115.66.236|999|Honduras|San Pedro Sula|Telgua|
-|13|164.70.114.85|3128|Japan|Chiyoda|InfoSphere|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
-|17|115.76.90.142|2021|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|18|140.227.124.207|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.66.139|3128|Japan|Chiyoda|InfoSphere|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|15|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|16|203.150.128.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|17|164.70.114.85|3128|Japan|Chiyoda|InfoSphere|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|20|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
 
 
 
