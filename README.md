@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|103.68.214.42|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.4.1.133|999|Chile|Santiago|Tlink SPA|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|89.175.0.74|3129|Russia|Moscow|MTS PJSC|
-|17|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|19|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|10|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|17|34.100.189.71|8561|India|Mumbai|Google LLC|
+|18|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|19|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|186.148.195.70|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
 
 
 
