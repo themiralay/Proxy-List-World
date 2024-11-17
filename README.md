@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|8|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|9|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|20|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|164.70.66.101|3128|Japan|Chiyoda|InfoSphere|
+|7|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|12|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|45.174.57.26|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|164.70.66.129|3128|Japan|Chiyoda|InfoSphere|
+|19|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
