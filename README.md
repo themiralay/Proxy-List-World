@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4643** proxies at the latest update. Usable proxies are below.
+> Scraper found **4586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2650|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2593|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|45.83.140.10|3128|United States|Secaucus|Stark Industries Solutions LTD|
-|17|67.43.227.226|24857|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|24595|Canada|Montreal|GloboTech Communications|
-|19|114.218.150.33|8089|China|Nanjing|China Telecom|
-|20|121.236.236.42|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
+|8|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|67.43.227.227|25035|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|58.187.120.214|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|14|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|5.128.120.101|8181|Russia|Novosibirsk|Novotelecom Ltd|
+|16|67.43.228.253|10813|Canada|Montreal|GloboTech Communications|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|72.10.160.171|12895|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|17741|Canada|Montreal|GloboTech Communications|
+|20|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
 
 
 
