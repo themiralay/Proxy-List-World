@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|11|116.104.128.251|5020|Vietnam|Hanoi|Viettel Corporation|
-|12|103.177.199.47|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.66.140|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.66.139|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|18|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|164.70.66.129|3128|Japan|Chiyoda|InfoSphere|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
