@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|200.106.124.19|999|Peru|Tacna|Telefonica del Peru|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|11|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|13|140.227.124.208|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.114.86|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.114.81|3128|Japan|Chiyoda|InfoSphere|
-|16|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
-|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|18|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|19|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|20|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|140.227.124.208|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.114.86|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.114.81|3128|Japan|Chiyoda|InfoSphere|
+|12|103.159.96.50|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|13|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|15|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|17|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|72.10.160.92|10417|Canada|Montreal|GloboTech Communications|
+|19|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|72.10.160.90|4991|Canada|Montreal|GloboTech Communications|
 
 
 
