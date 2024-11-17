@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|116.104.131.92|5010|Vietnam|Hanoi|Viettel Corporation|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|34.100.189.30|8561|India|Mumbai|Google LLC|
-|12|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|110.78.143.50|8080|Thailand|Phra Nakhon Si Ayutthaya|CAT-BB|
+|10|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
+|11|45.224.149.179|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|12|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|72.10.164.178|2319|Canada|Montreal|GloboTech Communications|
 |16|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|67.43.236.18|1971|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|12351|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28467|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2319|Canada|Montreal|GloboTech Communications|
+|18|171.238.237.56|5024|Vietnam|Tuyên Quang|Viettel Corporation|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|72.10.160.171|19105|Canada|Montreal|GloboTech Communications|
 
 
 
