@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4574** proxies at the latest update. Usable proxies are below.
+> Scraper found **4578** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2507|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2511|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|7|116.104.175.190|5002|Vietnam|Hanoi|Viettel Corporation|
-|8|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|11|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|72.10.164.178|18439|Canada|Montreal|GloboTech Communications|
-|14|164.70.114.81|3128|Japan|Chiyoda|InfoSphere|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|17|164.70.66.139|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.66.140|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.114.74|3128|Japan|Chiyoda|InfoSphere|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|14|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|15|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
+|16|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|17|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|18|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|19|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
 
 
 
