@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
-|14|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|43.128.106.215|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|90.188.16.184|6066|Russia|Barnaul|ALTAY regional branche of the JSC Sibirtelecom|
-|18|121.227.180.161|8089|China|Shanghai|China Telecom|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|140.227.124.208|3128|Japan|Chiyoda|InfoSphere|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|8|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|67.43.228.251|8307|Canada|Montreal|GloboTech Communications|
+|11|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|90.188.16.184|6066|Russia|Barnaul|ALTAY regional branche of the JSC Sibirtelecom|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|140.227.124.208|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.114.85|3128|Japan|Chiyoda|InfoSphere|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
