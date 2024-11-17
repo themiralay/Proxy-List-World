@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|116.98.60.64|10057|Vietnam|Da Nang|Viettel Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|164.70.66.105|3128|Japan|Chiyoda|InfoSphere|
-|10|140.227.124.172|3128|Japan|Chiyoda|InfoSphere|
-|11|103.177.199.47|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|12|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
-|13|188.132.150.200|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|67.43.227.228|27279|Canada|Montreal|GloboTech Communications|
-|17|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|19|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|20|49.70.172.169|8089|China|Nanjing|Chinanet|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|9|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|103.105.54.140|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|13|103.159.96.50|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|164.70.66.105|3128|Japan|Chiyoda|InfoSphere|
+|17|140.227.124.172|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.66.137|3128|Japan|Chiyoda|InfoSphere|
+|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|20|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
 
