@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|49.147.50.213|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|7|103.215.187.67|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|8|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|58.69.107.194|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|13|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|14|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|15|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|16|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|125.124.225.211|3128|China|Yanguan|Chinanet|
-|19|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
-|20|103.39.51.156|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|2|103.176.97.224|1588|Indonesia|Karawang|PT Global Sarana Elektronika|
+|3|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|125.124.225.211|3128|China|Yanguan|Chinanet|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|11|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
+|13|164.70.66.96|3128|Japan|Chiyoda|InfoSphere|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|164.70.66.129|3128|Japan|Chiyoda|InfoSphere|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|140.227.124.172|3128|Japan|Chiyoda|InfoSphere|
 
 
 
