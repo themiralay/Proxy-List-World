@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|117.5.128.221|5024|Vietnam|Hanoi|VIETTEL|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|19|49.70.190.128|2324|China|Nanjing|Chinanet|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|1|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|11|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|67.43.228.253|10469|Canada|Montreal|GloboTech Communications|
+|16|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|17|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 
 
 
