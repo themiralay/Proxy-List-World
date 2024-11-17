@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|3|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|4|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.100.189.71|8561|India|Mumbai|Google LLC|
+|7|34.100.189.30|8561|India|Mumbai|Google LLC|
+|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|14.167.210.42|8080|Vietnam|Can Tho|VNPT-VNNIC|
+|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
 |17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|20|164.52.206.180|80|India|Noida|E2E Networks Limited|
 
 
 
