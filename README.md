@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|121.236.236.39|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|13|67.43.228.253|11623|Canada|Montreal|GloboTech Communications|
-|14|114.218.165.36|8089|China|Guangzhou|China Telecom|
-|15|67.43.228.252|2615|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|67.43.236.18|23885|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|11623|Canada|Montreal|GloboTech Communications|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|67.43.228.253|11623|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1795|Canada|Montreal|GloboTech Communications|
 |16|67.43.227.227|22591|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|23885|Canada|Montreal|GloboTech Communications|
-|18|121.236.236.245|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|19|67.43.228.253|11623|Canada|Montreal|GloboTech Communications|
-|20|103.29.0.7|10086|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
+|17|27.189.128.6|8089|China|Shijiazhuang|Chinanet|
+|18|72.10.160.90|21847|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|21847|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|23885|Canada|Montreal|GloboTech Communications|
 
 
 
