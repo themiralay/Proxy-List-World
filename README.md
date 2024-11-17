@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|110.78.147.179|8080|Thailand|Phi Phi Don|CAT-BB|
-|7|34.146.202.240|8561|Japan|Tokyo|Google LLC|
-|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|34.100.189.30|8561|India|Mumbai|Google LLC|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|34.100.189.71|8561|India|Mumbai|Google LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|4|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|5|110.78.147.179|8080|Thailand|Phi Phi Don|CAT-BB|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|34.100.189.30|8561|India|Mumbai|Google LLC|
+|15|34.100.189.71|8561|India|Mumbai|Google LLC|
+|16|148.72.168.81|30127|United States|St Louis|velia.net|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|148.72.168.81|30127|United States|St Louis|velia.net|
 
 
 
