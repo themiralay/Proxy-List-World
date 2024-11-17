@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|116.107.80.241|5002|Vietnam|Hải Dương|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|220.74.32.2|3128|South Korea|Anyang-si|Korea Telecom|
-|8|171.238.73.226|5024|Vietnam|Hanoi|Viettel Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|200.106.124.19|999|Peru|Tacna|Telefonica del Peru|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|15|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|58.69.107.194|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|18|116.104.128.59|5022|Vietnam|Hanoi|Viettel Corporation|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|2|194.233.91.107|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|3|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|6|200.106.124.19|999|Peru|Tacna|Telefonica del Peru|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|13|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|140.227.124.207|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.66.96|3128|Japan|Chiyoda|InfoSphere|
+|19|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
