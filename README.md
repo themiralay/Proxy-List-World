@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|103.40.121.33|1081|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
 |2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|116.104.246.185|5012|Vietnam|Thanh Hóa|Viettel Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|45.5.118.138|999|Guatemala|Guatemala City|Infinitum S.A.|
-|11|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|82.180.146.255|3128|India|Mumbai|Contabo Asia Private Limited|
-|14|116.104.246.185|5012|Vietnam|Thanh Hóa|Viettel Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|67.43.228.250|27779|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|4011|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|5343|Canada|Montreal|GloboTech Communications|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
+|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|13|119.95.231.49|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|14|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
+|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|19|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
