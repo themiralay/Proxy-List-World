@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|4|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|200.49.242.18|8080|Peru|Bagua|Nocperu-latin Technologies|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|148.72.168.81|30127|United States|St Louis|velia.net|
-|13|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
-|14|49.49.57.30|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|15|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|164.70.114.76|3128|Japan|Chiyoda|InfoSphere|
+|1|38.45.66.184|3128|United States|Durham|Cogent Communications|
+|2|34.100.189.71|8561|India|Mumbai|Google LLC|
+|3|38.45.66.184|3128|United States|Durham|Cogent Communications|
+|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|12|200.34.227.28|8080|Brazil|Gramado|UNIFIQUE TELECOMUNICACOES S/A|
+|13|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|16|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|17|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|18|34.100.189.30|8561|India|Mumbai|Google LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
