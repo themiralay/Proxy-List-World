@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|110.78.147.179|8080|Thailand|Phi Phi Don|CAT-BB|
-|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|8|34.146.202.240|8561|Japan|Tokyo|Google LLC|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|15|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|16|34.100.189.30|8561|India|Mumbai|Google LLC|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|19|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|34.100.189.30|8561|India|Mumbai|Google LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|17|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
