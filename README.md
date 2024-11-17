@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|115.72.174.214|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|9|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|15|72.10.160.170|22717|Canada|Montreal|GloboTech Communications|
-|16|181.12.169.91|11201|Argentina|Buenos Aires|Telecom Argentina S.A|
-|17|67.43.227.228|7247|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|33115|Canada|Montreal|GloboTech Communications|
-|19|103.176.96.134|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|20|72.10.160.91|22115|Canada|Montreal|GloboTech Communications|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|194.87.227.195|3129|Germany|Frankfurt am Main|Baxet Group Inc.|
+|9|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|181.12.169.91|11201|Argentina|Buenos Aires|Telecom Argentina S.A|
+|14|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|15|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
+|16|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
