@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|34.100.189.30|8561|India|Mumbai|Google LLC|
-|7|34.100.189.71|8561|India|Mumbai|Google LLC|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|108.181.167.208|4002|United States|Dallas|TELUS Communications Inc.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|15|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|34.100.189.30|8561|India|Mumbai|Google LLC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|15|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |16|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |17|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|20|121.136.189.231|60001|South Korea|Yongin-si|Korea Telecom|
+|18|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
