@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|110.78.147.179|8080|Thailand|Phi Phi Don|CAT-BB|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.114.81|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.124.186|3128|Japan|Chiyoda|InfoSphere|
-|20|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|12|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|148.72.168.81|30127|United States|St Louis|velia.net|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|49.149.189.10|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|20|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 
 
 
