@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
-|11|108.181.167.208|4002|United States|Dallas|TELUS Communications Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|18|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|19|67.43.227.228|4879|Canada|Montreal|GloboTech Communications|
-|20|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|201.134.169.214|8204|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
+|10|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|103.156.248.45|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.133.27.239|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|17|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|190.121.146.75|999|Colombia|Neiva|Media Commerce Partners S.A|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
