@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|15|121.236.236.39|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|148.72.165.7|30118|United States|St Louis|velia.net|
-|18|222.92.76.4|8081|China|Suzhou|Chinanet|
-|19|1.20.214.46|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|20|72.10.160.173|2079|Canada|Montreal|GloboTech Communications|
 
 
 
