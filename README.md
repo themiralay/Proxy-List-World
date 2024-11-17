@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|27.66.241.95|8080|Vietnam|Haiphong|Viettel Group|
-|15|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|5|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|79.134.4.156|8080|Russia|Magnitogorsk|MAGINFO|
+|10|36.73.135.155|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 |17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|164.70.114.80|3128|Japan|Chiyoda|InfoSphere|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
