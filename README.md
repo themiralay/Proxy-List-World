@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4765** proxies at the latest update. Usable proxies are below.
+> Scraper found **4664** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|350|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2507|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.146.202.240|8561|Japan|Tokyo|Google LLC|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|34.100.189.71|8561|India|Mumbai|Google LLC|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |6|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|203.150.113.193|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|13|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|14|103.190.171.37|1080|Indonesia|Jakarta|WMS|
-|15|49.147.50.213|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|18|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|19|45.4.1.133|999|Chile|Santiago|Tlink SPA|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|102.217.139.31|8180|South Africa|Cape Town|Opnaxs PTY LTD|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|200.49.242.18|8080|Peru|Bagua|Nocperu-latin Technologies|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|164.70.114.86|3128|Japan|Chiyoda|InfoSphere|
+|16|49.147.50.213|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
+|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|18|43.128.106.215|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|20|164.70.114.69|3128|Japan|Chiyoda|InfoSphere|
 
 
 
