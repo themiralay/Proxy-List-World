@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|3|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|222.127.77.167|8082|Philippines|Lahug|INNOVE|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|164.70.66.142|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.66.141|3128|Japan|Chiyoda|InfoSphere|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|164.70.114.87|3128|Japan|Chiyoda|InfoSphere|
-|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|91.107.173.67|10514|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|11|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|222.127.77.167|8082|Philippines|Lahug|INNOVE|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|31.211.82.158|3128|Russia|Tomsk|OOO NETCOM|
+|17|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|164.70.66.138|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.66.142|3128|Japan|Chiyoda|InfoSphere|
 
 
 
