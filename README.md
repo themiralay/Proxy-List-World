@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|181.192.19.160|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|72.10.160.170|18809|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9463|Canada|Montreal|GloboTech Communications|
-|15|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|16|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|17|72.10.164.178|9463|Canada|Montreal|GloboTech Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|20|119.110.71.161|63123|Indonesia|Jakarta|Maxindo|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|169.62.227.172|80|United States|Chicago|SoftLayer|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.164.178|23151|Canada|Montreal|GloboTech Communications|
+|16|181.192.19.160|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|17|72.10.164.178|23151|Canada|Montreal|GloboTech Communications|
+|18|27.222.23.3|18888|China|Weifang|China Unicom Shandong Province Network|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
