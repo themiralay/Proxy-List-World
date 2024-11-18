@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|38.45.242.117|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
-|8|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|148.72.165.7|30118|United States|St Louis|velia.net|
-|12|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|13|36.67.223.231|8090|Indonesia|Serang|PT. Telekomunikasi Indonesia|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|72.10.160.90|2119|Canada|Montreal|GloboTech Communications|
-|17|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|18|67.43.228.251|2243|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15421|Canada|Montreal|GloboTech Communications|
-|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|72.10.160.90|32093|Canada|Montreal|GloboTech Communications|
+|14|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|15|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
+|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|17|72.10.160.170|19443|Canada|Montreal|GloboTech Communications|
+|18|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|67.43.227.227|1243|Canada|Montreal|GloboTech Communications|
 
 
 
