@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|4|116.107.80.159|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|177.22.36.92|3130|Brazil|Fortaleza|Conecta Tecnologia LTDA|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|13|14.187.144.69|10010|Vietnam|Ho Chi Minh City|VNPT|
-|14|14.187.190.103|10002|Vietnam|Ho Chi Minh City|VNPT|
-|15|171.248.204.97|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|17|14.187.144.69|10010|Vietnam|Ho Chi Minh City|VNPT|
-|18|72.10.160.172|2881|Canada|Montreal|GloboTech Communications|
-|19|171.239.232.255|10002|Vietnam|Bình Dương|Viettel Corporation|
-|20|171.232.179.248|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|42.117.128.83|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|177.22.36.92|3130|Brazil|Fortaleza|Conecta Tecnologia LTDA|
+|5|147.45.77.58|3128|Sweden|Stockholm|Aeza International LTD|
+|6|116.108.22.146|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|115.77.241.170|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|190.94.213.180|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|103.183.119.226|7001|Vietnam|Tây Hồ|MYCLOUD|
+|11|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|14|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|72.10.160.172|2881|Canada|Montreal|GloboTech Communications|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|67.43.228.253|9377|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|20|171.252.156.29|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
