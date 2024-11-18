@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4600** proxies at the latest update. Usable proxies are below.
+> Scraper found **4601** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|7|38.172.130.238|999|Peru|Lima|Conex TV E.I.R.L.|
-|8|72.10.160.170|19227|Canada|Montreal|GloboTech Communications|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
-|11|72.10.160.174|25857|Canada|Montreal|GloboTech Communications|
-|12|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|13|67.43.227.227|26191|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|29201|Canada|Montreal|GloboTech Communications|
-|15|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|17|67.43.228.252|6189|Canada|Montreal|GloboTech Communications|
-|18|169.62.227.172|80|United States|Chicago|SoftLayer|
-|19|72.10.160.93|30357|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14551|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|187.87.206.97|3128|Brazil|Ruy Barbosa|Screen Saver Informática LTDA|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|38.172.130.238|999|Peru|Lima|Conex TV E.I.R.L.|
+|16|67.43.228.252|12871|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|30357|Canada|Montreal|GloboTech Communications|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|67.43.227.227|6113|Canada|Montreal|GloboTech Communications|
 
 
 
