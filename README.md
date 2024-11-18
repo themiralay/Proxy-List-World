@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|10|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
+|7|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|157.20.244.38|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|103.144.18.55|1010|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|38.45.242.117|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|36.67.223.231|8090|Indonesia|Serang|PT. Telekomunikasi Indonesia|
+|18|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
 
 
 
