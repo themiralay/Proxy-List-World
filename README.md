@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.53.49.59|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|67.43.236.20|27321|Canada|Montreal|GloboTech Communications|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|67.43.228.251|24719|Canada|Montreal|GloboTech Communications|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|14|67.43.228.250|4931|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|27321|Canada|Montreal|GloboTech Communications|
-|16|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|67.43.227.227|22539|Canada|Montreal|GloboTech Communications|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|72.10.160.170|19591|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|27321|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|113.53.49.59|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
+|3|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|7|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|72.10.160.170|5377|Canada|Montreal|GloboTech Communications|
+|16|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|17|72.10.160.90|29129|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|8783|Canada|Montreal|GloboTech Communications|
+|19|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
