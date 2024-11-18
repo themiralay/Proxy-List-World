@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|10|67.43.228.253|28071|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|14467|Canada|Montreal|GloboTech Communications|
-|12|49.48.82.86|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|72.10.164.178|2497|Canada|Montreal|GloboTech Communications|
-|15|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.170|14467|Canada|Montreal|GloboTech Communications|
-|17|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|72.10.160.90|1731|Canada|Montreal|GloboTech Communications|
-|20|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|103.164.229.107|8080|Indonesia|Kudus|PT Muria Data Utama|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|72.10.160.170|14467|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|2497|Canada|Montreal|GloboTech Communications|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
