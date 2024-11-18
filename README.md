@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|103.54.80.193|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
 |7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|9|67.43.236.20|33157|Canada|Montreal|GloboTech Communications|
-|10|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
-|11|72.10.164.178|21339|Canada|Montreal|GloboTech Communications|
-|12|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|79.96.240.105|59246|Poland|Szczecin|home.pl network|
-|14|72.10.164.178|21339|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|33157|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|21339|Canada|Montreal|GloboTech Communications|
-|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|18|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|19|72.10.160.173|1801|Canada|Montreal|GloboTech Communications|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|13|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|222.122.110.26|80|South Korea|Seongnam-si|Korea Telecom|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|79.96.240.105|59246|Poland|Szczecin|home.pl network|
+|17|67.43.236.20|11861|Canada|Montreal|GloboTech Communications|
+|18|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
 |20|72.10.160.173|1801|Canada|Montreal|GloboTech Communications|
 
 
