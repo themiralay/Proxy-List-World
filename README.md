@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4533** proxies at the latest update. Usable proxies are below.
+> Scraper found **4586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2719|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.153.191.43|8081|Indonesia|Kudus|WANET|
-|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|7|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|12|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|3|103.29.0.7|10006|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|6249|Canada|Montreal|GloboTech Communications|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
+|12|45.235.252.39|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|13|67.43.228.252|18507|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
 |16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|45.4.1.208|999|Chile|Santiago|Tlink SPA|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.160.173|19887|Canada|Montreal|GloboTech Communications|
+|17|122.228.246.248|3128|China|Wenzhou|China Telecom|
+|18|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
+|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
