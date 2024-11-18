@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|4|43.159.52.98|30000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.159.49.84|30000|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|9|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|194.124.36.252|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|222.92.76.4|8081|China|Suzhou|Chinanet|
-|18|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|19|103.176.96.134|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|20|72.10.160.170|22185|Canada|Montreal|GloboTech Communications|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|7|45.117.28.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|11|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|12|72.10.160.90|3255|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|72.10.164.178|14731|Canada|Montreal|GloboTech Communications|
+|15|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|18|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|19|67.43.228.253|15623|Canada|Montreal|GloboTech Communications|
+|20|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
 
 
 
