@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|103.29.0.7|10006|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
 |5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|6249|Canada|Montreal|GloboTech Communications|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
-|12|45.235.252.39|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
-|13|67.43.228.252|18507|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
+|6|103.136.162.184|8181|Indonesia|Palembang|TPN-LINK|
+|7|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|8|72.10.160.90|9909|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|67.43.236.22|8149|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|67.43.227.230|9569|Canada|Montreal|GloboTech Communications|
+|14|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|15|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 |16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|18|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|19|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
-|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|17|67.43.228.253|5503|Canada|Montreal|GloboTech Communications|
+|18|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
