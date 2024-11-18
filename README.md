@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|72.10.164.178|6293|Canada|Montreal|GloboTech Communications|
-|6|103.29.0.7|10013|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|9|67.43.236.20|17235|Canada|Montreal|GloboTech Communications|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|67.43.228.253|29623|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|17235|Canada|Montreal|GloboTech Communications|
-|13|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
-|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|16|38.156.72.200|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
-|18|67.43.227.227|25801|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|30315|Canada|Montreal|GloboTech Communications|
-|20|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|1|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|110.41.64.122|3128|China|Guangzhou|Huawei Cloud Service data center|
+|6|72.10.164.178|5311|Canada|Montreal|GloboTech Communications|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|67.43.236.20|11275|Canada|Montreal|GloboTech Communications|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|72.10.160.90|12955|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.254|8207|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|16249|Canada|Montreal|GloboTech Communications|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|72.10.160.174|33141|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|19281|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|11275|Canada|Montreal|GloboTech Communications|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
