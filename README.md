@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|72.10.160.171|15525|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.93|5251|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|5891|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.250|5891|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|5891|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.173|16545|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.19|31879|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|22421|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|2695|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|5891|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|13015|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14681|Canada|Montreal|GloboTech Communications|
-|16|65.108.159.129|999|Finland|Helsinki|Hetzner Online GmbH|
-|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|18|67.43.228.254|21811|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|8|67.43.227.228|29141|Canada|Montreal|GloboTech Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|11|72.10.160.174|25369|Canada|Montreal|GloboTech Communications|
+|12|37.143.129.242|42233|Finland|Helsinki|ONEPROVIDER|
+|13|181.209.95.205|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.160.171|5127|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|16647|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|19|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
+|20|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
 
 
 
