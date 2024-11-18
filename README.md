@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.42.69.90|8080|Thailand|Bang Rak|CAT-BB|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|5|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
-|8|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|13|203.150.128.86|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.148.178.10|80|Bangladesh|Dhaka|Bandhon Enterprise|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|119.42.69.90|8080|Thailand|Bang Rak|CAT-BB|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|113.192.31.5|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|45.191.188.70|80|Argentina|San Martín|East NET S.A.S.|
+|12|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|203.150.128.86|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
 |17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|103.163.227.213|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|148.72.165.7|30118|United States|St Louis|velia.net|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
