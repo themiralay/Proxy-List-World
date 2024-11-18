@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|5|114.8.131.178|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
-|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|103.88.239.17|82|India|Hyderabad|Mana Communications|
-|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|11|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|14|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|15|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|18|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Ltd|
+|9|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|10|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|103.120.165.54|8885|Bangladesh|Dhaka|Discovery Internet/ Madhabdi|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|15|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|16|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|103.147.134.234|1010|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|18|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|19|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
+|20|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
 
 
 
