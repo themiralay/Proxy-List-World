@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|14|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
-|15|67.43.228.253|3329|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|30813|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.39.70.4|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|20|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|171.228.172.40|10089|Vietnam|Hanoi|Viettel Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|13|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|14|72.10.164.178|8851|Canada|Montreal|GloboTech Communications|
+|15|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|16|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|67.43.236.20|15255|Canada|Montreal|GloboTech Communications|
+|19|202.6.234.52|51234|Indonesia|Surabaya|PADINET - Padi Internet|
+|20|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
 
 
 
