@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|190.43.92.136|999|Peru|Lima|Telefonica Del Peru|
-|8|67.43.236.20|6163|Canada|Montreal|GloboTech Communications|
-|9|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.10.160.92|24751|Canada|Montreal|GloboTech Communications|
-|12|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|13|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|14|72.10.164.178|12139|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|1163|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|15145|Canada|Montreal|GloboTech Communications|
-|17|159.89.239.166|18107|United States|North Bergen|DigitalOcean, LLC|
-|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|12139|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|17949|Canada|Montreal|GloboTech Communications|
+|1|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|5|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|8|67.43.236.20|17213|Canada|Montreal|GloboTech Communications|
+|9|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|67.43.228.253|11943|Canada|Montreal|GloboTech Communications|
+|11|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|12|67.43.228.250|22925|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.174|5471|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|27857|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|27411|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|11943|Canada|Montreal|GloboTech Communications|
+|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|18|67.43.228.253|11943|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|5471|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|17213|Canada|Montreal|GloboTech Communications|
 
 
 
