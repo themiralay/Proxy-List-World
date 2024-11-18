@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|2|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|3|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
-|4|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|67.43.236.18|18827|Canada|Montreal|GloboTech Communications|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|200.24.139.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|10|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
 |12|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|13|72.10.164.178|29397|Canada|Montreal|GloboTech Communications|
-|14|171.239.133.68|10020|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|196.251.195.254|8082|South Africa|Brits|Info-Gro (PTY) Ltd|
-|18|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|84.214.150.146|8080|Norway|Oslo|Get AS|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|67.43.236.18|11099|Canada|Montreal|GloboTech Communications|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
