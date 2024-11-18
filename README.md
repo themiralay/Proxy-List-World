@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|9|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|11|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|12|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|116.107.123.88|10089|Vietnam|Hanoi|Viettel Corporation|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|17|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|195.146.151.105|8085|Slovakia|Spišská Nová Ves|Slovak Telecom, a. s.|
-|20|114.219.143.115|8089|China|Nanjing|China Telecom|
+|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|62.99.66.56|8080|Spain|Barakaldo|Euskaltel S.A.|
+|14|45.189.151.245|8080|Mexico|Mexico City|Javier Tamayo Garcia|
+|15|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|16|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|17|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|18|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|19|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
