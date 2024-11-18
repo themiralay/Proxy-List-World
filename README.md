@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|159.192.160.162|80|Thailand|Mueang Phuket|CAT Telecom Public Company Limited|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|103.190.171.197|8080|Indonesia|Jakarta|WMS|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|116.104.129.15|5018|Vietnam|Hanoi|Viettel Corporation|
-|18|102.209.18.96|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|6|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|159.192.160.162|80|Thailand|Mueang Phuket|CAT Telecom Public Company Limited|
+|15|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.253.18.126|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
+|20|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
