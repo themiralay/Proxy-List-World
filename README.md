@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|203.150.128.153|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|8|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|9|144.86.187.34|3129|United States|Malden|Charles River Operation|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|18|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|20|67.43.227.227|32149|Canada|Montreal|GloboTech Communications|
+|2|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|8|37.187.71.85|30601|France|Gravelines|OVH SAS|
+|9|203.150.128.153|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|67.43.227.227|19911|Canada|Montreal|GloboTech Communications|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|67.43.227.228|18007|Canada|Montreal|GloboTech Communications|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|67.43.228.253|8247|Canada|Montreal|GloboTech Communications|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|72.10.164.178|28161|Canada|Montreal|GloboTech Communications|
 
 
 
