@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
-|3|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|4|67.43.228.253|4197|Canada|Montreal|GloboTech Communications|
-|5|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|72.10.160.92|7497|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|2977|Canada|Montreal|GloboTech Communications|
-|9|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|10|67.43.228.253|4197|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|3901|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|11073|Canada|Montreal|GloboTech Communications|
-|13|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|14|72.10.160.173|27535|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|45.117.29.137|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|67.43.228.253|10315|Canada|Montreal|GloboTech Communications|
+|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|13|67.43.236.20|2977|Canada|Montreal|GloboTech Communications|
+|14|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
 |15|72.10.160.90|26785|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|21055|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|11073|Canada|Montreal|GloboTech Communications|
-|18|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.164.178|11073|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|5589|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|5589|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5589|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|21055|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|10315|Canada|Montreal|GloboTech Communications|
 
 
 
