@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |2|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|72.10.160.171|9567|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|25695|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|25695|Canada|Montreal|GloboTech Communications|
-|8|1.52.203.241|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|165.225.72.38|11700|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|67.43.227.228|13327|Canada|Montreal|GloboTech Communications|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.160.171|9567|Canada|Montreal|GloboTech Communications|
-|15|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.236.20|12781|Canada|Montreal|GloboTech Communications|
-|17|165.225.72.38|11700|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|67.43.227.227|3297|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|12781|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|11331|Canada|Montreal|GloboTech Communications|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|5|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|6|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|67.43.236.20|28129|Canada|Montreal|GloboTech Communications|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|72.10.164.178|25695|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|11331|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|31101|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|28129|Canada|Montreal|GloboTech Communications|
+|16|165.225.72.38|11700|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|67.43.236.20|28129|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|28129|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8603|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|8603|Canada|Montreal|GloboTech Communications|
 
 
 
