@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|4|72.10.164.178|3759|Canada|Montreal|GloboTech Communications|
-|5|115.236.144.234|3128|China|Hangzhou|Chinanet|
-|6|67.43.227.227|6443|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|3759|Canada|Montreal|GloboTech Communications|
-|8|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|9|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|67.43.227.230|25969|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|10351|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|16771|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|22799|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|16771|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.171|4895|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2685|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2685|Canada|Montreal|GloboTech Communications|
+|2|103.166.159.163|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|3|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|4|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|72.10.164.178|3941|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|22037|Canada|Montreal|GloboTech Communications|
+|13|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|46.161.194.76|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|103.190.112.44|8181|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|18|72.10.164.178|3941|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|1589|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|22037|Canada|Montreal|GloboTech Communications|
 
 
 
