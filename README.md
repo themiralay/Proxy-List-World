@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
-|10|103.167.31.156|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|67.43.227.227|23205|Canada|Montreal|GloboTech Communications|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|72.10.164.178|2325|Canada|Montreal|GloboTech Communications|
-|18|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|67.43.236.19|21989|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|31571|Canada|Montreal|GloboTech Communications|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|7|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|115.72.36.199|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|19|118.69.123.180|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
 
 
 
