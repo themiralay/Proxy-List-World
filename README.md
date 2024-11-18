@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4556** proxies at the latest update. Usable proxies are below.
+> Scraper found **4713** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|469|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|450|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2642|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|10|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|5|114.8.131.178|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|6|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
+|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|103.88.239.17|82|India|Hyderabad|Mana Communications|
+|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|11|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 |12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|62.99.66.56|8080|Spain|Barakaldo|Euskaltel S.A.|
-|14|45.189.151.245|8080|Mexico|Mexico City|Javier Tamayo Garcia|
-|15|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|16|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|17|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|19|205.207.102.33|8282|United States|Greenwood|ALTIUS Broadband, LLC|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|14|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|15|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|17|58.240.211.251|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 
 
 
