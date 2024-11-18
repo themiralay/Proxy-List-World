@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|115.76.90.142|2024|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|203.150.128.224|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|72.10.160.90|21013|Canada|Montreal|GloboTech Communications|
-|13|167.114.98.246|9595|Canada|Montreal|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|67.43.228.254|1227|Canada|Montreal|GloboTech Communications|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|67.43.236.20|25769|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|4053|Canada|Montreal|GloboTech Communications|
+|2|203.150.128.224|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.158.96.198|8080|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|7|67.43.228.254|1227|Canada|Montreal|GloboTech Communications|
+|8|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|9|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|167.114.98.246|9595|Canada|Montreal|OVH SAS|
+|12|165.225.72.38|10035|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|148.72.169.225|30109|United States|St Louis|velia.net|
+|14|103.36.10.223|8080|Indonesia|Rangkasbitung|PT Awinet Global Mandiri|
+|15|165.225.72.38|10035|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|72.10.160.90|17247|Canada|Montreal|GloboTech Communications|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
