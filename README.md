@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|14.29.187.232|8081|China|Hangzhou|Chinanet|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|72.10.164.178|15293|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.19|14187|Canada|Montreal|GloboTech Communications|
-|9|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|10|116.107.250.196|4001|Vietnam|Hanoi|Viettel Corporation|
-|11|72.10.160.92|32703|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15293|Canada|Montreal|GloboTech Communications|
-|13|169.62.227.172|80|United States|Chicago|SoftLayer|
-|14|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|15|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|16|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|17|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|18|72.10.160.91|8721|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|25085|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|7345|Canada|Montreal|GloboTech Communications|
+|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|5|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|6|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|8|72.10.164.178|25329|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.19|14187|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|30555|Canada|Montreal|GloboTech Communications|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.236.20|9153|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
