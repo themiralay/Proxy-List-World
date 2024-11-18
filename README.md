@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
 |2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|4|159.253.23.38|3128|Estonia|Jõhvi|PAGM network|
-|5|72.10.164.178|17967|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|29229|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|17967|Canada|Montreal|GloboTech Communications|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|72.10.164.178|17967|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|5775|Canada|Montreal|GloboTech Communications|
-|11|161.97.162.97|3129|Germany|Düsseldorf|Contabo GmbH|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|14|72.10.160.90|5485|Canada|Montreal|GloboTech Communications|
-|15|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.228.253|29229|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29229|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|24525|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|7661|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|7745|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|5|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|67.43.227.228|13465|Canada|Montreal|GloboTech Communications|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|72.10.164.178|4731|Canada|Montreal|GloboTech Communications|
+|11|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|12|72.10.164.178|4731|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.21|7661|Canada|Montreal|GloboTech Communications|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.160.174|18449|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|16523|Canada|Montreal|GloboTech Communications|
+|17|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|18|72.10.160.90|8277|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|32161|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|29479|Canada|Montreal|GloboTech Communications|
 
 
 
