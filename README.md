@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
-|2|117.2.226.45|5404|Vietnam|Hanoi|Viettel Corporation|
-|3|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|4|67.43.227.228|18371|Canada|Montreal|GloboTech Communications|
-|5|67.43.236.20|6137|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.90|12059|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|28805|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.173|15421|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|6137|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|22811|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|16553|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|18371|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|28805|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28805|Canada|Montreal|GloboTech Communications|
-|15|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
-|16|72.10.164.178|28805|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|22811|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12059|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|22811|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28805|Canada|Montreal|GloboTech Communications|
+|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|190.43.92.136|999|Peru|Lima|Telefonica Del Peru|
+|4|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|5|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|103.99.27.77|9999|Indonesia|Tangerang|PT Lintas Network Solusi|
+|7|67.43.227.228|18371|Canada|Montreal|GloboTech Communications|
+|8|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|9|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|10|72.10.160.173|15421|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|1181|Canada|Montreal|GloboTech Communications|
+|12|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|72.10.160.173|15421|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|1181|Canada|Montreal|GloboTech Communications|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|72.10.160.170|23359|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|20|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
 
 
 
