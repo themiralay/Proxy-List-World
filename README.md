@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|24.199.68.201|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|67.43.227.227|14715|Canada|Montreal|GloboTech Communications|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|11|67.43.227.228|25539|Canada|Montreal|GloboTech Communications|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
-|14|72.10.164.178|11257|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11257|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|1771|Canada|Montreal|GloboTech Communications|
-|17|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|20|72.10.160.170|15035|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|67.43.227.228|31717|Canada|Montreal|GloboTech Communications|
+|5|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|67.43.227.227|12195|Canada|Montreal|GloboTech Communications|
+|8|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|9|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|14|67.43.227.226|9681|Canada|Montreal|GloboTech Communications|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|17|67.43.227.228|31717|Canada|Montreal|GloboTech Communications|
+|18|37.143.129.242|42164|Finland|Helsinki|ONEPROVIDER|
+|19|67.43.228.253|1771|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|28829|Canada|Montreal|GloboTech Communications|
 
 
 
