@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|103.25.166.206|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|202.6.234.52|51234|Indonesia|Surabaya|PADINET - Padi Internet|
-|11|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|12|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|14|103.18.47.139|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|46.209.73.165|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|19|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|20|72.10.160.173|7839|Canada|Montreal|GloboTech Communications|
 
 
 
