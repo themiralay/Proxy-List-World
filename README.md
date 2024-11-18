@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|95.85.93.128|3128|United States|Manassas|G-Core Labs S.A.|
-|12|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.160.93|26985|Canada|Montreal|GloboTech Communications|
-|15|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.164.178|21277|Canada|Montreal|GloboTech Communications|
-|17|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|116.254.96.167|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|13|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|181.192.26.86|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|148.72.168.81|30127|United States|St Louis|velia.net|
 
 
 
