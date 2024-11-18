@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.174.61|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|42.119.58.14|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|171.232.188.217|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|116.107.80.159|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|116.108.22.146|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|115.72.174.61|10004|Vietnam|Vũng Tàu|VIETELmetro|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|115.72.164.228|10003|Vietnam|Vũng Tàu|VIETELmetro|
 |6|171.232.188.217|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|115.77.241.170|10004|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|115.77.247.101|10006|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|67.43.236.20|8101|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|9797|Canada|Montreal|GloboTech Communications|
-|12|1.54.145.255|10002|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|67.43.228.252|29087|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|3315|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.229|19043|Canada|Montreal|GloboTech Communications|
-|16|171.239.235.99|10001|Vietnam|Bình Dương|Viettel Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.163.102.70|8181|Indonesia|Wonogiri Regency|PT Mamura Inter Media|
-|19|72.10.164.178|9797|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8101|Canada|Montreal|GloboTech Communications|
+|7|115.77.173.156|10004|Vietnam|Vũng Tàu|Viettel Group|
+|8|115.77.241.170|10004|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|171.250.98.152|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|67.43.227.227|32021|Canada|Montreal|GloboTech Communications|
+|11|171.232.188.217|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|116.108.3.89|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|14|67.43.228.252|29087|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|26663|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|4865|Canada|Montreal|GloboTech Communications|
+|17|171.243.171.1|10006|Vietnam|Tuy Hoa|Viettel Corporation|
+|18|115.72.164.228|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|19|171.252.156.56|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|72.10.164.178|26875|Canada|Montreal|GloboTech Communications|
 
 
 
