@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
-|5|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|9|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|2269|Canada|Montreal|GloboTech Communications|
-|11|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|12|67.43.236.20|13435|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|13435|Canada|Montreal|GloboTech Communications|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|19|72.10.160.171|5783|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10699|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|115.72.36.199|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|181.192.26.86|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|16|72.10.160.174|19617|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16967|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.22|21907|Canada|Montreal|GloboTech Communications|
+|19|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|72.10.164.178|16967|Canada|Montreal|GloboTech Communications|
 
 
 
