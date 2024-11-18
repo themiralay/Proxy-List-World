@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4672** proxies at the latest update. Usable proxies are below.
+> Scraper found **4632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|376|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2667|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|103.156.86.130|8080|Indonesia|Palopo|PT Chacha Networking System|
-|5|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|6|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|7|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|149.54.3.220|8080|Afghanistan|Kabul|Government Communications Network|
-|10|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|11|2.50.47.239|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|72.10.160.93|26297|Canada|Montreal|GloboTech Communications|
-|16|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|17|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|18|72.10.164.178|6903|Canada|Montreal|GloboTech Communications|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|72.10.160.90|29629|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|129.80.58.106|3128|United States|Ashburn|Oracle Corporation|
+|10|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|11|103.144.18.55|1010|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|17|72.10.160.171|10239|Canada|Montreal|GloboTech Communications|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|72.10.164.178|31955|Canada|Montreal|GloboTech Communications|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
