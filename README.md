@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|3|209.14.115.101|999|Colombia|Neiva|AGIS|
+|4|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
 |8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|13|148.72.165.7|30118|United States|St Louis|velia.net|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|72.10.164.178|2669|Canada|Montreal|GloboTech Communications|
-|18|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|72.10.160.92|4969|Canada|Montreal|GloboTech Communications|
+|9|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|15|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|43.130.15.168|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
