@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.26.230.47|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|2|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|72.10.160.172|2341|Canada|Montreal|GloboTech Communications|
-|5|72.10.164.178|15811|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|15811|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.230|11899|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|28313|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|14895|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|15811|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|14895|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|10257|Canada|Montreal|GloboTech Communications|
-|13|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
-|14|72.10.160.90|28313|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|22597|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|28313|Canada|Montreal|GloboTech Communications|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
+|7|182.253.109.170|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|67.43.227.230|2353|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|19563|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.172|2341|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.93|10257|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|6657|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|19563|Canada|Montreal|GloboTech Communications|
+|14|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.164.178|19563|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|19563|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|15667|Canada|Montreal|GloboTech Communications|
 |18|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
 |19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.228.253|17001|Canada|Montreal|GloboTech Communications|
+|20|24.52.33.75|8080|United States|St. George|TDS TELECOM|
 
 
 
