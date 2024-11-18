@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|4|190.43.92.136|999|Peru|Lima|Telefonica Del Peru|
-|5|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
-|6|67.43.228.251|10735|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.91|9937|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.250|29589|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|5921|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.250|29589|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|8985|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|9937|Canada|Montreal|GloboTech Communications|
-|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|14|72.10.160.170|32983|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|32983|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|32983|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5921|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|67.43.227.229|4851|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15539|Canada|Montreal|GloboTech Communications|
+|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|190.43.92.136|999|Peru|Lima|Telefonica Del Peru|
+|4|129.18.210.10|8080|Nigeria|Ikeja|Swift Networks Limited|
+|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|6|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|7|42.119.164.44|9400|Vietnam|Hanoi|FPT Telecom Company|
+|8|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|9|188.132.222.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|67.43.228.250|2143|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|2143|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|6551|Canada|Montreal|GloboTech Communications|
+|17|148.72.165.7|30118|United States|St Louis|velia.net|
+|18|67.43.227.227|5921|Canada|Montreal|GloboTech Communications|
+|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
