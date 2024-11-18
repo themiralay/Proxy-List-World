@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|119.42.69.90|8080|Thailand|Bang Rak|CAT-BB|
-|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|5|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|10|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|58.136.161.198|3128|Thailand|Bangkok|AIS-Fibre|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|115.236.144.234|3128|China|Hangzhou|Chinanet|
-|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|19|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|119.42.69.90|8080|Thailand|Bang Rak|CAT-BB|
+|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|74.241.245.225|3128|Sweden|Gävle|BellSouth.net Inc.|
+|16|181.192.26.86|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|17|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|18|103.126.86.17|3127|Indonesia|Surakarta|PT. Rasi Bintang Perkasa|
+|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
