@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|187.87.206.97|3128|Brazil|Ruy Barbosa|Screen Saver Informática LTDA|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|103.39.70.4|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|12|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|13|67.43.228.252|2339|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|4597|Canada|Montreal|GloboTech Communications|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|186.148.195.67|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|159.192.139.178|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|12|67.43.228.252|28533|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|19003|Canada|Montreal|GloboTech Communications|
+|14|193.68.152.102|8080|Bulgaria|Slavyanovo|Digital Systems Ltd|
+|15|67.43.227.227|8341|Canada|Montreal|GloboTech Communications|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.227.227|8341|Canada|Montreal|GloboTech Communications|
+|20|14.29.187.232|8081|China|Hangzhou|Chinanet|
 
 
 
