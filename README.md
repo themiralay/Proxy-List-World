@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|7|139.178.67.134|10092|United States|Parsippany|Packet Host, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|116.104.168.39|5020|Vietnam|Hanoi|Viettel Corporation|
-|11|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
 |12|185.44.65.187|9595|United States|New York|Massivegrid LTD|
-|13|67.43.236.19|1621|Canada|Montreal|GloboTech Communications|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|103.166.158.107|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|16|67.43.228.253|1955|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|29383|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|13755|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13755|Canada|Montreal|GloboTech Communications|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.228.253|19149|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|72.10.164.178|21107|Canada|Montreal|GloboTech Communications|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|67.43.227.227|11463|Canada|Montreal|GloboTech Communications|
 
 
 
