@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|11|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.155.116.242|8085|Indonesia|Serang|IOSYS|
-|14|117.1.255.129|1004|Vietnam|Hanoi|Viettel Corporation|
-|15|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|17|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|20|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
+|1|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|72.10.160.90|31759|Canada|Montreal|GloboTech Communications|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|13|185.44.65.187|9595|United States|New York|Massivegrid LTD|
+|14|165.225.72.38|11089|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|15|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|165.225.72.38|11089|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
