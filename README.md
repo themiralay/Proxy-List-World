@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
 |4|116.107.92.187|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|222.122.110.26|80|South Korea|Seongnam-si|Korea Telecom|
-|8|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|17|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
-|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|72.10.164.178|3623|Canada|Montreal|GloboTech Communications|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|67.43.236.20|26281|Canada|Montreal|GloboTech Communications|
+|12|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
+|13|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|14|67.43.228.253|10573|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|3623|Canada|Montreal|GloboTech Communications|
+|16|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|17|72.10.164.178|3623|Canada|Montreal|GloboTech Communications|
+|18|116.110.175.67|28007|Vietnam|Tam Kỳ|Viettel Corporation|
+|19|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|67.43.236.20|26281|Canada|Montreal|GloboTech Communications|
 
 
 
