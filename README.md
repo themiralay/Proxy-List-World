@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|178.128.124.220|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|116.97.235.76|2023|Vietnam|Hanoi|Viettel Corporation|
-|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|13|203.150.128.99|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|203.150.128.99|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|116.104.130.103|5020|Vietnam|Hanoi|Viettel Corporation|
 |14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|18|72.10.160.170|1717|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
+|17|103.182.212.201|6969|Bangladesh|Gazipur|Md Ibrahim|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
 
 
 
