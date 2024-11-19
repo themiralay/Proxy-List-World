@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|36.72.254.149|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|139.180.164.103|80|Australia|Sydney|Choopa|
-|4|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|67.43.228.253|9465|Canada|Montreal|GloboTech Communications|
-|7|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|8|67.43.227.227|16315|Canada|Montreal|GloboTech Communications|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|18275|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
-|15|114.116.214.19|8128|China|Beijing|IDC, China Telecommunications Corporation|
-|16|67.43.228.253|9465|Canada|Montreal|GloboTech Communications|
-|17|165.225.72.38|33333|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|36.72.254.149|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|139.180.164.103|80|Australia|Sydney|Choopa|
+|8|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|165.225.72.38|11526|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|12|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|13|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
+|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|16|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
+|17|165.225.72.38|11526|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|2491|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
 
 
 
