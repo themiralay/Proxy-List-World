@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|72.10.160.170|9637|Canada|Montreal|GloboTech Communications|
-|2|171.238.238.170|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|3|67.43.227.227|21699|Canada|Montreal|GloboTech Communications|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|72.10.160.94|31991|Canada|Montreal|GloboTech Communications|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|20539|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|21473|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|16507|Canada|Montreal|GloboTech Communications|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|67.43.236.20|8053|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14255|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|7321|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|32445|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|8053|Canada|Montreal|GloboTech Communications|
+|1|27.76.92.97|5006|Vietnam|Tuyên Quang|Newass2011xDSLHCMC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|29305|Canada|Montreal|GloboTech Communications|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|67.43.228.254|21473|Canada|Montreal|GloboTech Communications|
+|11|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|67.43.236.20|11297|Canada|Montreal|GloboTech Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|11297|Canada|Montreal|GloboTech Communications|
+|19|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|20|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
 
 
 
