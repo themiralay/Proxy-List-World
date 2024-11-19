@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|11|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.227.228|11689|Canada|Montreal|GloboTech Communications|
-|13|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|14|67.43.227.228|11689|Canada|Montreal|GloboTech Communications|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|72.10.164.178|10973|Canada|Montreal|GloboTech Communications|
-|17|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|18|72.10.160.173|4897|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|9115|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|33171|Canada|Montreal|GloboTech Communications|
+|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
+|7|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|8|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|13|72.10.164.178|28957|Canada|Montreal|GloboTech Communications|
+|14|45.32.244.63|80|Australia|Sydney|Choopa|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|18|72.10.164.178|28957|Canada|Montreal|GloboTech Communications|
+|19|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|20|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
