@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.126.210.98|3128|United States|Miami|ReliableSite.Net LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|45.126.210.98|3128|United States|Miami|ReliableSite.Net LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|124.120.45.110|8080|Thailand|Surat Thani|TRUEBB|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
-|13|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|14.243.44.149|7001|Vietnam|Da Nang|VNPT|
-|19|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|20|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
+|14|124.120.45.110|8080|Thailand|Surat Thani|TRUEBB|
+|15|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|16|72.10.164.178|26587|Canada|Montreal|GloboTech Communications|
+|17|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|14.29.187.232|8081|China|Hangzhou|Chinanet|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
