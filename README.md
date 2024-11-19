@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|72.10.160.170|8585|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|8585|Canada|Montreal|GloboTech Communications|
-|8|165.225.72.38|9400|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|72.10.160.171|29003|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|8585|Canada|Montreal|GloboTech Communications|
-|12|180.104.208.103|8081|China|Nanjing|Chinanet|
-|13|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|14|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|15|72.10.164.178|28893|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|26341|Canada|Montreal|GloboTech Communications|
-|17|209.14.115.101|999|Colombia|Neiva|AGIS|
-|18|67.43.236.20|14959|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2271|Canada|Montreal|GloboTech Communications|
-|20|51.159.75.249|3128|France|Paris|SCALEWAY|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|72.10.160.170|4409|Canada|Montreal|GloboTech Communications|
+|8|165.225.72.38|10356|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|67.43.228.252|26341|Canada|Montreal|GloboTech Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|147.28.155.20|10083|United States|Dallas|Packet Host, Inc.|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|113.160.210.180|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|19|47.254.131.67|3128|Germany|Frankfurt am Main|Alibaba.com LLC|
+|20|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
 
 
 
