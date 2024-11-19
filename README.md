@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.180.123.15|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|11|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|67.43.228.253|10809|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.252|7505|Canada|Montreal|GloboTech Communications|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|67.43.236.20|9125|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20217|Canada|Montreal|GloboTech Communications|
-|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|3|116.107.92.187|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|116.107.86.176|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|16|116.107.80.218|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|20|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
 
 
 
