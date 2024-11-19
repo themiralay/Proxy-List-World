@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4542** proxies at the latest update. Usable proxies are below.
+> Scraper found **4456** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|356|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2507|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|8|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.158.13.194|1111|Indonesia|Bojonegoro|PT.Global Media Data Prima|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|13|14.187.190.103|10010|Vietnam|Ho Chi Minh City|VNPT|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|72.10.164.178|1375|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|32811|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|11293|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|32811|Canada|Montreal|GloboTech Communications|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|14|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.227.226|4949|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|29877|Canada|Montreal|GloboTech Communications|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|67.43.236.20|2737|Canada|Montreal|GloboTech Communications|
 
 
 
