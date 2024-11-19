@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|6|110.78.215.243|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|148.72.169.225|30127|United States|St Louis|velia.net|
-|9|67.43.228.254|25413|Canada|Montreal|GloboTech Communications|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|154.197.148.28|21053|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|148.72.169.225|30127|United States|St Louis|velia.net|
-|14|72.10.160.173|24077|Canada|Montreal|GloboTech Communications|
-|15|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|16|67.43.228.250|8553|Canada|Montreal|GloboTech Communications|
+|3|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|67.43.227.230|4745|Canada|Montreal|GloboTech Communications|
+|10|165.225.72.38|10004|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|11|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|12|67.43.228.250|8553|Canada|Montreal|GloboTech Communications|
+|13|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|14|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|15|67.43.228.254|25413|Canada|Montreal|GloboTech Communications|
+|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |17|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
