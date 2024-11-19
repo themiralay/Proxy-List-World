@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
 |3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|11|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|67.43.227.228|26875|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|15|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|16|67.43.227.227|1381|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|26441|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25759|Canada|Montreal|GloboTech Communications|
-|19|27.76.82.75|5008|Vietnam|Tuyên Quang|Newass2011xDSLHCMC|
-|20|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
+|9|103.58.116.251|80|India|Krishnagiri|Example|
+|10|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|12|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
+|19|67.43.227.228|26875|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
