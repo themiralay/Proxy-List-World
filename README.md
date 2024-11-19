@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|72.10.164.178|9041|Canada|Montreal|GloboTech Communications|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|67.43.228.250|12205|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9041|Canada|Montreal|GloboTech Communications|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|165.225.72.38|11089|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|14|67.43.236.19|21531|Canada|Montreal|GloboTech Communications|
+|15|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.227.227|6171|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|22433|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|6171|Canada|Montreal|GloboTech Communications|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
