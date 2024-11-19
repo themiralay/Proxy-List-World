@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|67.43.227.226|11689|Canada|Montreal|GloboTech Communications|
-|16|45.4.148.70|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
-|17|72.10.164.178|1785|Canada|Montreal|GloboTech Communications|
-|18|116.107.106.134|12075|Vietnam|Hải Dương|Viettel Corporation|
-|19|116.97.235.76|1591|Vietnam|Hanoi|Viettel Corporation|
-|20|67.43.228.253|7473|Canada|Montreal|GloboTech Communications|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|11|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|12|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|67.43.228.253|32853|Canada|Montreal|GloboTech Communications|
+|15|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|67.43.227.226|11689|Canada|Montreal|GloboTech Communications|
+|17|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|18|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|116.107.106.134|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
