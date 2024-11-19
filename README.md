@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4994** proxies at the latest update. Usable proxies are below.
+> Scraper found **5044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|467|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|517|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|367|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3164|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|36.72.254.149|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|139.180.164.103|80|Australia|Sydney|Choopa|
-|8|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|11|165.225.72.38|11526|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|12|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|13|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|16|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
-|17|165.225.72.38|11526|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|72.10.164.178|33133|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|2491|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
+|2|14.187.182.85|10007|Vietnam|Ho Chi Minh City|VNPT|
+|3|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|14.187.190.103|10001|Vietnam|Ho Chi Minh City|VNPT|
+|8|67.43.227.230|10965|Canada|Montreal|GloboTech Communications|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|67.43.228.252|27057|Canada|Montreal|GloboTech Communications|
+|14|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|15|67.43.236.20|6165|Canada|Montreal|GloboTech Communications|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|67.43.227.227|31411|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|9847|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|9847|Canada|Montreal|GloboTech Communications|
 
 
 
