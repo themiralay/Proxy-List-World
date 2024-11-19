@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
-|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|2|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|3|116.107.90.31|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|10|203.150.113.50|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|15|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|16|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|20|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|27.66.73.213|10010|Vietnam|Thái Nguyên|Viettel Group|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
