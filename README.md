@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.85.251|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.107.90.31|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|116.107.85.251|12075|Vietnam|Hải Dương|Viettel Corporation|
 |4|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|116.107.90.31|12075|Vietnam|Hải Dương|Viettel Corporation|
 |6|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|115.72.174.61|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|45.32.244.63|80|Australia|Sydney|Choopa|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|41.65.251.88|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|17|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|18|72.10.160.174|2503|Canada|Montreal|GloboTech Communications|
-|19|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|7|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|114.9.52.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|67.43.236.20|8983|Canada|Montreal|GloboTech Communications|
+|18|41.65.251.88|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|19|67.43.236.20|8983|Canada|Montreal|GloboTech Communications|
+|20|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
