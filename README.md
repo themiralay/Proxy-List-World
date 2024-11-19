@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|6|116.107.113.176|10089|Vietnam|Hanoi|Viettel Corporation|
-|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
-|9|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|203.150.113.129|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|17|148.72.169.225|30127|United States|St Louis|velia.net|
-|18|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|19|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|68.72.106.234|3128|United States|Valdosta|AT&T Services, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|68.72.106.234|3128|United States|Valdosta|AT&T Services, Inc.|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|116.96.73.209|10004|Vietnam|Hanoi|Viettel Corporation|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
