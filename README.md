@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|115.72.198.105|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|185.200.38.101|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|67.43.227.227|19703|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28105|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|2|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.107.92.112|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|14.243.44.149|7001|Vietnam|Da Nang|VNPT|
+|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|103.159.96.89|1080|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|14|45.117.29.121|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
