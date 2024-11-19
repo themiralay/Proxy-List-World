@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.107.85.251|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|203.150.128.58|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|72.10.164.178|28807|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|15|72.10.160.170|22453|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|1515|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|14765|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|22139|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28889|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.107.85.251|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|19|185.44.65.187|9595|United States|New York|Massivegrid LTD|
+|20|72.10.160.170|30285|Canada|Montreal|GloboTech Communications|
 
 
 
