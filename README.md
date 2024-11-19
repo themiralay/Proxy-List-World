@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.150.113.129|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.186.90.41|8080|Indonesia|Guyangan|PT Akses Data Internusa|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|148.72.169.225|30127|United States|St Louis|velia.net|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|42.119.58.14|10008|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|165.225.72.38|11089|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|14|67.43.228.250|32019|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|12413|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|29745|Canada|Montreal|GloboTech Communications|
+|17|45.32.244.63|80|Australia|Sydney|Choopa|
+|18|72.10.164.178|12413|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|9621|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
