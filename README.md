@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.150.196.146|8080|Indonesia|Jakarta|PT Biznet Gio Nusantara|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|12|171.234.229.188|10007|Vietnam|Hanoi|Viettel Corporation|
-|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|14|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|67.43.236.20|27399|Canada|Montreal|GloboTech Communications|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|67.43.228.253|8925|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|8925|Canada|Montreal|GloboTech Communications|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|177.129.249.90|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
