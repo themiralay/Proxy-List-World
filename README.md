@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|562|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|372|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2959|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|13|67.43.236.20|13831|Canada|Montreal|GloboTech Communications|
-|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.104.129.216|8080|Vietnam|Hanoi|Viettel Corporation|
-|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|24.199.68.201|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|4|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|115.72.15.1|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|10|139.180.164.103|80|Australia|Sydney|Choopa|
+|11|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|72.10.160.171|10941|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.174|20675|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|7149|Canada|Montreal|GloboTech Communications|
+|15|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|72.10.160.173|13543|Canada|Montreal|GloboTech Communications|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|67.43.227.227|12259|Canada|Montreal|GloboTech Communications|
 
 
 
