@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|13|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|72.10.164.178|7467|Canada|Montreal|GloboTech Communications|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|67.43.228.253|25601|Canada|Montreal|GloboTech Communications|
+|1|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|115.76.90.142|2024|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|36.90.48.207|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
