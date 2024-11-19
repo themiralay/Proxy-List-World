@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|116.107.86.82|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|116.107.92.187|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
+|8|72.10.160.90|2835|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|31467|Canada|Montreal|GloboTech Communications|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|116.107.102.98|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|72.10.160.90|14341|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3075|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14341|Canada|Montreal|GloboTech Communications|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|11|72.10.164.178|31467|Canada|Montreal|GloboTech Communications|
+|12|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|13|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|72.10.160.90|2835|Canada|Montreal|GloboTech Communications|
+|16|41.139.166.117|8080|Kenya|Nairobi|Converged services Eastern|
+|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|148.72.169.225|10567|United States|St Louis|velia.net|
 
 
 
