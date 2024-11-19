@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|1|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|11|8.242.126.181|11201|Colombia|Bogotá|CTL Colombia|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|67.43.236.21|4621|Canada|Montreal|GloboTech Communications|
-|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|67.43.228.251|24713|Canada|Montreal|GloboTech Communications|
-|18|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|148.72.169.225|10567|United States|St Louis|velia.net|
-|20|67.43.228.251|24713|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|11|67.43.228.251|28499|Canada|Montreal|GloboTech Communications|
+|12|45.235.252.39|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|13|67.43.228.253|28733|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|4165|Canada|Montreal|GloboTech Communications|
+|15|165.225.72.38|11195|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|72.10.164.178|13343|Canada|Montreal|GloboTech Communications|
+|17|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.228.251|28499|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|28733|Canada|Montreal|GloboTech Communications|
+|20|42.119.58.14|10006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
