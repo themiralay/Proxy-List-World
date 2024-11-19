@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|116.107.80.237|12075|Vietnam|Hải Dương|Viettel Corporation|
 |4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |6|113.164.64.127|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|67.43.228.252|14757|Canada|Montreal|GloboTech Communications|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|1.52.203.241|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.170|30199|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25821|Canada|Montreal|GloboTech Communications|
-|18|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|125.25.235.62|8080|Thailand|Sawankhalok|TOT Public Company Limited|
+|11|128.140.113.110|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|188.132.221.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|41.33.203.238|1975|Egypt|Beheira|TE Data|
+|15|67.43.228.252|14757|Canada|Montreal|GloboTech Communications|
+|16|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.29.0.7|10089|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
+|18|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|74.48.65.103|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
