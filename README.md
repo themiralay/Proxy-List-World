@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|67.43.236.20|2805|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|14621|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|3285|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.227.229|2195|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|1.52.196.149|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|191.242.177.78|3128|Brazil|Piraí do Norte|Conect Telecom|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.160.90|14621|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
