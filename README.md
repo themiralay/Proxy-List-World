@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|72.10.160.90|2825|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|12121|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|1401|Canada|Montreal|GloboTech Communications|
-|13|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|72.10.164.178|1401|Canada|Montreal|GloboTech Communications|
-|15|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|16|72.10.160.90|2825|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|6763|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|72.10.164.178|1401|Canada|Montreal|GloboTech Communications|
-|20|114.218.165.11|8089|China|Guangzhou|China Telecom|
+|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|5|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|72.10.160.90|20907|Canada|Montreal|GloboTech Communications|
+|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|11|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|72.10.164.178|22169|Canada|Montreal|GloboTech Communications|
+|16|116.110.190.34|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
+|18|72.10.164.178|22169|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|72.10.164.178|22169|Canada|Montreal|GloboTech Communications|
 
 
 
