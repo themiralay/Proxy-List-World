@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|124.120.45.110|8080|Thailand|Surat Thani|TRUEBB|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|113.192.30.253|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 |13|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|16|72.10.164.178|16927|Canada|Montreal|GloboTech Communications|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|16927|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|72.10.164.178|16097|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|3791|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16097|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|15877|Canada|Montreal|GloboTech Communications|
+|20|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
 
 
 
