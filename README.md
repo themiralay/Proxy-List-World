@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.107.89.86|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|171.228.166.156|10089|Vietnam|Hanoi|Viettel Corporation|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|15|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
-|16|185.44.65.187|9595|United States|New York|Massivegrid LTD|
-|17|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
-|18|109.111.132.3|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|109.111.132.3|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|38.45.242.117|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
+|17|67.43.227.228|12285|Canada|Montreal|GloboTech Communications|
+|18|121.236.236.39|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
+|19|67.43.228.252|17805|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|21807|Canada|Montreal|GloboTech Communications|
 
 
 
