@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|116.107.88.46|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|12|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|185.44.65.187|9595|United States|New York|Massivegrid LTD|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|139.178.67.134|10067|United States|Parsippany|Packet Host, Inc.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|185.44.65.187|9595|United States|New York|Massivegrid LTD|
-|18|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|19|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|20|201.91.82.155|3128|Brazil|Araraquara|Vivo|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|17|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|19|72.10.164.178|20217|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
