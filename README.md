@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.29.0.7|10035|Vietnam|Bắc Giang|Httvserver Technology Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|148.72.165.7|30118|United States|St Louis|velia.net|
-|6|67.43.228.254|10145|Canada|Montreal|GloboTech Communications|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|72.10.164.178|26127|Canada|Montreal|GloboTech Communications|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|72.10.164.178|26127|Canada|Montreal|GloboTech Communications|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|45.71.187.112|8082|Ecuador|Loja|Ufinet Panama S.A.|
-|15|165.225.72.38|33333|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|72.10.160.91|15527|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26127|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|15527|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|32941|Canada|Montreal|GloboTech Communications|
-|20|103.180.123.15|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|70.39.111.247|20500|United States|Denver|Sharktech|
+|3|70.39.111.247|20500|United States|Denver|Sharktech|
+|4|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|72.10.164.178|31549|Canada|Montreal|GloboTech Communications|
+|8|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|9|165.225.72.38|11031|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|12|72.10.164.178|31549|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31549|Canada|Montreal|GloboTech Communications|
+|14|45.71.187.112|8081|Ecuador|Loja|Ufinet Panama S.A.|
+|15|148.72.165.7|30118|United States|St Louis|velia.net|
+|16|42.119.58.14|10002|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|165.225.72.38|11031|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|72.10.160.172|27975|Canada|Montreal|GloboTech Communications|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
