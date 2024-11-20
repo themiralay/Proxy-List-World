@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|10|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|11|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|12|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
-|13|67.43.236.20|7061|Canada|Montreal|GloboTech Communications|
-|14|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|67.43.227.228|2251|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|7|171.226.159.135|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|103.146.185.90|8080|Indonesia|Yogyakarta|YAMNET|
+|12|192.145.228.211|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|88.248.190.198|8080|Turkey|Kızıltoprak|TurkTelecom|
+|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
