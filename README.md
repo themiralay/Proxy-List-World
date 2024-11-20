@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|72.10.164.178|6403|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|1663|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|1663|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|26655|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|8981|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|72.10.160.92|25011|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.174|1855|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|3703|Canada|Montreal|GloboTech Communications|
+|10|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|12|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.160.94|20015|Canada|Montreal|GloboTech Communications|
+|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 |15|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.174|1855|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.22|27081|Canada|Montreal|GloboTech Communications|
-|18|27.189.130.108|8089|China|Shijiazhuang|Chinanet|
-|19|67.43.236.20|26655|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6403|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|67.43.236.20|18167|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|30781|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|3803|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
