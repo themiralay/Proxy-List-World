@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|2|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|6|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|8|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|116.107.92.86|12075|Vietnam|Hải Dương|Viettel Corporation|
+|10|67.43.227.226|1485|Canada|Montreal|GloboTech Communications|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |12|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|13|72.10.160.174|15023|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|2553|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|8725|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|6439|Canada|Montreal|GloboTech Communications|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|67.43.227.230|6439|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|31683|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|26369|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|6845|Canada|Montreal|GloboTech Communications|
+|19|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.43.228.254|22331|Canada|Montreal|GloboTech Communications|
 
 
 
