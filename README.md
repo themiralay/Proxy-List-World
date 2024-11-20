@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|167.114.98.246|9595|Canada|Montreal|OVH SAS|
-|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|8|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.158.96.198|8080|Indonesia|Bandung|PT Dinar Wahana Gemilang|
-|13|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|14|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|15|165.225.72.38|10262|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|67.43.228.253|18973|Canada|Montreal|GloboTech Communications|
-|17|165.225.72.38|10262|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|5.37.200.96|8080|Oman|Muscat|OmanMobile Telecommunication company LLC|
-|19|51.159.75.249|3128|France|Paris|SCALEWAY|
-|20|67.43.228.253|18973|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|3|27.76.203.113|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|7|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|67.43.228.253|5251|Canada|Montreal|GloboTech Communications|
+|15|165.225.72.38|10943|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|165.225.72.38|10943|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|165.225.72.38|10943|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|67.43.236.20|12871|Canada|Montreal|GloboTech Communications|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
