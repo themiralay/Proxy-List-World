@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|70.39.111.247|20500|United States|Denver|Sharktech|
-|5|70.39.111.245|20500|United States|Denver|Sharktech|
+|2|70.39.111.247|20500|United States|Denver|Sharktech|
+|3|70.39.111.249|20500|United States|Denver|Sharktech|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|70.39.111.247|20500|United States|Denver|Sharktech|
 |6|70.39.111.241|20500|United States|Denver|Sharktech|
-|7|70.39.111.243|20500|United States|Denver|Sharktech|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|115.77.167.60|10001|Vietnam|Vũng Tàu|Viettel Group|
 |9|70.39.111.249|20500|United States|Denver|Sharktech|
-|10|70.39.111.243|20500|United States|Denver|Sharktech|
-|11|101.101.217.36|80|South Korea|Seongnam-si|NBP|
-|12|70.39.111.247|20500|United States|Denver|Sharktech|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|70.39.111.241|20500|United States|Denver|Sharktech|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|70.39.111.249|20500|United States|Denver|Sharktech|
+|10|70.39.111.241|20500|United States|Denver|Sharktech|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|70.39.111.245|20500|United States|Denver|Sharktech|
+|15|116.107.103.169|5014|Vietnam|Hải Dương|Viettel Corporation|
+|16|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
 |17|70.39.111.245|20500|United States|Denver|Sharktech|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|70.39.111.243|20500|United States|Denver|Sharktech|
+|19|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|20|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
 
 
 
