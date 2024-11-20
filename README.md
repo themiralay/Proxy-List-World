@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|7|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|10|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|15|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|16|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
-|19|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|20|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|8|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|10|103.136.162.184|8181|Indonesia|Palembang|TPN-LINK|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|16|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|164.52.206.180|80|India|Noida|E2E Networks Limited|
 
 
 
