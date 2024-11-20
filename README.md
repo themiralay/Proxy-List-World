@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5477** proxies at the latest update. Usable proxies are below.
+> Scraper found **5476** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|137|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|136|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|435|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|11|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|72.10.164.178|19649|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|31459|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|10573|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|2517|Canada|Montreal|GloboTech Communications|
-|18|103.172.42.47|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|72.10.160.170|13047|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|8|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|9|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|10|59.98.4.70|8080|India|Jamshedpur|BSNL Internet|
+|11|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|12|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|13|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|15|49.51.244.112|8888|United States|Phoenix|OPHL|
+|16|165.225.72.38|10101|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|19|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
