@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|70.39.111.247|20500|United States|Denver|Sharktech|
-|3|70.39.111.249|20500|United States|Denver|Sharktech|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|70.39.111.245|20500|United States|Denver|Sharktech|
-|6|70.39.111.249|20500|United States|Denver|Sharktech|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|70.39.111.247|20500|United States|Denver|Sharktech|
-|9|70.39.111.241|20500|United States|Denver|Sharktech|
-|10|70.39.111.241|20500|United States|Denver|Sharktech|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|70.39.111.249|20500|United States|Denver|Sharktech|
+|2|70.39.111.241|20500|United States|Denver|Sharktech|
+|3|70.39.111.243|20500|United States|Denver|Sharktech|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|70.39.111.243|20500|United States|Denver|Sharktech|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|70.39.111.241|20500|United States|Denver|Sharktech|
+|9|115.77.138.121|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|36.92.140.113|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|70.39.111.245|20500|United States|Denver|Sharktech|
+|12|70.39.111.245|20500|United States|Denver|Sharktech|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|70.39.111.249|20500|United States|Denver|Sharktech|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|67.43.236.20|11543|Canada|Montreal|GloboTech Communications|
-|20|71.42.125.218|4444|United States|Leander|Spectrum|
+|19|70.39.111.247|20500|United States|Denver|Sharktech|
+|20|70.39.111.249|20500|United States|Denver|Sharktech|
 
 
 
