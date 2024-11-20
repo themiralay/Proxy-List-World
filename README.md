@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|167.114.98.246|9595|Canada|Montreal|OVH SAS|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|10|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|15|200.60.20.11|8800|Peru|Lima|Telefonica del Peru S.A.A.|
-|16|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
-|17|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|18|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|19|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
-|20|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
+|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|95.165.144.248|3288|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|101.51.107.97|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|148.72.169.225|30127|United States|St Louis|velia.net|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|18|165.225.72.38|10092|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|165.225.72.38|10092|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
