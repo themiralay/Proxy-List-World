@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|116.97.134.16|5004|Vietnam|Nam Định|Viettel Corporation|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|70.39.111.247|20500|United States|Denver|Sharktech|
-|8|70.39.111.247|20500|United States|Denver|Sharktech|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
+|3|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|4|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|70.39.111.247|20500|United States|Denver|Sharktech|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|148.72.165.7|30118|United States|St Louis|velia.net|
+|12|65.20.84.253|1111|India|Mumbai|The Constant Company|
+|13|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|14|67.43.227.227|3773|Canada|Montreal|GloboTech Communications|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|203.150.113.166|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|17|165.225.72.38|11405|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|20|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
