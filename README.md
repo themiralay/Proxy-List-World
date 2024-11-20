@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|27.76.203.113|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|12|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|17|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|18|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|42.119.58.14|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|42.119.58.14|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|42.119.58.14|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|17|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|20|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
