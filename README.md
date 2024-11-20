@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|8|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|11|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|12|88.248.190.198|8080|Turkey|Kızıltoprak|TurkTelecom|
-|13|165.225.72.38|11183|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|67.43.227.228|28065|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|17715|Canada|Montreal|GloboTech Communications|
-|16|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|165.225.72.38|11183|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|72.10.160.171|18995|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23345|Canada|Montreal|GloboTech Communications|
+|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|4|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|116.107.94.225|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|165.225.72.38|10603|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|20|72.10.160.93|6675|Canada|Montreal|GloboTech Communications|
 
 
 
