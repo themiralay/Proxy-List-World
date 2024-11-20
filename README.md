@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.91.132|12075|Vietnam|Hải Dương|Viettel Corporation|
-|2|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|145.239.86.192|3128|Poland|Wroclaw|OVH SAS|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|7|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|9|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
-|10|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|116.107.91.132|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|13|67.43.228.251|7191|Canada|Montreal|GloboTech Communications|
-|14|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
-|15|67.43.227.226|25727|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18757|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|16557|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|30977|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|28275|Canada|Montreal|GloboTech Communications|
-|20|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.91.132|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
+|7|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|134.35.1.103|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|148.72.168.81|30127|United States|St Louis|velia.net|
+|13|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|17|202.137.127.196|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
