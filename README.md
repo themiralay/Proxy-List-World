@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.107.91.132|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |4|145.239.86.192|3128|Poland|Wroclaw|OVH SAS|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|7|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|8|61.29.96.146|80|Australia|Saint Albans|AAPT Limited|
-|9|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|12|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|13|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|14|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|38.156.75.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|19|67.43.227.228|17109|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|4947|Canada|Montreal|GloboTech Communications|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|27.76.203.113|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|103.146.185.90|8080|Indonesia|Yogyakarta|YAMNET|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|18|72.10.160.93|16237|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|20|67.43.227.228|17109|Canada|Montreal|GloboTech Communications|
 
 
 
