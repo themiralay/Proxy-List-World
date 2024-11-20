@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.213.218.86|25513|Vietnam|Lê Chân District|V9ERP|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|119.42.69.90|8080|Thailand|Bang Rak|CAT-BB|
-|13|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|188.132.222.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|72.10.164.178|22533|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|14979|Canada|Montreal|GloboTech Communications|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|116.107.86.176|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|16|148.72.165.7|30118|United States|St Louis|velia.net|
 |17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
+|18|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|20|38.97.215.145|8080|United States|Denver|Cogent Communications|
 
 
 
