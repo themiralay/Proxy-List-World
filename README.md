@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|70.39.111.249|20500|United States|Denver|Sharktech|
-|4|70.39.111.245|20500|United States|Denver|Sharktech|
-|5|70.39.111.249|20500|United States|Denver|Sharktech|
-|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|116.107.119.172|10089|Vietnam|Hanoi|Viettel Corporation|
-|9|70.39.111.243|20500|United States|Denver|Sharktech|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|70.39.111.245|20500|United States|Denver|Sharktech|
-|12|70.39.111.241|20500|United States|Denver|Sharktech|
-|13|70.39.111.247|20500|United States|Denver|Sharktech|
-|14|70.39.111.247|20500|United States|Denver|Sharktech|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|70.39.111.241|20500|United States|Denver|Sharktech|
-|17|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|72.10.160.173|18865|Canada|Montreal|GloboTech Communications|
-|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|70.39.111.249|20500|United States|Denver|Sharktech|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|36.73.140.248|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|70.39.111.249|20500|United States|Denver|Sharktech|
+|7|70.39.111.245|20500|United States|Denver|Sharktech|
+|8|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|70.39.111.245|20500|United States|Denver|Sharktech|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|70.39.111.249|20500|United States|Denver|Sharktech|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|14|70.39.111.243|20500|United States|Denver|Sharktech|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|19|160.19.146.91|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|20|70.39.111.247|20500|United States|Denver|Sharktech|
 
 
 
