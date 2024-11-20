@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|10|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|11|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|12|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
 |13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|17|67.43.236.20|15333|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.160.171|1835|Canada|Montreal|GloboTech Communications|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.236.20|14689|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|14689|Canada|Montreal|GloboTech Communications|
+|18|171.228.112.83|10089|Vietnam|Hanoi|Viettel Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|190.110.37.11|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
 
 
 
