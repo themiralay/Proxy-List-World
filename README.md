@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.86.176|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |7|116.107.86.176|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|148.72.165.7|30118|United States|St Louis|velia.net|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|72.10.160.93|29651|Canada|Montreal|GloboTech Communications|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|15|67.43.228.253|25483|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|21251|Canada|Montreal|GloboTech Communications|
-|17|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|18|72.10.164.178|12601|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|18049|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2315|Canada|Montreal|GloboTech Communications|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|116.107.87.182|12075|Vietnam|Hải Dương|Viettel Corporation|
+|10|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|11|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|14|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|16|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|67.43.228.253|25483|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19791|Canada|Montreal|GloboTech Communications|
+|20|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
 
 
 
