@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.143.230.83|80|Hong Kong|Kwai Chung|Yisu Cloud LTD|
-|3|1.20.203.186|8080|Thailand|Ban Karon|TOT Public Company Limited|
-|4|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|175.106.15.86|7878|Indonesia|Jakarta|Quantum Dist Cyber|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|138.117.84.105|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|9|103.169.41.236|8080|Indonesia|Banda Aceh|TELNETINDONESIA|
+|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|13|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|72.10.160.173|16143|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|16143|Canada|Montreal|GloboTech Communications|
-|18|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
-|19|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|20|72.10.160.90|3815|Canada|Montreal|GloboTech Communications|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|42.119.58.14|10008|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|185.189.199.77|8080|Bulgaria|Bansko|Mis70 LTD|
+|20|165.225.72.38|10413|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
