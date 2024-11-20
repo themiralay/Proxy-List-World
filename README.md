@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|6|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|67.43.227.230|32101|Canada|Montreal|GloboTech Communications|
-|10|171.245.115.190|5038|Vietnam|Thái Bình|Viettel Corporation|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|14|67.43.227.230|32101|Canada|Montreal|GloboTech Communications|
-|15|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|16|72.10.160.93|17347|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3073|Canada|Montreal|GloboTech Communications|
-|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|19|45.117.29.121|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|200.10.28.217|8083|Colombia|Manizales|Super Redes S.A.S|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|72.10.164.178|7895|Canada|Montreal|GloboTech Communications|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.227.230|32101|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.228|31885|Canada|Montreal|GloboTech Communications|
+|10|190.71.82.182|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P|
+|11|116.107.80.234|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|165.225.72.38|10603|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|165.225.72.38|10603|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|14|67.43.228.253|18621|Canada|Montreal|GloboTech Communications|
+|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|16|165.225.72.38|10603|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|72.10.160.90|17347|Canada|Montreal|GloboTech Communications|
+|18|181.129.248.20|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|19|67.43.227.226|24513|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|17347|Canada|Montreal|GloboTech Communications|
 
 
 
