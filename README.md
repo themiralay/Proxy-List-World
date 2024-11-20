@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5221** proxies at the latest update. Usable proxies are below.
+> Scraper found **5337** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3225|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3310|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|116.107.82.1|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|114.218.150.38|8089|China|Nanjing|China Telecom|
-|6|148.72.165.7|10501|United States|St Louis|velia.net|
-|7|67.43.228.253|10133|Canada|Montreal|GloboTech Communications|
-|8|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|10|72.10.164.178|23119|Canada|Montreal|GloboTech Communications|
-|11|165.225.72.38|10012|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|12|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
-|13|27.189.129.218|8089|China|Shijiazhuang|Chinanet|
-|14|27.189.132.52|8089|China|Shijiazhuang|Chinanet|
-|15|67.43.228.251|25371|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|22591|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23119|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|4|116.107.82.1|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.22.99.252|8080|Indonesia|Magetan|KHALISTAGROUP|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|17|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|20|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
 
 
 
