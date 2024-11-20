@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.107.90.41|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|70.39.111.247|20500|United States|Denver|Sharktech|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|70.39.111.247|20500|United States|Denver|Sharktech|
 |7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|67.43.228.251|1571|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.229|15869|Canada|Montreal|GloboTech Communications|
-|14|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
-|15|72.10.160.174|19013|Canada|Montreal|GloboTech Communications|
+|8|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|70.39.111.247|20500|United States|Denver|Sharktech|
+|12|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|67.43.228.252|7503|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.251|1571|Canada|Montreal|GloboTech Communications|
 |16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|67.43.228.252|25095|Canada|Montreal|GloboTech Communications|
-|18|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|70.39.111.247|20500|United States|Denver|Sharktech|
+|17|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|72.10.160.170|27767|Canada|Montreal|GloboTech Communications|
+|19|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
+|20|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
