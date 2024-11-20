@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|70.39.111.247|20500|United States|Denver|Sharktech|
-|2|70.39.111.249|20500|United States|Denver|Sharktech|
-|3|70.39.111.245|20500|United States|Denver|Sharktech|
-|4|70.39.111.249|20500|United States|Denver|Sharktech|
-|5|70.39.111.245|20500|United States|Denver|Sharktech|
-|6|70.39.111.247|20500|United States|Denver|Sharktech|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|70.39.111.241|20500|United States|Denver|Sharktech|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|70.39.111.241|20500|United States|Denver|Sharktech|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|70.39.111.243|20500|United States|Denver|Sharktech|
-|16|70.39.111.243|20500|United States|Denver|Sharktech|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|42.113.71.115|1003|Vietnam|Hanoi|FPT Telecom Company|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|5|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|222.122.110.26|80|South Korea|Seongnam-si|Korea Telecom|
+|7|103.170.131.234|8080|Thailand|Taling Chan|Triple T Broadband Public Company Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|67.43.227.227|4739|Canada|Montreal|GloboTech Communications|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|72.10.160.173|30665|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|165.225.72.38|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
