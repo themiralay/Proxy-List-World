@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.105.23.253|11451|Canada|Toronto|Akamai Technologies|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|148.72.169.225|30127|United States|St Louis|velia.net|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|31.25.93.217|3128|Iran|Tehran|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|67.43.236.19|32263|Canada|Montreal|GloboTech Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|46.161.196.139|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|148.72.165.7|30118|United States|St Louis|velia.net|
-|15|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|16|72.10.160.170|27463|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|12307|Canada|Montreal|GloboTech Communications|
-|18|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|19|67.43.227.227|8915|Canada|Montreal|GloboTech Communications|
-|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
