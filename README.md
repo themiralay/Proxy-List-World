@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|116.107.91.132|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|72.10.164.178|7975|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|16635|Canada|Montreal|GloboTech Communications|
-|18|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|19|67.43.228.250|20685|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|16|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|72.10.160.171|22899|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2801|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|24303|Canada|Montreal|GloboTech Communications|
 
 
 
