@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|70.39.111.247|20500|United States|Denver|Sharktech|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|70.39.111.245|20500|United States|Denver|Sharktech|
-|6|70.39.111.249|20500|United States|Denver|Sharktech|
-|7|70.39.111.249|20500|United States|Denver|Sharktech|
-|8|70.39.111.245|20500|United States|Denver|Sharktech|
-|9|70.39.111.241|20500|United States|Denver|Sharktech|
-|10|70.39.111.243|20500|United States|Denver|Sharktech|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|70.39.111.249|20500|United States|Denver|Sharktech|
-|13|70.39.111.247|20500|United States|Denver|Sharktech|
-|14|70.39.111.241|20500|United States|Denver|Sharktech|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|70.39.111.243|20500|United States|Denver|Sharktech|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|70.39.111.245|20500|United States|Denver|Sharktech|
+|4|70.39.111.241|20500|United States|Denver|Sharktech|
+|5|70.39.111.249|20500|United States|Denver|Sharktech|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|70.39.111.247|20500|United States|Denver|Sharktech|
+|8|70.39.111.241|20500|United States|Denver|Sharktech|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|70.39.111.247|20500|United States|Denver|Sharktech|
+|12|70.39.111.245|20500|United States|Denver|Sharktech|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|70.39.111.243|20500|United States|Denver|Sharktech|
+|16|70.39.111.249|20500|United States|Denver|Sharktech|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
