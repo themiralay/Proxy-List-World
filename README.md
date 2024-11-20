@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |4|116.107.93.140|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|116.107.93.140|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|140.238.243.243|2083|India|Mumbai|Oracle Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.236.18|27391|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|10873|Canada|Montreal|GloboTech Communications|
-|18|121.236.236.26|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|19|70.39.111.247|20500|United States|Denver|Sharktech|
-|20|70.39.111.247|20500|United States|Denver|Sharktech|
+|5|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|116.107.93.140|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|67.43.236.18|25965|Canada|Montreal|GloboTech Communications|
+|12|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|72.10.160.90|1895|Canada|Montreal|GloboTech Communications|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|204.199.174.75|999|Peru|Lima region|Fiberred Sociedad Anonima Cerrada|
+|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
 
 
 
