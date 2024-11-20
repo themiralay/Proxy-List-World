@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|70.39.111.247|20500|United States|Denver|Sharktech|
+|2|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|115.77.167.60|10001|Vietnam|Vũng Tàu|Viettel Group|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|70.39.111.241|20500|United States|Denver|Sharktech|
-|6|70.39.111.241|20500|United States|Denver|Sharktech|
-|7|66.96.232.250|8181|Indonesia|Jakarta|MYREPUBLIC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|13|70.39.111.245|20500|United States|Denver|Sharktech|
-|14|70.39.111.245|20500|United States|Denver|Sharktech|
+|6|116.107.93.140|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|70.39.111.245|20500|United States|Denver|Sharktech|
+|10|70.39.111.245|20500|United States|Denver|Sharktech|
+|11|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|116.97.235.76|2268|Vietnam|Hanoi|Viettel Corporation|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
-|17|208.67.28.19|58090|United States|Eagle River|SonicNet Inc.|
-|18|70.39.111.243|20500|United States|Denver|Sharktech|
-|19|27.189.130.138|8089|China|Shijiazhuang|Chinanet|
-|20|72.10.160.172|23455|Canada|Montreal|GloboTech Communications|
+|16|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|17|116.107.93.140|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|70.39.111.247|20500|United States|Denver|Sharktech|
 
 
 
