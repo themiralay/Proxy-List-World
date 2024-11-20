@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|15|49.51.244.112|8888|United States|Phoenix|OPHL|
-|16|116.254.96.167|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|143.198.85.142|8133|Singapore|Singapore|DigitalOcean, LLC|
-|18|42.119.58.14|10002|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|157.15.67.47|8181|Indonesia|Jatidowo|PT Trimitra Aditama Koneksindo|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|13|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|14|148.72.169.225|30127|United States|St Louis|velia.net|
+|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|16|79.134.4.156|8080|Russia|Magnitogorsk|MAGINFO|
+|17|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|20|72.10.160.170|29277|Canada|Montreal|GloboTech Communications|
 
 
 
