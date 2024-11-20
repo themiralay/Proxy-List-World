@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|70.39.111.247|20500|United States|Denver|Sharktech|
-|3|70.39.111.247|20500|United States|Denver|Sharktech|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|8|72.10.164.178|4615|Canada|Montreal|GloboTech Communications|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|67.43.228.250|30265|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|4001|Canada|Montreal|GloboTech Communications|
-|12|170.239.151.130|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|13|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|72.10.160.174|8057|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|31311|Canada|Montreal|GloboTech Communications|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|6|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|9|103.231.239.6|58080|Bangladesh|Bogra|Carnival Internet|
+|10|72.10.164.178|4615|Canada|Montreal|GloboTech Communications|
+|11|165.225.72.38|11405|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|72.10.160.90|15531|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.230|33163|Canada|Montreal|GloboTech Communications|
+|15|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|72.10.160.173|26211|Canada|Montreal|GloboTech Communications|
 |18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|20|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|67.43.228.251|31845|Canada|Montreal|GloboTech Communications|
 
 
 
