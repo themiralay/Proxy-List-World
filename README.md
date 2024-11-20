@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.107.88.208|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|115.77.173.108|10001|Vietnam|Vũng Tàu|Viettel Group|
-|9|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|18|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|67.43.227.226|2243|Canada|Montreal|GloboTech Communications|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|116.107.88.208|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|170.106.183.248|8080|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|115.77.173.108|10001|Vietnam|Vũng Tàu|Viettel Group|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|42.119.58.14|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|103.156.248.99|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
