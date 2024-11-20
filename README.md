@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|171.226.159.135|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|42.119.58.14|10006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.134.220.141|8181|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|38.159.229.89|999|Ecuador|Vinces|Turbonet S.A.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
-|13|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
-|16|58.136.169.220|8080|Thailand|Bangkok|AIS-Fibre|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|72.10.160.90|31977|Canada|Montreal|GloboTech Communications|
-|20|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|171.226.159.135|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|8|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|72.10.160.90|29787|Canada|Montreal|GloboTech Communications|
+|11|117.149.11.26|3128|China|Hangzhou|China Mobile communications corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|27.66.73.213|10010|Vietnam|Thái Nguyên|Viettel Group|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|72.10.160.90|29787|Canada|Montreal|GloboTech Communications|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|72.10.160.90|29787|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|29787|Canada|Montreal|GloboTech Communications|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|72.10.160.171|11481|Canada|Montreal|GloboTech Communications|
 
 
 
