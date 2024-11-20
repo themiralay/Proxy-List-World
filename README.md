@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|70.39.111.247|20500|United States|Denver|Sharktech|
-|5|70.39.111.247|20500|United States|Denver|Sharktech|
-|6|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.176.97.127|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|10|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|11|72.10.160.90|4725|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|45.32.244.63|80|Australia|Sydney|Choopa|
-|14|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|15|165.225.72.38|11027|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|16|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|17|165.225.72.38|11027|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|72.10.160.170|24239|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1313|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|23173|Canada|Montreal|GloboTech Communications|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|70.39.111.247|20500|United States|Denver|Sharktech|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|16|69.75.140.157|8080|United States|Orange|Spectrum|
+|17|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|72.10.160.170|24239|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30118|United States|St Louis|velia.net|
 
 
 
