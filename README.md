@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|70.39.111.247|20500|United States|Denver|Sharktech|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|70.39.111.241|20500|United States|Denver|Sharktech|
-|7|101.109.107.190|8080|Thailand|Pattaya|TOT Public Company Limited|
-|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|70.39.111.247|20500|United States|Denver|Sharktech|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|4|70.39.111.247|20500|United States|Denver|Sharktech|
+|5|70.39.111.245|20500|United States|Denver|Sharktech|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|70.39.111.241|20500|United States|Denver|Sharktech|
+|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|70.39.111.245|20500|United States|Denver|Sharktech|
+|10|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|70.39.111.241|20500|United States|Denver|Sharktech|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|70.39.111.249|20500|United States|Denver|Sharktech|
+|17|70.39.111.249|20500|United States|Denver|Sharktech|
+|18|70.39.111.247|20500|United States|Denver|Sharktech|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.166.158.33|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
 
 
 
