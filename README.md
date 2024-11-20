@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|5|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|6|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|70.39.111.247|20500|United States|Denver|Sharktech|
-|10|70.39.111.247|20500|United States|Denver|Sharktech|
-|11|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|116.102.134.91|5126|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|70.39.111.247|20500|United States|Denver|Sharktech|
+|7|70.39.111.247|20500|United States|Denver|Sharktech|
+|8|45.233.170.109|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|9|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|10|103.175.240.49|8080|Indonesia|Banyumas|LDP|
+|11|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 |12|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
-|13|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|186.96.15.70|8080|Mexico|Guadalupe|Total Play Telecomunicaciones SA De CV|
-|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|20|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|13|181.174.228.17|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|16|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|17|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
 
 
 
