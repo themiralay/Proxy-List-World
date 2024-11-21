@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|110.78.215.243|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|13|88.202.226.12|3128|United Kingdom|London|UK2.NET|
-|14|72.10.164.178|12057|Canada|Montreal|GloboTech Communications|
-|15|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|16|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|17|72.10.160.90|11255|Canada|Montreal|GloboTech Communications|
-|18|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|19|72.10.160.90|11255|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|31825|Canada|Montreal|GloboTech Communications|
+|3|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|179.1.195.164|8080|Colombia|Cúcuta|Internexa S.a. E.S.P|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|148.72.165.7|30118|United States|St Louis|velia.net|
+|9|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|88.202.226.12|3128|United Kingdom|London|UK2.NET|
+|13|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|14|190.121.207.161|999|Guatemala|San Agustín Acasaguastlán|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|15|67.43.227.227|12269|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|67.43.228.250|4475|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|31597|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|12269|Canada|Montreal|GloboTech Communications|
 
 
 
