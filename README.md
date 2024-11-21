@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|146.120.199.193|8080|Ukraine|Hadiach|FiberLink Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|181.192.18.20|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|5|38.159.232.139|999|United States|Miami|Lightwave S.R.L|
+|6|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
 |7|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
-|8|181.192.18.20|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|9|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
-|10|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|13|72.10.164.178|6665|Canada|Montreal|GloboTech Communications|
-|14|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.236.20|14377|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|1999|Canada|Montreal|GloboTech Communications|
-|18|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|19|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|10|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
+|11|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
+|12|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|13|82.200.237.11|8080|Kazakhstan|Almaty|Kazakhtelecom Data Network Administration|
+|14|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|17|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.227.227|3955|Canada|Montreal|GloboTech Communications|
 |20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
