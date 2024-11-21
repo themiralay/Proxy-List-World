@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.72.11.193|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|70.39.111.245|20500|United States|Denver|Sharktech|
-|11|70.39.111.243|20500|United States|Denver|Sharktech|
-|12|70.39.111.243|20500|United States|Denver|Sharktech|
-|13|70.39.111.241|20500|United States|Denver|Sharktech|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|70.39.111.241|20500|United States|Denver|Sharktech|
-|16|70.39.111.245|20500|United States|Denver|Sharktech|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|70.39.111.247|20500|United States|Denver|Sharktech|
-|20|70.39.111.249|20500|United States|Denver|Sharktech|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|70.39.111.247|20500|United States|Denver|Sharktech|
+|4|115.72.11.193|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|5|70.39.111.247|20500|United States|Denver|Sharktech|
+|6|137.184.145.159|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|70.39.111.243|20500|United States|Denver|Sharktech|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|70.39.111.241|20500|United States|Denver|Sharktech|
+|13|122.53.117.54|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|137.184.145.159|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|70.39.111.245|20500|United States|Denver|Sharktech|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|121.124.124.147|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
