@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.191|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|67.43.227.227|11257|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|1789|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|10375|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|11257|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16281|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|10707|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|32965|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|17505|Canada|Montreal|GloboTech Communications|
-|19|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|20|72.10.160.170|14147|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.150.113.191|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|67.43.236.18|23219|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|1789|Canada|Montreal|GloboTech Communications|
+|17|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.164.178|27087|Canada|Montreal|GloboTech Communications|
+|20|148.72.169.225|30118|United States|St Louis|velia.net|
 
 
 
