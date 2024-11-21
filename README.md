@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|70.39.111.247|20500|United States|Denver|Sharktech|
-|4|27.76.1.106|5102|Vietnam|Thái Nguyên|Newass2011xDSLHCMC|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|70.39.111.243|20500|United States|Denver|Sharktech|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|70.39.111.247|20500|United States|Denver|Sharktech|
-|9|116.107.119.172|10089|Vietnam|Hanoi|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|70.39.111.241|20500|United States|Denver|Sharktech|
-|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|70.39.111.247|20500|United States|Denver|Sharktech|
+|5|70.39.111.249|20500|United States|Denver|Sharktech|
+|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|70.39.111.243|20500|United States|Denver|Sharktech|
+|8|70.39.111.245|20500|United States|Denver|Sharktech|
+|9|70.39.111.247|20500|United States|Denver|Sharktech|
+|10|70.39.111.245|20500|United States|Denver|Sharktech|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|70.39.111.249|20500|United States|Denver|Sharktech|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|18|70.39.111.249|20500|United States|Denver|Sharktech|
-|19|70.39.111.245|20500|United States|Denver|Sharktech|
-|20|70.39.111.243|20500|United States|Denver|Sharktech|
+|16|70.39.111.241|20500|United States|Denver|Sharktech|
+|17|115.72.11.193|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|18|70.39.111.243|20500|United States|Denver|Sharktech|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|148.72.168.81|30127|United States|St Louis|velia.net|
 
 
 
