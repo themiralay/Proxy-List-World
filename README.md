@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|70.39.111.241|20500|United States|Denver|Sharktech|
-|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|6|70.39.111.241|20500|United States|Denver|Sharktech|
-|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|72.10.160.90|10693|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|103.156.15.253|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|148.72.169.225|30127|United States|St Louis|velia.net|
+|14|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
+|15|148.72.169.225|30127|United States|St Louis|velia.net|
+|16|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|20|103.40.121.33|1081|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
 
 
 
