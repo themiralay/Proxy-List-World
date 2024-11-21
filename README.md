@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|38.45.242.117|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
-|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|12|67.43.228.253|26629|Canada|Montreal|GloboTech Communications|
-|13|45.55.169.247|8889|United States|Clifton|DigitalOcean, LLC|
-|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|72.10.160.174|15745|Canada|Montreal|GloboTech Communications|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|72.10.160.170|19511|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|3361|Canada|Montreal|GloboTech Communications|
-|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|72.10.160.173|30469|Canada|Montreal|GloboTech Communications|
+|4|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|5|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|6|67.43.227.227|30265|Canada|Montreal|GloboTech Communications|
+|7|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|8|67.43.228.253|26629|Canada|Montreal|GloboTech Communications|
+|9|190.239.220.78|999|Peru|La Molina|Telefonica del Peru S.A.A.|
+|10|72.10.164.178|24113|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.251|2999|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|24113|Canada|Montreal|GloboTech Communications|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|67.43.228.253|26629|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|7911|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|26055|Canada|Montreal|GloboTech Communications|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|19|67.43.227.226|4267|Canada|Montreal|GloboTech Communications|
+|20|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
