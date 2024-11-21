@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|5|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
-|6|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|72.10.160.93|23903|Canada|Montreal|GloboTech Communications|
-|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|167.114.98.66|9595|Canada|Montreal|OVH SAS|
-|16|72.10.160.170|28975|Canada|Montreal|GloboTech Communications|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|67.43.236.18|27299|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30045|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|181.192.18.20|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|9|192.121.102.97|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|10|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|45.189.118.196|999|Peru|Márquez|Fiber Digital S.R.L|
+|13|103.76.151.52|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
