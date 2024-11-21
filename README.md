@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5338** proxies at the latest update. Usable proxies are below.
+> Scraper found **5339** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|192|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|363|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|51.21.145.123|80|Sweden|Stockholm|Amazon.com, Inc.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|45.189.118.198|999|Peru|Márquez|Fiber Digital S.R.L|
-|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|171.245.120.111|5008|Vietnam|Thái Bình|Viettel Corporation|
-|13|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
-|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|17|72.10.160.170|14449|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|72.10.160.170|14449|Canada|Montreal|GloboTech Communications|
+|1|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|45.189.118.198|999|Peru|Márquez|Fiber Digital S.R.L|
+|4|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
+|5|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|6|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|10|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|11|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|12|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|14|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|72.10.160.90|11183|Canada|Montreal|GloboTech Communications|
+|17|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|20|67.43.228.253|32819|Canada|Montreal|GloboTech Communications|
 
 
 
