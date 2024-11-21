@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.77.132.227|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|34.93.155.104|8561|India|Mumbai|Google LLC|
-|4|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|72.10.164.178|23393|Canada|Montreal|GloboTech Communications|
-|11|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|12|67.43.228.253|24785|Canada|Montreal|GloboTech Communications|
-|13|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|51.159.159.73|80|France|Paris|SCALEWAY|
+|6|34.93.155.104|8561|India|Mumbai|Google LLC|
+|7|116.104.130.21|5004|Vietnam|Hanoi|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
 |15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|103.76.150.206|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
-|18|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|19|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|27.189.134.0|8089|China|Shijiazhuang|Chinanet|
+|16|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|41.65.251.88|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
