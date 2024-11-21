@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5279** proxies at the latest update. Usable proxies are below.
+> Scraper found **5168** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|407|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|296|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3218|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|115.77.143.4|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|6|129.154.227.14|3128|India|Mumbai|Oracle Corporation|
-|7|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|9|45.162.144.3|8080|Brazil|Alhandra|Anderson Paiva Alves ME|
-|10|103.191.165.196|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|67.43.228.253|2729|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10709|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|27297|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|4169|Canada|Montreal|GloboTech Communications|
-|20|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|115.77.130.225|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|192.121.102.97|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|101.255.104.38|1080|Indonesia|Jakarta|PT Remala Abadi|
+|7|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|8|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|12|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
+|13|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|17|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|18|67.43.228.250|1055|Canada|Montreal|GloboTech Communications|
+|19|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
+|20|67.43.228.250|1055|Canada|Montreal|GloboTech Communications|
 
 
 
