@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|51.21.145.123|80|Sweden|Stockholm|Amazon.com, Inc.|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|72.10.160.91|21527|Canada|Montreal|GloboTech Communications|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|72.10.164.178|15967|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|103.132.54.150|8080|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
+|5|51.21.145.123|80|Sweden|Stockholm|Amazon.com, Inc.|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|13|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|72.10.160.170|22313|Canada|Montreal|GloboTech Communications|
 |17|72.10.160.94|5301|Canada|Montreal|GloboTech Communications|
-|18|103.132.54.150|8080|Indonesia|Banjarnegara|PT. ADEAKSA INDO JAYATAMA|
-|19|67.43.228.253|20577|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|29895|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|25995|Canada|Montreal|GloboTech Communications|
+|19|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
+|20|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
 
 
 
