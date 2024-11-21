@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|51.159.159.73|80|France|Paris|SCALEWAY|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|6|14.243.44.149|7007|Vietnam|Da Nang|VNPT|
-|7|67.43.236.21|21295|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|22505|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|11655|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.174|7619|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|29229|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|12079|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|26829|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|5931|Canada|Montreal|GloboTech Communications|
-|15|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|16|72.10.160.171|11655|Canada|Montreal|GloboTech Communications|
-|17|148.72.168.81|30119|United States|St Louis|velia.net|
-|18|67.43.227.228|5775|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|15377|Canada|Montreal|GloboTech Communications|
-|20|115.72.11.193|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|116.107.80.159|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|148.72.165.7|30118|United States|St Louis|velia.net|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|72.10.160.174|7619|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.94|28181|Canada|Montreal|GloboTech Communications|
+|11|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|12|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|13|67.43.236.21|21295|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|23695|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|26829|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|20|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
 
 
 
