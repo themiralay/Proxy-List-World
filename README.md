@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
-|4|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|5|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|7|67.43.227.227|16653|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|25417|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.230|4095|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|25417|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|8459|Canada|Montreal|GloboTech Communications|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|67.43.236.20|2535|Canada|Montreal|GloboTech Communications|
-|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|15|67.43.228.254|15743|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|16809|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2535|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|8459|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.164.178|25417|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|8|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|10|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
+|11|67.43.236.20|2535|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.230|4923|Canada|Montreal|GloboTech Communications|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|17|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|19|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
