@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|70.39.111.245|20500|United States|Denver|Sharktech|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|70.39.111.245|20500|United States|Denver|Sharktech|
-|7|70.39.111.241|20500|United States|Denver|Sharktech|
-|8|70.39.111.247|20500|United States|Denver|Sharktech|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|70.39.111.249|20500|United States|Denver|Sharktech|
-|11|70.39.111.247|20500|United States|Denver|Sharktech|
-|12|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|70.39.111.249|20500|United States|Denver|Sharktech|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|70.39.111.243|20500|United States|Denver|Sharktech|
-|18|70.39.111.243|20500|United States|Denver|Sharktech|
-|19|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|70.39.111.247|20500|United States|Denver|Sharktech|
+|4|70.39.111.249|20500|United States|Denver|Sharktech|
+|5|70.39.111.247|20500|United States|Denver|Sharktech|
+|6|70.39.111.243|20500|United States|Denver|Sharktech|
+|7|70.39.111.245|20500|United States|Denver|Sharktech|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|70.39.111.249|20500|United States|Denver|Sharktech|
+|10|137.184.145.159|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
+|12|70.39.111.243|20500|United States|Denver|Sharktech|
+|13|70.39.111.245|20500|United States|Denver|Sharktech|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|103.118.124.137|6969|Indonesia|Jakarta|Tele|
+|18|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|19|70.39.111.241|20500|United States|Denver|Sharktech|
 |20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
