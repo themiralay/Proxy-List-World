@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.107.92.82|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|115.77.143.179|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
-|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|20|103.166.159.183|8090|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|9|116.107.119.172|10092|Vietnam|Hanoi|Viettel Corporation|
+|10|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|14|85.133.130.18|8080|Iran|Tehran|Sepanta Internet and MPLS Service Provider|
+|15|137.59.15.108|8080|Indonesia|Labansari|CROSSNET|
+|16|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|20|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
