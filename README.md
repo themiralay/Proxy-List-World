@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|3|116.107.86.69|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|116.107.84.247|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|45.189.118.194|999|Peru|Márquez|Fiber Digital S.R.L|
-|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|72.10.160.94|16717|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|24425|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|5377|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|115.77.140.238|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|116.107.86.69|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|72.10.164.178|28797|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28797|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|17749|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|26119|Canada|Montreal|GloboTech Communications|
 
 
 
