@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5240** proxies at the latest update. Usable proxies are below.
+> Scraper found **5239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|103.242.105.26|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
 |4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.167.170.63|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|7|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|8|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|121.227.44.146|8089|China|Nanjing|China Telecom|
-|14|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|15|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|18|72.10.160.93|14509|Canada|Montreal|GloboTech Communications|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|72.10.164.178|16603|Canada|Montreal|GloboTech Communications|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|148.72.165.7|30118|United States|St Louis|velia.net|
+|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|19|72.10.160.93|14509|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|9847|Canada|Montreal|GloboTech Communications|
 
 
 
