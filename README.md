@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
+|6|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|116.107.99.98|5014|Vietnam|Hải Dương|Viettel Corporation|
-|10|121.230.8.40|1080|China|Nanjing|Chinanet|
-|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|67.43.227.230|10589|Canada|Montreal|GloboTech Communications|
-|13|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|14|67.43.227.227|1649|Canada|Montreal|GloboTech Communications|
-|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.174|6035|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1649|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|18971|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.228.253|17655|Canada|Montreal|GloboTech Communications|
+|9|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.130.182.121|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|15|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.227.227|15619|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|10967|Canada|Montreal|GloboTech Communications|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|20|72.10.160.174|10967|Canada|Montreal|GloboTech Communications|
 
 
 
