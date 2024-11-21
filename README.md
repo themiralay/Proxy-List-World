@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5332** proxies at the latest update. Usable proxies are below.
+> Scraper found **5315** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|179|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|381|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3248|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|11|115.77.140.37|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|14|167.114.98.66|9595|Canada|Montreal|OVH SAS|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|67.43.227.226|21421|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|21065|Canada|Montreal|GloboTech Communications|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|67.43.227.226|21421|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|11553|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|116.107.92.82|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|6|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
+|13|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|116.107.85.124|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|45.123.142.53|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
