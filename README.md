@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|36.92.132.114|1010|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|11|67.43.227.228|30245|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|4521|Canada|Montreal|GloboTech Communications|
-|13|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|72.10.160.91|22113|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|4571|Canada|Montreal|GloboTech Communications|
-|16|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|17|67.43.227.227|4571|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.227|4571|Canada|Montreal|GloboTech Communications|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|192.240.113.138|31288|United States|Miami|e-creativity|
+|3|192.240.113.138|31288|United States|Miami|e-creativity|
+|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|5|72.10.164.178|31617|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.91|22113|Canada|Montreal|GloboTech Communications|
+|7|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|8|72.10.160.174|4521|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|10445|Canada|Montreal|GloboTech Communications|
+|10|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|11|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
+|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|13|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|14|67.43.228.253|19975|Canada|Montreal|GloboTech Communications|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|204.199.174.75|999|Peru|Lima region|Fiberred Sociedad Anonima Cerrada|
+|20|67.43.228.253|19975|Canada|Montreal|GloboTech Communications|
 
 
 
