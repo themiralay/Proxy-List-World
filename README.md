@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |4|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
 |5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|49.49.187.194|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
 |20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
