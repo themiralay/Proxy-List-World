@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|124.121.2.132|8080|Thailand|Bangkok|TRUEBB|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|116.107.80.237|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|124.121.2.132|8080|Thailand|Bangkok|TRUEBB|
+|5|34.93.155.104|8561|India|Mumbai|Google LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
 |12|115.77.143.4|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
-|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|15|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|72.10.160.94|14827|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|20|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|13|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|187.87.206.97|3128|Brazil|Ruy Barbosa|Screen Saver Informática LTDA|
+|18|91.107.121.183|3128|United Kingdom|Bromley|JSC IOT|
+|19|185.200.38.101|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
