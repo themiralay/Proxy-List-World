@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|5|45.189.118.194|999|Peru|Márquez|Fiber Digital S.R.L|
-|6|115.77.140.238|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|45.162.144.3|8080|Brazil|Alhandra|Anderson Paiva Alves ME|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|67.43.236.22|25031|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|17|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
-|18|72.10.164.178|10673|Canada|Montreal|GloboTech Communications|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|67.43.227.227|9105|Canada|Montreal|GloboTech Communications|
+|2|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|124.121.2.234|8080|Thailand|Bangkok|TRUEBB|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|115.77.143.4|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|12|45.189.118.194|999|Peru|Márquez|Fiber Digital S.R.L|
+|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|67.43.236.21|29255|Canada|Montreal|GloboTech Communications|
+|16|116.107.98.206|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
