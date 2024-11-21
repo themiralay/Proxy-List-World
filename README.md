@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.159.159.73|80|France|Paris|SCALEWAY|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|11|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|72.10.160.90|10231|Canada|Montreal|GloboTech Communications|
-|15|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|7|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|8|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|71.42.125.219|4444|United States|Leander|Spectrum|
+|12|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
 |17|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|115.77.132.227|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
