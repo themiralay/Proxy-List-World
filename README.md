@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |5|182.253.109.176|8080|Indonesia|Jakarta|Biznet Metronet|
-|6|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|192.240.113.138|31288|United States|Miami|e-creativity|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
-|14|192.240.113.138|31288|United States|Miami|e-creativity|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|9|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|10|179.1.195.164|8080|Colombia|Cúcuta|Internexa S.a. E.S.P|
+|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|152.42.250.244|8133|Singapore|Singapore|DigitalOcean, LLC|
 |15|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.171.146.183|8083|Brazil|Chapadão do Sul|N3 SOLUCOES TECNOLOGICAS LTDA|
-|18|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|20|88.202.226.12|3128|United Kingdom|London|UK2.NET|
+|16|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|19|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|20|72.10.164.178|8151|Canada|Montreal|GloboTech Communications|
 
 
 
