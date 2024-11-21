@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5239** proxies at the latest update. Usable proxies are below.
+> Scraper found **5268** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3221|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.156.15.253|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|148.72.169.225|30127|United States|St Louis|velia.net|
-|14|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
-|15|148.72.169.225|30127|United States|St Louis|velia.net|
-|16|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|20|103.40.121.33|1081|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|209.14.118.212|999|Colombia|Bogotá|AGIS|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|41.209.10.214|8080|Kenya|Nairobi|MTN Business Kenya|
+|6|140.82.8.62|33128|United States|Piscataway|The Constant Company|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.227.226|1819|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|20587|Canada|Montreal|GloboTech Communications|
+|10|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|72.10.160.93|11323|Canada|Montreal|GloboTech Communications|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|72.10.160.93|11323|Canada|Montreal|GloboTech Communications|
+|15|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
+|16|72.10.164.178|20113|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|28093|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.22|25535|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|22491|Canada|Montreal|GloboTech Communications|
+|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
 
 
 
