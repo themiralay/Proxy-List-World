@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|3|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|4|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|67.43.228.251|18543|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|18543|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|5453|Canada|Montreal|GloboTech Communications|
-|15|148.72.165.7|30127|United States|St Louis|velia.net|
-|16|72.10.164.178|5453|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|18543|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|8491|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|6487|Canada|Montreal|GloboTech Communications|
-|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|192.240.113.138|31288|United States|Miami|e-creativity|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|67.43.228.251|13865|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|22341|Canada|Montreal|GloboTech Communications|
+|16|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|17|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|19|67.43.228.253|8491|Canada|Montreal|GloboTech Communications|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
