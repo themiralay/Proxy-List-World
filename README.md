@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.121.2.132|8080|Thailand|Bangkok|TRUEBB|
-|3|115.77.143.4|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|187.87.206.97|3128|Brazil|Ruy Barbosa|Screen Saver Informática LTDA|
-|5|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|42.119.58.14|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|115.77.132.227|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|16|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|5|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|10|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|11|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|116.107.90.202|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|213.133.7.86|8080|Montenegro|Podgorica|Drustvo za telekomunikacije "MTEL" DOO|
+|17|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|18|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|19|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|20|116.107.80.237|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
