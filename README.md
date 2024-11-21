@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|148.72.168.81|30127|United States|St Louis|velia.net|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|115.77.244.145|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|67.43.236.19|12085|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.91|3849|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|5705|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.19|12085|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|22789|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|72.10.160.91|25079|Canada|Montreal|GloboTech Communications|
+|8|38.159.232.139|999|United States|Miami|Lightwave S.R.L|
+|9|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|10|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
 |12|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|2259|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|17|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|8231|Canada|Montreal|GloboTech Communications|
-|19|116.107.87.253|12075|Vietnam|Hải Dương|Viettel Corporation|
-|20|72.10.164.178|27849|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|5365|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|18449|Canada|Montreal|GloboTech Communications|
+|15|49.49.187.194|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|19|72.10.160.171|31187|Canada|Montreal|GloboTech Communications|
+|20|195.16.73.133|40000|Norway|Sandefjord|Gigahost|
 
 
 
