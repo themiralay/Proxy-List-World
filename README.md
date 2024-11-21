@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.84.247|12075|Vietnam|Hải Dương|Viettel Corporation|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|72.10.164.178|3661|Canada|Montreal|GloboTech Communications|
-|8|27.189.129.83|8089|China|Shijiazhuang|Chinanet|
-|9|114.219.108.21|8089|China|Nanjing|China Telecom|
-|10|67.43.236.20|25067|Canada|Montreal|GloboTech Communications|
-|11|101.237.38.98|3128|China|Beijing|UCLOUD|
-|12|72.10.160.93|31087|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|22213|Canada|Montreal|GloboTech Communications|
-|14|27.189.129.255|8089|China|Shijiazhuang|Chinanet|
-|15|27.189.134.125|8089|China|Shijiazhuang|Chinanet|
-|16|67.43.227.226|20331|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|7459|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|20331|Canada|Montreal|GloboTech Communications|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|115.238.128.126|3128|China|Hangzhou|Chinanet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|115.77.143.4|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.122.1.169|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|11|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.93|31087|Canada|Montreal|GloboTech Communications|
+|16|27.189.134.125|8089|China|Shijiazhuang|Chinanet|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|103.242.105.251|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
