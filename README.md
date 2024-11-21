@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.121.2.132|8080|Thailand|Bangkok|TRUEBB|
-|3|34.93.155.104|8561|India|Mumbai|Google LLC|
-|4|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|144.24.204.126|8118|France|Marseille|Oracle Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|11|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
-|12|103.76.149.198|8082|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|72.10.164.178|29223|Canada|Montreal|GloboTech Communications|
-|17|167.114.98.66|9595|Canada|Montreal|OVH SAS|
-|18|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.236.20|17129|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.95.196|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|34.93.155.104|8561|India|Mumbai|Google LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|116.107.80.237|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|124.121.2.132|8080|Thailand|Bangkok|TRUEBB|
+|8|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|12|113.161.17.49|3218|Vietnam|Buon Ma Thuot|VietNam Post and Telecom Corporation|
+|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|15|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.123.168.202|3932|Bangladesh|Dhaka|Sajid Trading Ltd.|
+|18|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|177.93.37.35|999|Colombia|Tarqui|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
