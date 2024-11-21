@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|6|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|7|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|12|67.43.236.18|7679|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|20961|Canada|Montreal|GloboTech Communications|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|148.72.165.7|30118|United States|St Louis|velia.net|
+|10|27.147.134.82|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|72.10.160.172|31643|Canada|Montreal|GloboTech Communications|
 |14|72.10.164.178|27731|Canada|Montreal|GloboTech Communications|
 |15|67.43.227.228|24597|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|10205|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|8355|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|19829|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|20961|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|10159|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|72.10.164.178|27731|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|15407|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27731|Canada|Montreal|GloboTech Communications|
+|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 
 
 
