@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|203.150.113.63|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|14|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|17|103.40.121.33|1081|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|23.147.112.74|8080|United States|Tucson|NGX Networks|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|203.150.113.63|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|195.16.73.174|40000|Norway|Sandefjord|Gigahost|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|72.10.164.178|15269|Canada|Montreal|GloboTech Communications|
+|13|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|14|72.10.160.90|9515|Canada|Montreal|GloboTech Communications|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|67.43.227.226|12797|Canada|Montreal|GloboTech Communications|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|103.159.96.50|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|19|45.32.244.63|80|Australia|Sydney|Choopa|
+|20|5.42.87.139|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
