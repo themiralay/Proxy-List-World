@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
-|15|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|16|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|19|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.236.20|29681|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|203.150.113.143|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|148.72.165.7|30118|United States|St Louis|velia.net|
+|7|152.70.177.163|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|8|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|9|67.43.228.251|9511|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|21873|Canada|Montreal|GloboTech Communications|
+|11|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|12|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
+|13|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
+|14|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|15|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
+|16|72.10.160.174|3557|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|190.119.76.150|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
