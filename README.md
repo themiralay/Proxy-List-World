@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
-|3|36.93.163.219|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
-|4|116.107.88.57|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|6|72.10.160.170|2883|Canada|Montreal|GloboTech Communications|
-|7|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|8|72.10.160.90|6349|Canada|Montreal|GloboTech Communications|
-|9|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|10|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|11|72.10.160.93|26709|Canada|Montreal|GloboTech Communications|
-|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|13|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
-|14|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|15|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|103.78.80.66|32650|Indonesia|Jakarta|MORATELINDO|
-|18|103.81.158.130|8080|India|Zira|Digitax India Communications Pvt Ltd.|
-|19|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|164.68.96.58|63128|Germany|Nuremberg|Contabo GmbH|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|45.189.118.194|999|Peru|Márquez|Fiber Digital S.R.L|
+|8|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|9|45.189.118.198|999|Peru|Márquez|Fiber Digital S.R.L|
+|10|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|11|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|12|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.164.178|9239|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|27271|Canada|Montreal|GloboTech Communications|
+|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|176.121.1.163|8989|Ukraine|Manyava|FOP Saiv Igor Stepanovich|
+|18|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|19|116.107.86.69|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
 
 
 
