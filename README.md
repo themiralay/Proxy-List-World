@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|6|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|8|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|12|103.155.190.242|8080|Indonesia|Blitar|Trisula Media Data|
-|13|38.156.13.107|999|Colombia|Bogotá|Web Master Colombia|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|103.180.119.82|8181|Indonesia|Sidomukti|PT Persada Data Multimedia|
-|16|213.19.123.178|229|Czechia|Litomyšl|FORTECH|
-|17|72.10.164.178|8221|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27941|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12899|Canada|Montreal|GloboTech Communications|
-|20|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|116.107.91.26|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|6|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.163.102.70|8181|Indonesia|Wonogiri Regency|PT Mamura Inter Media|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|12|71.42.125.220|4444|United States|Leander|Spectrum|
+|13|131.72.89.53|9500|Brazil|Formosa do Oeste|MR Telecom|
+|14|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|121.227.44.146|8089|China|Nanjing|China Telecom|
+|16|103.180.119.82|8181|Indonesia|Sidomukti|PT Persada Data Multimedia|
+|17|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|18|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|19|119.95.169.190|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|20|67.43.227.227|16869|Canada|Montreal|GloboTech Communications|
 
 
 
