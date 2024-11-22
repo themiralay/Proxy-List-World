@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|4|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|5|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|42.119.58.14|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|72.10.160.171|4685|Canada|Montreal|GloboTech Communications|
-|8|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|9|67.43.227.230|31727|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|5661|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|3881|Canada|Montreal|GloboTech Communications|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|67.43.227.228|23809|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|5661|Canada|Montreal|GloboTech Communications|
+|3|116.107.99.237|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.91.209|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|6|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
+|7|182.18.174.196|80|India|Hyderabad|CtrlS|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|202.29.222.254|8080|Thailand|Pathum Thani|Office of Info.Tech. Admin. for Educational Development|
+|10|51.222.102.172|80|Canada|Montreal|OVH SAS|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|13|72.10.160.90|18195|Canada|Montreal|GloboTech Communications|
+|14|51.79.99.237|9950|France|Roubaix|OVH SAS|
 |15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|72.10.160.90|5661|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2383|Canada|Montreal|GloboTech Communications|
-|18|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|19|192.145.205.110|8080|Brazil|Capitão Enéas|Vianet Guaraciama Eireli ME|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|72.10.160.92|26917|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|18195|Canada|Montreal|GloboTech Communications|
+|18|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
+|19|206.84.201.101|999|Peru|Callao|Cogent Communications|
+|20|72.10.160.90|18195|Canada|Montreal|GloboTech Communications|
 
 
 
