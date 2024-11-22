@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|34.93.155.104|8561|India|Mumbai|Google LLC|
-|5|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|160.20.165.230|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|16|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|155.138.218.57|8118|United States|Atlanta|The Constant Company|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|2|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|35.212.74.86|80|United States|Washington|Google LLC|
+|7|179.189.48.253|8080|Brazil|Sinop|Avato Tecnologia S.A|
+|8|34.93.155.104|8561|India|Mumbai|Google LLC|
+|9|35.212.74.86|80|United States|Washington|Google LLC|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|73.90.88.50|80|United States|Chico|Comcast Cable Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
