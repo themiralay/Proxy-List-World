@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|124.121.2.188|8080|Thailand|Bangkok|TRUEBB|
-|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|203.150.113.55|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|192.240.113.138|31288|United States|Miami|e-creativity|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|16|177.93.37.35|999|Colombia|Tarqui|TV AZTECA SUCURSAL COLOMBIA|
-|17|34.93.155.104|8561|India|Mumbai|Google LLC|
-|18|45.238.220.1|8181|Argentina|Curuzú Cuatiá|CA VI CU SRL|
-|19|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|20|72.10.164.178|4809|Canada|Montreal|GloboTech Communications|
+|2|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|8|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|9|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|118.68.65.178|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|203.150.113.55|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.224.149.73|8080|Ecuador|Borbón|Ufinet Panama S.A.|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|103.69.150.24|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|18|67.43.227.226|30595|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
