@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4934** proxies at the latest update. Usable proxies are below.
+> Scraper found **4935** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|190|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|445|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|4|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.156.17.90|8282|Indonesia|Jakarta|RSTNET|
-|10|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|7|38.156.13.108|999|Colombia|Bogotá|Web Master Colombia|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|10|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|11|72.10.160.171|33019|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
 |13|72.10.160.171|33019|Canada|Montreal|GloboTech Communications|
-|14|103.169.9.49|8080|Indonesia|Ngawi|PT Bumi Manusia Network|
-|15|72.10.160.171|33019|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|21325|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|14799|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27927|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|10457|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|10457|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|21325|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|19763|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|32787|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|22105|Canada|Montreal|GloboTech Communications|
+|18|115.77.140.37|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|20|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
 
 
 
