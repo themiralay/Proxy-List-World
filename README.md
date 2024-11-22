@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5194** proxies at the latest update. Usable proxies are below.
+> Scraper found **5499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3246|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|5|116.104.170.127|5000|Vietnam|Hanoi|Viettel Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
-|9|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|1.2.252.65|8080|Thailand|Khlong Luang|TOT Public Company Limited|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|103.242.104.195|8090|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|72.10.164.178|15565|Canada|Montreal|GloboTech Communications|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|8|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|9|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|139.180.164.103|80|Australia|Sydney|Choopa|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|149.28.181.248|80|Australia|Sydney|The Constant Company|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|192.240.113.138|31288|United States|Miami|e-creativity|
+|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|19|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
