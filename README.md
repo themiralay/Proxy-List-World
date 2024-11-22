@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|51.159.159.73|80|France|Paris|SCALEWAY|
-|4|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|5|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|67.43.228.253|26953|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.93|25409|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|21589|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|24755|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|19087|Canada|Montreal|GloboTech Communications|
-|16|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|17|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
-|18|67.43.236.20|7643|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|12421|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21589|Canada|Montreal|GloboTech Communications|
+|2|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|6|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|67.43.228.253|25409|Canada|Montreal|GloboTech Communications|
+|11|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|12|72.10.164.178|9533|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|9533|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|5463|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|9533|Canada|Montreal|GloboTech Communications|
+|16|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|72.10.160.92|24755|Canada|Montreal|GloboTech Communications|
+|18|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|19|67.43.236.19|23179|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|5463|Canada|Montreal|GloboTech Communications|
 
 
 
