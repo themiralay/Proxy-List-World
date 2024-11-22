@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|11|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|12|67.43.236.18|28397|Canada|Montreal|GloboTech Communications|
-|13|116.107.104.254|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|67.43.227.227|19295|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|9779|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|14293|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|32081|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|3199|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19295|Canada|Montreal|GloboTech Communications|
+|1|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|182.18.174.196|80|India|Hyderabad|CtrlS|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|67.43.227.227|23635|Canada|Montreal|GloboTech Communications|
+|11|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|12|67.43.228.250|2565|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|29781|Canada|Montreal|GloboTech Communications|
+|14|103.177.101.42|1111|Indonesia|Bekasi|MORATELINDONAP|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.189.118.198|999|Peru|Márquez|Fiber Digital S.R.L|
+|17|103.169.128.148|8080|Indonesia|Cirebon|PT Media Akses Data|
+|18|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|19|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|190.97.94.226|999|Colombia|Pradera|Empresa de Recursos Tecnologicos S.A E.S.P|
 
 
 
