@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
-|12|72.10.160.93|4839|Canada|Montreal|GloboTech Communications|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|72.10.164.178|14897|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|8259|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|29103|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26691|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4881|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|4839|Canada|Montreal|GloboTech Communications|
-|20|114.116.214.19|8128|China|Beijing|IDC, China Telecommunications Corporation|
+|3|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|4|192.240.113.138|31288|United States|Miami|e-creativity|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|192.240.113.138|31288|United States|Miami|e-creativity|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
+|12|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|34.93.155.104|8561|India|Mumbai|Google LLC|
+|15|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
