@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.175.240.67|8080|Indonesia|Banyumas|LDP|
-|5|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|8|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|12|103.165.157.79|8090|Indonesia|Wonosobo|MEGADATA-ISP|
-|13|104.167.6.218|80|United States|Boca Raton|Cloud South|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|51.158.148.158|3128|France|Paris|Online S.A.S.|
-|16|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|34.93.155.104|8561|India|Mumbai|Google LLC|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|148.72.165.7|10501|United States|St Louis|velia.net|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|14|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|16|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|17|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|18|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|19|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
+|20|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
