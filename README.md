@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|182.18.174.196|80|India|Hyderabad|CtrlS|
-|6|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|110.78.215.243|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|34.93.155.104|8561|India|Mumbai|Google LLC|
-|12|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|13|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|14|116.107.104.254|12075|Vietnam|Hải Dương|Viettel Corporation|
-|15|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
-|16|72.10.164.178|31549|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|4035|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31549|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|22571|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|103.189.123.246|7777|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|148.72.165.7|30118|United States|St Louis|velia.net|
+|14|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|116.107.104.254|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|91.235.75.17|8282|Russia|Chelyabinsk|New Communication Technologies LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|67.43.227.227|13023|Canada|Montreal|GloboTech Communications|
 
 
 
