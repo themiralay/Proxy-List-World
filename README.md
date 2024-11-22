@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|110.168.213.172|8080|Thailand|Bangkok|TRUENET|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|51.159.159.73|80|France|Paris|SCALEWAY|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|182.18.174.196|80|India|Hyderabad|CtrlS|
-|9|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|67.43.228.250|25189|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|25189|Canada|Montreal|GloboTech Communications|
-|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|72.10.164.178|2523|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|33033|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|10333|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2523|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|33033|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|33033|Canada|Montreal|GloboTech Communications|
+|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|67.43.236.20|2075|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|23903|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|3041|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|2075|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|13763|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|2075|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|2075|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|3041|Canada|Montreal|GloboTech Communications|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|19|72.10.164.178|3041|Canada|Montreal|GloboTech Communications|
+|20|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
 
 
 
