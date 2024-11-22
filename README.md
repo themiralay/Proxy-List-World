@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|42.113.71.115|1003|Vietnam|Hanoi|FPT Telecom Company|
-|5|188.121.121.6|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|7|194.5.248.193|8000|Romania|Bucharest|Zergrush SRL|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|51.222.114.109|3128|Canada|Beauharnois|OVH SAS|
-|10|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
-|11|117.1.255.129|1002|Vietnam|Hanoi|Viettel Corporation|
-|12|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
-|13|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|14|190.121.146.75|999|Colombia|Neiva|Media Commerce Partners S.A|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|17|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|18|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|159.192.245.152|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|116.107.93.144|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|16|35.212.74.86|80|United States|Washington|Google LLC|
+|17|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
