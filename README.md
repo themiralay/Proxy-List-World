@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|5|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|1.10.231.175|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|7|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|34.93.155.104|8561|India|Mumbai|Google LLC|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|116.97.235.76|2268|Vietnam|Hanoi|Viettel Corporation|
-|15|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|16|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|38.156.75.238|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|6|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
+|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|11|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|12|171.238.239.166|5014|Vietnam|Tuyên Quang|Viettel Corporation|
+|13|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|14|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|15|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
+|16|67.43.236.20|32553|Canada|Montreal|GloboTech Communications|
+|17|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|188.132.150.200|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|160.20.165.229|8586|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
