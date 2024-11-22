@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|175.199.128.124|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|14|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|34.93.155.104|8561|India|Mumbai|Google LLC|
-|16|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|17|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|203.150.113.240|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|51.158.148.158|3128|France|Paris|Online S.A.S.|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|34.93.155.104|8561|India|Mumbai|Google LLC|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|51.79.99.237|9950|France|Roubaix|OVH SAS|
 
 
 
