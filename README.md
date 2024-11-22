@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|67.43.227.228|29571|Canada|Montreal|GloboTech Communications|
-|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|67.43.227.227|3251|Canada|Montreal|GloboTech Communications|
-|15|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|16|72.10.160.171|29837|Canada|Montreal|GloboTech Communications|
-|17|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|18|67.43.227.227|3251|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|22497|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27411|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|3|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|8|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|12|72.10.164.178|16421|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|32997|Canada|Montreal|GloboTech Communications|
+|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|72.10.164.178|16421|Canada|Montreal|GloboTech Communications|
+|16|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|72.10.160.91|21073|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|27871|Canada|Montreal|GloboTech Communications|
+|19|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|20|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
