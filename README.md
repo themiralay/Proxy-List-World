@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|51.159.159.73|80|France|Paris|SCALEWAY|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|15|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|103.148.44.159|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|17|45.224.149.73|8080|Ecuador|Borbón|Ufinet Panama S.A.|
-|18|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|7|116.107.88.113|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
+|10|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|18|45.238.220.1|8181|Argentina|Curuzú Cuatiá|CA VI CU SRL|
+|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|20|203.150.113.55|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
 
 
 
