@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|203.150.113.196|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
 |4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|6|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|7|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|124.121.2.188|8080|Thailand|Bangkok|TRUEBB|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|12|103.133.25.57|3125|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|139.84.210.216|3129|India|Bengaluru|The Constant Company, LLC|
-|16|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|220.74.32.2|3128|South Korea|Anyang-si|Korea Telecom|
-|19|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|116.107.88.113|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|38.57.232.46|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
+|9|35.212.74.86|80|United States|Washington|Google LLC|
+|10|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|11|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|14|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
+|15|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|16|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|17|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|18|177.38.72.49|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
+|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|20|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
 
 
 
