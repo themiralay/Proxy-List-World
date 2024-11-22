@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|4|34.93.155.104|8561|India|Mumbai|Google LLC|
-|5|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|6|147.28.155.20|10007|United States|Dallas|Packet Host, Inc.|
-|7|41.111.188.39|80|Algeria|Kouba|Algerie Telecom|
-|8|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|9|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|12|1.52.203.241|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|187.86.159.54|3128|Brazil|Rio Grande|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|125.24.61.155|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|148.72.165.7|30118|United States|St Louis|velia.net|
+|7|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|181.198.64.115|999|Ecuador|Guayaquil|Telconet S.A|
+|10|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
+|11|103.137.67.134|8080|Bangladesh|Khanbaniara|SK Traders|
+|12|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|13|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
+|15|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|16|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|20|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
 
 
 
