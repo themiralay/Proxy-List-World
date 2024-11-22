@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5325** proxies at the latest update. Usable proxies are below.
+> Scraper found **5324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|398|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.84.123|12075|Vietnam|Hải Dương|Viettel Corporation|
-|2|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|3|192.240.113.138|31288|United States|Miami|e-creativity|
-|4|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|103.110.34.146|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|10|170.78.144.41|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|11|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|12|116.107.84.123|12075|Vietnam|Hải Dương|Viettel Corporation|
-|13|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|14|67.43.228.253|26357|Canada|Montreal|GloboTech Communications|
-|15|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|17|72.10.160.170|25855|Canada|Montreal|GloboTech Communications|
-|18|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
-|19|67.43.228.251|25049|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|22709|Canada|Montreal|GloboTech Communications|
+|1|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|2|116.107.84.123|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|4|139.84.221.48|3129|India|Bengaluru|The Constant Company, LLC|
+|5|115.77.140.60|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|7|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|139.84.221.48|3129|India|Bengaluru|The Constant Company, LLC|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|192.240.113.138|31288|United States|Miami|e-creativity|
+|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|192.240.113.138|31288|United States|Miami|e-creativity|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|116.107.84.123|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|20|103.130.128.66|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 
 
 
