@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|115.77.251.140|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
-|6|103.172.71.140|8080|Indonesia|Bekasi|AZNET|
-|7|115.72.170.38|8080|Vietnam|Vũng Tàu|VIETELmetro|
-|8|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|9|103.180.122.52|8091|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
-|13|103.155.190.242|8080|Indonesia|Blitar|Trisula Media Data|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|162.43.33.87|3128|Japan|Chiyoda|XSERVER Inc.|
-|19|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|67.43.236.19|30405|Canada|Montreal|GloboTech Communications|
+|2|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|182.253.234.29|8080|Indonesia|Jakarta|BIZNET|
+|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|103.125.16.69|8080|Indonesia|Tangerang|JAVAMEDIA|
+|8|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|101.255.149.57|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|15|38.183.146.125|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|115.72.170.38|8080|Vietnam|Vũng Tàu|VIETELmetro|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
