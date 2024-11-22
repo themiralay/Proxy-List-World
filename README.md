@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|5|192.240.113.138|31288|United States|Miami|e-creativity|
-|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|7|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|115.77.140.37|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|14|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|15|102.209.18.96|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|16|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|19|162.249.171.248|4006|United States|New York|PureVoltage Hosting Inc.|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|4|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|6|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|7|192.240.113.138|31288|United States|Miami|e-creativity|
+|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|115.72.165.129|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|11|171.238.238.145|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|12|171.228.112.83|10089|Vietnam|Hanoi|Viettel Corporation|
+|13|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|116.107.91.51|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|116.107.88.113|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|203.150.128.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|102.209.18.96|8080|Kenya|Nairobi|Vennet Solutions Limited|
+|20|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
