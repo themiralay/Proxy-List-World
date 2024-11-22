@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.18.174.196|80|India|Hyderabad|CtrlS|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|7|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|85.30.215.48|32946|Russia|Moscow|National Cable Networks|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.199.117.100|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|15|167.114.98.66|9595|Canada|Montreal|OVH SAS|
-|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|192.240.113.138|31288|United States|Miami|e-creativity|
-|18|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|19|72.10.160.90|8401|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|17469|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|148.72.168.81|30119|United States|St Louis|velia.net|
+|8|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|9|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|85.30.215.48|32946|Russia|Moscow|National Cable Networks|
+|14|167.114.98.66|9595|Canada|Montreal|OVH SAS|
+|15|192.240.113.138|31288|United States|Miami|e-creativity|
+|16|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|18|148.72.165.7|30118|United States|St Louis|velia.net|
+|19|148.72.169.225|30119|United States|St Louis|velia.net|
+|20|67.43.228.253|16955|Canada|Montreal|GloboTech Communications|
 
 
 
