@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|5|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|6|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|7|67.43.227.230|30481|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|60.53.133.218|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|7|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
 |8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|10|67.43.227.229|21653|Canada|Montreal|GloboTech Communications|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|72.10.164.178|6967|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|26779|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|18267|Canada|Montreal|GloboTech Communications|
-|15|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|16|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|17|67.43.228.250|26779|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|16533|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|10517|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|26111|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|8367|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.250|10641|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|12057|Canada|Montreal|GloboTech Communications|
+|12|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|67.43.227.229|21653|Canada|Montreal|GloboTech Communications|
+|15|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
+|16|72.10.160.93|24053|Canada|Montreal|GloboTech Communications|
+|17|116.197.134.13|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|72.10.164.178|12057|Canada|Montreal|GloboTech Communications|
+|19|187.94.248.32|15552|Brazil|Capitólio|Vital NET|
+|20|67.43.228.253|8367|Canada|Montreal|GloboTech Communications|
 
 
 
