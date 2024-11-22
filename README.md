@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5499** proxies at the latest update. Usable proxies are below.
+> Scraper found **5773** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|610|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3246|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
-|7|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|8|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|9|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|139.180.164.103|80|Australia|Sydney|Choopa|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|149.28.181.248|80|Australia|Sydney|The Constant Company|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|17|192.240.113.138|31288|United States|Miami|e-creativity|
-|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|19|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
+|6|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
+|8|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|192.240.113.138|31288|United States|Miami|e-creativity|
+|13|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|14|36.88.16.173|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
+|16|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|17|103.242.104.195|8090|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|18|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
+|19|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
+|20|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
 
 
 
