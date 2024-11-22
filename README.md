@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|117.0.138.35|4010|Vietnam|Hanoi|Viettel Group|
-|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
-|10|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|17|72.10.164.178|20799|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|13417|Canada|Montreal|GloboTech Communications|
-|19|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|72.10.160.91|10427|Canada|Montreal|GloboTech Communications|
+|2|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|8|117.0.138.35|4010|Vietnam|Hanoi|Viettel Group|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|67.43.236.18|13417|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7253|Canada|Montreal|GloboTech Communications|
+|19|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
+|20|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
