@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
-|8|168.243.89.65|999|El Salvador|Santa Elena|Telenetwork de El Salvador|
-|9|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
-|11|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|72.10.160.90|20481|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19019|Canada|Montreal|GloboTech Communications|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.85.193|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
+|8|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|12|38.156.236.158|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|13|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|14|116.107.91.51|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|139.84.210.216|3129|India|Bengaluru|The Constant Company, LLC|
+|16|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|17|185.189.199.77|8080|Bulgaria|Bansko|Mis70 LTD|
+|18|139.84.210.216|3129|India|Bengaluru|The Constant Company, LLC|
+|19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|20|139.84.211.230|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
