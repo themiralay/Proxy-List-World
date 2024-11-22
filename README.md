@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|34.93.155.104|8561|India|Mumbai|Google LLC|
-|5|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|116.104.130.21|5004|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|42.119.58.14|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|11|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|12|103.167.171.153|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|13|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
+|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|192.240.113.138|31288|United States|Miami|e-creativity|
+|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|15|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|16|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|17|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|18|171.245.125.178|10008|Vietnam|Thái Bình|Viettel Corporation|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
 
 
 
