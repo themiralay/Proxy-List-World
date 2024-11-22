@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|4|103.125.16.69|8080|Indonesia|Tangerang|JAVAMEDIA|
-|5|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|139.84.210.216|3129|India|Bengaluru|The Constant Company, LLC|
-|12|182.253.234.29|8080|Indonesia|Jakarta|BIZNET|
-|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|103.130.80.50|8080|Indonesia|Tulungagung|PT PRISMA MEDIA NUSANTARA|
-|15|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|17|116.104.128.107|5018|Vietnam|Hanoi|Viettel Corporation|
-|18|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|67.43.228.253|2303|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|182.253.234.29|8080|Indonesia|Jakarta|BIZNET|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|179.125.125.243|3128|Brazil|Picos|Virtex Telecom|
+|7|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|8|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|129.205.127.30|8080|Nigeria|Lagos|Globacom Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|67.43.228.253|20139|Canada|Montreal|GloboTech Communications|
+|14|103.137.111.65|7777|Indonesia|Malang|PT. Capoeng Digital Nusantara|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|72.10.160.174|10563|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|72.10.160.174|10563|Canada|Montreal|GloboTech Communications|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
