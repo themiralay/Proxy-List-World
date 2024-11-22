@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|4|113.192.30.183|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|5|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|103.124.137.33|8080|Indonesia|Banyumas|Global Media Data Prima|
-|8|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|12|72.10.160.170|5539|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|5539|Canada|Montreal|GloboTech Communications|
-|14|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|72.10.164.178|26757|Canada|Montreal|GloboTech Communications|
-|18|121.227.179.151|8089|China|Nanjing|China Telecom|
-|19|67.43.228.253|26871|Canada|Montreal|GloboTech Communications|
-|20|1.20.214.46|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|6|148.72.168.81|30127|United States|St Louis|velia.net|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|10|72.10.160.170|6799|Canada|Montreal|GloboTech Communications|
+|11|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|13|178.152.24.98|8080|Qatar|Doha|Business DSL|
+|14|167.114.98.66|9595|Canada|Montreal|OVH SAS|
+|15|67.43.236.20|23665|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|6799|Canada|Montreal|GloboTech Communications|
+|17|103.175.240.49|8080|Indonesia|Banyumas|LDP|
+|18|67.43.227.227|17729|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|7749|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17729|Canada|Montreal|GloboTech Communications|
 
 
 
