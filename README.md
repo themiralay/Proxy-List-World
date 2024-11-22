@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5045** proxies at the latest update. Usable proxies are below.
+> Scraper found **5029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|351|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3074|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|116.107.93.144|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|5|159.192.245.152|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|34.93.155.104|8561|India|Mumbai|Google LLC|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|116.254.96.167|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|16|42.119.58.14|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|20|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|2|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|43.153.227.51|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|187.94.248.32|15552|Brazil|Capitólio|Vital NET|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|35.212.74.86|80|United States|Washington|Google LLC|
+|13|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|15|67.43.227.227|9267|Canada|Montreal|GloboTech Communications|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|72.10.164.178|19225|Canada|Montreal|GloboTech Communications|
+|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|72.10.160.90|12405|Canada|Montreal|GloboTech Communications|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
