@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|192.240.113.138|31288|United States|Miami|e-creativity|
-|3|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|6|192.240.113.138|31288|United States|Miami|e-creativity|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|9|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|116.104.134.25|5022|Vietnam|Hanoi|Viettel Corporation|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|51.158.148.158|3128|France|Paris|Online S.A.S.|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|9|115.77.140.60|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|11|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|17|139.84.210.216|3129|India|Bengaluru|The Constant Company, LLC|
+|18|27.72.90.54|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|19|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
