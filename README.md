@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|2|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|3|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|4|204.199.174.75|999|Peru|Lima region|Fiberred Sociedad Anonima Cerrada|
-|5|67.43.227.226|28219|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|182.18.174.196|80|India|Hyderabad|CtrlS|
+|5|148.72.165.7|30118|United States|St Louis|velia.net|
 |6|67.43.236.20|11899|Canada|Montreal|GloboTech Communications|
-|7|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|10|72.10.160.172|6969|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|11899|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|9377|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|26399|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|28219|Canada|Montreal|GloboTech Communications|
-|15|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|67.43.227.226|28219|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|11925|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9377|Canada|Montreal|GloboTech Communications|
+|7|150.242.81.57|3128|China|Xiamen|Xiamen|
+|8|37.210.165.237|8080|Qatar|Doha|Ooredoo-MBB|
+|9|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|10|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|11|72.10.160.90|9377|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|28219|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|32721|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.251|26399|Canada|Montreal|GloboTech Communications|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|72.10.160.170|11925|Canada|Montreal|GloboTech Communications|
+|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.164.178|32721|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|9377|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|28219|Canada|Montreal|GloboTech Communications|
 
 
 
