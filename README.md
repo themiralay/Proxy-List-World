@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.150.128.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|5|192.240.113.138|31288|United States|Miami|e-creativity|
-|6|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|7|192.240.113.138|31288|United States|Miami|e-creativity|
-|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|46.105.190.38|3128|France|Roubaix|OVH ISP|
+|2|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|3|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|203.150.128.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|192.240.113.138|31288|United States|Miami|e-creativity|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|52.117.160.219|8081|United States|Dallas|SoftLayer|
 |13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|20|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|14|124.106.173.56|8082|Philippines|Tagbilaran|Philippine Long Distance Telephone Co.|
+|15|116.107.84.123|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|116.107.91.51|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|116.104.134.117|5006|Vietnam|Hanoi|Viettel Corporation|
 
 
 
