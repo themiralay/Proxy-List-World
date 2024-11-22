@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|2|192.240.113.138|31288|United States|Miami|e-creativity|
-|3|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|6|223.206.59.59|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|8|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|42.119.58.14|10002|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|46.105.190.38|3128|France|Roubaix|OVH ISP|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|115.72.165.129|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|16|67.43.236.20|3057|Canada|Montreal|GloboTech Communications|
-|17|192.240.113.138|31288|United States|Miami|e-creativity|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|75.25.159.161|3128|United States|San Leandro|AT&T Services, Inc.|
+|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|192.240.113.138|31288|United States|Miami|e-creativity|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.155.65.162|7777|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|15|203.150.128.196|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|17|115.77.140.60|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|72.10.160.174|24025|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13969|Canada|Montreal|GloboTech Communications|
+|19|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
