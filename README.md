@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 |3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|34.93.155.104|8561|India|Mumbai|Google LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|148.72.168.81|30118|United States|St Louis|velia.net|
-|9|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|45.4.1.208|999|Chile|Santiago|Tlink SPA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|34.93.155.104|8561|India|Mumbai|Google LLC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|15|207.248.3.81|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
-|16|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|72.10.160.93|18003|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|12389|Canada|Montreal|GloboTech Communications|
-|19|192.240.113.138|31288|United States|Miami|e-creativity|
-|20|72.10.164.178|13219|Canada|Montreal|GloboTech Communications|
+|4|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|7|147.28.155.20|10007|United States|Dallas|Packet Host, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|34.93.155.104|8561|India|Mumbai|Google LLC|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
