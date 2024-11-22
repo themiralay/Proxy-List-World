@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|159.192.245.152|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|43.153.227.51|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|187.94.248.32|15552|Brazil|Capitólio|Vital NET|
-|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|12|35.212.74.86|80|United States|Washington|Google LLC|
-|13|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|15|67.43.227.227|9267|Canada|Montreal|GloboTech Communications|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|72.10.164.178|19225|Canada|Montreal|GloboTech Communications|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|72.10.160.90|12405|Canada|Montreal|GloboTech Communications|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|35.212.74.86|80|United States|Washington|Google LLC|
+|8|51.21.145.123|80|Sweden|Stockholm|Amazon.com, Inc.|
+|9|35.212.74.86|80|United States|Washington|Google LLC|
+|10|171.228.112.83|10089|Vietnam|Hanoi|Viettel Corporation|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|43.153.227.51|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|17|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|18|144.48.162.97|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|19|41.65.71.135|1976|Egypt|Cairo|Etisalat Misr|
+|20|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
