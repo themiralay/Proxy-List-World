@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|12|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|15|103.154.220.26|1111|Indonesia|Bandung|MORATELINDONAP|
-|16|1.20.214.46|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|67.43.227.228|23737|Canada|Montreal|GloboTech Communications|
+|5|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|34.93.155.104|8561|India|Mumbai|Google LLC|
+|8|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
+|9|187.245.214.7|999|Mexico|Matías Castellanos|Mega Cable, S.A. de C.V.|
+|10|221.233.71.150|18666|China|Shizishan|Chinanet|
+|11|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |17|38.183.146.183|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|18|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|20|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
