@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
 |7|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
 |8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|103.143.196.66|8080|Indonesia|Klaten|JERNIHNETWORK|
-|10|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.120.165.54|8885|Bangladesh|Dhaka|Discovery Internet/ Madhabdi|
+|10|34.93.155.104|8561|India|Mumbai|Google LLC|
 |11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|37.255.203.235|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
-|13|72.10.160.172|20191|Canada|Montreal|GloboTech Communications|
-|14|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
-|15|67.43.227.227|21213|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1747|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|20181|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|24239|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14733|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1747|Canada|Montreal|GloboTech Communications|
+|12|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|67.43.227.227|25247|Canada|Montreal|GloboTech Communications|
+|16|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|20|103.188.173.153|8080|Indonesia|Jakarta|PT Satria Digital Media|
 
 
 
