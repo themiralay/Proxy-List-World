@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|192.240.113.138|31288|United States|Miami|e-creativity|
-|4|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|186.96.67.37|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|42.113.71.115|1004|Vietnam|Hanoi|FPT Telecom Company|
-|17|72.10.164.178|22323|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22323|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8785|Canada|Montreal|GloboTech Communications|
-|20|148.72.165.7|30118|United States|St Louis|velia.net|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|7|192.240.113.138|31288|United States|Miami|e-creativity|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|192.240.113.138|31288|United States|Miami|e-creativity|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
 
 
 
