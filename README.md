@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|182.18.174.196|80|India|Hyderabad|CtrlS|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|11|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|195.16.73.134|40000|Norway|Sandefjord|Gigahost|
-|15|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|16|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|34.93.155.104|8561|India|Mumbai|Google LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|116.169.61.74|8880|China|Chengdu|China Unicom CHINA169 Network|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|160.22.134.27|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
+|10|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|147.28.155.20|10082|United States|Dallas|Packet Host, Inc.|
+|17|147.28.155.20|10082|United States|Dallas|Packet Host, Inc.|
+|18|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
+|20|72.10.160.94|24471|Canada|Montreal|GloboTech Communications|
 
 
 
