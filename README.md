@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|6|192.240.113.138|31288|United States|Miami|e-creativity|
+|7|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|182.18.174.196|80|India|Hyderabad|CtrlS|
-|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|12|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|15|72.10.164.178|22323|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|11411|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|3359|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|31523|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|10585|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|31529|Canada|Montreal|GloboTech Communications|
+|9|192.240.113.138|31288|United States|Miami|e-creativity|
+|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|19|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
