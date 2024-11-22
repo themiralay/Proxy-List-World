@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5336** proxies at the latest update. Usable proxies are below.
+> Scraper found **5294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3246|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|192.240.113.138|31288|United States|Miami|e-creativity|
+|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|192.240.113.138|31288|United States|Miami|e-creativity|
-|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|10|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|190.97.94.226|999|Colombia|Pradera|Empresa de Recursos Tecnologicos S.A E.S.P|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|15|102.217.139.31|8180|South Africa|Cape Town|Opnaxs PTY LTD|
-|16|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|222.127.77.167|8082|Philippines|Lahug|INNOVE|
-|18|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|19|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|182.18.174.196|80|India|Hyderabad|CtrlS|
+|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|12|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|15|72.10.164.178|22323|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|11411|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|3359|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|31523|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|10585|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|31529|Canada|Montreal|GloboTech Communications|
 
 
 
