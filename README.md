@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|38.156.13.108|999|Colombia|Bogotá|Web Master Colombia|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
-|10|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|11|72.10.160.171|33019|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|33019|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|21325|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|19763|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|32787|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|22105|Canada|Montreal|GloboTech Communications|
-|18|115.77.140.37|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
-|20|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|171.245.112.84|5020|Vietnam|Thái Bình|Viettel Corporation|
+|8|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|51.159.159.73|80|France|Paris|SCALEWAY|
+|11|104.129.203.248|10750|United States|San Jose|ZSCALER, INC.|
+|12|104.129.194.44|10801|United States|Reston|ZSCALER, INC.|
+|13|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
+|14|72.10.164.178|23529|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|3317|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.93|17687|Canada|Montreal|GloboTech Communications|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|67.43.227.227|3317|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|23529|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23529|Canada|Montreal|GloboTech Communications|
 
 
 
