@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.18.174.196|80|India|Hyderabad|CtrlS|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|5|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|6|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|103.75.84.237|8080|Indonesia|Central Java|MEGADATA|
-|8|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|72.10.164.178|17437|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|7243|Canada|Montreal|GloboTech Communications|
-|15|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|17|72.10.164.178|17437|Canada|Montreal|GloboTech Communications|
-|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|19|160.19.146.91|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|20|67.43.228.253|18701|Canada|Montreal|GloboTech Communications|
+|1|182.18.174.196|80|India|Hyderabad|CtrlS|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|6|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|7|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|9|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|150.242.81.57|3128|China|Xiamen|Xiamen|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|72.10.164.178|17437|Canada|Montreal|GloboTech Communications|
+|17|188.132.222.222|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|201.91.82.155|3128|Brazil|Araraquara|Vivo|
+|19|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
+|20|93.190.14.199|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
 
 
 
