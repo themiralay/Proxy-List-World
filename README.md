@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|5|148.72.169.225|30127|United States|St Louis|velia.net|
-|6|148.72.169.225|30127|United States|St Louis|velia.net|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|61.129.2.212|8080|China|Beijing|CHINANET|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
-|12|186.96.67.37|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|72.10.164.178|20567|Canada|Montreal|GloboTech Communications|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|72.10.164.178|20567|Canada|Montreal|GloboTech Communications|
-|16|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|17|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|18|72.10.160.91|9659|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2911|Canada|Montreal|GloboTech Communications|
-|20|38.183.146.183|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.126.86.200|3127|Indonesia|Surakarta|PT. Rasi Bintang Perkasa|
+|5|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|6|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|8|103.231.239.6|58080|Bangladesh|Bogra|Carnival Internet|
+|9|72.10.164.178|20567|Canada|Montreal|GloboTech Communications|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|67.43.236.20|2911|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|2911|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.22|22707|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|16|72.10.164.178|20567|Canada|Montreal|GloboTech Communications|
+|17|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|41.73.243.39|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|19|67.43.228.250|8901|Canada|Montreal|GloboTech Communications|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
