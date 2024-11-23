@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|3|34.93.155.104|8561|India|Mumbai|Google LLC|
-|4|177.234.236.80|999|Ecuador|Machala|Ufinet Panama S.A.|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|117.1.255.129|1002|Vietnam|Hanoi|Viettel Corporation|
-|9|181.78.99.31|8080|El Salvador|Chalatenango|Ufinet Panama S.A.|
-|10|103.191.196.96|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|11|67.43.228.252|11461|Canada|Montreal|GloboTech Communications|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|116.107.82.1|12075|Vietnam|Hải Dương|Viettel Corporation|
-|16|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|72.10.160.90|23177|Canada|Montreal|GloboTech Communications|
-|18|116.107.80.157|12075|Vietnam|Hải Dương|Viettel Corporation|
-|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|20|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
+|2|116.107.80.157|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|67.43.228.252|11461|Canada|Montreal|GloboTech Communications|
+|4|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|157.66.16.44|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|10|181.78.17.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|11|103.164.117.186|3128|Indonesia|Malang|SOLUSINET|
+|12|103.125.51.25|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|13|67.43.228.252|11461|Canada|Montreal|GloboTech Communications|
+|14|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|15|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|103.54.80.193|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
+|19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|20|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
