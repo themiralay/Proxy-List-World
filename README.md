@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|182.18.174.196|80|India|Hyderabad|CtrlS|
-|7|115.77.141.64|10006|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|47.88.85.102|443|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|131.255.56.169|9292|Brazil|Araçatuba|Link Brasil Telecomunicacoes Ltda|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|182.18.174.196|80|India|Hyderabad|CtrlS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|121.136.189.231|60001|South Korea|Yongin-si|Korea Telecom|
+|16|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|17|160.248.92.13|3128|Japan|Sekizawa|NTT PC Communications, Inc.|
+|18|72.10.164.178|18215|Canada|Montreal|GloboTech Communications|
+|19|115.77.251.140|10009|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
