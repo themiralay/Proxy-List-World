@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|3|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.183.146.43|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|6|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|7|67.43.236.20|15127|Canada|Montreal|GloboTech Communications|
-|8|27.189.134.187|8089|China|Shijiazhuang|Chinanet|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 |9|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|10|72.10.160.93|31593|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|20729|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|22999|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|3773|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|15|186.96.67.37|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|103.175.224.93|8080|Indonesia|Tangerang|MYREPUBLIC|
-|17|67.43.227.227|3773|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|16805|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.164.178|9713|Canada|Montreal|GloboTech Communications|
+|10|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|11|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
+|12|67.43.227.227|5407|Canada|Montreal|GloboTech Communications|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|15|202.77.112.245|8080|Indonesia|Tangerang|LINKNET|
+|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|17|116.107.91.26|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|67.43.228.250|29215|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|5407|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
