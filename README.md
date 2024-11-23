@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.117.29.129|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|67.43.228.250|5189|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.160.90|32969|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16703|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|117.247.233.62|8080|India|Jaipur|BSNL Internet|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|34.100.189.30|8561|India|Mumbai|Google LLC|
+|18|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|19|181.129.248.20|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|20|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
