@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|116.107.97.30|12075|Vietnam|Hải Dương|Viettel Corporation|
 |3|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|34.100.189.30|8561|India|Mumbai|Google LLC|
-|8|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|11|103.156.248.45|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
-|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|7|115.77.252.14|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|103.156.15.253|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|13|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|171.245.120.111|5008|Vietnam|Thái Bình|Viettel Corporation|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|116.107.97.30|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
 
 
 
