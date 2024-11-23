@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|42.119.58.14|10003|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|9|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|10|192.240.113.138|31288|United States|Miami|e-creativity|
-|11|72.10.164.178|31571|Canada|Montreal|GloboTech Communications|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|167.114.98.66|9595|Canada|Montreal|OVH SAS|
-|14|72.10.164.178|31571|Canada|Montreal|GloboTech Communications|
-|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|16|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|72.10.160.173|4649|Canada|Montreal|GloboTech Communications|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|7|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
+|8|192.240.113.138|31288|United States|Miami|e-creativity|
+|9|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|10|72.10.160.173|4649|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.251|1093|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|8133|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|18521|Canada|Montreal|GloboTech Communications|
+|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|15|72.10.164.178|31571|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|4649|Canada|Montreal|GloboTech Communications|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|67.43.236.22|8521|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|31571|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|18013|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31571|Canada|Montreal|GloboTech Communications|
 
 
 
