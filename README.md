@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|171.245.120.111|5008|Vietnam|Thái Bình|Viettel Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|17|45.117.29.121|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|159.89.239.166|18107|United States|North Bergen|DigitalOcean, LLC|
-|20|213.147.221.253|8424|Russia|Saratov|MTS PJSC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|7|38.9.48.212|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|72.10.164.178|20035|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|10945|Canada|Montreal|GloboTech Communications|
+|11|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|14|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|15|72.10.164.178|20035|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|17|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|18|72.10.164.178|20035|Canada|Montreal|GloboTech Communications|
+|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|67.43.236.19|13655|Canada|Montreal|GloboTech Communications|
 
 
 
