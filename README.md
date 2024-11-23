@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.100.189.30|8561|India|Mumbai|Google LLC|
+|5|203.150.128.73|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|139.9.6.110|8081|China|Guangzhou|Huawei Cloud Service data center|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|10175|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
-|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.160.94|1081|Canada|Montreal|GloboTech Communications|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|12|139.9.6.110|8081|China|Guangzhou|Huawei Cloud Service data center|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|15|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|191.97.15.94|11201|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|18|72.10.164.178|19655|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.164.178|19655|Canada|Montreal|GloboTech Communications|
 
 
 
