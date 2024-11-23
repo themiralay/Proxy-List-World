@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.155.199.28|1111|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|5|202.57.26.58|8080|Indonesia|Bandung|WANET|
-|6|203.190.44.81|1111|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|116.107.88.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|10|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|11|34.100.189.30|8561|India|Mumbai|Google LLC|
-|12|180.191.59.254|8081|Philippines|Tarlac City|Globe Telecom|
-|13|67.43.236.19|4105|Canada|Montreal|GloboTech Communications|
-|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|181.114.61.17|8085|Argentina|Villa Ramallo|INTERAIR|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|208.67.28.29|58090|United States|Eagle River|SonicNet Inc.|
-|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|20|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.88.225|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|34.100.189.30|8561|India|Mumbai|Google LLC|
+|5|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.40.121.91|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|7|184.22.3.140|8080|Thailand|Bangkok|AIS-Fibre|
+|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
+|11|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|15|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|19|116.107.88.225|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|72.10.160.170|28725|Canada|Montreal|GloboTech Communications|
 
 
 
