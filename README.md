@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|171.245.127.2|5002|Vietnam|Thái Bình|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|7|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|190.121.207.161|999|Guatemala|San Agustín Acasaguastlán|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|14|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
-|15|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|16|95.31.160.1|8080|Russia|Moscow|CORBINA-BROADBAND|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|19|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.107.93.0|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|115.72.173.66|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|10|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|12|182.18.174.196|80|India|Hyderabad|CtrlS|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|18|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|209.45.108.230|1011|Peru|Lima|Red Cientifica Peruana|
 
 
 
