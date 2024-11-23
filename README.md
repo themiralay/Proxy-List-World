@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|72.10.160.90|7267|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.173|33005|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|20743|Canada|Montreal|GloboTech Communications|
-|11|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|12|67.43.228.252|15563|Canada|Montreal|GloboTech Communications|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|15|72.10.160.93|29861|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|7251|Canada|Montreal|GloboTech Communications|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|67.43.227.226|29517|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28749|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|25539|Canada|Montreal|GloboTech Communications|
+|2|14.187.163.25|10005|Vietnam|Ho Chi Minh City|VNPT|
+|3|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|5|72.10.164.178|31911|Canada|Montreal|GloboTech Communications|
+|6|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|7|203.128.75.196|8080|Indonesia|Jakarta|Neuviz|
+|8|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|9|72.10.160.173|33129|Canada|Montreal|GloboTech Communications|
+|10|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|11|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|12|186.96.67.37|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|14|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|67.43.227.226|32721|Canada|Montreal|GloboTech Communications|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|103.186.12.10|8080|Indonesia|Surabaya|Universitas Wijaya Kusuma Surabaya|
+|18|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|19|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
