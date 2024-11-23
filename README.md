@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|6|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|4|103.191.218.153|6060|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|5|103.40.121.91|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|6|34.100.189.30|8561|India|Mumbai|Google LLC|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
-|9|67.43.228.250|31269|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|18327|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.94|13069|Canada|Montreal|GloboTech Communications|
-|12|115.72.43.27|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|72.10.164.178|12673|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|1209|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12673|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|31937|Canada|Montreal|GloboTech Communications|
-|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|18|67.43.236.19|19999|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|12595|Canada|Montreal|GloboTech Communications|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.236.19|19999|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|7341|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.252|14527|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.230|21561|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|1209|Canada|Montreal|GloboTech Communications|
+|16|103.159.96.146|3128|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|17|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
+|18|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|72.10.160.170|1209|Canada|Montreal|GloboTech Communications|
+|20|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
 
 
 
