@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|162.249.171.248|4000|United States|New York|PureVoltage Hosting Inc.|
-|9|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|12|213.147.221.253|8424|Russia|Saratov|MTS PJSC|
-|13|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|14|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|15|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|19|117.1.255.129|1002|Vietnam|Hanoi|Viettel Corporation|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|5|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|89.147.165.24|8080|Oman|Muscat|Awaser Oman LLC|
+|11|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|14|42.119.58.14|10008|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|67.43.227.227|5855|Canada|Montreal|GloboTech Communications|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|116.107.113.176|10092|Vietnam|Hanoi|Viettel Corporation|
+|19|72.10.164.178|24023|Canada|Montreal|GloboTech Communications|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
