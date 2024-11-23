@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|42.113.71.115|1003|Vietnam|Hanoi|FPT Telecom Company|
-|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|116.107.93.130|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|116.107.215.210|5014|Vietnam|Hải Dương|Viettel Corporation|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|14|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|18|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|19|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|20|103.78.80.66|32650|Indonesia|Jakarta|MORATELINDO|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.92.86|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
+|13|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
