@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|2|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|3|148.72.165.7|10501|United States|St Louis|velia.net|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|9|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|116.107.86.236|12075|Vietnam|Hải Dương|Viettel Corporation|
-|13|148.72.165.7|10501|United States|St Louis|velia.net|
-|14|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|15|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|16|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|19|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.107.86.236|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|7|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|8|103.178.42.29|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|103.78.80.66|32650|Indonesia|Jakarta|MORATELINDO|
+|15|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|67.43.236.20|29273|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2291|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|20475|Canada|Montreal|GloboTech Communications|
+|19|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|20|103.189.123.246|7777|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
 
 
 
