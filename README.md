@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|192.240.113.138|31288|United States|Miami|e-creativity|
 |3|192.240.113.138|31288|United States|Miami|e-creativity|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|201.238.248.135|8118|Chile|Santiago|Gtd Internet S.A.|
-|9|200.32.51.179|8080|Argentina|Mendoza|Telefonica de Argentina|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|131.100.48.253|999|Colombia|Neiva|Fibernet TV SAS|
-|12|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
-|13|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|4|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|128.140.113.110|999|Germany|Falkenstein|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|12|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 |17|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|18|72.10.160.173|29867|Canada|Montreal|GloboTech Communications|
-|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|20|72.10.160.173|29867|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|20|72.10.164.178|26307|Canada|Montreal|GloboTech Communications|
 
 
 
