@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|34.100.189.30|8561|India|Mumbai|Google LLC|
 |2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.100.189.30|8561|India|Mumbai|Google LLC|
-|4|115.72.43.27|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|8|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|141.94.220.45|3128|France|Gravelines|OVH SAS|
-|11|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
-|15|72.10.164.178|33257|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|26025|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|16777|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|8633|Canada|Montreal|GloboTech Communications|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|3|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|8|67.43.228.250|32881|Canada|Montreal|GloboTech Communications|
+|9|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|10|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|11|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
+|12|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|13|67.43.228.253|8633|Canada|Montreal|GloboTech Communications|
+|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|15|67.43.227.228|6537|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|8605|Canada|Montreal|GloboTech Communications|
+|17|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|18|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
+|19|67.43.236.19|30583|Canada|Montreal|GloboTech Communications|
 |20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
