@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5027** proxies at the latest update. Usable proxies are below.
+> Scraper found **5017** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2827|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|145.40.73.102|443|Singapore|Singapore|Packet Host, Inc.|
 |3|171.6.169.197|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|182.253.233.69|8080|Indonesia|Jakarta|BIZNET|
-|5|116.107.80.157|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|116.107.82.1|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.164.117.186|3128|Indonesia|Malang|SOLUSINET|
-|11|110.77.246.194|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|12|34.93.155.104|8561|India|Mumbai|Google LLC|
-|13|34.100.189.30|8561|India|Mumbai|Google LLC|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|182.253.233.69|8080|Indonesia|Jakarta|BIZNET|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|10|34.93.155.104|8561|India|Mumbai|Google LLC|
+|11|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
+|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|34.100.189.30|8561|India|Mumbai|Google LLC|
+|16|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|72.10.160.174|29083|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|67.43.227.227|18151|Canada|Montreal|GloboTech Communications|
 
 
 
