@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|6|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|7|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|72.10.160.90|10397|Canada|Montreal|GloboTech Communications|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|67.43.236.20|26139|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9595|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|19|67.43.227.230|10401|Canada|Montreal|GloboTech Communications|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|42.119.58.14|10006|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
+|7|171.228.112.83|10089|Vietnam|Hanoi|Viettel Corporation|
+|8|103.133.61.188|8080|Indonesia|Bandar Lampung|TLINK|
+|9|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|11|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|12|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|67.43.236.20|7443|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|72.10.164.178|9595|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|31917|Canada|Montreal|GloboTech Communications|
 
 
 
