@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4662** proxies at the latest update. Usable proxies are below.
+> Scraper found **4635** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|237|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|481|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2762|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|7|67.43.236.20|31765|Canada|Montreal|GloboTech Communications|
-|8|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|9|72.10.164.178|23287|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|32047|Canada|Montreal|GloboTech Communications|
-|11|27.189.130.97|8089|China|Shijiazhuang|Chinanet|
-|12|72.10.164.178|23287|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|9811|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.230|2083|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|5349|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23287|Canada|Montreal|GloboTech Communications|
-|17|27.189.134.74|8089|China|Shijiazhuang|Chinanet|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|67.43.227.228|29505|Canada|Montreal|GloboTech Communications|
-|20|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|8|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|72.10.160.91|10891|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.22|4415|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|30381|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25697|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|10353|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|6437|Canada|Montreal|GloboTech Communications|
 
 
 
