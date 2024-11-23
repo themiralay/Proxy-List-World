@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|9|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|45.136.70.251|3128|Denmark|Nørre Åby|Webdock.io ApS|
-|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|72.10.160.90|21435|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|3|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|116.107.85.199|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|115.72.37.98|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
+|8|103.83.97.238|3127|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|13|37.210.165.237|8080|Qatar|Doha|Ooredoo-MBB|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|45.136.70.251|3128|Denmark|Nørre Åby|Webdock.io ApS|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
 |20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
 
 
