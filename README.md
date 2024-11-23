@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|116.107.88.225|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|10|182.18.174.196|80|India|Hyderabad|CtrlS|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|124.121.2.245|8080|Thailand|Bangkok|TRUEBB|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|15|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|19|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|20|72.10.160.173|18273|Canada|Montreal|GloboTech Communications|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|201.20.118.146|27234|Brazil|Piquet Carneiro|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|10|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|11|125.25.32.128|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|67.43.227.227|20843|Canada|Montreal|GloboTech Communications|
+|15|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|16|131.255.56.169|9292|Brazil|Araçatuba|Link Brasil Telecomunicacoes Ltda|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
+|19|67.43.228.251|21081|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|4273|Canada|Montreal|GloboTech Communications|
 
 
 
