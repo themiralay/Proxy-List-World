@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|34.100.189.30|8561|India|Mumbai|Google LLC|
-|4|193.68.152.102|8080|Bulgaria|Slavyanovo|Digital Systems Ltd|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|10|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|11|116.107.113.176|10089|Vietnam|Hanoi|Viettel Corporation|
-|12|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|13|67.43.236.20|6095|Canada|Montreal|GloboTech Communications|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|17|67.43.227.227|27361|Canada|Montreal|GloboTech Communications|
-|18|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|20|72.10.160.93|31369|Canada|Montreal|GloboTech Communications|
+|2|182.18.174.196|80|India|Hyderabad|CtrlS|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|12|182.18.174.196|80|India|Hyderabad|CtrlS|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|131.100.48.233|999|Colombia|Neiva|Fibernet TV SAS|
+|15|67.43.227.230|10237|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|11251|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|1993|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|18211|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
