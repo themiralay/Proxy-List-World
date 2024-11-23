@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.93.130|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|72.10.164.178|6355|Canada|Montreal|GloboTech Communications|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|72.10.160.93|24141|Canada|Montreal|GloboTech Communications|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|67.43.236.18|17753|Canada|Montreal|GloboTech Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|13|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|14|67.43.227.226|23969|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|2401|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|28317|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|26143|Canada|Montreal|GloboTech Communications|
-|18|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|19|72.10.164.178|6355|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|10581|Canada|Montreal|GloboTech Communications|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|7|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|162.249.171.248|4000|United States|New York|PureVoltage Hosting Inc.|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|14|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
+|15|67.43.227.227|32145|Canada|Montreal|GloboTech Communications|
+|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
