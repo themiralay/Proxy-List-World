@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.72.165.7|30118|United States|St Louis|velia.net|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.22.99.235|1111|Indonesia|Magetan|KHALISTAGROUP|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|6|103.25.79.74|32650|Myanmar|Yangon|Global Technology Co|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
-|9|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.10.160.90|1205|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|6309|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|9453|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|16679|Canada|Montreal|GloboTech Communications|
-|14|103.199.117.116|8080|Indonesia|Banyumas|PT Hepra Teknologi Indonesia|
-|15|67.43.236.18|18003|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|6309|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2359|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|7571|Canada|Montreal|GloboTech Communications|
-|19|116.104.128.122|5022|Vietnam|Hanoi|Viettel Corporation|
-|20|67.43.227.227|9453|Canada|Montreal|GloboTech Communications|
+|1|58.187.120.214|8080|Vietnam|Hanoi|FPT Telecom Company|
+|2|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
+|3|45.4.1.208|999|Chile|Santiago|Tlink SPA|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|116.104.131.99|5004|Vietnam|Hanoi|Viettel Corporation|
+|6|67.43.227.227|22625|Canada|Montreal|GloboTech Communications|
+|7|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|8|103.124.137.99|8080|Indonesia|Tamanan|Global Media Data Prima|
+|9|67.43.228.251|17235|Canada|Montreal|GloboTech Communications|
+|10|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|11|72.10.164.178|20657|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|72.10.164.178|20657|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|20657|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|13283|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|20657|Canada|Montreal|GloboTech Communications|
+|17|139.84.220.8|3129|India|Bengaluru|The Constant Company, LLC|
+|18|67.43.227.226|8225|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|6309|Canada|Montreal|GloboTech Communications|
+|20|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
