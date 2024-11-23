@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|67.43.227.227|19383|Canada|Montreal|GloboTech Communications|
-|6|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|9|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|10|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|11|139.84.220.107|3129|India|Bengaluru|The Constant Company, LLC|
-|12|213.147.221.253|8424|Russia|Saratov|MTS PJSC|
-|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|139.84.210.242|3129|India|Bengaluru|The Constant Company, LLC|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|148.72.165.7|30118|United States|St Louis|velia.net|
-|19|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|20|72.10.160.93|3445|Canada|Montreal|GloboTech Communications|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|5|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|116.107.93.130|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|9|116.107.92.86|12075|Vietnam|Hải Dương|Viettel Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.227.227|19383|Canada|Montreal|GloboTech Communications|
+|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 
 
 
