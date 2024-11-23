@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|5|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|194.5.248.191|8000|Romania|Bucharest|Zergrush SRL|
-|8|101.255.149.57|8080|Indonesia|Bekasi|PT Remala Abadi|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|148.72.165.7|30118|United States|St Louis|velia.net|
-|16|139.84.217.230|3129|India|Bengaluru|The Constant Company, LLC|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|72.10.160.171|13227|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|11743|Canada|Montreal|GloboTech Communications|
-|20|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|72.10.160.171|5521|Canada|Montreal|GloboTech Communications|
+|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|17|42.119.58.14|10003|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
