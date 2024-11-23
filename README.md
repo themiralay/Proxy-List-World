@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
-|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|117.1.255.129|1002|Vietnam|Hanoi|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|14|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|14373|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
-|17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|16293|Canada|Montreal|GloboTech Communications|
+|2|139.84.156.61|3129|India|Bengaluru|The Constant Company, LLC|
+|3|139.84.158.5|3129|India|Bengaluru|The Constant Company, LLC|
+|4|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
+|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.76.122.178|80|Australia|Sydney|The Constant Company|
+|8|103.101.125.18|28062|China|Beijing|China Telecom (Group)|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|157.66.16.44|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|13|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|34.100.189.30|8561|India|Mumbai|Google LLC|
+|15|139.84.221.196|3129|India|Bengaluru|The Constant Company, LLC|
+|16|148.72.169.225|30119|United States|St Louis|velia.net|
+|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|18|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
+|19|111.199.239.2|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|46.105.190.38|3128|France|Roubaix|OVH ISP|
 
 
 
