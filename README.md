@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|145.40.73.102|443|Singapore|Singapore|Packet Host, Inc.|
-|3|171.6.169.197|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|182.253.233.69|8080|Indonesia|Jakarta|BIZNET|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|2|34.93.155.104|8561|India|Mumbai|Google LLC|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|51.159.75.249|3128|France|Paris|SCALEWAY|
+|6|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|10|34.93.155.104|8561|India|Mumbai|Google LLC|
-|11|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
-|12|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|34.100.189.30|8561|India|Mumbai|Google LLC|
-|16|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|72.10.160.174|29083|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.227.227|18151|Canada|Montreal|GloboTech Communications|
+|9|182.253.233.69|8080|Indonesia|Jakarta|BIZNET|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|34.100.189.30|8561|India|Mumbai|Google LLC|
+|12|221.233.71.150|18666|China|Shizishan|Chinanet|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|72.10.160.92|13045|Canada|Montreal|GloboTech Communications|
+|16|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|157.66.16.44|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
