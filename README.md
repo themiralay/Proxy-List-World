@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.155.212|3129|India|Bengaluru|The Constant Company, LLC|
-|3|139.84.157.205|3129|India|Bengaluru|The Constant Company, LLC|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|171.228.112.83|10089|Vietnam|Hanoi|Viettel Corporation|
-|6|103.125.51.25|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|12|139.84.157.205|3129|India|Bengaluru|The Constant Company, LLC|
-|13|72.10.160.173|13195|Canada|Montreal|GloboTech Communications|
-|14|139.84.221.196|3129|India|Bengaluru|The Constant Company, LLC|
-|15|72.10.160.174|24535|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|29449|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|30555|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|10927|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|31363|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|10927|Canada|Montreal|GloboTech Communications|
+|1|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|139.84.155.212|3129|India|Bengaluru|The Constant Company, LLC|
+|4|116.107.80.157|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|139.84.157.205|3129|India|Bengaluru|The Constant Company, LLC|
+|6|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|7|14.251.2.2|8080|Vietnam|Vĩnh Yên|VNPT|
+|8|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|9|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
+|10|200.125.170.22|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|11|34.93.155.104|8561|India|Mumbai|Google LLC|
+|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|13|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|14|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|15|189.201.153.90|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
+|16|139.84.157.205|3129|India|Bengaluru|The Constant Company, LLC|
+|17|139.84.221.196|3129|India|Bengaluru|The Constant Company, LLC|
+|18|42.119.58.14|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|5.202.29.95|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|20|67.43.227.227|18937|Canada|Montreal|GloboTech Communications|
 
 
 
