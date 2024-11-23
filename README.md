@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.46.185.216|3128|Hong Kong|Mong Kok|OK COMMUNICATION LIMITED|
-|3|116.107.97.30|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|115.77.252.14|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|46.161.196.139|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
-|14|203.150.128.119|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|103.46.185.216|3128|Hong Kong|Mong Kok|OK COMMUNICATION LIMITED|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|203.150.128.119|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|161.49.176.169|10101|Philippines|Pasig|Converge ICT Solution Inc|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|42.119.58.14|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|72.10.160.90|3371|Canada|Montreal|GloboTech Communications|
+|15|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|19|67.43.236.20|16671|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|16677|Canada|Montreal|GloboTech Communications|
 
 
 
