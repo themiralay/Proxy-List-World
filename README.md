@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|192.240.113.138|31288|United States|Miami|e-creativity|
-|3|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|4|192.240.113.138|31288|United States|Miami|e-creativity|
-|5|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|6|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|115.72.42.99|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|103.153.96.99|8181|Indonesia|Serang|NITNET|
-|13|168.205.100.36|8080|Brazil|Petrópolis|C-ComTelecom Servios Ltda-ME|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|46.105.190.38|3128|France|Roubaix|OVH ISP|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
+|3|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|192.121.102.80|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|103.115.198.179|8082|Pakistan|Lahore|AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED|
+|8|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|177.93.37.35|999|Colombia|Tarqui|TV AZTECA SUCURSAL COLOMBIA|
+|12|103.137.111.65|7777|Indonesia|Malang|PT. Capoeng Digital Nusantara|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|202.93.244.194|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|15|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|171.245.120.111|5008|Vietnam|Thái Bình|Viettel Corporation|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
