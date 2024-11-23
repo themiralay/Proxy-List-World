@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|51.159.159.73|80|France|Paris|SCALEWAY|
-|5|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|6|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|177.234.240.124|1993|Ecuador|Azogues|Ufinet Panama S.A.|
-|9|162.249.171.248|4000|United States|New York|PureVoltage Hosting Inc.|
-|10|213.147.221.253|8424|Russia|Saratov|MTS PJSC|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|13|139.84.218.239|3129|India|Bengaluru|The Constant Company, LLC|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|18|72.10.164.178|28391|Canada|Montreal|GloboTech Communications|
-|19|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|42.119.58.14|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|103.195.65.162|8080|Indonesia|Tanjung Barat|Indonesia Network Information Center|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|72.10.164.178|31159|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|67.43.228.253|18891|Canada|Montreal|GloboTech Communications|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|67.43.236.20|30975|Canada|Montreal|GloboTech Communications|
 
 
 
