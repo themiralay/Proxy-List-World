@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.153.96.99|8181|Indonesia|Serang|NITNET|
-|3|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|116.107.84.190|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|117.1.255.129|1002|Vietnam|Hanoi|Viettel Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|203.142.86.249|88|Indonesia|Kebon Jeruk|BIZNET|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|15|67.43.228.254|2197|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|17|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|13|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|14|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|16|72.10.160.173|10541|Canada|Montreal|GloboTech Communications|
+|17|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|67.43.228.254|2197|Canada|Montreal|GloboTech Communications|
 |19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
