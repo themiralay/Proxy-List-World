@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|116.107.86.236|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.137.111.65|7777|Indonesia|Malang|PT. Capoeng Digital Nusantara|
-|8|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|9|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|67.43.236.20|25481|Canada|Montreal|GloboTech Communications|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|72.10.164.178|12161|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|16527|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12161|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|20809|Canada|Montreal|GloboTech Communications|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|116.107.86.236|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|116.107.89.93|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|10|116.107.86.236|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
+|15|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|16|72.10.164.178|26061|Canada|Montreal|GloboTech Communications|
+|17|139.9.6.110|8081|China|Guangzhou|Huawei Cloud Service data center|
+|18|67.43.236.20|29273|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|10749|Canada|Montreal|GloboTech Communications|
+|20|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
 
 
 
