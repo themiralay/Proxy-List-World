@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.156.61|3129|India|Bengaluru|The Constant Company, LLC|
-|3|139.84.158.5|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|121.136.189.231|60001|South Korea|Yongin-si|Korea Telecom|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|45.71.184.197|999|Ecuador|El Guabo|Ufinet Panama S.A.|
-|15|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
-|16|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|17|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
-|18|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|43.246.201.92|9080|Bangladesh|Feni|Asiatel Network Limited|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|13|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|16|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|17|121.227.44.182|8089|China|Nanjing|China Telecom|
+|18|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|19|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|94.131.9.215|4006|France|Paris|Stark Industries Solutions LTD|
 
 
 
