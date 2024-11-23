@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|4|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|192.240.113.138|31288|United States|Miami|e-creativity|
-|6|192.240.113.138|31288|United States|Miami|e-creativity|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|12|187.111.144.102|8080|Brazil|Portão|Caezar Provedor de Internet EIRELI|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|192.240.113.138|31288|United States|Miami|e-creativity|
-|16|72.10.160.90|14537|Canada|Montreal|GloboTech Communications|
-|17|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|3765|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|27227|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|110.78.215.243|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|148.72.165.7|30118|United States|St Louis|velia.net|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|12|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|13|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|17|67.43.227.226|10081|Canada|Montreal|GloboTech Communications|
+|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|19|67.43.228.253|29809|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|10729|Canada|Montreal|GloboTech Communications|
 
 
 
