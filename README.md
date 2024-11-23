@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.161|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.150.128.53|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|116.107.81.61|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|116.107.94.180|12075|Vietnam|Hải Dương|Viettel Corporation|
-|10|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|11|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|12|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|15|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|116.104.134.39|5000|Vietnam|Hanoi|Viettel Corporation|
-|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.107.81.61|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|6|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|190.97.94.226|999|Colombia|Pradera|Empresa de Recursos Tecnologicos S.A E.S.P|
+|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|18|38.159.229.242|999|Ecuador|Vinces|Turbonet S.A.|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|45.117.29.121|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
