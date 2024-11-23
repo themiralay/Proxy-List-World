@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|139.84.221.196|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|6|139.84.155.212|3129|India|Bengaluru|The Constant Company, LLC|
-|7|139.84.157.205|3129|India|Bengaluru|The Constant Company, LLC|
-|8|139.84.221.196|3129|India|Bengaluru|The Constant Company, LLC|
-|9|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|10|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|116.107.85.200|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|18|72.10.160.170|10081|Canada|Montreal|GloboTech Communications|
-|19|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|115.77.252.14|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|34.100.189.30|8561|India|Mumbai|Google LLC|
+|4|116.107.85.200|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|18.135.133.116|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|116.107.85.200|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|72.10.160.170|18867|Canada|Montreal|GloboTech Communications|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|17|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|18|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
+|19|72.10.164.178|16565|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|18867|Canada|Montreal|GloboTech Communications|
 
 
 
