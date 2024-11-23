@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.150.128.73|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|103.106.195.41|32650|India|New Delhi|Elyzium Consulting|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|209.14.118.212|999|Colombia|Bogotá|AGIS|
-|11|72.10.160.90|32569|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|10355|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|32569|Canada|Montreal|GloboTech Communications|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|67.43.227.226|5177|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|5177|Canada|Montreal|GloboTech Communications|
-|17|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|18|67.43.227.227|5161|Canada|Montreal|GloboTech Communications|
-|19|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A.|
-|20|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|116.107.113.176|10092|Vietnam|Hanoi|Viettel Corporation|
+|8|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|9|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|103.40.121.91|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|11|103.106.195.41|32650|India|New Delhi|Elyzium Consulting|
+|12|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|14|160.22.134.27|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
+|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.76.149.198|8082|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|17|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|19|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|20|67.43.236.20|15331|Canada|Montreal|GloboTech Communications|
 
 
 
