@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.187.163.25|10005|Vietnam|Ho Chi Minh City|VNPT|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.172.70.191|8181|Indonesia|Bekasi|AZNET|
-|6|203.150.128.18|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|103.22.99.235|1111|Indonesia|Magetan|KHALISTAGROUP|
-|11|14.187.163.25|10005|Vietnam|Ho Chi Minh City|VNPT|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|101.255.127.34|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|1.32.59.217|47045|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|13|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
 |14|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|15|72.10.160.170|18787|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|18301|Canada|Montreal|GloboTech Communications|
-|17|115.73.111.169|5106|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
-|19|27.189.131.88|8089|China|Shijiazhuang|Chinanet|
-|20|145.40.73.102|10002|Singapore|Singapore|Packet Host, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|42.119.58.14|10011|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|18|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
