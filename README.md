@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|149.86.146.165|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|7|116.107.113.176|10092|Vietnam|Hanoi|Viettel Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
-|12|103.239.254.72|58080|Bangladesh|Bhātāra|Carnival Internet|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.236.20|19433|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.164.178|19501|Canada|Montreal|GloboTech Communications|
-|19|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|20|148.72.168.81|30127|United States|St Louis|velia.net|
+|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
+|3|116.107.113.176|10092|Vietnam|Hanoi|Viettel Corporation|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|10|67.43.228.253|15227|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|2919|Canada|Montreal|GloboTech Communications|
+|12|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|13|116.107.103.79|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|16|72.10.164.178|2919|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2919|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|19|67.43.236.20|29161|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.22|8149|Canada|Montreal|GloboTech Communications|
 
 
 
