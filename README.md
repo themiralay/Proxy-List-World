@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|14.187.163.25|10005|Vietnam|Ho Chi Minh City|VNPT|
-|5|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|67.43.228.253|27521|Canada|Montreal|GloboTech Communications|
-|7|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|8|72.10.160.90|21805|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|2071|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|20613|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|2071|Canada|Montreal|GloboTech Communications|
-|12|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|67.43.236.18|12793|Canada|Montreal|GloboTech Communications|
-|14|139.84.221.48|3129|India|Bengaluru|The Constant Company, LLC|
-|15|190.102.134.102|999|Peru|Lima|WIN EMPRESAS S.A.C|
-|16|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|17|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
-|18|67.43.236.20|3111|Canada|Montreal|GloboTech Communications|
-|19|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
-|20|67.43.227.228|33003|Canada|Montreal|GloboTech Communications|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|6|79.106.108.156|8079|Albania|Tepelenë|ALBTELECOM VI|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|72.10.160.90|5885|Canada|Montreal|GloboTech Communications|
+|9|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|10|67.43.227.227|23143|Canada|Montreal|GloboTech Communications|
+|11|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|12|67.43.228.253|27521|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.252|20671|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|1183|Canada|Montreal|GloboTech Communications|
+|15|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|16|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|17|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|103.179.253.58|1081|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|19|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
