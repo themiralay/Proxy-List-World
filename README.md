@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|7|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|148.72.165.7|30118|United States|St Louis|velia.net|
-|10|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|2.135.237.106|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|13|72.10.164.178|29385|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|27371|Canada|Montreal|GloboTech Communications|
-|15|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|16|45.136.70.251|3128|Denmark|Middelfart|Webdock.io ApS|
-|17|192.240.113.138|31288|United States|Miami|e-creativity|
-|18|72.10.160.93|27371|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|17501|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2959|Canada|Montreal|GloboTech Communications|
+|3|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|148.72.165.7|30118|United States|St Louis|velia.net|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|42.119.58.14|10003|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|143.255.111.112|3128|Brazil|Brasília|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|13|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|116.107.98.229|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|72.10.164.178|15737|Canada|Montreal|GloboTech Communications|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|67.43.227.227|2959|Canada|Montreal|GloboTech Communications|
+|19|192.240.113.138|31288|United States|Miami|e-creativity|
+|20|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
 
 
 
