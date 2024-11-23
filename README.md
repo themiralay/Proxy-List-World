@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|51.159.159.73|80|France|Paris|SCALEWAY|
-|6|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|7|202.154.36.183|1080|Indonesia|Surabaya|RADNET-BDG|
-|8|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|9|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|221.233.71.150|18666|China|Shizishan|Chinanet|
-|13|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|46.105.190.38|3128|France|Roubaix|OVH ISP|
-|17|148.72.165.7|30118|United States|St Louis|velia.net|
-|18|72.10.164.178|2627|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.236.20|2931|Canada|Montreal|GloboTech Communications|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.100.189.30|8561|India|Mumbai|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|178.236.247.252|3128|United States|Los Angeles|FAST|
+|7|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|9|149.14.76.99|8080|Mexico|Fuentes del Valle|Cogent Communications|
+|10|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|72.10.164.178|16565|Canada|Montreal|GloboTech Communications|
+|13|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|14|72.10.160.174|18867|Canada|Montreal|GloboTech Communications|
+|15|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|16|67.43.236.20|2931|Canada|Montreal|GloboTech Communications|
+|17|103.195.142.49|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|18|72.10.160.91|31363|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
+|20|72.10.164.178|16565|Canada|Montreal|GloboTech Communications|
 
 
 
