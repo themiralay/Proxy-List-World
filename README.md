@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|34.100.189.30|8561|India|Mumbai|Google LLC|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|115.77.141.64|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |15|213.136.79.127|8888|Germany|Nuremberg|Contabo GmbH|
-|16|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|18|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|148.72.169.225|30127|United States|St Louis|velia.net|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
 
 
 
