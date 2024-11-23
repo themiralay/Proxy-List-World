@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|4|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|170.238.200.50|999|Chile|Paine|Bitred Group SPA|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|72.10.160.171|28083|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|2825|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|33243|Canada|Montreal|GloboTech Communications|
-|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|67.43.228.253|2825|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|1825|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11857|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|6677|Canada|Montreal|GloboTech Communications|
-|20|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|116.107.91.59|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|23.225.71.36|25928|United States|Dallas|Cnservers LLC|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|67.43.227.226|1825|Canada|Montreal|GloboTech Communications|
+|12|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|16|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|18|67.43.227.226|1825|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|23987|Canada|Montreal|GloboTech Communications|
+|20|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
 
 
 
