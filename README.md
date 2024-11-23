@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Kawasaki|NTT PC Communications, Inc.|
 |3|34.100.189.30|8561|India|Mumbai|Google LLC|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|192.240.113.138|31288|United States|Miami|e-creativity|
-|6|117.247.233.62|8080|India|Jaipur|BSNL Internet|
-|7|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|34.224.25.175|8080|United States|Ashburn|Amazon.com, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|192.240.113.138|31288|United States|Miami|e-creativity|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|67.43.228.253|27689|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|4|34.93.155.104|8561|India|Mumbai|Google LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|171.245.12.108|5002|Vietnam|Haiphong|Viettel Corporation|
+|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.137.111.65|7777|Indonesia|Malang|PT. Capoeng Digital Nusantara|
+|13|116.107.84.190|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|200.215.229.10|999|Peru|Cusco|Gpon Networks S.A.C.|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|20|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
 
 
 
