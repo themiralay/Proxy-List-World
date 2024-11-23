@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|6|36.95.142.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|45.184.124.33|1985|Mexico|Mexico City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|12|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|203.150.128.73|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|188.132.150.164|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|20|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|11|72.10.160.90|16237|Canada|Montreal|GloboTech Communications|
+|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.160.170|1155|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|3963|Canada|Montreal|GloboTech Communications|
+|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|16|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|67.43.227.226|20535|Canada|Montreal|GloboTech Communications|
+|18|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.160.170|1155|Canada|Montreal|GloboTech Communications|
+|20|115.72.43.27|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
