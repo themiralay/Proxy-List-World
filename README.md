@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|119.42.86.38|8080|Thailand|Phuket|CAT-BB|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|116.107.94.118|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|15|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
-|16|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|17|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|18|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|19|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|20|45.189.118.198|999|Peru|Márquez|Fiber Digital S.R.L|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|116.107.94.118|12075|Vietnam|Hải Dương|Viettel Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
+|15|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|16|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
 
 
 
