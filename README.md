@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|43.229.150.57|8080|Thailand|Pak Kret|Readyidc Company Limited|
-|4|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
 |7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|116.107.88.22|12075|Vietnam|Hải Dương|Viettel Corporation|
-|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|11|72.10.160.90|2353|Canada|Montreal|GloboTech Communications|
-|12|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|13|67.43.228.251|14837|Canada|Montreal|GloboTech Communications|
-|14|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|116.169.61.74|8880|China|Chengdu|China Unicom CHINA169 Network|
-|19|72.10.164.178|15371|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|13|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|103.163.134.95|8090|Indonesia|Banyuwangi|PROVITEL|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
