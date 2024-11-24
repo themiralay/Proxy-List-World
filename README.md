@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|5|113.160.210.180|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|67.43.236.20|15555|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|29405|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|22497|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|15555|Canada|Montreal|GloboTech Communications|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|212.252.73.29|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
-|16|67.43.228.253|3947|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|15845|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15845|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15555|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|18333|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|103.163.227.213|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|7|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|67.43.236.20|3551|Canada|Montreal|GloboTech Communications|
+|10|71.42.125.219|4444|United States|Leander|Spectrum|
+|11|71.42.125.219|4444|United States|Leander|Spectrum|
+|12|72.10.164.178|15845|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|15845|Canada|Montreal|GloboTech Communications|
+|14|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|67.43.236.20|3551|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|17|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|18|67.43.236.20|3551|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|28177|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|3947|Canada|Montreal|GloboTech Communications|
 
 
 
