@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|3|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|116.107.88.216|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|67.43.228.253|9041|Canada|Montreal|GloboTech Communications|
-|9|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
-|11|72.10.160.94|24051|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|19397|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|24015|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|15|72.10.160.171|24191|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|10687|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|10687|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
-|19|38.7.20.195|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
-|20|67.43.236.20|19397|Canada|Montreal|GloboTech Communications|
+|2|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.107.88.216|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|5|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.107.95.38|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|9|71.42.125.218|4444|United States|Leander|Spectrum|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|71.42.125.220|4444|United States|Leander|Spectrum|
+|13|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|116.107.88.216|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|67.43.227.227|21543|Canada|Montreal|GloboTech Communications|
+|18|115.72.174.61|10013|Vietnam|Vũng Tàu|VIETELmetro|
+|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|20|162.249.171.248|4006|United States|New York|PureVoltage Hosting Inc.|
 
 
 
