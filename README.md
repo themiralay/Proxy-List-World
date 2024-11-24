@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.86.88|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|116.107.86.88|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|13|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|42.119.58.14|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|154.73.108.206|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|18|67.43.227.226|6447|Canada|Montreal|GloboTech Communications|
-|19|42.119.58.14|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|176.121.1.163|8989|Ukraine|Kryvets|FOP Saiv Igor Stepanovich|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|27.147.134.82|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
 
 
 
