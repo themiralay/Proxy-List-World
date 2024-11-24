@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|182.18.174.196|80|India|Hyderabad|CtrlS|
-|8|116.107.92.187|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|12|103.173.138.171|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|13|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|14|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|72.10.164.178|29367|Canada|Montreal|GloboTech Communications|
-|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.164.178|29367|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|6217|Canada|Montreal|GloboTech Communications|
+|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|182.18.174.196|80|India|Hyderabad|CtrlS|
+|4|116.107.92.187|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|188.125.167.78|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|72.10.164.178|15183|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15183|Canada|Montreal|GloboTech Communications|
+|16|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|17|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
