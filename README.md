@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
 |2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|34.93.155.104|8561|India|Mumbai|Google LLC|
-|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|46.105.190.38|3128|France|Roubaix|OVH ISP|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|183.91.80.194|8089|Indonesia|South Tangerang|PT Aplikanusa Lintasarta|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|115.72.37.98|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|16|103.130.80.50|8080|Indonesia|Tulungagung|PT PRISMA MEDIA NUSANTARA|
-|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.93.155.104|8561|India|Mumbai|Google LLC|
+|10|115.72.37.98|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|177.200.80.6|11221|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
+|18|221.233.71.150|18666|China|Shizishan|Chinanet|
+|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
