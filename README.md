@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|116.107.86.88|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|7|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|103.75.85.100|1111|Indonesia|Central Java|MEGADATA|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|103.172.120.148|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
-|16|181.37.240.89|999|Dominican Republic|Concepción de la Vega|Altice Dominicana S.A.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|23.27.199.115|24106|Malaysia|Kuala Lumpur|Ace Data Centers II|
-|19|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|20|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|116.107.86.88|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|11|37.98.219.183|8123|Poland|Poznan|Polkomtel S.A|
+|12|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|13|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|42.119.58.14|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|16|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|20|116.107.86.88|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
