@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|8|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|9|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
 |10|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|11|67.43.227.228|16657|Canada|Montreal|GloboTech Communications|
-|12|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|13|72.10.160.173|2313|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|25759|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|27669|Canada|Montreal|GloboTech Communications|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|67.43.227.228|17591|Canada|Montreal|GloboTech Communications|
+|13|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|14|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|15|67.43.227.226|16667|Canada|Montreal|GloboTech Communications|
 |16|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|17|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|18|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|19|67.43.227.226|17327|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|16843|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|16667|Canada|Montreal|GloboTech Communications|
+|18|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|19|157.66.84.32|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|20|101.101.217.36|80|South Korea|Seongnam-si|NBP|
 
 
 
