@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|8|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|14|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|15|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|16|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|182.252.70.220|8082|Bangladesh|Gazipur|Agni Systems Limited|
-|20|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|116.107.94.118|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|13|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|20|116.107.90.242|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
