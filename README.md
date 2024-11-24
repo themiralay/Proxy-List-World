@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|187.1.57.222|8080|Brazil|Belo Horizonte|Companhia Itabirana Telecomunicações Ltda|
-|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|67.43.228.253|11255|Canada|Montreal|GloboTech Communications|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|187.1.57.222|8080|Brazil|Belo Horizonte|Companhia Itabirana Telecomunicações Ltda|
 |11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|14|27.189.134.226|8089|China|Langfang|Chinanet|
-|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|16|72.10.160.170|32851|Canada|Montreal|GloboTech Communications|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|72.10.164.178|3187|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|12|67.43.228.253|11255|Canada|Montreal|GloboTech Communications|
+|13|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|14|210.87.119.144|3127|Indonesia|Pandaan|PT. Lintas Digital Raka|
+|15|72.10.164.178|5989|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|29069|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|4617|Canada|Montreal|GloboTech Communications|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|72.10.164.178|5989|Canada|Montreal|GloboTech Communications|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
