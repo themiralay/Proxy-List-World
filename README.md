@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|119.42.86.38|8080|Thailand|Phuket|CAT-BB|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|116.107.94.118|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|7|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|8|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|9|119.42.86.38|8080|Thailand|Phuket|CAT-BB|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
 |12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|44.226.29.99|1080|United States|Portland|Amazon.com, Inc.|
-|16|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|19|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|20|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|13|51.79.99.237|9950|France|Roubaix|OVH SAS|
+|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|17|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|18|162.249.171.248|4006|United States|New York|PureVoltage Hosting Inc.|
+|19|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|14.187.175.27|10006|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
