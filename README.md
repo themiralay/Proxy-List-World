@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|2|42.119.58.14|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|51.159.159.73|80|France|Paris|SCALEWAY|
-|6|45.136.70.251|3128|Denmark|Nørre Åby|Webdock.io ApS|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|3|203.128.75.196|8080|Indonesia|Jakarta|Neuviz|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|6|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
 |7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
-|9|51.159.75.249|3128|France|Paris|SCALEWAY|
-|10|67.43.227.227|30335|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|22321|Canada|Montreal|GloboTech Communications|
-|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|14|116.107.95.210|12075|Vietnam|Hải Dương|Viettel Corporation|
-|15|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|27.189.129.90|8089|China|Langfang|Chinanet|
-|17|72.10.160.90|2315|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4725|Canada|Montreal|GloboTech Communications|
-|19|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|67.43.227.227|8017|Canada|Montreal|GloboTech Communications|
+|10|116.104.131.240|5020|Vietnam|Hanoi|Viettel Corporation|
+|11|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|12|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|72.10.160.90|21231|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|8017|Canada|Montreal|GloboTech Communications|
+|15|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|16|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|116.169.61.74|8880|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
