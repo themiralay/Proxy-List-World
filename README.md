@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|210.87.119.144|3127|Indonesia|Pandaan|PT. Lintas Digital Raka|
-|5|116.107.88.216|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|72.10.160.172|30597|Canada|Montreal|GloboTech Communications|
-|8|182.18.174.196|80|India|Hyderabad|CtrlS|
-|9|67.43.227.230|10589|Canada|Montreal|GloboTech Communications|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|67.43.227.227|31281|Canada|Montreal|GloboTech Communications|
-|12|27.147.185.219|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|67.43.228.250|31703|Canada|Montreal|GloboTech Communications|
-|14|115.72.37.98|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|72.10.160.90|12637|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|29235|Canada|Montreal|GloboTech Communications|
-|17|148.72.169.225|30127|United States|St Louis|velia.net|
-|18|67.43.228.250|31703|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12637|Canada|Montreal|GloboTech Communications|
-|20|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|116.107.88.216|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|12|67.43.227.227|4265|Canada|Montreal|GloboTech Communications|
+|13|200.125.170.21|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|14.243.44.149|7001|Vietnam|Da Nang|VNPT|
+|16|115.72.37.98|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|67.43.228.250|22353|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|15219|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|12431|Canada|Montreal|GloboTech Communications|
 
 
 
