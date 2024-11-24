@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|5|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|14.187.175.27|10006|Vietnam|Ho Chi Minh City|VNPT|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|10|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|15|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
-|16|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|72.10.160.90|1541|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19963|Canada|Montreal|GloboTech Communications|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|119.42.86.38|8080|Thailand|Phuket|CAT-BB|
+|12|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
+|13|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|14|177.234.227.147|999|Ecuador|Pasaje|Ufinet Panama S.A.|
+|15|103.76.149.198|8082|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|182.253.115.131|8080|Indonesia|Salatiga|BIZNET|
+|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
 
 
 
