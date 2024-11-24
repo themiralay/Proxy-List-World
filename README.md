@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|134.236.16.99|8080|Thailand|Bang Lamung|CAT-BB|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
 |3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|72.10.160.90|31281|Canada|Montreal|GloboTech Communications|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|67.43.236.20|10353|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|28317|Canada|Montreal|GloboTech Communications|
-|8|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|9|72.10.164.178|28317|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|25763|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|31529|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.252|2887|Canada|Montreal|GloboTech Communications|
-|13|110.77.241.197|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|14|72.10.160.174|12501|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|10461|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
-|17|67.43.236.22|19983|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|6385|Canada|Montreal|GloboTech Communications|
+|4|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|5|115.72.174.61|10007|Vietnam|Vũng Tàu|VIETELmetro|
+|6|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|7|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|8|72.10.164.178|28317|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|18081|Canada|Montreal|GloboTech Communications|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|115.72.174.61|10007|Vietnam|Vũng Tàu|VIETELmetro|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|115.72.174.61|10007|Vietnam|Vũng Tàu|VIETELmetro|
+|18|72.10.160.170|30379|Canada|Montreal|GloboTech Communications|
 |19|67.43.236.19|31529|Canada|Montreal|GloboTech Communications|
-|20|221.122.91.36|10060|China|Beijing|IDC, China Telecommunications Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
