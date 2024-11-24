@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|103.39.51.156|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|7|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.100.189.30|8561|India|Mumbai|Google LLC|
 |8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|78.188.227.57|3310|Türkiye|Ankara|TurkTelecom|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|148.72.168.81|30127|United States|St Louis|velia.net|
-|16|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|11|148.72.169.225|30119|United States|St Louis|velia.net|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.41.34.185|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|16|148.72.169.225|30119|United States|St Louis|velia.net|
+|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|20|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
 
 
 
