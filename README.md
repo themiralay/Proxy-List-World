@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.107.99.237|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|10|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|203.150.113.70|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.99.237|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|162.249.171.248|4000|United States|New York|PureVoltage Hosting Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
