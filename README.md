@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|5|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|6|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|7|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|8|67.43.236.20|17361|Canada|Montreal|GloboTech Communications|
-|9|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|10|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|11|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|13|67.43.228.250|11419|Canada|Montreal|GloboTech Communications|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|160.19.89.247|8080|Indonesia|Jakarta|PT Galaxy Network Mediatama|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|103.189.249.196|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|7|116.107.90.26|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.160.90|5631|Canada|Montreal|GloboTech Communications|
+|13|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|14|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|15|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|51.159.75.249|3128|France|Paris|SCALEWAY|
 |17|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 |18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 |19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.227.230|13651|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
