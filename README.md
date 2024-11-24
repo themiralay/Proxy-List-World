@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|116.107.90.26|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|8|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|26555|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|32999|Canada|Montreal|GloboTech Communications|
-|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|13|72.10.160.170|16397|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|10125|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|18561|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|21609|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|67.43.236.20|9191|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|30391|Canada|Montreal|GloboTech Communications|
+|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|116.107.90.26|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|72.10.164.178|9409|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
+|11|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|72.10.160.90|3253|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.236.20|25487|Canada|Montreal|GloboTech Communications|
+|17|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
+|18|72.10.160.170|18149|Canada|Montreal|GloboTech Communications|
+|19|116.107.80.255|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
 
 
 
