@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|5|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|8|115.72.174.61|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|9|115.72.174.61|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|10|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|11|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|12|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|67.43.228.250|28511|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|5331|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|32759|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|72.10.164.178|5331|Canada|Montreal|GloboTech Communications|
-|19|134.236.16.99|8080|Thailand|Bang Lamung|CAT-BB|
-|20|103.173.139.88|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|115.72.174.61|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|7|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|10|72.10.164.178|11181|Canada|Montreal|GloboTech Communications|
+|11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|12|71.42.125.218|4444|United States|Leander|Spectrum|
+|13|71.42.125.220|4444|United States|Leander|Spectrum|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.173.139.88|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|16|72.10.164.178|11181|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|4555|Canada|Montreal|GloboTech Communications|
+|18|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|148.72.165.7|30127|United States|St Louis|velia.net|
 
 
 
