@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.107.91.112|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|6|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|7|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|17|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.236.20|19431|Canada|Montreal|GloboTech Communications|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|72.10.164.178|21711|Canada|Montreal|GloboTech Communications|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.91.112|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
+|9|27.131.250.210|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|148.72.169.225|30127|United States|St Louis|velia.net|
+|12|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|34.1.134.173|3128|Singapore|Singapore|Google LLC|
+|15|47.88.85.102|443|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|67.43.236.20|20787|Canada|Montreal|GloboTech Communications|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|72.10.164.178|14619|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|9163|Canada|Montreal|GloboTech Communications|
 
 
 
