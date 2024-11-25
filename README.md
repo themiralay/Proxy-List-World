@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|3|116.107.88.129|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|7|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|190.95.202.210|999|Ecuador|Quito|Telconet S.A|
-|14|116.107.88.129|12075|Vietnam|Hải Dương|Viettel Corporation|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|19|72.10.164.178|9299|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9299|Canada|Montreal|GloboTech Communications|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
+|4|125.26.226.66|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|5|42.119.58.14|10001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|116.107.88.129|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|1.4.151.238|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|178.236.247.252|3128|United States|Los Angeles|FAST|
+|17|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
 
 
 
