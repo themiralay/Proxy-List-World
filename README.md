@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|10|139.84.155.212|3129|India|Bengaluru|The Constant Company, LLC|
-|11|114.218.165.25|8089|China|Guangzhou|China Telecom|
-|12|67.43.227.226|8747|Canada|Montreal|GloboTech Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|114.218.77.230|8089|China|Nanjing|China Telecom|
-|15|162.249.171.248|4000|United States|New York|PureVoltage Hosting Inc.|
-|16|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|17|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|19|67.43.227.229|13059|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|15427|Canada|Montreal|GloboTech Communications|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|115.72.174.77|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|139.84.155.212|3129|India|Bengaluru|The Constant Company, LLC|
+|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
