@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|17|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|116.107.107.166|12075|Vietnam|Hải Dương|Viettel Corporation|
-|20|67.43.227.226|11917|Canada|Montreal|GloboTech Communications|
+|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|34.1.134.173|3128|Singapore|Singapore|Google LLC|
+|14|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|116.107.107.166|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|72.10.160.171|1463|Canada|Montreal|GloboTech Communications|
+|18|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|72.10.160.171|1463|Canada|Montreal|GloboTech Communications|
 
 
 
