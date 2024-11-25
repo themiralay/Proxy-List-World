@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|1.20.169.41|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|13|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|45.117.28.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.82.103|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|203.150.128.187|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|221.122.91.36|11700|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
