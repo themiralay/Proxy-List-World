@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.208.103|3129|India|Bengaluru|The Constant Company, LLC|
-|6|116.107.80.24|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
-|8|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
-|9|139.84.208.103|3129|India|Bengaluru|The Constant Company, LLC|
-|10|116.107.95.166|12075|Vietnam|Hải Dương|Viettel Corporation|
-|11|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
-|15|115.72.44.95|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|17|101.109.54.164|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|1|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.80.24|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
+|6|116.107.95.166|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|182.18.174.196|80|India|Hyderabad|CtrlS|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|139.84.213.158|3129|India|Bengaluru|The Constant Company, LLC|
+|10|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|139.84.208.103|3129|India|Bengaluru|The Constant Company, LLC|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|139.84.208.185|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.208.103|3129|India|Bengaluru|The Constant Company, LLC|
+|16|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|17|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
