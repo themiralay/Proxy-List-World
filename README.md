@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
 |6|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|158.222.90.12|4481|United States|Fosston|Northwest Minnesota Special Access, LLC|
-|10|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|11|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|158.222.90.12|4481|United States|Fosston|Northwest Minnesota Special Access, LLC|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|16|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
+|20|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
