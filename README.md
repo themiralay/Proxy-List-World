@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|2|116.107.92.208|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|116.107.91.112|12075|Vietnam|Hải Dương|Viettel Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.184.251.249|3128|United States|Council Bluffs|Google LLC|
+|3|1.4.251.212|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|35.184.251.249|3128|United States|Council Bluffs|Google LLC|
-|6|61.129.2.212|8080|China|Beijing|CHINANET|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|72.10.160.90|25285|Canada|Montreal|GloboTech Communications|
-|11|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|12|72.10.160.174|2281|Canada|Montreal|GloboTech Communications|
-|13|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|14|67.43.227.228|19681|Canada|Montreal|GloboTech Communications|
-|15|35.184.251.249|3128|United States|Council Bluffs|Google LLC|
-|16|67.43.227.228|19681|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19019|Canada|Montreal|GloboTech Communications|
-|18|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|19|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|19|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
