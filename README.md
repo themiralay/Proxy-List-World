@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.76.203.156|30109|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|116.107.89.143|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|46.246.86.18|3128|Sweden|Stockholm|Portlane Network|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
-|12|221.122.91.36|12161|China|Beijing|IDC, China Telecommunications Corporation|
-|13|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|147.45.73.208|53874|Sweden|Stockholm|Aeza International LTD|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|67.43.236.19|9023|Canada|Montreal|GloboTech Communications|
-|18|145.40.73.102|10002|Singapore|Singapore|Packet Host, Inc.|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|67.43.227.228|22699|Canada|Montreal|GloboTech Communications|
+|12|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|13|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|145.40.73.109|9400|Singapore|Singapore|Packet Host, Inc.|
 
 
 
