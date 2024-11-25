@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|5|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|67.43.227.227|1661|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|3705|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.254|3769|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3705|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|24009|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|17035|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|15407|Canada|Montreal|GloboTech Communications|
-|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|3705|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|1661|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|24009|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|17057|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|115.236.144.234|3128|China|Hangzhou|Chinanet|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|19|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
+|20|1.20.143.171|3128|Thailand|Samut Sakhon|TOT Public Company Limited|
 
 
 
