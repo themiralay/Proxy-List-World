@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
 |2|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
-|3|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|85.192.40.117|28011|The Netherlands|Amsterdam|Aeza International LTD|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|190.8.164.71|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|12|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|67.43.227.226|9691|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|10651|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11317|Canada|Montreal|GloboTech Communications|
-|19|85.192.40.117|28011|The Netherlands|Amsterdam|Aeza International LTD|
-|20|72.10.160.172|26135|Canada|Montreal|GloboTech Communications|
+|8|34.215.74.117|3128|United States|Portland|Amazon.com, Inc.|
+|9|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|67.43.236.21|13497|Canada|Montreal|GloboTech Communications|
+|17|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|18|85.192.40.117|28011|The Netherlands|Amsterdam|Aeza International LTD|
+|19|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
