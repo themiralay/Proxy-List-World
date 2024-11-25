@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|116.107.95.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|116.107.91.112|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|148.72.169.225|30127|United States|St Louis|velia.net|
+|5|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|10|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|9|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|147.28.155.20|10013|United States|Dallas|Packet Host, Inc.|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|72.10.160.171|8215|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17715|Canada|Montreal|GloboTech Communications|
+|15|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|16|67.43.236.21|30907|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|5463|Canada|Montreal|GloboTech Communications|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|20|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
