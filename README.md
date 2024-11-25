@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|79.137.194.74|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|41.254.48.66|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|11|81.223.55.43|8080|Austria|Vienna|T-Mobile Austria GmbH|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|38.159.232.141|999|United States|Miami|Lightwave S.R.L|
-|19|116.107.91.51|12075|Vietnam|Hải Dương|Viettel Corporation|
-|20|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|85.30.215.48|32946|Russia|Moscow|National Cable Networks|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|11|162.249.171.248|4006|United States|New York|PureVoltage Hosting Inc.|
+|12|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
+|20|116.107.91.51|12075|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
