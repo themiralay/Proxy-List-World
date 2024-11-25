@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|8|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
+|9|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|10|103.156.15.253|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
 |11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|12|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|34.1.134.173|3128|Singapore|Singapore|Google LLC|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|72.10.164.178|3431|Canada|Montreal|GloboTech Communications|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|67.43.228.253|28111|Canada|Montreal|GloboTech Communications|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|72.10.160.173|25197|Canada|Montreal|GloboTech Communications|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|72.10.164.178|12189|Canada|Montreal|GloboTech Communications|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
