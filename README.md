@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|49.49.73.252|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|19|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|20|14.22.73.251|3128|China|Guangzhou|China Telecom|
+|2|49.49.73.252|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|103.243.177.90|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
+|14|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|15|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|16|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|19|67.43.236.20|8487|Canada|Montreal|GloboTech Communications|
+|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
