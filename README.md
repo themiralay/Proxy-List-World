@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
-|4|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|67.43.228.253|29053|Canada|Montreal|GloboTech Communications|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|67.43.227.228|4567|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|8597|Canada|Montreal|GloboTech Communications|
-|12|79.137.194.74|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|13|72.10.160.90|8597|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|29053|Canada|Montreal|GloboTech Communications|
-|15|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|16|67.43.236.22|14937|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7407|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|6857|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|20|67.43.236.18|1685|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
+|7|45.33.60.212|8080|United States|Fremont|Akamai Technologies, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|71.42.125.219|4444|United States|Leander|Spectrum|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|15|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|67.43.227.228|30555|Canada|Montreal|GloboTech Communications|
+|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|72.10.160.90|8597|Canada|Montreal|GloboTech Communications|
 
 
 
