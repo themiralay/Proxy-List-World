@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
+|5|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|15.206.25.41|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
-|15|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|10|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
 |16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|103.153.62.245|8181|Indonesia|Weleri|IMEDIANET|
+|18|67.43.227.228|20039|Canada|Montreal|GloboTech Communications|
+|19|35.238.20.134|3128|United States|Council Bluffs|Google LLC|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
