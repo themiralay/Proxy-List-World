@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|112.144.76.219|8888|South Korea|Gongju|LG POWERCOMM|
-|3|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|116.107.94.78|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.94.78|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|112.144.76.219|8888|South Korea|Gongju|LG POWERCOMM|
+|6|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |10|83.229.120.180|8080|Hong Kong|Hong Kong|L-L-IX|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|15|162.249.171.248|4011|United States|New York|PureVoltage Hosting Inc.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|18|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|11075|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|72.10.160.90|16333|Canada|Montreal|GloboTech Communications|
+|17|195.146.151.105|8085|Slovakia|Spišská Nová Ves|Slovak Telecom, a. s.|
+|18|116.107.94.78|12075|Vietnam|Hải Dương|Viettel Corporation|
+|19|112.144.76.219|8888|South Korea|Gongju|LG POWERCOMM|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
