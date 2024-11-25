@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.19.89.247|8080|Indonesia|Jakarta|PT Galaxy Network Mediatama|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|116.107.95.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.160.90|27689|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|103.151.247.235|7777|Indonesia|Bogor|MANAKARRANET|
+|16|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
