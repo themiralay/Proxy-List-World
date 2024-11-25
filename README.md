@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|2|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.231.239.6|58080|Bangladesh|Dhaka|Carnival Internet|
-|8|121.227.179.166|8089|China|Nanjing|China Telecom|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|59.89.148.104|8080|India|Jaipur|Bharat Sanchar Nigam Ltd|
-|11|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|12|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|13|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
-|14|121.227.179.129|8089|China|Nanjing|China Telecom|
-|15|67.43.228.251|24575|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|27725|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14617|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|4201|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|24575|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|22563|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|4|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|124.104.145.185|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|10|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|11|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|12|72.10.164.178|11871|Canada|Montreal|GloboTech Communications|
+|13|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|14|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|15|103.234.31.0|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|16|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|17|116.147.36.191|8888|China|Wuxi|China Unicom CHINA169 Network|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|67.43.227.226|4201|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11871|Canada|Montreal|GloboTech Communications|
 
 
 
