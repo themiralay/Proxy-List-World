@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|6|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|148.72.169.225|30127|United States|St Louis|velia.net|
+|8|148.72.169.225|30127|United States|St Louis|velia.net|
+|9|116.107.91.112|12075|Vietnam|Hải Dương|Viettel Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|177.234.210.7|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.20|20661|Canada|Montreal|GloboTech Communications|
-|16|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|17|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|18|61.160.247.69|9999|China|Nanjing|China Telecom|
-|19|221.122.91.36|33333|China|Beijing|IDC, China Telecommunications Corporation|
-|20|72.10.160.90|12269|Canada|Montreal|GloboTech Communications|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|67.43.236.20|1371|Canada|Montreal|GloboTech Communications|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|72.10.160.171|3237|Canada|Montreal|GloboTech Communications|
+|20|34.1.134.173|3128|Singapore|Singapore|Google LLC|
 
 
 
