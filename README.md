@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
-|2|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|1.20.169.41|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|8|116.107.80.249|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|11|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|12|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
-|13|67.43.236.20|22845|Canada|Montreal|GloboTech Communications|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|67.43.228.253|32947|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|32947|Canada|Montreal|GloboTech Communications|
-|17|182.18.174.196|80|India|Hyderabad|CtrlS|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|1.2.176.234|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|210.87.119.144|3127|Indonesia|Pandaan|PT. Lintas Digital Raka|
+|14|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|116.107.80.249|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
