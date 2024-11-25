@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|8|35.154.78.253|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|19|67.43.228.250|13937|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|2811|Canada|Montreal|GloboTech Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|147.75.34.103|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.160.91|8167|Canada|Montreal|GloboTech Communications|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|14.243.44.149|7001|Vietnam|Da Nang|VNPT|
+|15|160.20.165.230|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
