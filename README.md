@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
 |3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|193.37.215.17|24258|Bulgaria|Sofia|Belcloud LTD|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|38.45.44.94|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
+|4|116.107.102.120|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|1.20.169.225|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|9|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|10|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|115.72.6.111|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 |16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 |17|72.10.164.178|14389|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|13931|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|18|72.10.160.90|32681|Canada|Montreal|GloboTech Communications|
+|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
 |20|72.10.164.178|14389|Canada|Montreal|GloboTech Communications|
 
 
