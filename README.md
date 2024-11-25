@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|10|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|11|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|12|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|13|67.43.227.228|11481|Canada|Montreal|GloboTech Communications|
-|14|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|15|72.10.160.90|29503|Canada|Montreal|GloboTech Communications|
-|16|148.72.168.81|30109|United States|St Louis|velia.net|
-|17|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|18|67.43.227.229|4061|Canada|Montreal|GloboTech Communications|
-|19|221.122.91.36|10251|China|Beijing|IDC, China Telecommunications Corporation|
-|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|2|209.97.173.185|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|45.92.38.197|80|Sweden|Stockholm|LogicForge Limited|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|82.18.249.208|8118|United Kingdom|Southampton|Virgin Media Limited|
+|9|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|10|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|11|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|12|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|13|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|14|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|67.43.227.228|11481|Canada|Montreal|GloboTech Communications|
+|16|36.64.5.74|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|17|221.122.91.36|11195|China|Beijing|IDC, China Telecommunications Corporation|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|185.72.40.30|8080|Italy|Lucoli|Horizon Telecom SPA|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
