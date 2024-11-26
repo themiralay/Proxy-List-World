@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
-|6|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|13|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.169.61.74|8880|China|Chengdu|China Unicom CHINA169 Network|
-|16|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|181.23.238.200|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|19|139.84.148.67|3129|India|Bengaluru|The Constant Company, LLC|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
+|6|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
+|8|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|148.72.168.81|30127|United States|St Louis|velia.net|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|148.72.168.81|30127|United States|St Louis|velia.net|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
 |20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
