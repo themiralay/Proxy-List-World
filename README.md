@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|176.119.19.15|8080|Russia|Abakan|Alfatel Ltd|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|67.43.228.254|19505|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|27585|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|7965|Canada|Montreal|GloboTech Communications|
-|14|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
-|15|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|16|72.10.160.90|21721|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|27585|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10087|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|27585|Canada|Montreal|GloboTech Communications|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|116.107.92.201|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|185.56.171.98|8080|Italy|Venafro|Armada WAN2|
+|9|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|10|116.107.108.8|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|221.122.91.36|10338|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
