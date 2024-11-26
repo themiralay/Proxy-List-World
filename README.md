@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|139.84.209.211|3129|India|Bengaluru|The Constant Company, LLC|
-|6|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|7|67.43.236.20|3179|Canada|Montreal|GloboTech Communications|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|72.10.160.93|7891|Canada|Montreal|GloboTech Communications|
-|12|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
-|13|121.227.178.86|8089|China|Nanjing|China Telecom|
-|14|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|72.10.164.178|1187|Canada|Montreal|GloboTech Communications|
-|18|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
-|19|67.43.227.228|4701|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1187|Canada|Montreal|GloboTech Communications|
+|2|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|3|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|2.50.143.103|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|116.107.92.201|12075|Vietnam|Hải Dương|Viettel Corporation|
+|7|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|8|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|139.84.209.211|3129|India|Bengaluru|The Constant Company, LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
+|14|67.43.236.20|3179|Canada|Montreal|GloboTech Communications|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|107.175.82.150|8080|United States|Seattle|BrainStorm Network Inc|
+|19|194.87.49.253|3128|The Netherlands|Amsterdam|TimeWeb Ltd|
+|20|67.43.227.228|4701|Canada|Montreal|GloboTech Communications|
 
 
 
