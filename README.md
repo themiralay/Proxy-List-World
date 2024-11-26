@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
-|3|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|143.208.84.2|8589|Brazil|Ubiratã|V. GRAZIOLI & CIA. LTDA. - ME|
-|9|49.48.150.196|8081|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|10|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|11|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
-|12|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
+|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|36.64.192.183|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|121.161.79.134|3128|South Korea|Goyang-si|Korea Telecom|
+|6|171.6.76.217|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|7|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|112.78.160.115|8080|Indonesia|Jakarta|Biznet Networks|
+|9|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|12|205.196.80.231|57513|United States|Miami|VOLICO|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|36.64.192.183|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|205.196.80.231|57513|United States|Miami|VOLICO|
-|20|103.110.34.133|8080|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|15|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
+|16|194.87.49.253|3128|The Netherlands|Amsterdam|TimeWeb Ltd|
+|17|156.67.214.197|3128|Singapore|Singapore|HOSTINGER SG|
+|18|148.72.168.81|30119|United States|St Louis|velia.net|
+|19|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
