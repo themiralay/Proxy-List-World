@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
-|3|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|4|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|7|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|177.93.49.203|999|Colombia|Puerto Concordia|TV AZTECA SUCURSAL COLOMBIA|
-|12|116.107.109.147|12003|Vietnam|Hải Dương|Viettel Corporation|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|139.84.217.36|3129|India|Bengaluru|The Constant Company, LLC|
-|18|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.148.46|3129|India|Bengaluru|The Constant Company, LLC|
-|20|139.84.219.21|3129|India|Bengaluru|The Constant Company, LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|4|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
+|5|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|6|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|7|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
+|10|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
+|11|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|12|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|13|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|139.84.223.107|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.217.36|3129|India|Bengaluru|The Constant Company, LLC|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|19|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|20|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
