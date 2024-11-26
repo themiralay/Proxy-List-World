@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
-|2|205.196.80.231|57513|United States|Miami|VOLICO|
-|3|205.196.80.231|57513|United States|Miami|VOLICO|
-|4|112.78.160.115|8080|Indonesia|Jakarta|Biznet Networks|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|9|203.150.113.106|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|13|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
-|20|72.10.160.170|28977|Canada|Montreal|GloboTech Communications|
+|2|112.78.160.115|8080|Indonesia|Jakarta|Biznet Networks|
+|3|203.150.113.106|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|2.51.39.8|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|205.196.80.231|57513|United States|Miami|VOLICO|
+|12|205.196.80.231|57513|United States|Miami|VOLICO|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|103.191.165.196|8181|Indonesia|Subang|PT Sakti Wijaya Network|
+|16|180.211.163.97|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|18|182.44.114.80|8888|China|Jinan|Cloud Computing Corporation|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
