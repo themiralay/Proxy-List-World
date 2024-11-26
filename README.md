@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|160.19.89.247|8080|Indonesia|Jakarta|PT Galaxy Network Mediatama|
-|12|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|13|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|14|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
-|15|92.113.144.119|8080|Denmark|Nørre Åby|Webdock.io ApS|
-|16|116.107.86.48|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|19|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
-|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|1|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|4|139.84.208.78|3129|India|Bengaluru|The Constant Company, LLC|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|8|139.84.208.78|3129|India|Bengaluru|The Constant Company, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|139.84.208.166|3129|India|Bengaluru|The Constant Company, LLC|
+|14|139.84.209.108|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.209.108|3129|India|Bengaluru|The Constant Company, LLC|
+|16|139.84.208.166|3129|India|Bengaluru|The Constant Company, LLC|
+|17|160.19.89.247|8080|Indonesia|Jakarta|PT Galaxy Network Mediatama|
+|18|139.84.218.36|3129|India|Bengaluru|The Constant Company, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|139.84.214.229|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
