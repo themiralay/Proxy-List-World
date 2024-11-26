@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.7.170.108|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|119.199.139.184|3128|South Korea|Jinju|Korea Telecom|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|61.7.170.108|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.126.173.111|8080|Indonesia|Bandar Lampung|MEGARAP|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|139.84.218.36|3129|India|Bengaluru|The Constant Company, LLC|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.106.76.61|8080|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|61.95.136.163|8080|India|Bengaluru|Bharti Airtel|
-|17|2.50.143.103|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|116.107.85.72|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|139.84.218.36|3129|India|Bengaluru|The Constant Company, LLC|
+|16|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|17|14.237.135.41|8080|Vietnam|Ho Chi Minh City|VNPT|
+|18|168.121.249.37|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|19|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|20|194.87.49.253|3128|The Netherlands|Amsterdam|TimeWeb Ltd|
 
 
 
