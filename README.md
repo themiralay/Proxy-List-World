@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|5|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|119.199.139.184|3128|South Korea|Jinju|Korea Telecom|
-|8|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|9|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|11|200.24.139.161|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|115.72.2.145|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|15|103.76.150.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|72.10.164.178|5075|Canada|Montreal|GloboTech Communications|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|67.43.236.20|9105|Canada|Montreal|GloboTech Communications|
-|20|92.112.178.49|3128|Brazil|São Paulo|Hostinger International Limited|
+|1|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
+|2|203.150.113.106|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|101.108.202.133|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|172.232.112.231|3128|India|Chennai|Akamai Technologies, Inc.|
+|11|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|67.43.236.18|30037|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|15231|Canada|Montreal|GloboTech Communications|
+|15|103.154.90.190|3128|Indonesia|Bogor|MORATELINDONAP|
+|16|72.10.160.94|14965|Canada|Montreal|GloboTech Communications|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|67.43.228.253|31583|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|18007|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|31583|Canada|Montreal|GloboTech Communications|
 
 
 
