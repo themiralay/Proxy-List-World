@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
 |2|205.196.80.231|57513|United States|Miami|VOLICO|
-|3|205.196.80.231|57513|United States|Miami|VOLICO|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|190.111.193.84|8080|Argentina|Buenos Aires|CPS|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|112.78.160.115|8080|Indonesia|Jakarta|Biznet Networks|
-|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|72.10.160.174|8839|Canada|Montreal|GloboTech Communications|
-|13|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|28307|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|1341|Canada|Montreal|GloboTech Communications|
-|17|27.189.128.253|8089|China|Langfang|Chinanet|
-|18|67.43.227.226|15405|Canada|Montreal|GloboTech Communications|
-|19|172.232.124.100|3128|India|Chennai|Akamai Technologies, Inc.|
-|20|72.10.160.92|26975|Canada|Montreal|GloboTech Communications|
+|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|4|205.196.80.231|57513|United States|Miami|VOLICO|
+|5|116.107.100.32|12003|Vietnam|Hải Dương|Viettel Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|103.172.120.148|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
+|10|112.78.160.115|8080|Indonesia|Jakarta|Biznet Networks|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|2.51.39.8|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|188.132.150.41|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|116.107.100.32|12003|Vietnam|Hải Dương|Viettel Corporation|
+|17|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
+|18|148.72.165.7|30118|United States|St Louis|velia.net|
+|19|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
