@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|4|116.107.87.242|12075|Vietnam|Hải Dương|Viettel Corporation|
+|1|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|2.50.143.103|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|223.204.83.166|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|15|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|17|103.106.76.61|8080|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|18|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|19|51.158.148.158|3128|France|Paris|Online S.A.S.|
-|20|103.228.243.219|8080|Indonesia|Jakarta|SpaceX Starlink|
+|9|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|10|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|180.242.151.67|8080|Indonesia|Depok|PT. TELKOM INDONESIA|
+|12|103.170.131.234|8080|Thailand|Taling Chan|Triple T Broadband Public Company Limited|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|103.156.161.193|8080|Indonesia|Bekasi|MYREPUBLIC|
+|15|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|16|116.107.87.242|12075|Vietnam|Hải Dương|Viettel Corporation|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|221.122.91.36|11273|China|Beijing|IDC, China Telecommunications Corporation|
+|19|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
