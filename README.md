@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|5.202.29.95|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|8|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|103.197.207.20|8080|Bangladesh|Dhaka|Cosmopolitan Communications Limited Khan Sons Center 37|
-|10|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|164.90.212.58|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|17|72.10.160.170|16647|Canada|Montreal|GloboTech Communications|
-|18|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
-|19|67.43.236.20|26261|Canada|Montreal|GloboTech Communications|
-|20|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|42.119.58.14|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|72.10.160.170|18881|Canada|Montreal|GloboTech Communications|
+|13|116.107.87.33|12075|Vietnam|Hải Dương|Viettel Corporation|
+|14|72.10.160.93|25889|Canada|Montreal|GloboTech Communications|
+|15|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
+|16|67.43.228.253|20561|Canada|Montreal|GloboTech Communications|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|67.43.227.226|15119|Canada|Montreal|GloboTech Communications|
+|19|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|20|194.163.153.9|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
