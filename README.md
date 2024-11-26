@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.111.230|12003|Vietnam|Hải Dương|Viettel Corporation|
-|2|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
-|3|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
-|4|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|5|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|6|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
-|7|148.72.169.225|30127|United States|St Louis|velia.net|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|2.51.39.8|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|148.72.169.225|30127|United States|St Louis|velia.net|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|188.217.172.253|8080|Italy|Naples|VODAFONE|
-|14|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
-|17|181.78.75.82|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|103.164.214.122|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|156.67.216.241|3128|Singapore|Singapore|HOSTINGER SG|
+|3|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.106.112.166|1234|Indonesia|Bandar Lampung|SMSNET|
+|8|205.196.80.231|57513|United States|Miami|VOLICO|
+|9|181.78.75.82|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|10|205.196.80.231|57513|United States|Miami|VOLICO|
+|11|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|103.172.120.148|8989|Indonesia|Semarang|PT Digital Akses Nusantara|
+|14|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|15|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|16|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|182.53.190.24|8080|Thailand|Kamphaeng Phet|TOT Public Company Limited|
+|19|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
 
 
 
