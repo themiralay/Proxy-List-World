@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.100.32|12003|Vietnam|Hải Dương|Viettel Corporation|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|190.43.92.140|999|Peru|Lima|Telefonica Del Peru|
-|6|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
-|7|185.112.83.172|3128|Russia|Moscow|Aeza International LTD|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|203.150.113.106|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
-|15|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|16|116.107.100.32|12003|Vietnam|Hải Dương|Viettel Corporation|
-|17|67.43.228.253|19293|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31121|Canada|Montreal|GloboTech Communications|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|1|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|2|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
+|3|190.43.92.140|999|Peru|Lima|Telefonica Del Peru|
+|4|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|203.150.113.106|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc.|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|12.165.234.254|16096|United States|Walnut Ridge|AT&T Services, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
+|16|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
+|17|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
+|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|19|164.90.212.58|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|72.10.164.178|30551|Canada|Montreal|GloboTech Communications|
 
 
 
