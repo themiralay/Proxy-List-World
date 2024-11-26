@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|121.161.79.134|3128|South Korea|Goyang-si|Korea Telecom|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
 |8|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|116.107.91.175|12003|Vietnam|Hải Dương|Viettel Corporation|
-|12|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|139.84.218.36|3129|India|Bengaluru|The Constant Company, LLC|
-|16|203.190.46.57|3128|Indonesia|Sleman|PT Jaring Lintas Utara|
-|17|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|18|139.84.223.107|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.223.107|3129|India|Bengaluru|The Constant Company, LLC|
-|20|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
+|12|121.161.79.134|3128|South Korea|Goyang-si|Korea Telecom|
+|13|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
+|14|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|16|139.84.216.20|3129|India|Bengaluru|The Constant Company, LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|19|139.84.219.21|3129|India|Bengaluru|The Constant Company, LLC|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
