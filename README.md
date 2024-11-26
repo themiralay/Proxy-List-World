@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.150.113.74|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|51.159.75.249|3128|France|Paris|SCALEWAY|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|45.10.163.160|8080|Germany|Karlsruhe|Contabo GmbH|
-|8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|49.147.105.163|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|17|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|18|72.10.160.173|15957|Canada|Montreal|GloboTech Communications|
-|19|61.160.247.69|9999|China|Nanjing|China Telecom|
-|20|67.43.228.252|8757|Canada|Montreal|GloboTech Communications|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.150.113.74|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|14.228.106.14|8080|Vietnam|Haiphong|VNPT|
+|7|116.107.84.146|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|45.10.163.160|8080|Germany|Karlsruhe|Contabo GmbH|
+|10|5.30.223.183|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|45.178.174.132|3128|Brazil|Vitória do Mearim|Atex NET Telecomunicacoes Ltda|
+|13|51.159.75.249|3128|France|Paris|SCALEWAY|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|1.20.207.70|8080|Thailand|Pattaya|TOT Public Company Limited|
+|20|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
 
 
 
