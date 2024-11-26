@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|172.232.124.100|3128|India|Chennai|Akamai Technologies, Inc.|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|175.207.13.144|3128|South Korea|Seocho-gu|Korea Telecom|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|185.112.83.172|3128|Russia|Moscow|Aeza International LTD|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|115.77.205.183|8080|Vietnam|Châu Đốc|Viettel Group|
+|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
