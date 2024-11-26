@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
 |3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|116.107.91.175|12003|Vietnam|Hải Dương|Viettel Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
+|7|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
 |8|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|9|116.107.81.140|12075|Vietnam|Hải Dương|Viettel Corporation|
+|9|139.84.223.77|3129|India|Bengaluru|The Constant Company, LLC|
 |10|116.107.100.32|12075|Vietnam|Hải Dương|Viettel Corporation|
-|11|160.238.36.196|3128|United States|Phoenix|HOSTINGER US|
-|12|139.84.223.67|3129|India|Bengaluru|The Constant Company, LLC|
-|13|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|139.84.223.67|3129|India|Bengaluru|The Constant Company, LLC|
-|15|139.84.217.36|3129|India|Bengaluru|The Constant Company, LLC|
-|16|139.84.216.20|3129|India|Bengaluru|The Constant Company, LLC|
-|17|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
-|18|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|139.84.217.36|3129|India|Bengaluru|The Constant Company, LLC|
+|14|139.84.216.20|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|116.107.81.140|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|139.84.208.78|3129|India|Bengaluru|The Constant Company, LLC|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
 
 
 
