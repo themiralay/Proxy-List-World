@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.152.181.93|3128|South Korea|Jinju|Korea Telecom|
-|2|34.1.134.173|3128|Singapore|Singapore|Google LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|14.228.106.14|8080|Vietnam|Haiphong|VNPT|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|36.72.253.83|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.150.113.74|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|45.10.163.160|8080|Germany|Karlsruhe|Contabo GmbH|
 |8|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|13|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|103.122.1.176|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
-|16|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|103.125.48.178|8080|Indonesia|Semarang|PT. Eka Mas Republik|
-|19|175.207.13.144|3128|South Korea|Seocho-gu|Korea Telecom|
-|20|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|9|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|182.253.66.122|8080|Indonesia|Jakarta Pusat|BIZNET|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|101.101.217.36|80|South Korea|Seongnam-si|NBP|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
