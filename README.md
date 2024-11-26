@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|4|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|83.54.172.99|3128|Spain|León|Telefonica de Espana SAU|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|3|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|219.85.177.249|8080|Taiwan|Taipei|Sony Network Taiwan Limited|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|64.92.82.62|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |11|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|44.227.181.1|80|United States|Portland|Amazon.com, Inc.|
-|14|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|113.160.132.33|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|179.24.198.70|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|16|137.220.64.231|3128|United Kingdom|London|Hyperoptic Ltd.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|147.45.167.71|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|20|67.43.228.253|10669|Canada|Montreal|GloboTech Communications|
 
 
 
