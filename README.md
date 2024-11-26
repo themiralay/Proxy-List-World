@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|150.230.214.66|1080|Japan|Tokyo|Oracle Corporation|
-|3|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|116.107.109.147|12003|Vietnam|Hải Dương|Viettel Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|116.107.92.201|12075|Vietnam|Hải Dương|Viettel Corporation|
-|9|139.84.217.36|3129|India|Bengaluru|The Constant Company, LLC|
-|10|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
-|11|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|12|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
-|13|139.84.219.21|3129|India|Bengaluru|The Constant Company, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|177.10.201.171|9812|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|17|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|139.84.208.166|3129|India|Bengaluru|The Constant Company, LLC|
-|19|147.45.167.71|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|20|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|2|43.153.237.252|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|36.72.240.59|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|139.84.213.244|3129|India|Bengaluru|The Constant Company, LLC|
+|11|139.84.208.10|3129|India|Bengaluru|The Constant Company, LLC|
+|12|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|13|139.84.214.107|3129|India|Bengaluru|The Constant Company, LLC|
+|14|116.107.109.147|12003|Vietnam|Hải Dương|Viettel Corporation|
+|15|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|139.84.222.59|3129|India|Bengaluru|The Constant Company, LLC|
+|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
