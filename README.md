@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.152.181.93|3128|South Korea|Jinju|Korea Telecom|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.107.93.128|12003|Vietnam|Hải Dương|Viettel Corporation|
-|4|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|5|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|223.205.76.27|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|72.10.164.178|16385|Canada|Montreal|GloboTech Communications|
-|15|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|17|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|18|208.115.249.83|3128|United States|Salt Lake City|Limestone Networks, Inc.|
-|19|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|4|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|101.255.166.241|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|43.201.100.123|80|South Korea|Seoul|Amazon.com, Inc.|
+|9|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|10|72.10.164.178|24521|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|13|208.115.249.83|3128|United States|Salt Lake City|Limestone Networks, Inc.|
+|14|72.10.164.178|24521|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|24521|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|24521|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.164.178|24521|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|28693|Canada|Montreal|GloboTech Communications|
 
 
 
