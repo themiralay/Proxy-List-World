@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5418** proxies at the latest update. Usable proxies are below.
+> Scraper found **5237** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|517|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2921|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|176.124.199.114|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|13|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|103.172.71.141|8080|Indonesia|Gemolong|AZNET|
-|16|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|17|148.72.165.103|10501|United States|St Louis|velia.net|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|6|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|148.72.165.178|10501|United States|St Louis|velia.net|
+|11|36.91.220.131|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|41.254.48.190|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|17|103.167.170.34|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|18|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
+|20|72.10.164.178|7399|Canada|Montreal|GloboTech Communications|
 
 
 
