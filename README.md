@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|4|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|103.172.70.107|8080|Indonesia|Gemolong|AZNET|
-|8|112.119.81.217|86|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|13|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|2|112.119.81.217|86|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|3|51.159.159.73|80|France|Paris|SCALEWAY|
+|4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|5|116.108.6.75|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|101.109.253.88|1911|Thailand|Bangkok|TOT Public Company Limited|
+|11|223.205.36.238|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|13|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|14|103.169.255.195|6080|Indonesia|Banyuwangi|PT Master Star Network|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
-|17|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|72.10.160.170|17419|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|17419|Canada|Montreal|GloboTech Communications|
+|16|103.207.99.26|8080|Indonesia|Denpasar|JKSNET|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|140.227.228.202|10101|Japan|Chiyoda|InfoSphere|
 
 
 
