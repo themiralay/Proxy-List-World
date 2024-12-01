@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5241** proxies at the latest update. Usable proxies are below.
+> Scraper found **5275** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|14|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|424|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3313|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|2|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|10|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|11|103.148.44.105|8085|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|3|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|4|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|178.34.190.6|8080|Russia|Temryuk|Miranda-Media Ltd|
+|6|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|11|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
 |12|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|13|148.72.165.171|10501|United States|St Louis|velia.net|
-|14|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
-|15|103.171.182.21|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|16|148.72.165.187|10501|United States|St Louis|velia.net|
-|17|171.245.116.175|10006|Vietnam|Hanoi|Viettel Corporation|
-|18|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
-|19|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
-|20|59.36.211.61|80|China|Shanghai|Chinanet|
+|13|116.104.174.221|10002|Vietnam|Hanoi|Viettel Corporation|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|67.43.227.228|9957|Canada|Montreal|GloboTech Communications|
+|16|59.36.211.61|80|China|Shanghai|Chinanet|
+|17|67.43.228.253|32809|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|32809|Canada|Montreal|GloboTech Communications|
+|19|147.45.153.251|443|Russia|Moscow|TimeWeb Ltd.|
+|20|67.43.227.227|4973|Canada|Montreal|GloboTech Communications|
 
 
 
