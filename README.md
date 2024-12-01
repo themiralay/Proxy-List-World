@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5408** proxies at the latest update. Usable proxies are below.
+> Scraper found **5453** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|412|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3145|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|2|185.56.171.98|8080|Italy|Venafro|Armada WAN2|
-|3|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|4|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|5|192.3.153.65|3128|United States|Buffalo|HostPapa|
-|6|148.72.169.225|10524|United States|St Louis|velia.net|
-|7|192.3.153.65|3128|United States|Buffalo|HostPapa|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
-|10|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|14.187.142.180|10004|Vietnam|Ho Chi Minh City|VNPT|
-|15|67.43.228.251|18575|Canada|Montreal|GloboTech Communications|
-|16|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|17|72.10.160.170|8473|Canada|Montreal|GloboTech Communications|
-|18|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|20|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|7|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
+|8|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|116.107.87.44|12021|Vietnam|Hải Dương|Viettel Corporation|
+|13|103.242.107.226|8098|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|116.107.87.44|12021|Vietnam|Hải Dương|Viettel Corporation|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|18|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|19|67.43.228.254|18051|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|5463|Canada|Montreal|GloboTech Communications|
 
 
 
