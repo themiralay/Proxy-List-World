@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.11|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|4|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|103.147.246.188|8080|Indonesia|Bangkol|PLBNET|
-|7|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|5.202.29.95|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|10|67.43.227.226|5791|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|22613|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|17999|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|16579|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|5791|Canada|Montreal|GloboTech Communications|
-|15|203.190.117.186|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|16|72.10.160.91|17215|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|1235|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|8097|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17999|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17999|Canada|Montreal|GloboTech Communications|
+|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|2|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|10|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
+|11|103.148.44.105|8085|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
+|12|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|13|148.72.165.171|10501|United States|St Louis|velia.net|
+|14|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
+|15|103.171.182.21|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|16|148.72.165.187|10501|United States|St Louis|velia.net|
+|17|171.245.116.175|10006|Vietnam|Hanoi|Viettel Corporation|
+|18|116.107.87.94|12003|Vietnam|Hải Dương|Viettel Corporation|
+|19|67.43.227.227|3195|Canada|Montreal|GloboTech Communications|
+|20|59.36.211.61|80|China|Shanghai|Chinanet|
 
 
 
