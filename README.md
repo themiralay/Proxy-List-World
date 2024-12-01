@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.107.86.211|12003|Vietnam|Hải Dương|Viettel Corporation|
-|3|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
-|7|103.76.108.90|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|10|139.178.66.228|10002|United States|Parsippany|Packet Host, Inc.|
-|11|139.178.66.227|10005|United States|Parsippany|Packet Host, Inc.|
-|12|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|72.10.164.178|6189|Canada|Montreal|GloboTech Communications|
-|15|139.178.66.227|10005|United States|Parsippany|Packet Host, Inc.|
-|16|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|67.43.227.227|19081|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|20075|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|1629|Canada|Montreal|GloboTech Communications|
+|3|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|4|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|9|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|10|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
+|11|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
+|12|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|18|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
