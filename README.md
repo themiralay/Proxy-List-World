@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|4|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|5|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|7|110.78.186.4|8080|Thailand|Bangkok|CAT-BB|
-|8|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
-|9|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|11|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|107.178.11.226|8080|United States|Azle|Nextlink Broadband|
-|13|175.143.192.103|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|14|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
-|15|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|17|72.10.160.170|22325|Canada|Montreal|GloboTech Communications|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|72.10.160.90|23039|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17647|Canada|Montreal|GloboTech Communications|
+|2|208.115.249.83|3128|United States|Salt Lake City|Limestone Networks, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|5|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|11|148.72.165.186|10501|United States|St Louis|velia.net|
+|12|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|13|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
+|14|162.249.171.248|4002|United States|New York|PureVoltage Hosting Inc.|
+|15|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|202.51.215.242|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
+|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|18|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 
 
 
