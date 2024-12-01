@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.89.147|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.107.82.232|12075|Vietnam|Hải Dương|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|103.169.255.133|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|11|148.72.133.75|30104|United States|St Louis|velia.net|
-|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|89.213.44.43|3128|United Kingdom|Solihull|StreamTech Solutions EOOD|
-|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|16|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|38.183.146.159|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|67.43.227.229|28177|Canada|Montreal|GloboTech Communications|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|116.107.89.147|12075|Vietnam|Hải Dương|Viettel Corporation|
+|5|116.107.82.232|12075|Vietnam|Hải Dương|Viettel Corporation|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|8|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|61.160.247.69|9999|China|Nanjing|China Telecom|
+|17|67.43.227.229|28177|Canada|Montreal|GloboTech Communications|
+|18|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|20|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
