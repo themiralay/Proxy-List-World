@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|3|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|4|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
-|5|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|10|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
+|4|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|47.88.85.102|443|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|8|103.153.62.46|8080|Indonesia|Weleri|IMEDIANET|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
 |11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|186.125.218.148|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |17|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|20|80.253.255.138|3128|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
+|18|103.155.65.1|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|19|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
