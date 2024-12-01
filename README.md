@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|2|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|3|34.146.202.240|8561|Japan|Tokyo|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.191.165.196|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|8|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|9|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|10|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|13.208.249.0|80|Japan|Osaka|Amazon Technologies Inc.|
-|17|114.218.167.8|8089|China|Guangzhou|China Telecom|
-|18|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|9|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|10|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|14|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|45.8.21.29|47381|Türkiye|Köseköy|TurkTelekom Kocaeli Korfez|
+|17|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|18|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
 
 
 
