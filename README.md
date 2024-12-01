@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|7|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|10|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|12|177.129.249.90|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
-|13|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|34.29.184.36|443|United States|Council Bluffs|Google LLC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|34.29.184.36|443|United States|Council Bluffs|Google LLC|
-|17|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|20|208.115.249.83|3128|United States|Salt Lake City|Limestone Networks, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|113.192.31.103|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|13|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|14|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
