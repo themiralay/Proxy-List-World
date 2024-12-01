@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|103.162.63.102|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|103.135.2.2|57413|Indonesia|Semarang|PT Maxindo Mitra Solusi|
-|7|188.132.222.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|10|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
-|11|49.146.223.229|8082|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
-|12|170.254.230.201|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|13|146.196.107.30|57413|Indonesia|Senayan|PT Maxindo Mitra Solusi|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|185.56.171.98|8080|Italy|Venafro|Armada WAN2|
-|17|38.45.242.117|999|Mexico|San Diego de la Unión|Wifimax Connection S.a.s De C.V|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|110.77.235.141|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|20|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
+|4|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|8|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|43.247.37.250|57413|Indonesia|Bekasi|Maxindo|
+|10|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|125.27.162.113|8080|Thailand|Hua Hin|TOT Public Company Limited|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|15|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|16|203.190.117.161|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|117.103.68.226|9941|Indonesia|Malang|NARATEL|
 
 
 
