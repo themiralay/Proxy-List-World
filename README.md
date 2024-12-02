@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|6|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|16|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|17|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|6|34.100.189.71|8561|India|Mumbai|Google LLC|
+|7|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|8|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|9|148.72.165.114|10501|United States|St Louis|velia.net|
+|10|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|11|148.72.165.114|10501|United States|St Louis|velia.net|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|17|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|18|75.128.125.149|8080|United States|Portage|Charter Communications|
 |19|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|20|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
