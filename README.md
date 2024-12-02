@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|2|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|116.107.94.65|12003|Vietnam|Hải Dương|Viettel Corporation|
-|6|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|10|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|11|67.43.236.20|20475|Canada|Montreal|GloboTech Communications|
-|12|46.202.89.54|8080|United States|Boston|Hostinger International Limited|
-|13|72.10.164.178|26773|Canada|Montreal|GloboTech Communications|
-|14|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|171.249.151.3|18640|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|145.40.68.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|67.43.227.227|19643|Canada|Montreal|GloboTech Communications|
+|4|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|5|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|6|116.107.94.65|12003|Vietnam|Hải Dương|Viettel Corporation|
+|7|116.107.91.79|12075|Vietnam|Hải Dương|Viettel Corporation|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|14|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|15|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|3.70.11.61|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
