@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|206.189.33.197|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|5|93.127.213.210|8000|Lithuania|Vilnius|Hostinger International Limited|
-|6|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|8|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
-|9|178.128.61.211|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|11|45.224.149.15|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|12|67.43.228.250|29683|Canada|Montreal|GloboTech Communications|
-|13|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|72.10.164.178|6447|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|6447|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6447|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6447|Canada|Montreal|GloboTech Communications|
-|18|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|19|72.10.164.178|6447|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|4521|Canada|Montreal|GloboTech Communications|
+|1|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
+|2|5.138.186.7|3128|Russia|Kalininskaya|OJSC Rostelecom Macroregional Branch South|
+|3|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
+|4|36.94.114.138|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|7|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|9|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|12|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|13|191.101.78.207|3128|Brazil|São Paulo|Hostinger International Limited|
+|14|67.43.228.253|20587|Canada|Montreal|GloboTech Communications|
+|15|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|157.245.123.92|6264|United States|Clifton|DigitalOcean, LLC|
+|19|38.156.75.238|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
 
 
 
