@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|2|116.107.105.191|12075|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.107.92.95|12003|Vietnam|Hải Dương|Viettel Corporation|
-|4|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.153.142.18|8080|India|Keonjhargarh|Om Jay Infotech|
-|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|9|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|108.75.132.171|8888|United States|San Diego|AT&T Services, Inc.|
-|11|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|147.75.202.36|10010|United States|San Jose|Packet Host, Inc.|
-|14|116.107.92.95|12003|Vietnam|Hải Dương|Viettel Corporation|
-|15|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|16|72.10.160.91|8897|Canada|Montreal|GloboTech Communications|
-|17|27.189.133.199|8089|China|Langfang|Chinanet|
-|18|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|19|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|72.10.160.170|30867|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.107.92.95|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|5|34.93.155.104|8561|India|Mumbai|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|103.245.16.133|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|13|103.244.23.230|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
+|14|177.234.250.58|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.174.57.22|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
+|17|116.107.92.95|12075|Vietnam|Hải Dương|Viettel Corporation|
+|18|116.107.92.95|12075|Vietnam|Hải Dương|Viettel Corporation|
+|19|145.40.68.148|10008|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
 
