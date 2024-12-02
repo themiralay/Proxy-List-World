@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5224** proxies at the latest update. Usable proxies are below.
+> Scraper found **5210** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|55|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|653|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|417|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3159|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|147.45.153.251|443|Russia|Moscow|TimeWeb Ltd.|
-|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|13|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|116.99.114.98|10004|Vietnam|Nha Trang|Viettel Corporation|
-|15|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|157.66.16.42|8070|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|19|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|72.10.164.178|9175|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|3|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|5|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|6|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|7|162.240.154.26|3128|United States|Provo|Unified Layer|
+|8|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.236.20|12633|Canada|Montreal|GloboTech Communications|
+|12|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|13|72.10.164.178|12963|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|12963|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|12963|Canada|Montreal|GloboTech Communications|
+|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|17|72.10.164.178|12963|Canada|Montreal|GloboTech Communications|
+|18|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
