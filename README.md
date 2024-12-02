@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5136** proxies at the latest update. Usable proxies are below.
+> Scraper found **5297** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|55|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|417|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3159|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|103.44.19.225|34340|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|34.100.189.30|8561|India|Mumbai|Google LLC|
-|10|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|11|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|13|72.10.160.90|32129|Canada|Montreal|GloboTech Communications|
-|14|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.227.227|3041|Canada|Montreal|GloboTech Communications|
-|17|145.40.68.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|72.10.164.178|15525|Canada|Montreal|GloboTech Communications|
-|19|103.191.196.76|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|20|72.10.164.178|15525|Canada|Montreal|GloboTech Communications|
+|2|34.146.202.240|8561|Japan|Tokyo|Google LLC|
+|3|116.107.85.117|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|5|34.100.189.30|8561|India|Mumbai|Google LLC|
+|6|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|188.214.127.14|8090|Greece|Néa Filadélfeia|Digital Realty Hellas Single Member S.A|
+|11|45.119.114.203|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|12|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|13|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|14|27.147.177.74|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|20|34.1.143.145|3128|Singapore|Singapore|Google LLC|
 
 
 
