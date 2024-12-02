@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
-|3|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|4|147.45.153.251|443|Russia|Moscow|TimeWeb Ltd.|
-|5|148.72.169.225|30127|United States|St Louis|velia.net|
-|6|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|148.72.169.225|30127|United States|St Louis|velia.net|
-|8|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|202.31.11.84|80|South Korea|Yongsan-dong|LG DACOM Corporation|
-|12|148.72.165.170|30174|United States|St Louis|velia.net|
-|13|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
-|14|72.10.160.170|7583|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|2701|Canada|Montreal|GloboTech Communications|
-|16|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|116.107.85.96|12075|Vietnam|Hải Dương|Viettel Corporation|
-|18|116.107.85.96|12075|Vietnam|Hải Dương|Viettel Corporation|
-|19|61.172.235.10|8888|China|Shanghai|China Telecom (Group)|
-|20|67.43.236.20|2701|Canada|Montreal|GloboTech Communications|
+|1|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|2|34.100.189.71|8561|India|Mumbai|Google LLC|
+|3|202.55.135.54|10000|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|148.72.165.116|10807|United States|St Louis|velia.net|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|13|67.43.236.20|29363|Canada|Montreal|GloboTech Communications|
+|14|148.72.165.123|10524|United States|St Louis|velia.net|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|116.107.85.96|12003|Vietnam|Hải Dương|Viettel Corporation|
+|17|116.107.85.96|12003|Vietnam|Hải Dương|Viettel Corporation|
+|18|38.156.73.58|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|72.10.160.170|10543|Canada|Montreal|GloboTech Communications|
+|20|103.247.23.28|9223|Indonesia|Cileungsir|PT wifian Solution|
 
 
 
