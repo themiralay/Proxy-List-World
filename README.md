@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|14.187.142.180|10004|Vietnam|Ho Chi Minh City|VNPT|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|67.43.236.20|13263|Canada|Montreal|GloboTech Communications|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|9|67.43.228.250|32923|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|24027|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|13263|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|13263|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|32923|Canada|Montreal|GloboTech Communications|
-|14|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|15|14.187.142.180|10004|Vietnam|Ho Chi Minh City|VNPT|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|116.147.36.191|8888|China|Wuxi|China Unicom CHINA169 Network|
-|18|72.10.160.90|10143|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13263|Canada|Montreal|GloboTech Communications|
-|20|103.169.255.199|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|121.161.79.113|3129|South Korea|Goyang-si|Korea Telecom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|211.188.48.34|80|South Korea|Seongnam-si|NBP|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|13|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|14|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|103.169.255.199|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|16|67.43.236.18|20871|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.164.178|12281|Canada|Montreal|GloboTech Communications|
+|19|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
