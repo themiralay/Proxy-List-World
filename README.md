@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.178.171.36|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|5|104.248.105.203|80|Canada|Toronto|DigitalOcean, LLC|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|15.165.216.154|80|South Korea|Seoul|Amazon Technologies Inc.|
+|5|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |7|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|14|15.165.15.30|80|South Korea|Seoul|Amazon Technologies Inc.|
-|15|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|185.56.171.98|8080|Italy|Venafro|Armada WAN2|
-|17|15.165.216.154|80|South Korea|Seoul|Amazon Technologies Inc.|
-|18|152.0.199.225|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|19|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|20|181.12.169.91|11201|Argentina|Chascomús|Telecom Argentina S.A|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|93.127.213.210|8000|Lithuania|Vilnius|Hostinger International Limited|
+|12|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|148.72.169.225|30127|United States|St Louis|velia.net|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|15.165.15.30|80|South Korea|Seoul|Amazon Technologies Inc.|
+|16|79.134.4.156|8080|Russia|Magnitogorsk|MAGINFO|
+|17|164.52.206.180|80|India|Noida|E2E Networks Limited|
+|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
