@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|3|171.245.120.144|10002|Vietnam|Hanoi|Viettel Corporation|
-|4|34.84.72.11|8561|Japan|Tokyo|Google LLC|
-|5|34.84.72.248|8561|Japan|Tokyo|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|116.107.93.128|12075|Vietnam|Hải Dương|Viettel Corporation|
-|10|103.228.243.219|8080|Indonesia|Jakarta|SpaceX Starlink|
-|11|67.43.227.228|26055|Canada|Montreal|GloboTech Communications|
-|12|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|13|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
-|14|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|67.43.236.18|28907|Canada|Montreal|GloboTech Communications|
-|16|116.107.89.168|12075|Vietnam|Hải Dương|Viettel Corporation|
-|17|145.40.68.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|72.10.160.171|9935|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
-|20|27.189.130.51|8089|China|Langfang|Chinanet|
+|2|116.107.105.191|12075|Vietnam|Hải Dương|Viettel Corporation|
+|3|116.107.94.65|12075|Vietnam|Hải Dương|Viettel Corporation|
+|4|116.107.93.128|12003|Vietnam|Hải Dương|Viettel Corporation|
+|5|34.84.72.11|8561|Japan|Tokyo|Google LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|34.84.72.248|8561|Japan|Tokyo|Google LLC|
+|10|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|181.78.75.82|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|14|145.40.68.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|92.113.144.119|8080|Denmark|Nørre Åby|Webdock.io ApS|
+|18|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
+|19|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
+|20|116.107.93.128|12003|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
