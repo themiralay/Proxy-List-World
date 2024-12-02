@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5240** proxies at the latest update. Usable proxies are below.
+> Scraper found **5243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|23|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3262|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|4|103.133.61.36|8181|Indonesia|Bandar Lampung|TLINK|
-|5|54.93.234.212|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|2|54.93.230.19|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |6|3.70.191.255|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|3.70.238.178|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|148.72.165.116|10807|United States|St Louis|velia.net|
-|9|92.113.144.119|8080|Denmark|Nørre Åby|Webdock.io ApS|
-|10|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|11|51.79.99.237|9950|France|Roubaix|OVH SAS|
-|12|203.190.117.114|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|145.40.68.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|72.10.164.178|12191|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|17515|Canada|Montreal|GloboTech Communications|
-|17|145.40.68.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|157.20.50.218|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|20|67.43.227.227|12299|Canada|Montreal|GloboTech Communications|
+|7|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|8|67.43.227.227|22811|Canada|Montreal|GloboTech Communications|
+|9|148.72.168.81|30127|United States|St Louis|velia.net|
+|10|148.72.168.81|30127|United States|St Louis|velia.net|
+|11|3.70.174.206|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|188.72.43.129|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
+|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|15|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|16|67.43.227.229|6631|Canada|Montreal|GloboTech Communications|
+|17|93.127.213.210|8000|Lithuania|Vilnius|Hostinger International Limited|
+|18|72.10.160.170|26399|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|17515|Canada|Montreal|GloboTech Communications|
+|20|45.251.139.207|3129|China|Beijing|Zenlayer Inc|
 
 
 
