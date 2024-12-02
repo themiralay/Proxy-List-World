@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.88.85.102|443|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.107.105.191|12003|Vietnam|Hải Dương|Viettel Corporation|
+|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|5|203.190.117.90|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
 |6|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|7|67.43.227.226|2837|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|18569|Canada|Montreal|GloboTech Communications|
-|9|103.209.61.80|1234|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|10|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
-|11|67.43.236.20|26705|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|11925|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|26705|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|13619|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|13619|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|27961|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16163|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|26705|Canada|Montreal|GloboTech Communications|
-|19|121.227.180.189|8089|China|Nanjing|China Telecom|
-|20|72.10.160.172|7787|Canada|Montreal|GloboTech Communications|
+|7|171.245.124.222|10006|Vietnam|Hanoi|Viettel Corporation|
+|8|139.178.66.228|10005|United States|Parsippany|Packet Host, Inc.|
+|9|67.43.227.227|18569|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|15807|Canada|Montreal|GloboTech Communications|
+|11|145.40.68.148|10008|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|67.43.227.228|30555|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|11899|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|16597|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.22|27961|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|26705|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|26705|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|11899|Canada|Montreal|GloboTech Communications|
+|19|103.172.71.141|8080|Indonesia|Gemolong|AZNET|
+|20|67.43.236.19|25929|Canada|Montreal|GloboTech Communications|
 
 
 
