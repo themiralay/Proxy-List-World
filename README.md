@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|3|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|6|67.43.236.19|15929|Canada|Montreal|GloboTech Communications|
-|7|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|8|72.10.160.90|11587|Canada|Montreal|GloboTech Communications|
-|9|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
-|10|72.10.160.93|1209|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|16763|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|26319|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|4189|Canada|Montreal|GloboTech Communications|
-|14|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
-|15|72.10.160.173|28743|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26319|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|11587|Canada|Montreal|GloboTech Communications|
-|18|139.178.66.228|10004|United States|Parsippany|Packet Host, Inc.|
-|19|67.43.236.20|21293|Canada|Montreal|GloboTech Communications|
-|20|159.89.201.13|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.236.20|21293|Canada|Montreal|GloboTech Communications|
+|9|157.66.16.36|8070|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|203.190.117.120|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|12|67.43.227.226|31275|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|1103|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|6071|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|5503|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|139.178.66.228|10001|United States|Parsippany|Packet Host, Inc.|
+|18|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|19|67.43.228.253|6071|Canada|Montreal|GloboTech Communications|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
