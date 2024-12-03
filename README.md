@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|3|39.61.54.80|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|4|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|7|148.72.165.170|30118|United States|St Louis|velia.net|
-|8|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|9|67.43.227.227|9921|Canada|Montreal|GloboTech Communications|
-|10|103.134.220.140|8088|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|11|38.9.48.210|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
-|12|72.10.164.178|26405|Canada|Montreal|GloboTech Communications|
-|13|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|15|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|67.43.227.227|9921|Canada|Montreal|GloboTech Communications|
-|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|19|72.10.164.178|26405|Canada|Montreal|GloboTech Communications|
-|20|198.145.118.91|8080|Turkey|Reyhanlı|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|83.54.172.99|3128|Spain|León|Telefonica de Espana SAU|
+|4|93.127.213.210|8000|Lithuania|Vilnius|Hostinger International Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
+|7|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|8|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
+|9|72.10.160.170|21311|Canada|Montreal|GloboTech Communications|
+|10|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|121.236.236.54|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
+|13|67.43.227.226|10045|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|15993|Canada|Montreal|GloboTech Communications|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|72.10.164.178|5527|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|26127|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5527|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|31205|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|3237|Canada|Montreal|GloboTech Communications|
 
 
 
