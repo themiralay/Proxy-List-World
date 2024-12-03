@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5399** proxies at the latest update. Usable proxies are below.
+> Scraper found **5343** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|486|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|390|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3224|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.203.234.28|8090|Indonesia|Ungaran|PT Nesta Indo Media|
-|2|116.107.210.154|10004|Vietnam|Hải Dương|Viettel Corporation|
-|3|103.146.185.140|1111|Indonesia|Yogyakarta|YAMNET|
-|4|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|7|91.185.56.5|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|36.88.253.86|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.167.170.196|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|13|41.60.239.127|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|14|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|16|27.131.248.71|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|18|72.10.164.178|19515|Canada|Montreal|GloboTech Communications|
-|19|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|101.109.253.88|1911|Thailand|Bangkok|TOT Public Company Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|7|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|91.185.56.5|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|185.19.4.22|3128|Ukraine|Poltava|Triolan|
+|11|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|45.8.21.29|47381|Türkiye|Köseköy|TurkTelekom Kocaeli Korfez|
+|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|16|192.241.145.178|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|67.43.227.226|3333|Canada|Montreal|GloboTech Communications|
+|18|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
+|19|72.10.164.178|27129|Canada|Montreal|GloboTech Communications|
+|20|139.178.66.227|10001|United States|Parsippany|Packet Host, Inc.|
 
 
 
