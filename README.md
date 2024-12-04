@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|2.56.91.135|8080|Hong Kong|Hong Kong|IHC|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|165.232.68.106|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|115.77.138.113|10007|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|165.232.68.106|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|3.71.101.252|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|3.71.22.174|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|148.72.165.7|10501|United States|St Louis|velia.net|
+|13|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |14|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|148.72.165.7|10501|United States|St Louis|velia.net|
-|16|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|3.71.101.252|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|2.56.91.135|8080|Hong Kong|Hong Kong|IHC|
+|16|58.136.216.143|8080|Thailand|Bangkok|AIS-Fibre|
+|17|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
+|18|185.198.165.216|10001|The Netherlands|Dronten|Green Floid LLC|
+|19|24.233.3.123|2000|Taiwan|Neihu District|Century Communications - CableHigh Speed Data Division|
 |20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
