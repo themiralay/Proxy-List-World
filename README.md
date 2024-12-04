@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5481** proxies at the latest update. Usable proxies are below.
+> Scraper found **5274** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|382|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3267|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |3|157.230.41.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.222.202.237|8089|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
 |11|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|12|45.178.174.132|3128|Brazil|Vitória do Mearim|Atex NET Telecomunicacoes Ltda|
-|13|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|24.233.3.123|2000|United States|Bala-Cynwyd|Century Communications - CableHigh Speed Data Division|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|72.10.164.178|10869|Canada|Montreal|GloboTech Communications|
+|14|178.32.167.55|3128|France|Roubaix|OVH SAS|
+|15|67.43.227.226|11697|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|11955|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|11955|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|30395|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|10869|Canada|Montreal|GloboTech Communications|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
