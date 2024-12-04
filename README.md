@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|6|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|103.209.61.80|1234|Vietnam|Hanoi|Vietserver Services Technology Company Limited|
-|10|223.133.125.189|8080|Japan|Izumi-honchō|So-net Entertainment Corporation|
-|11|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|41.60.239.151|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|20|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
+|2|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|41.60.239.151|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.149.238.170|3128|Indonesia|Prigen|PT BITNIAGA CIPTA GEMILANG|
+|15|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
+|16|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|17|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
+|18|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
+|19|103.242.105.111|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|67.43.228.251|26261|Canada|Montreal|GloboTech Communications|
 
 
 
