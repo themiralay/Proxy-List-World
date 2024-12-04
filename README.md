@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5405** proxies at the latest update. Usable proxies are below.
+> Scraper found **5400** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|198|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3226|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |3|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|11|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|13|51.159.75.249|3128|France|Paris|SCALEWAY|
-|14|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
-|18|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|19|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|30039|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|189.36.192.25|8080|Brazil|Fortaleza|Orion Telecomunicações Comercio e Serviços LTDA|
+|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|10|84.241.22.215|8080|Iran|Tehran|SHATEL Network|
+|11|37.229.232.111|8080|Ukraine|Dnipro|Kyivstar UA|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|148.72.165.7|30118|United States|St Louis|velia.net|
+|14|115.245.46.170|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
+|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|17|72.10.164.178|5897|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
+|19|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
