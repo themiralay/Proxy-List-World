@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |10|84.241.22.215|8080|Iran|Tehran|SHATEL Network|
-|11|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|12|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|13|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|14|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|203.190.117.121|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|16|185.221.196.129|3128|Finland|Helsinki|Aeza International LTD|
-|17|67.43.228.253|27883|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10165|Canada|Montreal|GloboTech Communications|
-|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|20|72.10.160.90|13399|Canada|Montreal|GloboTech Communications|
+|11|172.235.5.93|3128|India|Chennai|Akamai Technologies, Inc.|
+|12|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|13|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|18|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|19|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|20|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 
 
 
