@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|103.160.206.162|808|India|Morādābād|Moradabad Internet Services Private Limited|
 |6|116.203.135.164|8090|Germany|Nuremberg|Hetzner Online GmbH|
-|7|116.203.41.197|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|11|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|12|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|13|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|13|34.1.143.145|3128|Singapore|Singapore|Google LLC|
+|14|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
+|15|178.32.167.55|3128|France|Roubaix|OVH SAS|
+|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 |17|113.162.46.233|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|19|74.255.219.229|3129|United States|West Palm Beach|AT&T Corp.|
-|20|178.32.167.55|3128|France|Roubaix|OVH SAS|
+|18|36.73.128.170|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|45.43.3.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|67.43.236.20|26151|Canada|Montreal|GloboTech Communications|
 
 
 
