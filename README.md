@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5529** proxies at the latest update. Usable proxies are below.
+> Scraper found **5544** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|241|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|240|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3121|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.55.22.231|8080|Indonesia|Medan|PT General Media Network|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|11|67.43.228.251|12431|Canada|Montreal|GloboTech Communications|
-|12|203.190.117.233|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|13|27.131.248.71|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|17|67.43.227.228|14489|Canada|Montreal|GloboTech Communications|
-|18|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|19|72.10.160.90|29657|Canada|Montreal|GloboTech Communications|
-|20|34.1.143.145|3128|Singapore|Singapore|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|12|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|13|34.1.143.145|3128|Singapore|Singapore|Google LLC|
+|14|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|15|67.43.227.226|11175|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|1037|Canada|Montreal|GloboTech Communications|
+|17|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|18|121.8.35.12|3128|China|Guangzhou|Chinanet|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
