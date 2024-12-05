@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5446** proxies at the latest update. Usable proxies are below.
+> Scraper found **5222** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|467|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|288|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3188|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
-|8|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
-|9|72.10.164.178|8457|Canada|Montreal|GloboTech Communications|
-|10|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
-|13|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
-|14|72.10.160.170|1717|Canada|Montreal|GloboTech Communications|
-|15|121.227.180.158|8089|China|Nanjing|China Telecom|
-|16|72.10.164.178|8457|Canada|Montreal|GloboTech Communications|
-|17|203.190.117.120|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.236.18|19731|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|25497|Canada|Montreal|GloboTech Communications|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|154.220.66.2|40000|Hong Kong|Chai Wan|Shenzhen Wanghu Technology Co|
+|8|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|13|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|14|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
+|15|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|16|72.10.164.178|15145|Canada|Montreal|GloboTech Communications|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|165.232.68.106|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|20|67.43.228.253|17935|Canada|Montreal|GloboTech Communications|
 
 
 
