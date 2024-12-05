@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |5|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
-|6|103.176.96.140|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|7|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|15|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
-|16|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|17|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|18|49.151.70.117|8080|Philippines|Alaminos|Philippine Long Distance Telephone Co.|
-|19|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
-|20|106.251.66.243|58914|South Korea|Songpa-gu|LG DACOM Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|49.51.186.167|3128|United States|Los Angeles|OPHL|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|201.182.87.128|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|181.174.228.178|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|16|45.5.118.138|999|Guatemala|Guatemala City|Infinitum S.A.|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|45.117.29.53|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
