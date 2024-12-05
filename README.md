@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5293** proxies at the latest update. Usable proxies are below.
+> Scraper found **5512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|228|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3121|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|5|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
 |6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|117.7.203.132|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|162.191.181.73|80|United States|Bellevue|T-Mobile USA, Inc.|
-|9|162.191.181.73|80|United States|Bellevue|T-Mobile USA, Inc.|
-|10|173.242.121.254|3128|United States|Los Angeles|IT7 Networks Inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.178.187.198|8090|Bangladesh|Bogra|EarthTel|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|103.174.18.11|8080|Indonesia|Jakarta|MORATELINDONAP|
-|16|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|17|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|18|192.81.213.42|10015|United States|North Bergen|DigitalOcean, LLC|
-|19|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|49.51.186.167|3128|United States|Los Angeles|OPHL|
+|8|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
+|9|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|10|49.51.186.167|3128|United States|Los Angeles|OPHL|
+|11|173.242.121.254|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|172.232.107.63|3128|India|Chennai|Akamai Technologies, Inc.|
+|15|103.189.123.110|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|16|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|20|192.81.213.42|10025|United States|North Bergen|DigitalOcean, LLC|
 
 
 
