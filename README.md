@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5357** proxies at the latest update. Usable proxies are below.
+> Scraper found **5395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|229|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3238|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|4|50.18.214.242|3128|United States|San Jose|Amazon.com, Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|177.93.36.74|3128|Colombia|Samaniego|TV AZTECA SUCURSAL COLOMBIA|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|15.236.113.208|3128|France|Paris|Amazon Technologies Inc.|
-|10|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|11|49.13.1.139|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|18|45.5.2.246|8084|Argentina|Viedma|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|19|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|20|190.120.251.17|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|5|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|8|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|183.91.160.89|3128|Vietnam|Thanh Xuân|Global Technology - Telecommunications Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|72.10.160.90|17617|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|21883|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|21883|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|9259|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.250|2431|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|17617|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|21883|Canada|Montreal|GloboTech Communications|
+|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|20|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
 
 
 
