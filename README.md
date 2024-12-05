@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|248|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|757|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|758|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|495|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3213|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|103.112.162.227|8080|Indonesia|Jakarta|24AS|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|7|109.165.198.181|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|12|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|13|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.173.138.240|1111|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|17|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|67.205.175.45|10002|United States|North Bergen|DigitalOcean, LLC|
-|19|118.174.142.153|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|191.37.41.142|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|103.169.255.199|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|3|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|4|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|5|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|67.205.175.45|10002|United States|North Bergen|DigitalOcean, LLC|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|3.23.47.87|3128|United States|Dublin|Amazon.com, Inc.|
+|13|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|14|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|15|34.1.143.145|3128|Singapore|Singapore|Google LLC|
+|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|17|160.19.231.226|8080|Indonesia|Amuntai|PT TELSAR JAYA NETWORK TEKNOLOGY|
+|18|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|38.188.127.168|8081|Indonesia|Blitar|PT Data Buana Nusantara|
 
 
 
