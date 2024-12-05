@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|165.232.68.106|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.242.105.111|8080|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|3.71.22.174|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|203.190.117.87|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|17|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|103.155.168.9|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|9|139.84.215.28|3129|India|Bengaluru|The Constant Company, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|1.10.133.137|8080|Thailand|Ban Saladan|TOT Public Company Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|16|191.37.33.38|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|34.93.151.205|8660|India|Mumbai|Google LLC|
+|19|34.93.159.4|8660|India|Mumbai|Google LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
