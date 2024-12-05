@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.150.113.230|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.247.20.106|1111|Indonesia|Cileungsir|PT Yasmin Amanah Media|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|18.134.236.231|1080|United Kingdom|London|Amazon Technologies Inc.|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.114.52.130|8080|Indonesia|Sukoharjo|Proxy-registered|
-|9|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|11|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|12|177.170.240.240|8090|Brazil|São Paulo|Vivo|
-|13|116.97.31.134|5555|Vietnam|Hanoi|Viettel Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|17|14.187.182.208|10020|Vietnam|Ho Chi Minh City|VNPT|
-|18|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|19|67.43.227.227|7957|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17205|Canada|Montreal|GloboTech Communications|
+|8|34.93.151.205|8660|India|Mumbai|Google LLC|
+|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|203.150.113.230|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|103.247.22.88|4317|Indonesia|Bekasi|PT wifian Solution|
+|16|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|17|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|18|103.114.52.130|8080|Indonesia|Sukoharjo|Proxy-registered|
+|19|181.78.73.73|999|Colombia|San Luis|IFX Networks Argentina S.R.L|
+|20|108.83.81.242|8118|United States|Hialeah|AT&T Services, Inc.|
 
 
 
