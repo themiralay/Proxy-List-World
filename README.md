@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|110.77.246.43|8080|Thailand|Ko Samui|CAT Telecom Public Company Limited|
-|7|20.29.25.198|3128|United States|Des Moines|Microsoft Corporation|
-|8|20.29.25.198|3128|United States|Des Moines|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|59.188.93.116|3128|Hong Kong|Kwai Chung|NWT|
-|11|94.131.9.215|4006|France|Paris|Stark Industries Solutions LTD|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|167.224.64.232|3128|United States|New York|HOSTKEY|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
+|9|167.224.64.232|3128|United States|New York|HOSTKEY|
+|10|20.29.25.198|3128|United States|Des Moines|Microsoft Corporation|
+|11|110.77.246.43|8080|Thailand|Ko Samui|CAT Telecom Public Company Limited|
+|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|15|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|16|103.151.17.177|8080|India|Aurangabad|Riyaz Internet Service Private Limited|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|19|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|20|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|59.188.93.116|3128|Hong Kong|Kwai Chung|NWT|
+|17|115.79.199.206|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|113.200.193.72|3128|China|Xi'an|CNC Group CHINA169 Shannxi Province Network|
+|20|103.165.150.74|8085|Indonesia|Bengkalis|PT Agsa Global Network|
 
 
 
