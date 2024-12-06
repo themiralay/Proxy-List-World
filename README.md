@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |5|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
 |6|61.7.170.164|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|34.93.143.32|8660|India|Mumbai|Google LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|13|34.93.159.4|8660|India|Mumbai|Google LLC|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|15|34.93.144.121|8660|India|Mumbai|Google LLC|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
-|20|18.134.236.231|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|18.134.236.231|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|14|203.190.117.143|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
