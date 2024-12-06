@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|4|119.28.31.129|82|Hong Kong|Hong Kong|ComsenzNet|
+|4|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
-|9|103.158.162.18|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|185.166.39.29|3128|France|Paris|HOSTINGER FR|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|103.127.220.190|8181|Indonesia|Mojokerto|PT Multi Guna Sinergi|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|103.9.77.248|3128|Vietnam|Quận Bình Thạnh|VINAHOST|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|185.166.39.29|3128|France|Paris|HOSTINGER FR|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|15|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|16|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|17|119.28.31.129|82|Hong Kong|Hong Kong|ComsenzNet|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|203.190.117.119|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|20|59.188.93.116|3128|Hong Kong|Kwai Chung|NWT|
 
 
 
