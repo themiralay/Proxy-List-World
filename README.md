@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|83.229.126.211|8081|Hong Kong|Hong Kong|Lucidacloud Limited|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|83.229.126.211|8081|Hong Kong|Hong Kong|Lucidacloud Limited|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|171.245.122.26|10028|Vietnam|Bắc Giang|Viettel Corporation|
-|11|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|123.30.212.105|3128|Vietnam|Long An|VNPT|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|192.81.213.42|10015|United States|North Bergen|DigitalOcean, LLC|
-|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|18|46.37.115.113|8080|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|19|34.1.143.145|3128|Singapore|Singapore|Google LLC|
-|20|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|67.43.236.20|14591|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.226|13879|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|6161|Canada|Montreal|GloboTech Communications|
+|16|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|67.43.227.226|13879|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|24181|Canada|Montreal|GloboTech Communications|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
