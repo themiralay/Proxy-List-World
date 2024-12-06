@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |4|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|90.15.126.223|3128|Guadeloupe|Baie Mahault|France Telecom IP2000-ADSL-BAS|
-|7|185.166.39.29|3128|France|Paris|HOSTINGER FR|
-|8|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|13|84.201.151.151|3128|Russia|Moscow|Yandex enterprise network|
-|14|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|16|181.198.64.115|999|Ecuador|Guayaquil|Telconet S.A|
-|17|34.93.159.4|8660|India|Mumbai|Google LLC|
-|18|103.17.150.25|8080|Bangladesh|Dhaka|SYSSOLUTION|
-|19|38.183.146.173|8089|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|124.121.2.149|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|13|185.166.39.29|3128|France|Paris|HOSTINGER FR|
+|14|20.29.25.198|3128|United States|Des Moines|Microsoft Corporation|
+|15|190.139.5.202|3388|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|16|103.127.220.190|8181|Indonesia|Mojokerto|PT Multi Guna Sinergi|
+|17|167.224.64.232|3128|United States|New York|HOSTKEY|
+|18|34.1.143.145|3128|Singapore|Singapore|Google LLC|
+|19|34.93.159.4|8660|India|Mumbai|Google LLC|
+|20|20.29.25.198|3128|United States|Des Moines|Microsoft Corporation|
 
 
 
