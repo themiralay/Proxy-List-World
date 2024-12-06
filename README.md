@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5416** proxies at the latest update. Usable proxies are below.
+> Scraper found **5104** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|360|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3230|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|4|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|177.93.39.75|999|Colombia|Ambalema|TV AZTECA SUCURSAL COLOMBIA|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|36.92.132.116|1010|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|13|186.0.146.120|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|14|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|202.8.28.187|8080|Indonesia|Batam|PT MULTI MEDIA ACCESS|
-|20|103.169.255.201|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|11|171.245.115.127|10006|Vietnam|Bắc Giang|Viettel Corporation|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
+|14|65.1.244.232|80|India|Mumbai|Amazon.com|
+|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|16|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|17|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|18|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|19|186.0.146.120|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
