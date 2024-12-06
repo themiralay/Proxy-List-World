@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|4|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|34.93.159.4|8660|India|Mumbai|Google LLC|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|10|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|15|190.97.236.40|2023|Venezuela|Maporal|Viginet C.A|
-|16|192.81.213.42|10023|United States|North Bergen|DigitalOcean, LLC|
-|17|59.188.93.116|3128|Hong Kong|Kwai Chung|NWT|
-|18|190.14.251.109|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
-|19|207.230.8.65|999|Colombia|Bogotá|Cogent Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|34.93.159.4|8660|India|Mumbai|Google LLC|
+|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|12|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|15|176.124.199.114|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|85.112.71.208|8080|Lebanon|Beirut|TerraNet sal|
+|18|167.224.64.232|3128|United States|New York|HOSTKEY|
+|19|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|20|192.81.213.42|10017|United States|North Bergen|DigitalOcean, LLC|
 
 
 
