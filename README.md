@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5632** proxies at the latest update. Usable proxies are below.
+> Scraper found **5609** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|257|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|790|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|767|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|490|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3169|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
-|6|103.191.218.153|8090|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|65.21.15.172|60606|Finland|Helsinki|Hetzner Online GmbH|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|171.236.112.171|5106|Vietnam|Hanoi|Viettel Corporation|
-|13|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|175.103.40.102|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
-|15|103.153.142.18|8080|India|Keonjhargarh|Om Jay Infotech|
-|16|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|18|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|49.148.109.108|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|4|103.245.245.181|8801|Vietnam|Quận Bình Thạnh|DCNET Telecommunication joint stock company|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|36.93.152.154|9292|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|13|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|17|209.45.108.230|1011|Peru|Lima|Red Cientifica Peruana|
+|18|181.204.83.115|41890|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|19|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 
 
 
