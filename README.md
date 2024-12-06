@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|11|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|12|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|15|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|16|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|18|47.52.131.193|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|72.10.160.90|15921|Canada|Montreal|GloboTech Communications|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|11|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
+|12|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|13|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|14|171.245.114.104|10006|Vietnam|Bắc Giang|Viettel Corporation|
+|15|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|16|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|17|47.52.131.193|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
+|19|115.72.13.114|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|20|72.10.164.178|10669|Canada|Montreal|GloboTech Communications|
 
 
 
