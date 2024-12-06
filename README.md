@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|42.113.29.81|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|124.121.2.185|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|12|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|157.10.97.91|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|16|36.83.50.161|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|17|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
-|18|192.81.213.42|10025|United States|North Bergen|DigitalOcean, LLC|
-|19|45.81.144.13|8080|Iraq|Sumayl|Fact LTD|
-|20|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|4|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|5|42.113.29.81|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|103.154.230.82|8080|Indonesia|Lamongan|DIGITNET|
+|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|124.121.2.185|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|9|36.83.50.161|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|10|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|11|171.234.69.250|10028|Vietnam|Hải Dương|Viettel Corporation|
+|12|148.72.165.7|10501|United States|St Louis|velia.net|
+|13|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|160.19.89.247|8080|Indonesia|Gorontalo|PT Galaxy Network Mediatama|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|19|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|20|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 
 
 
