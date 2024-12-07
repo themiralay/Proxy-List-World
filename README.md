@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|9|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
 |15|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|16|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|17|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|18|171.245.116.71|10006|Vietnam|Bắc Giang|Viettel Corporation|
-|19|36.64.68.169|8789|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|19|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|20|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
