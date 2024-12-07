@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|2|202.165.92.30|3128|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|14.237.135.41|8080|Vietnam|Ho Chi Minh City|VNPT|
-|7|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|116.101.198.212|10007|Vietnam|Bắc Giang|Viettel Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|14|67.43.228.253|20077|Canada|Montreal|GloboTech Communications|
-|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|18|190.119.76.150|8080|Peru|Chiclayo|America Movil Peru S.A.C.|
-|19|72.10.160.90|17227|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|20077|Canada|Montreal|GloboTech Communications|
+|2|116.101.198.212|10007|Vietnam|Bắc Giang|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|202.165.92.30|3128|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|12|116.104.130.29|10002|Vietnam|Hanoi|Viettel Corporation|
+|13|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
+|14|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
+|15|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|14.237.135.41|8080|Vietnam|Ho Chi Minh City|VNPT|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
