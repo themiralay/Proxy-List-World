@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4893** proxies at the latest update. Usable proxies are below.
+> Scraper found **4898** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|345|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2996|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|8|14.187.150.90|10012|Vietnam|Ho Chi Minh City|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|14.187.150.90|10012|Vietnam|Ho Chi Minh City|VNPT|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |9|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
-|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|11|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|13|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|14|192.81.213.42|10025|United States|North Bergen|DigitalOcean, LLC|
-|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|157.20.36.149|1111|Indonesia|Jaten|PT Andalan Dinamika Informatika|
-|18|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|19|34.93.151.205|8660|India|Mumbai|Google LLC|
-|20|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|10|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|12|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|14.187.150.90|10012|Vietnam|Ho Chi Minh City|VNPT|
+|18|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|19|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|20|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
 
 
 
