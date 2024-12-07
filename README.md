@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|115.77.166.50|10006|Vietnam|Vũng Tàu|Viettel Group|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|115.77.132.79|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |9|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|124.121.2.215|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|11|117.5.73.135|10005|Vietnam|Bắc Giang|VIETTEL|
-|12|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|13|115.77.132.79|10006|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|18|139.84.157.16|3129|India|Bengaluru|The Constant Company, LLC|
-|19|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
-|20|116.104.168.28|10002|Vietnam|Hanoi|Viettel Corporation|
+|10|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|11|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|13|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|15|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|16|103.106.231.188|42164|Australia|Sydney|BrainStorm Network|
+|17|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|18|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|124.121.2.215|8080|Thailand|Nakhon Ratchasima|TRUEBB|
 
 
 
