@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|7|192.121.102.8|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|8|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|103.226.232.197|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|12|103.106.231.188|42164|Australia|Sydney|BrainStorm Network|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|192.121.102.8|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|11|103.247.23.29|4317|Indonesia|Cileungsir|PT wifian Solution|
+|12|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |14|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|17|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|18|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|171.238.66.1|5102|Vietnam|Hanoi|Viettel Corporation|
-|20|117.7.215.120|10013|Vietnam|Lấp Vò|Viettel Group|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|72.10.160.90|3613|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|7999|Canada|Montreal|GloboTech Communications|
 
 
 
