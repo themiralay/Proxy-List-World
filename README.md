@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5268** proxies at the latest update. Usable proxies are below.
+> Scraper found **5314** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|629|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|342|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3117|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|4|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|5|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|16|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
-|19|202.162.43.233|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
-|20|171.245.113.93|10012|Vietnam|Bắc Giang|Viettel Corporation|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|11|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|12|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|13|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|17|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|18|157.66.16.36|8070|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
