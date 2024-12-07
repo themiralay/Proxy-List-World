@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4972** proxies at the latest update. Usable proxies are below.
+> Scraper found **5001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|610|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|428|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3037|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|6|47.52.131.193|3128|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
-|13|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|16|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|17|42.113.29.81|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|20|117.5.105.210|10006|Vietnam|Hanoi|VIETTEL|
+|5|42.113.29.81|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|14.39.239.79|64639|South Korea|Eunpyeong-gu|Korea Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|103.176.96.178|1111|Indonesia|Karawang|PT Global Sarana Elektronika|
+|10|139.84.157.16|3129|India|Bengaluru|The Constant Company, LLC|
+|11|195.19.217.200|3128|Russia|Irkutsk|MTS PJSC|
+|12|183.91.160.89|3128|Vietnam|Thanh Xuân|Global Technology - Telecommunications Corporation|
+|13|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|14|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
+|15|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|19|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
