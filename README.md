@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|203.150.113.57|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|10|160.20.78.2|8080|Indonesia|Pekanbaru|Politeknik Kesehatan Riau|
-|11|117.7.215.120|10020|Vietnam|Lấp Vò|Viettel Group|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|14|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|15|115.77.166.50|10007|Vietnam|Vũng Tàu|Viettel Group|
-|16|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|18|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|19|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|20|103.106.231.188|42164|Australia|Sydney|BrainStorm Network|
+|4|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.150.113.57|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|103.247.23.29|4317|Indonesia|Cileungsir|PT wifian Solution|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|171.7.131.85|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|11|113.192.31.5|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|124.158.146.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|103.146.197.79|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|15|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|16|103.106.231.188|42164|Australia|Sydney|BrainStorm Network|
+|17|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|18|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|19|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|20|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
 
 
 
