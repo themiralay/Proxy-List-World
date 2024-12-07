@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
 |4|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|103.147.134.85|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|182.253.109.198|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|16|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
-|18|45.117.29.37|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|103.147.247.143|8181|Indonesia|Tangerang|PLBNET|
-|20|103.168.44.65|3127|Indonesia|Kuningan Barat|PT CYB Media Group|
+|5|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|103.168.44.65|3127|Indonesia|Kuningan Barat|PT CYB Media Group|
+|9|103.147.134.85|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|10|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|12|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|13|182.253.109.198|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|222.254.93.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|20|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
 
 
 
