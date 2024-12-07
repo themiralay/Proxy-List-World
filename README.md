@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5286** proxies at the latest update. Usable proxies are below.
+> Scraper found **5288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|452|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2996|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|42.113.29.81|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|10|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|59.188.93.116|3128|Hong Kong|Kwai Chung|NWT|
-|14|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|15|103.154.49.209|8080|Bangladesh|Bhātāra|Windstream Communication Limited|
-|16|38.137.251.76|3128|Ukraine|Odesa|Lekol LLC|
-|17|139.59.66.10|9090|India|Bengaluru|DigitalOcean, LLC|
-|18|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|19|103.122.1.62|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|14.187.190.15|10010|Vietnam|Ho Chi Minh City|VNPT|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|12|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
+|13|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|14|115.72.38.191|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|17|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
