@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5733** proxies at the latest update. Usable proxies are below.
+> Scraper found **5920** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|920|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1027|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|659|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3228|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|115.72.169.8|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|72.10.164.178|9187|Canada|Montreal|GloboTech Communications|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|67.43.236.18|6715|Canada|Montreal|GloboTech Communications|
-|12|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|13|67.43.228.253|29897|Canada|Montreal|GloboTech Communications|
-|14|207.154.229.255|10012|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|72.10.164.178|9187|Canada|Montreal|GloboTech Communications|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|106.251.66.243|63138|South Korea|Songpa-gu|LG DACOM Corporation|
-|18|115.72.169.8|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|67.43.227.228|7487|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.59.44.162|8082|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
+|6|35.208.148.101|3128|United States|Council Bluffs|Google LLC|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|9|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|10|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|11|72.10.164.178|17835|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|14|67.43.236.20|16513|Canada|Montreal|GloboTech Communications|
+|15|114.218.150.10|8089|China|Nanjing|China Telecom|
+|16|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|18|67.43.236.21|22915|Canada|Montreal|GloboTech Communications|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|117.7.207.180|10006|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
