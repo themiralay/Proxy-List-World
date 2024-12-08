@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.53.36.35|11112|United States|Ashburn|netcup GmbH|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|6|103.176.96.134|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|103.106.231.188|42286|Australia|Sydney|BrainStorm Network|
-|9|42.113.25.56|10019|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|171.234.77.235|10028|Vietnam|Thanh Hà|Viettel Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|42.113.25.56|10019|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|152.53.36.35|11112|United States|Ashburn|netcup GmbH|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
 |11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|37.228.136.149|58080|Iran|Tehran|Parsan Lin Co. PJS|
-|13|207.154.229.255|10001|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|67.43.227.227|27603|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|29831|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|25619|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|19645|Canada|Montreal|GloboTech Communications|
-|19|117.1.116.77|10015|Vietnam|Hanoi|Viettel Corporation|
-|20|72.10.160.94|7451|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|190.121.146.75|999|Colombia|Neiva|Media Commerce Partners S.A|
+|16|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|17|203.190.117.227|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|18|203.111.253.101|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|19|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
