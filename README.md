@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5312** proxies at the latest update. Usable proxies are below.
+> Scraper found **5377** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|599|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.230|3128|Japan|Chiyoda|InfoSphere|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|119.95.235.6|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|7|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
-|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|177.53.112.9|6320|Brazil|Novo Paraíso|Masterradius Telecom Ltda EPP|
-|11|122.54.105.109|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|12|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|13|101.255.210.73|1111|Indonesia|Bekasi|PT Remala Abadi|
+|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|3|157.20.253.20|8090|Indonesia|Semarang|PT.Global Media Data Prima|
+|4|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|122.54.105.109|8082|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|9|101.255.210.73|1111|Indonesia|Bekasi|PT Remala Abadi|
+|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|11|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|12|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|15|103.106.231.188|42391|Australia|Sydney|BrainStorm Network|
-|16|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|19|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|20|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|15|103.48.68.138|84|India|Hyderabad|Country Online Services PVT LTD|
+|16|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
+|19|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|20|72.10.160.94|3135|Canada|Montreal|GloboTech Communications|
 
 
 
