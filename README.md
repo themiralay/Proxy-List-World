@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5412** proxies at the latest update. Usable proxies are below.
+> Scraper found **5329** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|509|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|8|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|11|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|13|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|14|35.240.213.238|10010|Singapore|Singapore|Google LLC|
-|15|103.48.71.150|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|187.249.114.149|8080|Mexico|Teapa|Transtelco Inc|
-|17|42.117.197.113|4001|Vietnam|Hanoi|FPT Telecom Company|
-|18|188.134.91.83|8080|Russia|St Petersburg|Interzet|
-|19|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|20|45.173.7.10|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|9|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|10|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|11|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.193.144.5|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|192.81.213.42|10024|United States|North Bergen|DigitalOcean, LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|18|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 
 
 
