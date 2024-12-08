@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |4|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|9|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|11|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|14|67.43.236.19|11229|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|11703|Canada|Montreal|GloboTech Communications|
-|16|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|18|72.10.160.90|18091|Canada|Montreal|GloboTech Communications|
-|19|51.89.96.237|3128|United Kingdom|London|OVH SAS|
-|20|67.43.227.227|5373|Canada|Montreal|GloboTech Communications|
+|5|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|6|103.106.231.188|42149|Australia|Sydney|BrainStorm Network|
+|7|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|8|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|9|113.160.184.87|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|12|201.182.85.13|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|13|183.91.160.89|3128|Vietnam|Thanh Xuân|Global Technology - Telecommunications Corporation|
+|14|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|15|67.43.227.227|15831|Canada|Montreal|GloboTech Communications|
+|16|116.147.36.191|8888|China|Wuxi|China Unicom CHINA169 Network|
+|17|67.43.236.19|26781|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|3755|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|18091|Canada|Montreal|GloboTech Communications|
+|20|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
 
 
 
