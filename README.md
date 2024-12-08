@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5747** proxies at the latest update. Usable proxies are below.
+> Scraper found **5730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|81|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|659|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3228|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|171.6.79.237|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|7|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|8|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|9|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|202.51.214.81|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
-|11|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|12|102.211.145.161|8081|Kenya|Nairobi|Unwired Communications Ltd|
-|13|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|14|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|18|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|117.103.70.9|8715|Indonesia|Malang|NARATEL|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|115.72.173.60|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|4|115.72.169.8|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|91.26.124.18|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|10|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|222.127.77.203|8082|Philippines|Lahug|INNOVE|
+|13|171.6.79.237|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|16|43.153.205.42|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|134.35.224.113|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|19|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
+|20|194.163.153.9|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
