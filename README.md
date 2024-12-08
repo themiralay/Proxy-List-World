@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5394** proxies at the latest update. Usable proxies are below.
+> Scraper found **5392** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|509|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|177.93.49.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|6|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|117.5.135.1|10010|Vietnam|Hanoi|VIETTEL|
-|8|157.20.253.20|8090|Indonesia|Semarang|PT.Global Media Data Prima|
-|9|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|10|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|11|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
-|12|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|13|101.255.210.73|1111|Indonesia|Bekasi|PT Remala Abadi|
-|14|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|38.52.220.171|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|18|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
-|19|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|12|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|14|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|17|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|18|103.126.148.24|8080|Bangladesh|Natore|Delta Software and Communication Limited|
+|19|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|20|177.107.20.86|61804|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
 
 
 
