@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5262** proxies at the latest update. Usable proxies are below.
+> Scraper found **5270** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|558|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|407|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3071|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|51.159.159.73|80|France|Paris|SCALEWAY|
-|4|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|192.81.213.42|10025|United States|North Bergen|DigitalOcean, LLC|
-|8|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|11|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|12|67.43.228.253|2939|Canada|Montreal|GloboTech Communications|
-|13|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|14|186.190.224.86|999|Colombia|Monterrey|TV AZTECA SUCURSAL COLOMBIA|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|5|177.93.39.73|999|Colombia|Ambalema|TV AZTECA SUCURSAL COLOMBIA|
+|6|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|7|103.162.62.250|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|10|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|11|36.92.132.114|1010|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|67.43.227.230|2111|Canada|Montreal|GloboTech Communications|
 |15|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.236.21|31713|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|12109|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|12109|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|67.43.228.252|13045|Canada|Montreal|GloboTech Communications|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|72.10.160.170|1827|Canada|Montreal|GloboTech Communications|
 
 
 
