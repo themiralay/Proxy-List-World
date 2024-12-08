@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|34.100.189.30|8660|India|Mumbai|Google LLC|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|200.37.187.62|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|34.100.189.30|8660|India|Mumbai|Google LLC|
+|5|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|45.235.200.32|4000|Brazil|Santa Bárbara|VIA ONDAS TELECOMUNICACOES LTDA|
+|7|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
 |8|103.59.44.162|8082|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|9|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
-|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|13|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|103.169.255.199|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|19|67.43.227.227|27481|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14575|Canada|Montreal|GloboTech Communications|
+|9|200.37.187.62|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|10|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|13|103.134.220.140|8088|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|14|180.254.144.230|8080|Indonesia|Matangkuli|PT. TELKOM INDONESIA|
+|15|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
+|16|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
