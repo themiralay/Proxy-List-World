@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4948** proxies at the latest update. Usable proxies are below.
+> Scraper found **5015** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3107|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|7|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|8|164.70.69.117|3128|Japan|Chiyoda|InfoSphere|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|11|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|13|67.43.227.227|22899|Canada|Montreal|GloboTech Communications|
-|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|15|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|67.43.228.250|23345|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|22899|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|22719|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|29807|Canada|Montreal|GloboTech Communications|
+|5|116.102.35.42|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|9|189.232.88.72|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|80.28.205.39|3128|Spain|Madrid|TDENET (Red de servicios IP)|
+|11|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|14|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|15|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|16|183.91.160.89|3128|Vietnam|Thanh Xuân|Global Technology - Telecommunications Corporation|
+|17|27.189.133.160|8089|China|Langfang|Chinanet|
+|18|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|19|103.110.34.133|8000|Indonesia|Jagong|PT RECONET SEMESTA INDONESIA|
+|20|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
 
 
 
