@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5468** proxies at the latest update. Usable proxies are below.
+> Scraper found **5463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|752|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|672|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3153|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3228|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|103.132.55.214|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|6|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
-|7|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|103.137.111.67|8080|Indonesia|Malang|PT. Capoeng Digital Nusantara|
-|12|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|13|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|138.94.7.6|45006|Brazil|Lagarto|Minas Telecom|
-|15|103.143.105.138|8080|Indonesia|Malang|PT Aplikanusa Lintasarta|
-|16|103.127.220.190|8181|Indonesia|Mojokerto|PT Multi Guna Sinergi|
-|17|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|18|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|19|103.160.206.162|808|India|Morādābād|Moradabad Internet Services Private Limited|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|134.236.101.9|8080|Thailand|Bang Lamung|CAT-BB|
+|5|116.108.1.6|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|10|62.60.153.22|3128|Sweden|Stockholm|Aeza International LTD|
+|11|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|175.103.33.126|7777|Indonesia|Jakarta|Maxindo Mintra Solusi|
+|14|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|15|103.112.162.227|8080|Indonesia|Jakarta|24AS|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|121.236.236.194|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
+|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
