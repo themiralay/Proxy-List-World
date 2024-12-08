@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5463** proxies at the latest update. Usable proxies are below.
+> Scraper found **5432** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|672|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3228|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|134.236.101.9|8080|Thailand|Bang Lamung|CAT-BB|
-|5|116.108.1.6|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|10|62.60.153.22|3128|Sweden|Stockholm|Aeza International LTD|
-|11|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|175.103.33.126|7777|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|14|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|15|103.112.162.227|8080|Indonesia|Jakarta|24AS|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|121.236.236.194|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|103.28.114.157|66|Indonesia|Kasihan|PT Lintas Data Prima|
+|6|189.240.60.164|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|7|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|8|175.103.33.126|7777|Indonesia|Jakarta|Maxindo Mintra Solusi|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|213.252.245.72|3128|Lithuania|Šiauliai|BACLOUD-BITE|
+|11|203.190.117.88|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|14|116.104.128.213|10002|Vietnam|Hanoi|Viettel Corporation|
+|15|42.118.174.76|10004|Vietnam|Hanoi|FPT Telecom Company|
+|16|186.26.92.233|58339|Brazil|São João de Meriti|SAT TELECOM E CONSULTORIA EM TI Ltda|
+|17|93.127.185.92|3128|India|Mumbai|Hostinger International Limited|
+|18|14.102.155.202|8080|Indonesia|Bandung|Skyline Semesta, PT|
+|19|72.10.164.178|15439|Canada|Montreal|GloboTech Communications|
+|20|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
 
 
 
