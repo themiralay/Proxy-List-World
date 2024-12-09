@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5330** proxies at the latest update. Usable proxies are below.
+> Scraper found **5445** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|741|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|203.175.103.3|3125|Indonesia|Kuningan|MITRAKITA|
-|6|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|7|38.49.129.237|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|115.72.173.60|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|6|115.178.49.119|8080|Indonesia|Bandung|NOC SIMAYA|
+|7|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|11|103.193.144.123|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|12|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 |13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|72.10.160.94|30599|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|7587|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|31353|Canada|Montreal|GloboTech Communications|
-|17|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|18|67.43.228.253|31353|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|31347|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|31347|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|6013|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|15585|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|6013|Canada|Montreal|GloboTech Communications|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|117.5.104.126|10011|Vietnam|Hanoi|VIETTEL|
+|19|72.10.160.90|4855|Canada|Montreal|GloboTech Communications|
+|20|202.51.214.81|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
 
 
 
