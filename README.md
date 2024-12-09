@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5411** proxies at the latest update. Usable proxies are below.
+> Scraper found **5489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|801|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|781|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|594|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3090|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|103.166.32.47|1111|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 |6|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
-|9|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|13|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.166.32.47|1111|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
-|15|157.10.97.103|8181|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|16|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|18|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|20|103.180.123.19|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|7|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|8|162.191.181.73|80|United States|Bellevue|T-Mobile USA, Inc.|
+|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|1.55.146.6|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|27.77.128.41|8080|Vietnam|Biên Hòa|Newass2011xDSLHCMC|
+|14|223.207.98.164|8080|Thailand|Ban Phan Don|Triple T Broadband Public Company Limited|
+|15|177.93.36.74|3128|Colombia|Samaniego|TV AZTECA SUCURSAL COLOMBIA|
+|16|91.229.28.110|3128|Slovakia|Šurany|KOMNET, s.r.o.|
+|17|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|45.235.200.32|4000|Brazil|Santa Bárbara|VIA ONDAS TELECOMUNICACOES LTDA|
+|19|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 
 
 
