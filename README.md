@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.171|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|9|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
-|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|12|115.72.36.94|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|103.158.252.79|8080|Indonesia|Brebes|Rapid Network|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|83.54.172.187|3128|Spain|León|Telefonica de Espana SAU|
+|9|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
+|10|189.240.60.169|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|11|116.104.173.136|10004|Vietnam|Hanoi|Viettel Corporation|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|171.245.120.14|10002|Vietnam|Bắc Giang|Viettel Corporation|
 |14|49.48.43.41|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|17|200.24.159.147|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
-|18|34.100.189.30|8660|India|Mumbai|Google LLC|
-|19|123.19.14.101|1001|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|20|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|189.240.60.168|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Iztapalapa|Uninet S.A. de C.V.|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|117.5.73.135|10005|Vietnam|Bắc Giang|VIETTEL|
+|19|177.234.210.7|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
