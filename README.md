@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5561** proxies at the latest update. Usable proxies are below.
+> Scraper found **5433** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|102|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|101|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|659|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|508|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3311|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3239|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|182.176.164.41|8080|Pakistan|Multan|Pakistan Telecommuication company limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|103.171.245.24|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|93.127.185.92|3128|India|Mumbai|Hostinger International Limited|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|9|18.163.112.16|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|11|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|12|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|13|72.10.164.178|8343|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|8343|Canada|Montreal|GloboTech Communications|
-|15|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|16|67.43.227.227|3339|Canada|Montreal|GloboTech Communications|
-|17|171.95.213.186|9999|China|Muping|Chinanet|
-|18|72.10.164.178|8343|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|23213|Canada|Montreal|GloboTech Communications|
-|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|6|117.5.135.1|10010|Vietnam|Hanoi|VIETTEL|
+|7|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|8|93.127.185.92|3128|India|Mumbai|Hostinger International Limited|
+|9|203.192.199.158|53|India|Pune|Entire In2Cable|
+|10|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|11|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
+|12|61.7.169.189|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|15|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|16|14.187.179.47|10017|Vietnam|Ho Chi Minh City|VNPT|
+|17|15.236.113.208|3128|France|Paris|Amazon Technologies Inc.|
+|18|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|67.43.228.253|10453|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1583|Canada|Montreal|GloboTech Communications|
 
 
 
