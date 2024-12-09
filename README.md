@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5446** proxies at the latest update. Usable proxies are below.
+> Scraper found **5535** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|839|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
-|12|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|13|187.251.130.156|8080|Mexico|Colima|Total Play Telecomunicaciones SA De CV|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|16|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|17|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|139.84.157.16|3129|India|Bengaluru|The Constant Company, LLC|
-|19|194.163.153.9|3128|Germany|Düsseldorf|Contabo GmbH|
-|20|72.10.164.178|18139|Canada|Montreal|GloboTech Communications|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|4|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|7|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|8|148.72.169.225|30127|United States|St Louis|velia.net|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|148.72.169.225|30127|United States|St Louis|velia.net|
+|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|12|162.249.171.248|4231|United States|New York|PureVoltage Hosting Inc.|
+|13|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|16|15.236.113.208|3128|France|Paris|Amazon Technologies Inc.|
+|17|72.10.160.90|11301|Canada|Montreal|GloboTech Communications|
+|18|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|20|72.10.164.178|6055|Canada|Montreal|GloboTech Communications|
 
 
 
