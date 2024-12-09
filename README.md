@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|115.72.171.163|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|8|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|12|116.107.210.154|10004|Vietnam|Hải Dương|Viettel Corporation|
-|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|116.104.135.20|10000|Vietnam|Hanoi|Viettel Corporation|
-|15|115.72.160.254|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|37.205.15.20|3128|Czechia|Liberec|Master Internet s.r.o.|
-|18|103.247.23.197|8080|Indonesia|Cileungsir|PT wifian Solution|
-|19|37.235.28.194|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|20|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|9|206.189.156.113|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|202.154.36.183|1080|Indonesia|Surabaya|RADNET-BDG|
+|11|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|12|115.127.143.242|58080|Bangladesh|Dhaka|BRACNet Limited|
+|13|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|14|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|15|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|16|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|17|115.72.171.163|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
