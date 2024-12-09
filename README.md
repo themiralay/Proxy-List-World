@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|65.1.244.232|80|India|Mumbai|Amazon.com|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|186.83.28.190|999|Colombia|Medellín|Telmex Colombia S.A.|
-|11|45.32.244.63|80|Australia|Sydney|Choopa|
-|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|13|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|15|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|157.100.57.180|999|Ecuador|Chaguarpamba|Ufinet Panama S.A.|
+|13|27.147.139.241|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|15|58.209.139.139|8089|China|Nanjing|China Telecom|
 |16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|19|27.189.135.81|8089|China|Langfang|Chinanet|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|18|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
