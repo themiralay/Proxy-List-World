@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|8|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|11|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|12|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|13|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|183.91.160.89|3128|Vietnam|Thanh Xuân|Global Technology - Telecommunications Corporation|
-|18|67.43.236.20|15233|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|18521|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32789|Canada|Montreal|GloboTech Communications|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|8|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|103.137.111.65|7777|Indonesia|Malang|PT. Capoeng Digital Nusantara|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|16|95.177.184.57|80|Saudi Arabia|Riyadh|ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD|
+|17|72.10.160.170|4861|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12469|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12469|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|12469|Canada|Montreal|GloboTech Communications|
 
 
 
