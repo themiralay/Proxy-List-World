@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5806** proxies at the latest update. Usable proxies are below.
+> Scraper found **5677** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|621|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|662|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3311|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|157.20.50.218|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|8|102.217.139.31|8180|South Africa|Cape Town|Opnaxs PTY LTD|
-|9|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|10|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|15|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|16|82.118.225.151|8080|Bulgaria|Sofia|BGO Cloud OOD|
-|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.228.250|4613|Canada|Montreal|GloboTech Communications|
-|19|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|20|103.167.171.153|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|5|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|157.20.50.218|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|11|101.255.167.253|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|13|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|14|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|19|72.10.164.178|26275|Canada|Montreal|GloboTech Communications|
+|20|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
 
 
 
