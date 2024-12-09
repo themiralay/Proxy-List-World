@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5566** proxies at the latest update. Usable proxies are below.
+> Scraper found **5578** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
 |6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|103.147.134.39|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|202.154.37.162|8080|Indonesia|Surabaya|RADNET|
-|12|116.104.131.89|10002|Vietnam|Hanoi|Viettel Corporation|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|16|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|17|37.120.192.154|8080|The Netherlands|Duivendrecht|M247 Europe SRL|
-|18|72.10.160.173|29295|Canada|Montreal|GloboTech Communications|
-|19|185.226.125.199|80|Oman|Muscat|The Cloud Data Center LLC|
-|20|103.171.245.24|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|7|1.55.146.6|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|9|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|11|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|139.84.157.16|3129|India|Bengaluru|The Constant Company, LLC|
+|15|72.10.164.178|23067|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|32789|Canada|Montreal|GloboTech Communications|
+|17|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|18|67.43.228.252|12497|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|18627|Canada|Montreal|GloboTech Communications|
+|20|15.236.113.208|3128|France|Paris|Amazon Technologies Inc.|
 
 
 
