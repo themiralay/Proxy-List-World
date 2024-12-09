@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|84.244.119.36|23500|Czechia|Vrchotovy Janovice|BlueTone-CRa|
-|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|116.104.173.136|10004|Vietnam|Hanoi|Viettel Corporation|
-|12|121.101.133.105|8586|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|13|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|65.1.244.232|80|India|Mumbai|Amazon.com|
-|16|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|18|200.117.0.225|999|Argentina|Santiago del Estero|Telecom Argentina S.A.|
-|19|103.167.170.196|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|4|121.101.133.105|8586|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|160.19.178.23|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|11|101.255.127.34|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|15|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|45.233.169.9|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|20|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
 
 
 
