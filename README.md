@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5259** proxies at the latest update. Usable proxies are below.
+> Scraper found **5411** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|705|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|123|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|441|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3187|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|116.108.12.57|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|10|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|11|116.108.40.241|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|67.43.227.226|33097|Canada|Montreal|GloboTech Communications|
-|13|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|72.10.160.92|25793|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|21639|Canada|Montreal|GloboTech Communications|
-|16|116.108.12.57|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|72.10.164.178|6857|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|18837|Canada|Montreal|GloboTech Communications|
-|20|58.120.36.156|9400|South Korea|Seoul|SK Broadband Co Ltd|
+|5|161.49.176.169|10101|Philippines|Pasig|Converge ICT Solution Inc|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|103.189.197.117|3125|Indonesia|Serang|PT Graha Sumber Teknologi|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|116.108.12.57|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|186.190.224.86|999|Colombia|Monterrey|TV AZTECA SUCURSAL COLOMBIA|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|67.43.236.20|14381|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.93|28681|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|26457|Canada|Montreal|GloboTech Communications|
+|17|15.236.113.208|3128|France|Paris|Amazon Technologies Inc.|
+|18|117.7.215.120|10008|Vietnam|Lấp Vò|Viettel Group|
+|19|65.108.159.129|5153|Finland|Helsinki|Hetzner Online GmbH|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
 
 
 
