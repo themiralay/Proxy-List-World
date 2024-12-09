@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5561** proxies at the latest update. Usable proxies are below.
+> Scraper found **5520** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|779|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|130|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|737|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|527|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3200|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|154.208.207.227|6666|Hong Kong|Hong Kong|DINGFENG Network|
-|10|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|11|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |12|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|13|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
-|14|202.154.36.145|8080|Indonesia|Surabaya|RADNET-BDG|
-|15|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|129.153.197.111|3128|United States|Phoenix|Oracle Corporation|
-|18|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A.|
-|19|116.105.63.168|10002|Vietnam|Quận Bảy|Viettel Corporation|
-|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|13|49.146.57.185|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|14|181.224.224.166|999|Peru|Lima|Inversiones Telcotel SAC|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|18|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|19|67.43.228.250|23977|Canada|Montreal|GloboTech Communications|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
