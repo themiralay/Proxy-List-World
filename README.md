@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5808** proxies at the latest update. Usable proxies are below.
+> Scraper found **5798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|884|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|591|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3311|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|6|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|162.249.171.253|4003|United States|New York|PureVoltage Hosting Inc.|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|171.234.65.177|10028|Vietnam|Hải Dương|Viettel Corporation|
-|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|11|49.0.32.48|8000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|12|38.183.146.181|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|13|121.227.180.146|8089|China|Nanjing|China Telecom|
-|14|181.78.82.214|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|15|202.165.92.30|3128|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|67.43.227.226|19005|Canada|Montreal|GloboTech Communications|
-|18|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|19|115.72.36.94|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|124.126.158.226|1555|China|Beijing|China Networks Inter-Exchange|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|171.234.75.55|10028|Vietnam|Hải Dương|Viettel Corporation|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|9|45.117.29.37|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|95.165.144.248|3288|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|15|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|16|223.25.110.104|8090|Indonesia|Malang|SinergiNet|
+|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|18|148.72.169.225|30127|United States|St Louis|velia.net|
+|19|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
