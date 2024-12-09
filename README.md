@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5440** proxies at the latest update. Usable proxies are below.
+> Scraper found **5481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|100|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|743|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|497|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|176.124.199.114|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|14|162.249.171.248|4231|United States|New York|PureVoltage Hosting Inc.|
-|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|16|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|72.10.164.178|9059|Canada|Montreal|GloboTech Communications|
-|18|117.1.248.32|10015|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.164.178|9059|Canada|Montreal|GloboTech Communications|
-|20|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|148.72.169.225|30127|United States|St Louis|velia.net|
+|8|68.183.211.85|10019|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|10|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|11|116.203.56.216|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|16|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|17|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|18|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|19|103.59.213.29|8080|India|Navi Mumbai|India Gaming Center|
+|20|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
