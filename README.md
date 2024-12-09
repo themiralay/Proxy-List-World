@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|6|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|116.107.113.245|10089|Vietnam|Hanoi|Viettel Corporation|
-|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|5|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
+|10|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|13|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|14|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
 |15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|16|67.43.227.227|21435|Canada|Montreal|GloboTech Communications|
-|17|49.148.39.207|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|18|103.162.63.143|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|19|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|20|101.255.208.185|1080|Indonesia|Bekasi|PT Remala Abadi|
+|16|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|17|64.92.82.58|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|67.43.228.254|9595|Canada|Montreal|GloboTech Communications|
 
 
 
