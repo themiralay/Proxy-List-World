@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|181.209.66.178|1120|Argentina|La Carlota|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|182.44.114.80|8888|China|Jinan|Cloud Computing Corporation|
-|12|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|13|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|177.73.68.150|8080|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
-|15|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.227|2591|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2419|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|14051|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|67.43.227.230|22881|Canada|Montreal|GloboTech Communications|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|12|207.230.8.7|999|Colombia|Bogotá|Cogent Communications|
+|13|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|14|72.10.164.178|24165|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|19217|Canada|Montreal|GloboTech Communications|
+|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|17|200.94.96.174|999|Mexico|Chichimequillas|Alestra, S. de R.L. de C.V.|
+|18|37.210.216.2|8080|Qatar|Doha|Ooredoo-MBB|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 
 
 
