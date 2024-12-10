@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5672** proxies at the latest update. Usable proxies are below.
+> Scraper found **5746** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|899|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|640|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3281|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|61.7.184.188|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|4|101.255.134.28|8080|Indonesia|Jakarta|PT Remala Abadi|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|13|121.101.132.99|8085|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|14|67.43.236.20|14509|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|19529|Canada|Montreal|GloboTech Communications|
-|16|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|17|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|67.43.228.253|19529|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14509|Canada|Montreal|GloboTech Communications|
+|6|61.7.184.188|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|7|115.72.1.27|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|8|115.72.9.43|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|9|190.239.221.110|999|Peru|Paramonga|Telefonica del Peru S.A.A.|
+|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|11|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|12|67.43.236.18|10387|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.94|1329|Canada|Montreal|GloboTech Communications|
+|14|200.116.198.222|9812|Colombia|Santiago de Cali|UNE EPM TELECOMUNICACIONES S.A|
+|15|72.10.164.178|29313|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|19261|Canada|Montreal|GloboTech Communications|
+|17|176.36.235.47|8087|Ukraine|Kyiv|Lanet Network|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
