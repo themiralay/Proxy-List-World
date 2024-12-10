@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|175.196.233.106|3128|South Korea|Anyang-si|Korea Telecom|
-|3|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
-|4|103.214.9.74|3128|Vietnam|Thanh Xuân|MEGACORE|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|103.214.9.73|3128|Vietnam|Thanh Xuân|MEGACORE|
-|7|103.214.9.75|3128|Vietnam|Thanh Xuân|MEGACORE|
-|8|123.30.189.15|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|91.236.230.57|3128|United States|Los Angeles|BlueVPS OU|
-|10|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|11|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|43.250.204.91|3128|Australia|Melbourne|Servers Australia Pty Ltd|
+|1|223.133.127.78|8080|Japan|Izumi-honchō|So-net Entertainment Corporation|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|183.177.140.245|8080|Japan|Tokyo|ARTERIA Networks Corporation|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
+|6|123.30.189.15|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.214.9.73|3128|Vietnam|Thanh Xuân|MEGACORE|
+|8|14.187.181.150|10002|Vietnam|Ho Chi Minh City|VNPT|
+|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|10|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|43.250.204.91|3128|Australia|Melbourne|Servers Australia Pty Ltd|
+|12|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|15|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|16|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
-|17|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|18|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|15|103.146.203.102|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|16|175.196.233.106|3128|South Korea|Anyang-si|Korea Telecom|
+|17|91.236.230.57|3128|United States|Los Angeles|BlueVPS OU|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
+|20|5.189.187.118|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
