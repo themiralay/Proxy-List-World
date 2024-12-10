@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5849** proxies at the latest update. Usable proxies are below.
+> Scraper found **6113** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|998|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|649|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3345|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|156.236.75.140|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|4|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|5|103.214.9.76|3128|Vietnam|Thanh Xuân|MEGACORE|
-|6|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|2|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|14.187.183.253|10003|Vietnam|Ho Chi Minh City|VNPT|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|8|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
-|9|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|10|203.150.113.245|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|11|103.179.182.53|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|202.47.65.146|3128|Indonesia|Jakarta|PT Filltech Antar Nusa|
-|13|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|14|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|15|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|16|42.113.25.141|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|18|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|19|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|211.175.140.84|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|13|31.41.216.122|3128|Ukraine|Vinnytsia|ON-LINE Ltd|
+|14|128.140.113.110|4145|Germany|Falkenstein|Hetzner Online GmbH|
+|15|34.93.151.205|8660|India|Mumbai|Google LLC|
+|16|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|17|34.93.155.104|8660|India|Mumbai|Google LLC|
+|18|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
