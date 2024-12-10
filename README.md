@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5705** proxies at the latest update. Usable proxies are below.
+> Scraper found **5621** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|146|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|610|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3441|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|194.87.82.69|25821|The Netherlands|Amsterdam|Baxet Group Inc.|
-|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|9|170.83.215.230|6767|Brazil|Linhares|Megalink Servicos Ltda|
-|10|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|72.10.160.90|11529|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|8175|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28791|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28791|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|5131|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|28791|Canada|Montreal|GloboTech Communications|
-|18|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|103.193.144.123|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|67.43.227.226|2147|Canada|Montreal|GloboTech Communications|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|119.95.237.19|8080|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|7|203.150.113.191|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|103.233.156.42|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|9|27.147.235.75|8080|Bangladesh|Sylhet|Link3 Technologies Limited|
+|10|103.178.171.36|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|11|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
+|12|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|131.255.56.169|9292|Brazil|Tupã|Link Brasil Telecomunicacoes Ltda|
+|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|15|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|18|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|19|185.226.125.199|80|Oman|Muscat|The Cloud Data Center LLC|
+|20|67.43.227.227|23153|Canada|Montreal|GloboTech Communications|
 
 
 
