@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5323** proxies at the latest update. Usable proxies are below.
+> Scraper found **5299** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|136|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3156|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|2|101.108.148.127|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|194.87.82.69|25821|The Netherlands|Amsterdam|Baxet Group Inc.|
-|5|38.156.72.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|34.100.189.30|8660|India|Mumbai|Google LLC|
-|7|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|8|134.209.149.25|8099|India|Bengaluru|DigitalOcean, LLC|
-|9|72.10.160.172|24631|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|26849|Canada|Montreal|GloboTech Communications|
-|11|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|182.50.80.17|48080|Thailand|Pak Kret|JASTEL-NETWORK|
-|13|72.10.160.173|10517|Canada|Montreal|GloboTech Communications|
-|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|15|72.10.160.173|10517|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|2183|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|2183|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25173|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|4055|Canada|Montreal|GloboTech Communications|
-|20|202.47.188.76|8087|Indonesia|Magetan|Lintas Data Prima, PT|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|3|101.108.148.127|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|152.70.177.163|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|7|194.87.82.69|25821|The Netherlands|Amsterdam|Baxet Group Inc.|
+|8|202.165.92.30|3128|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|9|113.160.184.87|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.160.90|22151|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|2183|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.174|18173|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|7965|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|30429|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|18173|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7965|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|8033|Canada|Montreal|GloboTech Communications|
+|19|103.189.197.29|8787|Indonesia|Serang|PT Graha Sumber Teknologi|
+|20|72.10.164.178|7965|Canada|Montreal|GloboTech Communications|
 
 
 
