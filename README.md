@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6040** proxies at the latest update. Usable proxies are below.
+> Scraper found **6157** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1042|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|649|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3345|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|211.175.140.60|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
-|7|5.189.187.118|3128|Germany|Nuremberg|Contabo GmbH|
-|8|31.58.158.110|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|9|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|203.190.117.230|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|12|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|36.73.221.3|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
-|17|49.48.90.72|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|19|43.250.204.91|3128|Australia|Melbourne|Servers Australia Pty Ltd|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|6|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|7|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|175.193.64.138|3128|South Korea|Seoul|Korea Telecom|
+|10|74.48.175.78|3128|United States|Los Angeles|Multacom Corporation|
+|11|5.189.187.118|3128|Germany|Nuremberg|Contabo GmbH|
+|12|188.166.47.155|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|14|103.54.218.186|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|15|67.205.175.45|10000|United States|North Bergen|DigitalOcean, LLC|
+|16|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|17|203.190.117.230|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|18|186.26.92.233|58339|Brazil|São João de Meriti|SAT TELECOM E CONSULTORIA EM TI Ltda|
+|19|115.72.10.199|10028|Vietnam|Vũng Tàu|VIETELmetro|
+|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
