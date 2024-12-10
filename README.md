@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5696** proxies at the latest update. Usable proxies are below.
+> Scraper found **5689** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|588|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3206|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|84.33.15.6|60006|Australia|Sydney|Server24 Australia|
+|2|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|117.5.135.1|10010|Vietnam|Hanoi|VIETTEL|
-|6|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|117.7.215.120|10020|Vietnam|Lấp Vò|Viettel Group|
-|10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|34.93.155.104|8660|India|Mumbai|Google LLC|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|34.100.189.30|8660|India|Mumbai|Google LLC|
-|16|72.10.160.171|19267|Canada|Montreal|GloboTech Communications|
-|17|34.93.159.4|8660|India|Mumbai|Google LLC|
-|18|51.159.75.249|3128|France|Paris|SCALEWAY|
-|19|121.227.179.190|8089|China|Nanjing|China Telecom|
-|20|134.209.149.25|8099|India|Bengaluru|DigitalOcean, LLC|
+|4|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|134.209.149.25|8099|India|Bengaluru|DigitalOcean, LLC|
+|13|171.224.81.192|10011|Vietnam|Hanoi|Viettel Corporation|
+|14|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|15|115.72.1.27|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|72.10.160.90|10245|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
 
 
 
