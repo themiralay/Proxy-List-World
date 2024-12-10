@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|171.234.75.55|10028|Vietnam|Hải Dương|Viettel Corporation|
-|8|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|9|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|10|171.224.253.111|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|12|171.236.111.26|10004|Vietnam|Hanoi|Viettel Corporation|
-|13|164.92.198.91|10008|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|15|194.87.82.69|25821|The Netherlands|Amsterdam|Baxet Group Inc.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|5|171.254.87.3|10005|Vietnam|Bắc Giang|Viettel Corporation|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|194.87.82.69|25821|The Netherlands|Amsterdam|Baxet Group Inc.|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|10|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|11|176.97.122.213|5432|Ukraine|Kyiv|Virtual Systems LLC|
+|12|123.19.14.101|7001|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|13|162.249.171.248|4231|United States|New York|PureVoltage Hosting Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|16|58.136.96.78|8080|Thailand|Ratchathewi|AIS-Fibre|
+|17|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 |18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|19|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|20|138.97.37.16|9393|Brazil|Birigui|Fast Telecomunicacoes Birigui Ltda - ME|
+|19|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
