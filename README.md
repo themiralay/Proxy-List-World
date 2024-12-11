@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6110** proxies at the latest update. Usable proxies are below.
+> Scraper found **6152** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|910|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|952|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|523|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3451|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|4|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|3|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|8|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.93.155.104|8660|India|Mumbai|Google LLC|
-|11|45.5.118.177|999|Guatemala|Guatemala City|Infinitum S.A.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|16|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|101.109.25.204|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|18|203.190.117.111|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|19|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|171.245.115.5|10020|Vietnam|Bắc Giang|Viettel Corporation|
+|8|116.104.128.9|10002|Vietnam|Hanoi|Viettel Corporation|
+|9|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|10|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|34.93.155.104|8660|India|Mumbai|Google LLC|
+|15|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
+|16|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|45.5.118.177|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
 
 
 
