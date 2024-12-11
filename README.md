@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|7|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.247.23.192|8080|Indonesia|Cileungsir|PT wifian Solution|
-|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|31.211.69.52|3128|Russia|Tomsk|OOO NETCOM|
-|13|148.103.9.57|80|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|14|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|15|148.153.39.174|9089|United States|Dallas|CDS Global Cloud Co., Ltd|
-|16|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|103.230.81.21|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|19|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|9|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|15|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|16|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|17|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|18|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
