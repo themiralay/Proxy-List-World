@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|203.150.128.89|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
-|13|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|11|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|12|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|13|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.118.175.162|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|16|34.93.143.32|8660|India|Mumbai|Google LLC|
-|17|34.93.155.104|8660|India|Mumbai|Google LLC|
-|18|34.100.189.30|8660|India|Mumbai|Google LLC|
-|19|34.93.151.205|8660|India|Mumbai|Google LLC|
-|20|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|15|37.120.192.154|8080|The Netherlands|Duivendrecht|M247 Europe SRL|
+|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|116.104.128.99|10006|Vietnam|Hanoi|Viettel Corporation|
+|19|116.104.175.217|10002|Vietnam|Hanoi|Viettel Corporation|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
