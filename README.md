@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5744** proxies at the latest update. Usable proxies are below.
+> Scraper found **5491** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|831|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|538|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|2|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
 |6|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|7|117.5.105.210|10004|Vietnam|Hanoi|VIETTEL|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|12|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|13|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|14|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|15|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|17|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|20|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|67.43.236.18|14305|Canada|Montreal|GloboTech Communications|
+|12|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|14|72.10.160.91|2641|Canada|Montreal|GloboTech Communications|
+|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|16|67.43.236.18|14305|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.22|20931|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30889|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|18813|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24119|Canada|Montreal|GloboTech Communications|
 
 
 
