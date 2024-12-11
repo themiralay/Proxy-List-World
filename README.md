@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|9|34.93.159.4|8660|India|Mumbai|Google LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|34.93.143.32|8660|India|Mumbai|Google LLC|
-|12|34.93.151.205|8660|India|Mumbai|Google LLC|
-|13|34.93.144.121|8660|India|Mumbai|Google LLC|
-|14|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|15|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|20|103.166.45.52|8080|Indonesia|Grobogan|PT Cipta Data Global|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|8|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|11|34.93.151.205|8660|India|Mumbai|Google LLC|
+|12|34.93.144.121|8660|India|Mumbai|Google LLC|
+|13|34.93.143.32|8660|India|Mumbai|Google LLC|
+|14|34.93.159.4|8660|India|Mumbai|Google LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|117.5.128.219|10002|Vietnam|Hanoi|VIETTEL|
+|17|185.135.86.145|3128|Latvia|Riga|Melbikomas UAB|
+|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
