@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6432** proxies at the latest update. Usable proxies are below.
+> Scraper found **6423** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1082|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|917|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|794|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3321|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|36.73.128.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.234.31.79|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.24.146.93|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|110.164.233.42|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|12|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
-|14|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
-|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|103.18.77.57|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|103.161.62.176|8077|Indonesia|Kuningan Barat|Internet Service Provider|
+|14|103.144.102.230|8085|Indonesia|Cirebon|PANDAWANET|
+|15|185.82.99.124|8080|Lebanon|Baalbek|NET 360 S.A.R.L|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
 
 
 
