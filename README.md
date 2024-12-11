@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5458** proxies at the latest update. Usable proxies are below.
+> Scraper found **5203** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|486|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3144|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |2|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|3|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|4|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|6|171.228.112.83|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|3|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|6|42.113.25.127|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|9|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|10|149.28.181.248|80|Australia|Sydney|The Constant Company|
-|11|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|12|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|16|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|17|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|18|111.95.41.168|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|19|103.21.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|14.177.58.214|8080|Vietnam|Hanoi|VNPT|
+|10|117.1.107.154|10002|Vietnam|Hanoi|Viettel Corporation|
+|11|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|12|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|200.24.136.43|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|16|27.189.133.57|8089|China|Langfang|Chinanet|
+|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|101.109.160.31|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|154.64.211.145|999|United States|Jacksonville|OSNET Wireless|
+|20|157.66.36.13|8181|Indonesia|Ciruas|PT Trik Media Data|
 
 
 
