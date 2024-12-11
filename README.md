@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|103.161.62.176|8077|Indonesia|Kuningan Barat|Internet Service Provider|
-|14|103.144.102.230|8085|Indonesia|Cirebon|PANDAWANET|
-|15|185.82.99.124|8080|Lebanon|Baalbek|NET 360 S.A.R.L|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|7|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|10|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|11|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|12|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|14|103.156.17.240|8080|Indonesia|Indramayu|RSTNET|
+|15|103.171.255.58|8080|Indonesia|Sleman|ZKI|
+|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|19|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|20|103.112.162.227|8080|Indonesia|Jakarta|24AS|
 
 
 
