@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |10|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|14|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|171.234.227.231|10007|Vietnam|Hanoi|Viettel Corporation|
-|16|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|11|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|168.149.31.79|8080|Saudi Arabia|Jeddah|Saudi Telecom Company JSC|
+|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|17|49.48.51.177|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|134.209.149.25|8099|India|Bengaluru|DigitalOcean, LLC|
 
 
 
