@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6484** proxies at the latest update. Usable proxies are below.
+> Scraper found **6448** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|996|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|960|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|811|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3451|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|203.150.128.89|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|168.243.89.65|999|El Salvador|Santa Elena|Telenetwork de El Salvador|
-|8|116.107.213.234|10006|Vietnam|Hải Dương|Viettel Corporation|
-|9|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|10|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|12|116.104.173.92|10014|Vietnam|Hanoi|Viettel Corporation|
-|13|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|14|113.192.6.190|80|Vietnam|Thanh Xuân District|BASE|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|34.93.155.104|8660|India|Mumbai|Google LLC|
-|17|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|42.113.25.127|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|203.150.128.89|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
+|5|106.251.66.243|50727|South Korea|Songpa-gu|LG DACOM Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|44.227.181.1|3128|United States|Portland|Amazon.com, Inc.|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
