@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5465** proxies at the latest update. Usable proxies are below.
+> Scraper found **5493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|486|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3144|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|3|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|218.155.31.50|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|79.106.108.156|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
-|11|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|13|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|14|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|15|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|191.253.45.68|3128|Brazil|Laguna|Serra Geral Solucoes Para Internet Ltda|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|207.154.229.255|10004|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|5|34.70.111.246|3128|United States|Council Bluffs|Google LLC|
+|6|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|7|101.109.160.31|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|103.169.189.124|3125|Indonesia|Magetan|Sarana Media Cemerlang|
+|9|95.31.160.1|8080|Russia|Moscow|CORBINA-BROADBAND|
+|10|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|11|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|204.199.129.38|999|Chile|Santiago|Cirion Technologies Solutions|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|67.43.228.250|19485|Canada|Montreal|GloboTech Communications|
+|20|103.193.144.123|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
