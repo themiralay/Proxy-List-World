@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|4|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|34.93.159.4|8660|India|Mumbai|Google LLC|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|5.189.187.118|3128|Germany|Nuremberg|Contabo GmbH|
-|14|49.145.50.38|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|16|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|17|110.78.179.240|8080|Thailand|Bangkok|CAT-BB|
-|18|174.138.30.37|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|34.93.159.4|8660|India|Mumbai|Google LLC|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|110.78.179.240|8080|Thailand|Bangkok|CAT-BB|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|119.94.176.229|8080|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|17|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|20|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
