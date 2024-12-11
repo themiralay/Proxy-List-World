@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|5|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
-|6|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
-|7|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|5.189.187.118|3128|Germany|Nuremberg|Contabo GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|14|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|18|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|19|46.161.196.139|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|34.93.143.32|8660|India|Mumbai|Google LLC|
+|3|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|160.223.163.31|8080|United States|Sunnyvale|Fortinet Inc.|
+|6|117.1.248.32|10005|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|14.244.119.149|8080|Vietnam|Hanoi|VNPT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
+|14|210.79.146.178|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|15|141.193.158.139|8080|Hong Kong|Cheung Sha Wan|Netsec Limited|
+|16|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|17|202.57.25.91|1111|Indonesia|Semarang|announced of WINET|
+|18|34.100.189.30|8660|India|Mumbai|Google LLC|
+|19|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|20|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
 
 
 
