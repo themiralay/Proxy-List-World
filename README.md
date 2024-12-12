@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5857** proxies at the latest update. Usable proxies are below.
+> Scraper found **5938** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|805|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|586|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3240|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|167.114.68.29|3128|Canada|Montreal|OVH SAS|
-|7|147.75.202.36|10086|United States|San Jose|Packet Host, Inc.|
-|8|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.231.62.10|8080|Cambodia|Phnom Penh|Mekongnet|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|14|110.164.233.42|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|103.157.116.171|8080|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
-|16|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|187.44.180.234|61000|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|18|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|134.35.186.87|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|116.104.135.37|10004|Vietnam|Hanoi|Viettel Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|7|162.191.181.73|80|United States|Bellevue|T-Mobile USA, Inc.|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|34.93.144.121|8660|India|Mumbai|Google LLC|
+|10|34.93.155.104|8660|India|Mumbai|Google LLC|
+|11|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|36.73.128.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|13|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|14|188.209.241.177|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|15|2.50.142.2|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|16|177.129.249.170|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|17|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|134.35.186.87|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
 
 
 
