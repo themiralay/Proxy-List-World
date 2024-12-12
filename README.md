@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|34.100.189.71|8660|India|Mumbai|Google LLC|
-|7|34.93.159.4|8660|India|Mumbai|Google LLC|
-|8|65.1.244.232|80|India|Mumbai|Amazon.com|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|34.93.155.104|8660|India|Mumbai|Google LLC|
-|11|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|14|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|15|51.89.96.237|3128|United Kingdom|London|OVH SAS|
-|16|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|17|34.100.189.30|8660|India|Mumbai|Google LLC|
-|18|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|19|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|20|34.93.144.121|8660|India|Mumbai|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|34.100.189.71|8660|India|Mumbai|Google LLC|
+|9|34.93.159.4|8660|India|Mumbai|Google LLC|
+|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|11|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|190.61.61.210|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|103.59.44.162|8082|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|34.93.155.104|8660|India|Mumbai|Google LLC|
+|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
