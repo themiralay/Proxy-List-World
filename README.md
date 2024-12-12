@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5908** proxies at the latest update. Usable proxies are below.
+> Scraper found **5942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|767|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|617|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3332|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|36.73.128.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|117.1.132.252|5111|Vietnam|Hanoi|Viettel Corporation|
-|5|116.104.135.152|10002|Vietnam|Hanoi|Viettel Corporation|
-|6|34.93.151.205|8660|India|Mumbai|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|116.105.167.42|10002|Vietnam|Da Nang|Viettel Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|116.105.167.42|10002|Vietnam|Da Nang|Viettel Corporation|
-|14|34.93.144.121|8660|India|Mumbai|Google LLC|
-|15|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
-|16|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.175.157.64|8080|Indonesia|Jakarta|MYARSYILA|
-|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|116.105.167.42|10002|Vietnam|Da Nang|Viettel Corporation|
+|8|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|9|116.105.167.42|10002|Vietnam|Da Nang|Viettel Corporation|
+|10|103.175.157.64|8080|Indonesia|Jakarta|MYARSYILA|
+|11|179.104.48.159|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|12|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
 
 
 
