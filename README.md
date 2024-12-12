@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|212.252.73.29|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|8|117.5.73.56|10006|Vietnam|Bắc Giang|VIETTEL|
-|9|116.104.134.133|10006|Vietnam|Hanoi|Viettel Corporation|
+|5|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|7|117.0.140.189|10004|Vietnam|Hanoi|Viettel Group|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|11|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|115.72.8.21|10024|Vietnam|Vũng Tàu|VIETELmetro|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|38.156.73.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|16|115.72.9.43|10015|Vietnam|Vũng Tàu|VIETELmetro|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|51.254.236.34|1443|Italy|Milan|OVH SAS|
+|19|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
