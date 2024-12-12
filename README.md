@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5968** proxies at the latest update. Usable proxies are below.
+> Scraper found **6010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|844|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|603|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3295|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|116.42.218.4|3128|South Korea|Daegu|LG POWERCOMM|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|6|34.100.189.71|8660|India|Mumbai|Google LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.100.189.71|8660|India|Mumbai|Google LLC|
+|5|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|10|34.93.144.121|8660|India|Mumbai|Google LLC|
-|11|34.93.159.4|8660|India|Mumbai|Google LLC|
-|12|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|13|34.93.155.104|8660|India|Mumbai|Google LLC|
-|14|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|15|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|16|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|17|34.100.189.30|8660|India|Mumbai|Google LLC|
-|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|92.51.122.174|8080|Georgia||Deltanet-net Network|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|103.59.44.162|8082|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|13|72.10.160.93|22135|Canada|Montreal|GloboTech Communications|
+|14|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
+|15|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|16|208.67.28.29|58090|United States|Eagle River|SonicNet Inc.|
+|17|103.75.85.140|8070|Indonesia|Central Java|MEGADATA|
+|18|34.100.189.30|8660|India|Mumbai|Google LLC|
+|19|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|20|49.48.68.68|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
