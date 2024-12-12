@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4943** proxies at the latest update. Usable proxies are below.
+> Scraper found **4950** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|710|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2570|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|174.138.29.206|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|36.73.128.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|36.73.128.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|45.237.185.17|999|Panama|Las Tablas|DBS NETWORK, S.A.|
 |5|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|6|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|8|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|14|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|6|34.93.155.104|8660|India|Mumbai|Google LLC|
+|7|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
+|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|9|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|10|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|11|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|115.77.130.225|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|101.255.148.241|8080|Indonesia|Bekasi|PT Remala Abadi|
 |15|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|16|186.0.144.81|9797|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|17|41.57.46.198|6060|South Africa|Vereeniging|FTH SCR P7|
-|18|103.186.90.116|8989|Indonesia|Guyangan|PT Akses Data Internusa|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|16|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
