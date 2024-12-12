@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5318** proxies at the latest update. Usable proxies are below.
+> Scraper found **4982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|841|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2653|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|103.228.243.219|8080|Indonesia|Jakarta|SpaceX Starlink|
-|6|183.240.196.53|33333|China|Guangzhou|China Mobile Communications Corporation|
-|7|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
-|8|117.1.248.32|10012|Vietnam|Hanoi|Viettel Corporation|
-|9|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|10|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|11|31.163.204.156|8080|Russia|Perm|OJSC Rostelecom|
-|12|34.93.151.205|8660|India|Mumbai|Google LLC|
-|13|171.243.102.32|10005|Vietnam|Hanoi|Viettel Corporation|
-|14|78.26.146.59|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
-|15|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
-|16|160.119.223.109|443|South Africa|Durban|SAINT ICT CONSULTANTS (PTY) LTD|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|117.0.140.189|10004|Vietnam|Hanoi|Viettel Group|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|27.189.134.9|8089|China|Langfang|Chinanet|
+|5|34.100.189.30|8660|India|Mumbai|Google LLC|
+|6|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|7|115.72.163.40|10010|Vietnam|Vũng Tàu|VIETELmetro|
+|8|115.72.163.40|10010|Vietnam|Vũng Tàu|VIETELmetro|
+|9|27.189.135.58|8089|China|Langfang|Chinanet|
+|10|117.1.101.231|10011|Vietnam|Hanoi|Viettel Corporation|
+|11|67.43.228.250|19719|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.21|1185|Canada|Montreal|GloboTech Communications|
+|13|157.20.218.28|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.236.19|11407|Canada|Montreal|GloboTech Communications|
+|16|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|72.10.160.94|8309|Canada|Montreal|GloboTech Communications|
+|18|78.137.67.227|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|113.103.20.108|20001|China|Guangzhou|Chinanet|
+|20|72.10.160.172|19999|Canada|Montreal|GloboTech Communications|
 
 
 
