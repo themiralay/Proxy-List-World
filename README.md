@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5861** proxies at the latest update. Usable proxies are below.
+> Scraper found **5866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|849|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|854|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3295|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|34.100.189.71|8660|India|Mumbai|Google LLC|
-|6|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|9|116.107.112.203|10071|Vietnam|Hanoi|Viettel Corporation|
-|10|34.93.155.104|8660|India|Mumbai|Google LLC|
-|11|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.107.106.50|10022|Vietnam|Hải Dương|Viettel Corporation|
-|13|212.175.23.45|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|178.156.131.62|80|United States|Ashburn|Hetzner Online GmbH|
-|15|116.104.133.249|10002|Vietnam|Hanoi|Viettel Corporation|
-|16|115.72.163.40|10010|Vietnam|Vũng Tàu|VIETELmetro|
-|17|116.104.128.99|10006|Vietnam|Hanoi|Viettel Corporation|
-|18|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|19|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|20|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|116.104.175.195|10006|Vietnam|Hanoi|Viettel Corporation|
+|5|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|6|34.100.189.71|8660|India|Mumbai|Google LLC|
+|7|117.5.104.126|10016|Vietnam|Hanoi|VIETTEL|
+|8|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|103.76.150.206|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|34.93.155.104|8660|India|Mumbai|Google LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|116.104.170.139|10000|Vietnam|Hanoi|Viettel Corporation|
+|19|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|20|45.229.9.146|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
 
 
 
