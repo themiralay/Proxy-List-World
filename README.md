@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|116.105.167.42|10003|Vietnam|Da Nang|Viettel Corporation|
-|6|203.150.128.45|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|12|171.245.115.5|10020|Vietnam|Bắc Giang|Viettel Corporation|
-|13|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|16|110.164.233.42|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|147.45.152.140|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|19|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|20|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|12|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|13|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|14|185.202.165.1|53281|Spain|Mijas|AVATEL TELECOM, SA|
+|15|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|106.251.66.243|50727|South Korea|Songpa-gu|LG DACOM Corporation|
+|18|34.93.143.32|8660|India|Mumbai|Google LLC|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|110.164.233.42|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
