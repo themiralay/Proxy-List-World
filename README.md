@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4876** proxies at the latest update. Usable proxies are below.
+> Scraper found **5012** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|774|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2570|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|4|116.104.131.132|10008|Vietnam|Hanoi|Viettel Corporation|
-|5|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|6|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|7|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|103.190.171.41|8080|Indonesia|Jakarta|WMS|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|6|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|7|115.77.130.225|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|9|41.60.238.16|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|11|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|12|116.104.134.133|10006|Vietnam|Hanoi|Viettel Corporation|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|103.118.44.249|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
 
 
 
