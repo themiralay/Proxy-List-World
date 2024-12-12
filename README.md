@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5063** proxies at the latest update. Usable proxies are below.
+> Scraper found **4735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|830|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|802|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2570|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|4|157.245.60.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.100.189.30|8660|India|Mumbai|Google LLC|
-|6|34.93.144.121|8660|India|Mumbai|Google LLC|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
+|5|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|6|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|174.138.29.206|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|34.93.143.32|8660|India|Mumbai|Google LLC|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|15|103.127.220.190|8181|Indonesia|Mojokerto|PT Multi Guna Sinergi|
-|16|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|17|34.93.155.104|8660|India|Mumbai|Google LLC|
-|18|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|19|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|20|170.239.241.30|31288|Brazil|Taquara|Blus Telecom Ltda - EPP|
+|8|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|115.77.130.225|10006|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|117.5.128.219|10002|Vietnam|Hanoi|VIETTEL|
+|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|117.0.140.189|10004|Vietnam|Hanoi|Viettel Group|
+|13|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|14|103.153.246.98|8080|Indonesia|Purwakarta|PRIMAHOME|
+|15|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|16|61.7.184.188|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
