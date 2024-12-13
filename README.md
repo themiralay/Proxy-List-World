@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5619** proxies at the latest update. Usable proxies are below.
+> Scraper found **5255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|779|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3203|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|65.0.3.92|3128|India|Mumbai|Amazon.com|
-|4|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|5|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|4|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|34.100.229.37|8660|India|Mumbai|Google LLC|
 |6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|7|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
-|11|65.0.3.92|3128|India|Mumbai|Amazon.com|
-|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|17|34.100.195.10|8660|India|Mumbai|Google LLC|
-|18|67.43.227.227|32181|Canada|Montreal|GloboTech Communications|
-|19|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|20|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|7|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|9|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|10|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|34.93.143.32|8660|India|Mumbai|Google LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|15|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|34.100.206.208|8660|India|Mumbai|Google LLC|
+|17|34.100.233.45|8660|India|Mumbai|Google LLC|
+|18|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|65.0.3.92|3128|India|Mumbai|Amazon.com|
 
 
 
