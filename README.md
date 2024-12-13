@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.70|3128|Japan|Chiyoda|InfoSphere|
-|2|34.1.207.222|3128|Singapore|Singapore|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|7|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|4|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|180.191.59.254|8081|Philippines|Tarlac City|Globe Telecom|
-|13|188.75.78.130|443|Iran|Tehran|Rasaneh Avabarid Private Joint Stock Company|
-|14|203.190.117.247|8077|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|15|34.100.206.208|8660|India|Mumbai|Google LLC|
-|16|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|121.101.131.67|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|11|146.196.96.180|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
+|15|38.183.146.251|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|19|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
