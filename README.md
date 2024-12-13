@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5793** proxies at the latest update. Usable proxies are below.
+> Scraper found **5964** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|630|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3231|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|14.39.239.79|60780|South Korea|Eunpyeong-gu|Korea Telecom|
 |5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|6|101.109.42.175|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|9|34.100.153.54|8660|India|Mumbai|Google LLC|
+|6|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|9|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|12|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|13|34.100.136.22|8660|India|Mumbai|Google LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|34.100.142.32|8660|India|Mumbai|Google LLC|
-|17|34.100.161.228|8660|India|Mumbai|Google LLC|
-|18|34.100.189.71|8660|India|Mumbai|Google LLC|
-|19|34.100.233.45|8660|India|Mumbai|Google LLC|
-|20|34.100.212.126|8660|India|Mumbai|Google LLC|
+|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|12|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|13|95.70.173.16|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri|
+|14|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|17|34.100.206.208|8660|India|Mumbai|Google LLC|
+|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|49.145.181.132|8081|Philippines|Talisay City|Philippine Long Distance Telephone Co.|
 
 
 
