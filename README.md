@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5631** proxies at the latest update. Usable proxies are below.
+> Scraper found **5192** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|818|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|7|38.183.146.125|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|12|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|116.104.173.92|10014|Vietnam|Hanoi|Viettel Corporation|
-|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|17|67.43.236.20|18295|Canada|Montreal|GloboTech Communications|
-|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|72.10.160.170|8577|Canada|Montreal|GloboTech Communications|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|11|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|12|72.10.164.178|25491|Canada|Montreal|GloboTech Communications|
+|13|116.104.135.143|10002|Vietnam|Hanoi|Viettel Corporation|
+|14|72.10.164.178|25491|Canada|Montreal|GloboTech Communications|
+|15|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|16|67.43.228.250|16637|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25491|Canada|Montreal|GloboTech Communications|
+|18|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|19|72.10.160.174|25675|Canada|Montreal|GloboTech Communications|
+|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
 
 
 
