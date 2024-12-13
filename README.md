@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.113|3128|Japan|Chiyoda|InfoSphere|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |3|116.107.113.139|10071|Vietnam|Hanoi|Viettel Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|7|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|103.153.149.207|8080|Indonesia|Semarang|JARINGANKU|
-|10|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|103.183.254.6|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|117.5.73.56|10018|Vietnam|Bắc Giang|VIETTEL|
+|4|116.104.133.165|10010|Vietnam|Hanoi|Viettel Corporation|
+|5|171.245.122.119|10024|Vietnam|Bắc Giang|Viettel Corporation|
+|6|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
+|10|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|11|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|116.107.83.24|10026|Vietnam|Hải Dương|Viettel Corporation|
+|15|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|16|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|17|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|18|82.118.225.151|8080|Bulgaria|Sofia|BGO Cloud OOD|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
