@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|5|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|6|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|3|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|4|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|5|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|6|61.129.2.212|8080|China|Beijing|CHINANET|
+|7|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
 |8|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|188.75.78.130|443|Iran|Tehran|Rasaneh Avabarid Private Joint Stock Company|
-|11|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
-|12|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|16|195.62.15.58|3128|Ukraine|Kropyvnytskyi|ISP Shtorm LTD|
-|17|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|18|201.71.137.90|5128|Brazil|Cuiabá|Avato Tecnologia S.A|
-|19|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.160.90|22391|Canada|Montreal|GloboTech Communications|
+|9|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|116.107.104.41|10034|Vietnam|Hải Dương|Viettel Corporation|
+|11|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|12|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
+|14|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|185.44.26.217|43097|Spain|Cartagena|Emartinez1|
+|17|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|18|182.52.47.189|9696|Thailand|Bang Kruai|TOT Public Company Limited|
+|19|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|20|61.160.247.69|9999|China|Nanjing|China Telecom|
 
 
 
