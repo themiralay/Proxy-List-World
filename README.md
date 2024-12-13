@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|101.101.217.36|80|South Korea|Seongnam-si|NBP|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|34.93.151.205|8660|India|Mumbai|Google LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.100.189.71|8660|India|Mumbai|Google LLC|
-|11|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|12|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|65.0.3.92|3128|India|Mumbai|Amazon.com|
-|15|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|16|34.93.155.104|8660|India|Mumbai|Google LLC|
-|17|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|34.100.189.30|8660|India|Mumbai|Google LLC|
-|20|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|8|34.93.144.121|8660|India|Mumbai|Google LLC|
+|9|34.93.159.4|8660|India|Mumbai|Google LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|34.100.189.30|8660|India|Mumbai|Google LLC|
+|12|167.172.97.94|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|34.100.189.71|8660|India|Mumbai|Google LLC|
+|14|34.93.143.32|8660|India|Mumbai|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|34.93.151.205|8660|India|Mumbai|Google LLC|
+|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|20|34.93.155.104|8660|India|Mumbai|Google LLC|
 
 
 
