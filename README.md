@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|34.100.233.45|8660|India|Mumbai|Google LLC|
+|4|34.100.206.208|8660|India|Mumbai|Google LLC|
 |5|65.0.3.92|3128|India|Mumbai|Amazon.com|
 |6|34.100.229.37|8660|India|Mumbai|Google LLC|
-|7|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|34.100.218.166|8660|India|Mumbai|Google LLC|
-|10|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|11|34.100.199.2|8660|India|Mumbai|Google LLC|
-|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
-|15|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|34.100.212.126|8660|India|Mumbai|Google LLC|
-|18|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|19|34.93.155.104|8660|India|Mumbai|Google LLC|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|34.100.218.166|8660|India|Mumbai|Google LLC|
+|8|34.100.199.2|8660|India|Mumbai|Google LLC|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|11|34.100.234.70|8660|India|Mumbai|Google LLC|
+|12|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|13|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|14|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|15|116.107.104.41|10034|Vietnam|Hải Dương|Viettel Corporation|
+|16|34.100.212.126|8660|India|Mumbai|Google LLC|
+|17|34.93.155.104|8660|India|Mumbai|Google LLC|
+|18|138.118.48.44|8080|Argentina|La Plata|CyberWave S.A.|
+|19|34.100.192.154|8660|India|Mumbai|Google LLC|
+|20|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
