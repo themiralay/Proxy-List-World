@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5428** proxies at the latest update. Usable proxies are below.
+> Scraper found **5118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|473|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|8|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|188.75.78.130|443|Iran|Tehran|Rasaneh Avabarid Private Joint Stock Company|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|16|190.202.84.199|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|17|146.190.104.205|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|19|103.18.77.57|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|67.43.228.254|21697|Canada|Montreal|GloboTech Communications|
+|2|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|3|116.107.113.139|10071|Vietnam|Hanoi|Viettel Corporation|
+|4|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|5|203.150.113.10|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|116.203.139.209|5153|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|103.184.54.3|7777|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|9|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|10|188.75.78.130|443|Iran|Tehran|Rasaneh Avabarid Private Joint Stock Company|
+|11|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|72.10.160.170|4423|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|16973|Canada|Montreal|GloboTech Communications|
+|15|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|16|72.10.160.170|4423|Canada|Montreal|GloboTech Communications|
+|17|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|18|67.43.228.252|27741|Canada|Montreal|GloboTech Communications|
+|19|103.169.255.195|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|20|150.107.247.155|8080|Indonesia|Bandung|Infrastruktur STARNET|
 
 
 
