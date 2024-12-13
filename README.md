@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5067** proxies at the latest update. Usable proxies are below.
+> Scraper found **5321** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3103|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.116.70|3128|Japan|Chiyoda|InfoSphere|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|101.109.55.250|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|4|101.109.48.160|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|6|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|34.100.218.166|8660|India|Mumbai|Google LLC|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|34.100.144.243|8660|India|Mumbai|Google LLC|
-|10|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|34.100.212.126|8660|India|Mumbai|Google LLC|
-|15|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|17|67.43.236.20|25495|Canada|Montreal|GloboTech Communications|
-|18|188.75.78.130|443|Iran|Tehran|Rasaneh Avabarid Private Joint Stock Company|
-|19|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|20|72.10.164.178|21827|Canada|Montreal|GloboTech Communications|
+|2|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|7|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|8|103.36.10.118|8090|Indonesia|Bangil|PT Awinet Global Mandiri|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|12|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|14|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|34.1.207.222|3128|Singapore|Singapore|Google LLC|
+|16|116.104.134.222|10000|Vietnam|Hanoi|Viettel Corporation|
+|17|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|18|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|72.10.164.178|1985|Canada|Montreal|GloboTech Communications|
 
 
 
