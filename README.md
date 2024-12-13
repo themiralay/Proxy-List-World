@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5672** proxies at the latest update. Usable proxies are below.
+> Scraper found **5760** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3253|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|34.100.134.111|8660|India|Mumbai|Google LLC|
-|4|34.100.142.32|8660|India|Mumbai|Google LLC|
-|5|116.107.214.214|10008|Vietnam|Hải Dương|Viettel Corporation|
-|6|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|7|34.100.212.126|8660|India|Mumbai|Google LLC|
-|8|34.100.161.228|8660|India|Mumbai|Google LLC|
-|9|34.100.136.22|8660|India|Mumbai|Google LLC|
+|3|175.193.64.138|3128|South Korea|Seoul|Korea Telecom|
+|4|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
+|5|34.100.192.154|8660|India|Mumbai|Google LLC|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|34.100.161.228|8660|India|Mumbai|Google LLC|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 |10|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|11|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|12|34.100.177.152|8660|India|Mumbai|Google LLC|
-|13|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|17|34.100.153.54|8660|India|Mumbai|Google LLC|
-|18|34.100.144.243|8660|India|Mumbai|Google LLC|
-|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|20|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|181.30.109.218|50098|Argentina|Buenos Aires|Telecom Argentina S.A|
+|12|34.100.136.22|8660|India|Mumbai|Google LLC|
+|13|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|34.100.189.71|8660|India|Mumbai|Google LLC|
+|16|34.100.177.152|8660|India|Mumbai|Google LLC|
+|17|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
+|18|222.127.220.113|8085|Philippines|Quezon City|GLBB|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
 
 
 
