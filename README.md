@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5816** proxies at the latest update. Usable proxies are below.
+> Scraper found **5529** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|868|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|504|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3231|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.171.255.58|8080|Indonesia|Sleman|ZKI|
-|9|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|10|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|11|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|4|203.150.113.104|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|203.150.128.193|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|116.107.122.87|10092|Vietnam|Hanoi|Viettel Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |12|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|13|34.100.199.2|8660|India|Mumbai|Google LLC|
-|14|45.184.74.249|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|15|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|16|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|20|34.100.218.166|8660|India|Mumbai|Google LLC|
+|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|15|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|103.148.45.151|8090|Indonesia|Siak Sri Indrapura|PT BUANA VISUALNET SENTRA|
+|18|14.39.239.79|60780|South Korea|Eunpyeong-gu|Korea Telecom|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
