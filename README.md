@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|34.100.153.54|8660|India|Mumbai|Google LLC|
-|5|203.150.128.36|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|34.100.153.54|8660|India|Mumbai|Google LLC|
+|4|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|12|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|13|34.93.143.32|8660|India|Mumbai|Google LLC|
-|14|34.100.129.104|8660|India|Mumbai|Google LLC|
-|15|34.100.199.2|8660|India|Mumbai|Google LLC|
-|16|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|11|34.100.229.37|8660|India|Mumbai|Google LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|13|103.177.9.19|8181|Indonesia|Blora|PT Helium Sinergi Telekomunikasi|
+|14|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|16|24.152.50.130|8080|Dominican Republic|Concepción de la Vega|Lightwave S.R.L|
+|17|34.100.129.104|8660|India|Mumbai|Google LLC|
+|18|34.100.199.2|8660|India|Mumbai|Google LLC|
+|19|34.93.143.32|8660|India|Mumbai|Google LLC|
 |20|78.38.99.11|2080|Iran|Gorgan|Iran Telecommunication Company PJS|
 
 
