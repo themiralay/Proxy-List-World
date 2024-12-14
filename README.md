@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|786|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|786|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|786|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|619|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|619|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|619|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|223.204.86.181|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|4|118.71.75.232|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|5|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|6|42.113.29.210|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|103.81.194.48|2020|Indonesia|Bogor|PT Rtiga Global Media|
-|8|103.81.194.49|2020|Indonesia|Bogor|PT Rtiga Global Media|
-|9|118.71.75.240|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|10|1.54.41.4|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|42.113.29.214|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|118.71.75.242|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|13|103.180.122.116|9090|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|14|42.113.4.89|10014|Vietnam|Hanoi|FPT Telecom Company|
-|15|118.71.75.233|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|16|42.113.4.110|10014|Vietnam|Hanoi|FPT Telecom Company|
-|17|42.113.29.213|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|42.113.4.120|10014|Vietnam|Hanoi|FPT Telecom Company|
-|19|103.162.54.116|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
-|20|116.107.124.117|10098|Vietnam|Hanoi|Viettel Corporation|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.81.194.49|2020|Indonesia|Bogor|PT Rtiga Global Media|
+|4|118.71.75.234|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|5|103.81.194.48|2020|Indonesia|Bogor|PT Rtiga Global Media|
+|6|42.113.4.121|10014|Vietnam|Hanoi|FPT Telecom Company|
+|7|118.71.75.241|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|8|118.71.75.232|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|9|42.113.29.208|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|42.113.29.210|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|42.113.4.110|10014|Vietnam|Hanoi|FPT Telecom Company|
+|12|42.113.29.209|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|118.71.75.235|10001|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|14|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|15|103.102.12.69|1111|Indonesia|Rembangan|FISNET|
+|16|1.54.41.4|10004|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|103.158.121.42|1988|Indonesia|Indramayu|CDN|
+|18|116.107.124.117|10098|Vietnam|Hanoi|Viettel Corporation|
+|19|34.93.111.241|8660|India|Mumbai|Google LLC|
+|20|116.107.115.88|10078|Vietnam|Hanoi|Viettel Corporation|
 
 
 
