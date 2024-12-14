@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5247** proxies at the latest update. Usable proxies are below.
+> Scraper found **5535** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|690|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|379|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3252|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.58.179.75|10001|United States|Draper|FiberState, LLC|
-|5|38.58.179.75|10001|United States|Draper|FiberState, LLC|
-|6|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|117.7.194.117|10020|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
-|12|164.70.69.113|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.68.127|3128|Japan|Chiyoda|InfoSphere|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|205.202.96.12|8080|United States|Bellevue|Network Nebraska|
-|17|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|18|164.70.116.65|3128|Japan|Chiyoda|InfoSphere|
-|19|167.235.184.118|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|189.91.65.174|80|Brazil|Belo Horizonte|Mundivox Do Brasil Ltda|
+|3|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
+|4|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|5|181.78.108.225|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|34.100.177.152|8660|India|Mumbai|Google LLC|
+|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|9|34.93.155.104|8660|India|Mumbai|Google LLC|
+|10|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|11|72.10.160.93|20997|Canada|Montreal|GloboTech Communications|
+|12|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|13|203.138.199.69|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|72.10.160.92|4571|Canada|Montreal|GloboTech Communications|
+|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|16|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|17|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
+|18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.236.18|16635|Canada|Montreal|GloboTech Communications|
 
 
 
