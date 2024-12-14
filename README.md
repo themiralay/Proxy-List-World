@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|116.107.115.38|10094|Vietnam|Hanoi|Viettel Corporation|
-|5|116.107.98.62|10030|Vietnam|Hải Dương|Viettel Corporation|
-|6|171.236.110.196|10024|Vietnam|Hanoi|Viettel Corporation|
-|7|116.107.99.29|10000|Vietnam|Hải Dương|Viettel Corporation|
-|8|116.107.113.243|10070|Vietnam|Hanoi|Viettel Corporation|
-|9|116.107.92.107|10010|Vietnam|Hải Dương|Viettel Corporation|
-|10|116.107.83.124|10034|Vietnam|Hải Dương|Viettel Corporation|
-|11|171.245.114.178|10024|Vietnam|Bắc Giang|Viettel Corporation|
-|12|178.212.35.125|8888|India|Mumbai|Contabo Asia Private Limited|
-|13|59.188.94.128|3128|Hong Kong|Kwai Chung|NWT|
+|4|116.107.113.243|10070|Vietnam|Hanoi|Viettel Corporation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|18.229.140.100|8080|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|1.53.168.66|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
 |14|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|15|117.5.131.138|10036|Vietnam|Hanoi|VIETTEL|
-|16|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|171.245.122.26|10028|Vietnam|Bắc Giang|Viettel Corporation|
-|19|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
-|20|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|34.100.134.111|8660|India|Mumbai|Google LLC|
+|17|124.6.164.56|8080|Philippines|Lahug|INNOVE|
+|18|158.177.84.181|3128|The Netherlands|Amsterdam|SoftLayer|
+|19|34.100.142.32|8660|India|Mumbai|Google LLC|
+|20|1.53.168.72|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
