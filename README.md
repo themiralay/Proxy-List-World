@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|34.100.253.219|8660|India|Mumbai|Google LLC|
-|5|64.72.205.61|10001|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
-|6|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|4|64.72.205.61|10001|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
+|5|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|6|64.72.205.61|10001|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
 |7|190.43.92.185|999|Peru|Lima|Telefonica Del Peru|
-|8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|34.100.189.71|8660|India|Mumbai|Google LLC|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|10|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 |12|164.70.116.70|3128|Japan|Chiyoda|InfoSphere|
 |13|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
-|14|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|18|64.72.205.61|10001|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
-|19|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|20|103.157.116.171|8080|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
+|14|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|15|95.70.156.50|8080|Türkiye|Küçükçekmece|TurkNet Iletisim Hizmetleri A.S.|
+|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|34.100.183.137|8660|India|Mumbai|Google LLC|
+|19|34.100.229.37|8660|India|Mumbai|Google LLC|
+|20|34.100.189.71|8660|India|Mumbai|Google LLC|
 
 
 
