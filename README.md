@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|34.93.83.219|8660|India|Mumbai|Google LLC|
-|5|203.138.198.151|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|34.100.199.2|8660|India|Mumbai|Google LLC|
-|7|34.100.213.219|8660|India|Mumbai|Google LLC|
-|8|18.229.140.100|8080|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|10|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|11|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
-|12|34.100.187.43|8660|India|Mumbai|Google LLC|
-|13|34.93.211.195|8660|India|Mumbai|Google LLC|
-|14|171.229.122.203|11321|Vietnam|Phú Thọ|Viettel Corporation|
-|15|167.235.184.118|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.140.188.38|8000|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|203.138.198.151|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|5|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|8|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.117.28.193|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|12|179.61.147.85|10001|Türkiye|Istanbul|Yusuf Kemal TURKMENOGLU|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|78.38.99.11|2080|Iran|Gorgan|Iran Telecommunication Company PJS|
+|16|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|164.70.116.67|3128|Japan|Chiyoda|InfoSphere|
+|19|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|20|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
