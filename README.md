@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.138.199.69|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|164.70.68.102|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.68.102|3128|Japan|Chiyoda|InfoSphere|
+|4|203.138.199.69|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |5|203.138.199.39|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |6|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|7|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|8|164.70.68.104|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.68.104|3128|Japan|Chiyoda|InfoSphere|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|205.202.96.12|8080|United States|Bellevue|Network Nebraska|
-|10|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|10|180.29.212.189|443|Japan|Nagasaki|NTT Communications Corporation|
 |11|205.202.96.12|8080|United States|Bellevue|Network Nebraska|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|38.46.220.5|10001|United States|Draper|FiberState, LLC|
+|12|38.46.220.5|10001|United States|Draper|FiberState, LLC|
+|13|34.100.171.180|8660|India|Mumbai|Google LLC|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|94.156.177.124|80|The Netherlands|Eygelshoven|Railnet LLC|
-|16|161.35.239.202|10001|United States|Santa Clara|DigitalOcean, LLC|
-|17|38.46.220.5|10001|United States|Draper|FiberState, LLC|
-|18|34.93.144.121|8660|India|Mumbai|Google LLC|
-|19|34.100.136.22|8660|India|Mumbai|Google LLC|
-|20|112.78.164.81|8080|Indonesia|Jakarta|Biznet Networks|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|34.93.211.195|8660|India|Mumbai|Google LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|94.156.177.124|80|The Netherlands|Eygelshoven|Railnet LLC|
+|19|38.46.220.5|10001|United States|Draper|FiberState, LLC|
+|20|115.72.44.135|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
