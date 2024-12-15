@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1075|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1075|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1075|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|942|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|942|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|942|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|4|42.113.4.240|10014|Vietnam|Hanoi|FPT Telecom Company|
-|5|103.134.222.6|3125|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|6|34.93.61.255|8660|India|Mumbai|Google LLC|
-|7|34.93.63.213|8660|India|Mumbai|Google LLC|
-|8|34.93.13.206|8660|India|Mumbai|Google LLC|
-|9|42.113.29.211|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|34.93.71.227|8660|India|Mumbai|Google LLC|
-|11|117.103.68.38|9941|Indonesia|Malang|NARATEL|
-|12|42.113.29.206|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|42.113.4.234|10014|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.113.4.237|10014|Vietnam|Hanoi|FPT Telecom Company|
-|15|42.113.4.4|10014|Vietnam|Hanoi|FPT Telecom Company|
-|16|42.113.29.207|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|34.93.43.25|8660|India|Mumbai|Google LLC|
-|18|42.113.4.233|10014|Vietnam|Hanoi|FPT Telecom Company|
-|19|42.113.4.1|10014|Vietnam|Hanoi|FPT Telecom Company|
-|20|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|42.113.29.206|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|42.113.29.211|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|171.229.122.60|14295|Vietnam|Phú Thọ|Viettel Corporation|
+|6|34.93.15.205|8660|India|Mumbai|Google LLC|
+|7|34.93.69.14|8660|India|Mumbai|Google LLC|
+|8|34.93.25.3|8660|India|Mumbai|Google LLC|
+|9|34.100.206.208|8660|India|Mumbai|Google LLC|
+|10|34.93.42.162|8660|India|Mumbai|Google LLC|
+|11|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|42.113.29.207|10017|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|34.93.61.255|8660|India|Mumbai|Google LLC|
+|14|34.93.185.230|8660|India|Mumbai|Google LLC|
+|15|34.93.148.4|8660|India|Mumbai|Google LLC|
+|16|34.93.63.213|8660|India|Mumbai|Google LLC|
+|17|34.93.211.195|8660|India|Mumbai|Google LLC|
+|18|34.93.43.25|8660|India|Mumbai|Google LLC|
+|19|34.93.43.182|8660|India|Mumbai|Google LLC|
+|20|34.100.161.228|8660|India|Mumbai|Google LLC|
 
 
 
