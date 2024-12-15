@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|157.66.16.54|8989|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|5|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|6|43.247.33.149|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|7|95.38.75.213|8080|Iran|Bandar-e Khamīr|Fanava Group|
-|8|64.72.205.61|10000|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
-|9|34.93.11.127|8660|India|Mumbai|Google LLC|
-|10|171.238.238.136|10010|Vietnam|Tuyên Quang|Viettel Corporation|
-|11|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|12|64.72.205.61|10000|United States|Dallas|ALEXANDRU VLAD trading as FREAKHOSTING|
-|13|15.168.124.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|17|205.202.96.12|8080|United States|Bellevue|Network Nebraska|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|118.71.75.28|10026|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|20|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|8|34.93.148.4|8660|India|Mumbai|Google LLC|
+|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|10|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|11|186.190.224.86|999|Colombia|Monterrey|TV AZTECA SUCURSAL COLOMBIA|
+|12|95.38.75.213|8080|Iran|Bandar-e Khamīr|Fanava Group|
+|13|34.93.226.221|8660|India|Mumbai|Google LLC|
+|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|15|34.100.129.48|8660|India|Mumbai|Google LLC|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|34.93.11.127|8660|India|Mumbai|Google LLC|
+|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|19|34.100.253.219|8660|India|Mumbai|Google LLC|
+|20|34.93.43.25|8660|India|Mumbai|Google LLC|
 
 
 
