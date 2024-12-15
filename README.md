@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|34.93.25.3|8660|India|Mumbai|Google LLC|
-|3|34.100.129.104|8660|India|Mumbai|Google LLC|
-|4|34.93.36.161|8660|India|Mumbai|Google LLC|
-|5|34.93.221.237|8660|India|Mumbai|Google LLC|
-|6|104.223.103.221|3428|United States|Dallas|QuadraNet Enterprises LLC|
-|7|104.223.103.218|3428|United States|Dallas|QuadraNet Enterprises LLC|
-|8|34.100.164.189|8660|India|Mumbai|Google LLC|
-|9|34.93.10.7|8660|India|Mumbai|Google LLC|
-|10|34.93.30.81|8660|India|Mumbai|Google LLC|
-|11|34.93.43.25|8660|India|Mumbai|Google LLC|
-|12|34.93.185.230|8660|India|Mumbai|Google LLC|
-|13|34.93.12.79|8660|India|Mumbai|Google LLC|
-|14|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|15|34.93.63.213|8660|India|Mumbai|Google LLC|
-|16|34.93.97.254|8660|India|Mumbai|Google LLC|
-|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|18|34.93.20.91|8660|India|Mumbai|Google LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|52.26.114.229|3128|United States|Portland|Amazon.com, Inc.|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.93.193.191|8660|India|Mumbai|Google LLC|
+|5|34.93.202.140|8660|India|Mumbai|Google LLC|
+|6|34.93.159.4|8660|India|Mumbai|Google LLC|
+|7|34.93.71.227|8660|India|Mumbai|Google LLC|
+|8|34.93.11.127|8660|India|Mumbai|Google LLC|
+|9|34.93.64.182|8660|India|Mumbai|Google LLC|
+|10|34.100.252.141|8660|India|Mumbai|Google LLC|
+|11|34.93.151.205|8660|India|Mumbai|Google LLC|
+|12|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|34.93.199.104|8660|India|Mumbai|Google LLC|
+|14|34.93.241.37|8660|India|Mumbai|Google LLC|
+|15|34.100.229.37|8660|India|Mumbai|Google LLC|
+|16|34.100.234.70|8660|India|Mumbai|Google LLC|
+|17|34.93.204.237|8660|India|Mumbai|Google LLC|
+|18|34.100.253.219|8660|India|Mumbai|Google LLC|
+|19|34.93.89.127|8660|India|Mumbai|Google LLC|
+|20|34.93.232.181|8660|India|Mumbai|Google LLC|
 
 
 
