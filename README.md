@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6380** proxies at the latest update. Usable proxies are below.
+> Scraper found **6341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|571|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|571|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|571|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|482|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|482|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|482|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|932|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|893|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|740|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3482|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.138.199.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|6|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|7|34.93.63.213|8660|India|Mumbai|Google LLC|
-|8|34.93.61.255|8660|India|Mumbai|Google LLC|
-|9|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|10|18.229.140.100|8080|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|12|34.100.189.71|8660|India|Mumbai|Google LLC|
-|13|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|15|34.100.164.189|8660|India|Mumbai|Google LLC|
-|16|34.93.226.221|8660|India|Mumbai|Google LLC|
-|17|34.93.159.4|8660|India|Mumbai|Google LLC|
-|18|178.164.135.206|8080|Hungary|Pécel|DIGI|
-|19|34.100.138.252|8660|India|Mumbai|Google LLC|
-|20|34.93.232.181|8660|India|Mumbai|Google LLC|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|34.93.43.182|8660|India|Mumbai|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|171.255.255.181|10003|Vietnam|Hanoi|Viettel Corporation|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|9|18.229.140.100|8080|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.82.36.146|14001|Vietnam|Láng Thượng|Cloudfly Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|15|171.238.238.136|10010|Vietnam|Tuyên Quang|Viettel Corporation|
+|16|41.60.239.209|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|17|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|18|171.228.113.196|12053|Vietnam|Vĩnh Yên|Viettel Corporation|
+|19|45.235.16.121|27234|Brazil|Rio Negro|Acessoline Telecom|
+|20|41.60.239.17|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
 
 
 
