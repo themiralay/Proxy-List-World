@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|773|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|773|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|773|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|793|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|793|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|793|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.93.69.14|8660|India|Mumbai|Google LLC|
-|2|34.93.111.241|8660|India|Mumbai|Google LLC|
-|3|34.93.133.179|8660|India|Mumbai|Google LLC|
-|4|34.93.192.155|8660|India|Mumbai|Google LLC|
+|2|34.100.195.10|8660|India|Mumbai|Google LLC|
+|3|34.100.183.137|8660|India|Mumbai|Google LLC|
+|4|34.100.234.70|8660|India|Mumbai|Google LLC|
 |5|34.100.229.97|8660|India|Mumbai|Google LLC|
-|6|34.100.183.137|8660|India|Mumbai|Google LLC|
-|7|34.100.238.108|8660|India|Mumbai|Google LLC|
-|8|34.93.184.57|8660|India|Mumbai|Google LLC|
-|9|34.93.100.192|8660|India|Mumbai|Google LLC|
-|10|34.93.112.3|8660|India|Mumbai|Google LLC|
-|11|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|12|34.100.134.35|8660|India|Mumbai|Google LLC|
-|13|34.93.59.75|8660|India|Mumbai|Google LLC|
-|14|34.93.39.87|8660|India|Mumbai|Google LLC|
-|15|34.100.216.44|8660|India|Mumbai|Google LLC|
-|16|34.93.98.172|8660|India|Mumbai|Google LLC|
-|17|34.100.234.70|8660|India|Mumbai|Google LLC|
-|18|34.93.193.191|8660|India|Mumbai|Google LLC|
-|19|34.100.177.152|8660|India|Mumbai|Google LLC|
-|20|34.93.131.104|8660|India|Mumbai|Google LLC|
+|6|34.93.192.155|8660|India|Mumbai|Google LLC|
+|7|34.93.71.227|8660|India|Mumbai|Google LLC|
+|8|34.93.148.4|8660|India|Mumbai|Google LLC|
+|9|34.100.164.189|8660|India|Mumbai|Google LLC|
+|10|34.93.73.149|8660|India|Mumbai|Google LLC|
+|11|34.93.111.241|8660|India|Mumbai|Google LLC|
+|12|34.93.232.181|8660|India|Mumbai|Google LLC|
+|13|34.100.169.193|8660|India|Mumbai|Google LLC|
+|14|34.93.241.37|8660|India|Mumbai|Google LLC|
+|15|34.100.206.111|8660|India|Mumbai|Google LLC|
+|16|34.93.221.237|8660|India|Mumbai|Google LLC|
+|17|34.93.131.104|8660|India|Mumbai|Google LLC|
+|18|34.93.112.3|8660|India|Mumbai|Google LLC|
+|19|34.100.253.219|8660|India|Mumbai|Google LLC|
+|20|34.93.98.172|8660|India|Mumbai|Google LLC|
 
 
 
