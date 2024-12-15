@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6144** proxies at the latest update. Usable proxies are below.
+> Scraper found **5778** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|856|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|856|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|856|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|752|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|752|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|752|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1296|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1230|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|672|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2950|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|34.93.63.213|8660|India|Mumbai|Google LLC|
 |6|34.93.30.81|8660|India|Mumbai|Google LLC|
-|7|34.93.61.255|8660|India|Mumbai|Google LLC|
-|8|34.93.42.162|8660|India|Mumbai|Google LLC|
-|9|34.93.192.155|8660|India|Mumbai|Google LLC|
-|10|34.93.36.161|8660|India|Mumbai|Google LLC|
-|11|34.93.98.172|8660|India|Mumbai|Google LLC|
-|12|34.100.142.32|8660|India|Mumbai|Google LLC|
-|13|34.93.43.25|8660|India|Mumbai|Google LLC|
-|14|34.93.43.182|8660|India|Mumbai|Google LLC|
-|15|34.93.42.100|8660|India|Mumbai|Google LLC|
-|16|34.93.56.70|8660|India|Mumbai|Google LLC|
-|17|34.93.226.221|8660|India|Mumbai|Google LLC|
-|18|108.129.139.196|8080|Ireland|Dublin|BellSouth.net Inc.|
-|19|34.93.211.195|8660|India|Mumbai|Google LLC|
-|20|34.93.43.249|8660|India|Mumbai|Google LLC|
+|7|34.93.43.25|8660|India|Mumbai|Google LLC|
+|8|34.93.36.161|8660|India|Mumbai|Google LLC|
+|9|34.93.42.162|8660|India|Mumbai|Google LLC|
+|10|34.93.61.255|8660|India|Mumbai|Google LLC|
+|11|34.100.142.32|8660|India|Mumbai|Google LLC|
+|12|34.93.57.73|8660|India|Mumbai|Google LLC|
+|13|34.93.56.70|8660|India|Mumbai|Google LLC|
+|14|34.93.192.155|8660|India|Mumbai|Google LLC|
+|15|34.100.135.118|8660|India|Mumbai|Google LLC|
+|16|34.100.195.10|8660|India|Mumbai|Google LLC|
+|17|34.93.64.182|8660|India|Mumbai|Google LLC|
+|18|34.100.233.45|8660|India|Mumbai|Google LLC|
+|19|34.100.215.215|8660|India|Mumbai|Google LLC|
+|20|34.93.43.182|8660|India|Mumbai|Google LLC|
 
 
 
