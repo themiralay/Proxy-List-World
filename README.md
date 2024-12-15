@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|723|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|723|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|723|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|833|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|833|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|833|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.93.245.80|8660|India|Mumbai|Google LLC|
-|5|34.100.206.208|8660|India|Mumbai|Google LLC|
-|6|34.100.216.44|8660|India|Mumbai|Google LLC|
-|7|34.93.204.187|8660|India|Mumbai|Google LLC|
-|8|34.93.255.208|8660|India|Mumbai|Google LLC|
-|9|34.93.196.24|8660|India|Mumbai|Google LLC|
-|10|34.93.12.79|8660|India|Mumbai|Google LLC|
-|11|34.93.133.179|8660|India|Mumbai|Google LLC|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|4|34.93.71.227|8660|India|Mumbai|Google LLC|
+|5|34.93.214.243|8660|India|Mumbai|Google LLC|
+|6|34.93.210.193|8660|India|Mumbai|Google LLC|
+|7|34.93.202.140|8660|India|Mumbai|Google LLC|
+|8|34.93.216.107|8660|India|Mumbai|Google LLC|
+|9|34.93.185.230|8660|India|Mumbai|Google LLC|
+|10|34.93.234.205|8660|India|Mumbai|Google LLC|
+|11|34.93.124.177|8660|India|Mumbai|Google LLC|
 |12|34.93.26.116|8660|India|Mumbai|Google LLC|
-|13|34.100.254.128|8660|India|Mumbai|Google LLC|
-|14|34.93.101.54|8660|India|Mumbai|Google LLC|
-|15|34.93.42.162|8660|India|Mumbai|Google LLC|
-|16|34.93.69.14|8660|India|Mumbai|Google LLC|
-|17|34.93.125.191|8660|India|Mumbai|Google LLC|
-|18|34.100.239.151|8660|India|Mumbai|Google LLC|
-|19|34.100.217.3|8660|India|Mumbai|Google LLC|
-|20|34.93.86.168|8660|India|Mumbai|Google LLC|
+|13|34.100.229.97|8660|India|Mumbai|Google LLC|
+|14|34.93.57.73|8660|India|Mumbai|Google LLC|
+|15|34.93.11.127|8660|India|Mumbai|Google LLC|
+|16|34.93.86.168|8660|India|Mumbai|Google LLC|
+|17|116.105.19.220|10002|Vietnam|Da Nang|Viettel Corporation|
+|18|34.93.43.182|8660|India|Mumbai|Google LLC|
+|19|34.93.225.30|8660|India|Mumbai|Google LLC|
+|20|34.93.64.182|8660|India|Mumbai|Google LLC|
 
 
 
