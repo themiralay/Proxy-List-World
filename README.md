@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |5|116.105.9.129|10010|Vietnam|Da Nang|Viettel Corporation|
-|6|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|7|103.82.102.111|21310|Türkiye|Istanbul|Stark Industries Solutions LTD|
 |8|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|34.93.103.69|8660|India|Mumbai|Google LLC|
-|13|34.93.26.116|8660|India|Mumbai|Google LLC|
-|14|34.93.73.149|8660|India|Mumbai|Google LLC|
-|15|34.93.242.87|8660|India|Mumbai|Google LLC|
-|16|34.93.59.42|8660|India|Mumbai|Google LLC|
-|17|34.93.12.79|8660|India|Mumbai|Google LLC|
-|18|34.93.56.70|8660|India|Mumbai|Google LLC|
-|19|34.100.153.54|8660|India|Mumbai|Google LLC|
-|20|34.93.22.169|8660|India|Mumbai|Google LLC|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|34.100.253.219|8660|India|Mumbai|Google LLC|
+|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|103.105.224.129|8080|India|Bengaluru|Telexair Technologies Private Limited|
+|16|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|34.100.169.193|8660|India|Mumbai|Google LLC|
+|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|20|34.100.149.146|8660|India|Mumbai|Google LLC|
 
 
 
