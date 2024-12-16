@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5658** proxies at the latest update. Usable proxies are below.
+> Scraper found **5723** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|185|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|767|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|514|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3266|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3269|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.156.104.111|16889|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|159.69.120.191|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|14|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|15|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
-|16|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|17|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|18|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|19|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|20|185.121.15.102|3128|Spain|Madrid|NEAR IP, S.L.|
+|5|103.180.122.116|9090|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|6|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|11|61.7.149.5|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|67.43.227.228|11767|Canada|Montreal|GloboTech Communications|
+|14|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|15|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|16|67.43.227.227|8485|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|15255|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8485|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|13477|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|21619|Canada|Montreal|GloboTech Communications|
 
 
 
