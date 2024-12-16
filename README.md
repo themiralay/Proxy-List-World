@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5686** proxies at the latest update. Usable proxies are below.
+> Scraper found **5706** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|177|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|805|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|512|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3266|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|154.205.83.129|10000|United States|Dallas|ADA Digital Global Inc|
-|4|154.205.83.129|10000|United States|Dallas|ADA Digital Global Inc|
-|5|115.72.173.60|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|203.150.113.118|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|95.216.36.231|8889|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.91.62.37|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|12|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
-|13|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|14|67.43.236.18|17009|Canada|Montreal|GloboTech Communications|
-|15|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|18|103.102.12.56|8080|Indonesia|Rembangan|FISNET|
-|19|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|4|42.113.4.9|10018|Vietnam|Hanoi|FPT Telecom Company|
+|5|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|67.43.236.18|17009|Canada|Montreal|GloboTech Communications|
+|8|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|9|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.228.254|32317|Canada|Montreal|GloboTech Communications|
+|12|203.111.253.42|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|13|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|16|67.43.227.227|6141|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|23411|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|1769|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|17009|Canada|Montreal|GloboTech Communications|
+|20|114.218.77.248|8089|China|Nanjing|China Telecom|
 
 
 
