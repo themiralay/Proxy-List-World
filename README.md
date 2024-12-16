@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|901|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|901|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|901|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|799|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|799|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|799|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|42.113.4.137|10008|Vietnam|Hanoi|FPT Telecom Company|
-|6|34.93.80.22|8660|India|Mumbai|Google LLC|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|42.113.4.137|10008|Vietnam|Hanoi|FPT Telecom Company|
 |7|34.93.64.182|8660|India|Mumbai|Google LLC|
 |8|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|9|34.100.161.228|8660|India|Mumbai|Google LLC|
-|10|34.93.199.104|8660|India|Mumbai|Google LLC|
-|11|34.100.136.22|8660|India|Mumbai|Google LLC|
-|12|34.100.215.215|8660|India|Mumbai|Google LLC|
-|13|34.93.190.165|8660|India|Mumbai|Google LLC|
-|14|34.100.169.193|8660|India|Mumbai|Google LLC|
-|15|34.100.144.243|8660|India|Mumbai|Google LLC|
-|16|34.100.253.219|8660|India|Mumbai|Google LLC|
-|17|34.93.26.116|8660|India|Mumbai|Google LLC|
-|18|34.93.13.206|8660|India|Mumbai|Google LLC|
-|19|34.93.222.202|8660|India|Mumbai|Google LLC|
-|20|34.93.218.34|8660|India|Mumbai|Google LLC|
+|9|34.93.43.182|8660|India|Mumbai|Google LLC|
+|10|118.68.115.159|14005|Vietnam|Hanoi|FPT Telecom Company|
+|11|34.100.217.3|8660|India|Mumbai|Google LLC|
+|12|34.93.56.70|8660|India|Mumbai|Google LLC|
+|13|34.100.129.104|8660|India|Mumbai|Google LLC|
+|14|34.93.245.80|8660|India|Mumbai|Google LLC|
+|15|34.93.222.202|8660|India|Mumbai|Google LLC|
+|16|34.93.226.221|8660|India|Mumbai|Google LLC|
+|17|34.93.20.91|8660|India|Mumbai|Google LLC|
+|18|34.93.241.37|8660|India|Mumbai|Google LLC|
+|19|34.93.210.193|8660|India|Mumbai|Google LLC|
+|20|34.93.12.79|8660|India|Mumbai|Google LLC|
 
 
 
