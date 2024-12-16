@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|115.72.173.60|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|7|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
-|8|115.77.162.167|10001|Vietnam|Vũng Tàu|Viettel Group|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|11|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|12|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|13|157.10.182.249|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
-|14|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.162.55.42|8080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
-|17|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|187.49.83.164|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|38.46.219.140|10001|United States|Draper|FiberState, LLC|
+|6|103.153.246.98|8080|Indonesia|Purwakarta|PRIMAHOME|
+|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|11|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|16|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|17|116.203.139.209|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|19|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.174.57.26|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
 
 
 
