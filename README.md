@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6271** proxies at the latest update. Usable proxies are below.
+> Scraper found **6293** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|883|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|762|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3468|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|6|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |8|86.109.3.24|9401|United States|Chicago|Packet Host, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|11|131.255.56.169|9292|Brazil|Tupã|Link Brasil Telecomunicacoes Ltda|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|13|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|17|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
-|18|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|19|103.171.182.107|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|20|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
+|9|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
+|10|47.88.85.102|443|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|103.161.17.194|8118|Vietnam|Phúc Lai|BKSI|
+|12|203.111.253.118|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|13|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|14|45.174.57.26|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
+|15|80.253.254.211|443|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
+|16|163.47.210.73|8080|India|Bengaluru|Microsense Pvt. Limited|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|20|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
 
 
 
