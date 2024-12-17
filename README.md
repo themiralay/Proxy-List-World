@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6052** proxies at the latest update. Usable proxies are below.
+> Scraper found **5963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|909|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|820|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|581|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3372|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|14|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|203.190.44.252|8090|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|16|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|38.49.129.237|999|Mexico|Atotonilco el Grande|Ientc S De RL De CV|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|4|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.122.1.62|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|6|67.220.94.146|3128|Canada|Toronto|GLOBALTELEHOST Corp|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
+|15|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|114.130.39.169|8080|Bangladesh|Mīrpur|Mango DHK|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
 
 
 
