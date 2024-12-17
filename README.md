@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5972** proxies at the latest update. Usable proxies are below.
+> Scraper found **5884** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|815|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|590|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3378|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|8|103.159.196.149|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|9|95.179.248.44|10001|Germany|Frankfurt am Main|The Constant Company, LLC|
-|10|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|218.145.131.182|443|South Korea|Gangnam-gu|Korea Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|103.247.14.38|9285|Indonesia|Klaten|TERABIT|
-|20|23.147.112.74|8080|United States|Tucson|NGX Networks|
+|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.236.19|1919|Canada|Montreal|GloboTech Communications|
+|9|158.23.51.165|8118|Mexico|Querétaro City|Microsoft Corporation|
+|10|103.122.1.169|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|11|67.43.227.229|25177|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|22153|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18629|Canada|Montreal|GloboTech Communications|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|67.43.227.229|25177|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|22153|Canada|Montreal|GloboTech Communications|
+|17|103.184.50.11|8080|Indonesia|Sragen|PT Aktech Digital Solutions|
+|18|67.43.227.226|5499|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|18629|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|18629|Canada|Montreal|GloboTech Communications|
 
 
 
