@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|6|61.7.175.176|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|13|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|122.8.187.165|8888|Mexico|Ciudad De México|Huawei International Pte. Ltd.|
-|20|117.72.47.92|8899|China|Chaowai|JDCOM|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|61.7.175.176|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|6|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|7|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|8|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|9|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|10|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
+|18|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.189.249.138|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
