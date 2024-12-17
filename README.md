@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6043** proxies at the latest update. Usable proxies are below.
+> Scraper found **6056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|569|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3378|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|179.189.48.253|8080|Brazil|Sinop|Avato Tecnologia S.A|
-|11|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|202.6.226.66|8080|Indonesia|Surabaya|PADINET - Padi Internet|
-|13|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|31.56.78.204|8085|Indonesia|Jakarta|PT Perwira Media Solusi|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|8|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|14|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|15|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|18|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|19|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
