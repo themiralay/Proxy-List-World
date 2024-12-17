@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|3|42.113.4.183|10014|Vietnam|Hanoi|FPT Telecom Company|
-|4|42.113.4.226|10018|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.113.4.222|10019|Vietnam|Hanoi|FPT Telecom Company|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|42.113.4.226|10018|Vietnam|Hanoi|FPT Telecom Company|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|6|42.113.4.183|10014|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|10|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|12|112.163.160.216|3128|South Korea|Hamyang-gun|Korea Telecom|
 |13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|20|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|14|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|18|119.95.180.151|8081|Philippines|Guagua|Philippine Long Distance Telephone Co.|
+|19|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|20|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 
 
 
