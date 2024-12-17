@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6141** proxies at the latest update. Usable proxies are below.
+> Scraper found **6236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|273|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|899|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|275|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|734|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|764|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3309|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
 |4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|103.247.22.124|4317|Indonesia|Bekasi|PT wifian Solution|
-|12|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|13|188.125.167.82|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|19|27.77.143.176|8080|Vietnam|Biên Hòa|Newass2011xDSLHCMC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|5|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.191.196.76|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|11|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|12|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|186.190.225.153|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|19|185.44.26.217|43097|Spain|Cartagena|Emartinez1|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
