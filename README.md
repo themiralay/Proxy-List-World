@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|4|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|9|103.169.149.74|8181|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|19|103.160.202.138|8070|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
-|20|119.94.176.229|8080|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|3|16.162.134.170|3128|Hong Kong|Hong Kong|Amazon.com|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|16|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|17|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
+|18|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
