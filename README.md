@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|3|118.71.75.242|10004|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|7|116.105.172.73|10008|Vietnam|Da Nang|Viettel Corporation|
-|8|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
+|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.179.71.76|667|Brazil|Salvador|Marktec Telecom|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|16|212.87.222.80|3128|Finland|Helsinki|Global Connectivity Solutions LLP|
-|17|45.87.154.214|8118|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|18|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
-|19|103.126.87.120|8082|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|20|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|103.126.87.120|8082|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|18|36.90.51.50|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|19|131.100.51.252|999|Colombia|Neiva|Fibernet TV SAS|
+|20|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
 
 
 
