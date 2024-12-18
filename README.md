@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|131.100.51.41|999|Colombia|Neiva|Fibernet TV SAS|
-|4|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|5|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|6|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|7|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|180.112.181.93|8089|China|Nanjing|Chinanet|
-|10|67.43.228.251|9639|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|23127|Canada|Montreal|GloboTech Communications|
-|12|103.46.9.59|8088|Indonesia|Denpasar|PT Jaringanku Sarana Nusantara Malang|
-|13|67.43.236.20|2555|Canada|Montreal|GloboTech Communications|
-|14|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|15|45.174.57.26|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
-|16|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|17|72.10.160.94|3947|Canada|Montreal|GloboTech Communications|
-|18|51.91.97.136|3128|France|Roubaix|OVH SAS|
-|19|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|20|67.43.227.226|5225|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|122.228.246.248|3128|China|Wenzhou|China Telecom|
+|3|72.10.160.91|15039|Canada|Montreal|GloboTech Communications|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|103.122.65.15|8282|Indonesia|Banjar Wates Tengah|PT. Jinom Network Indonesia|
+|6|103.235.181.130|8080|Indonesia|Jakarta|PT Top Class Universal|
+|7|103.46.9.59|8088|Indonesia|Denpasar|PT Jaringanku Sarana Nusantara Malang|
+|8|60.53.133.218|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|9|221.217.50.37|9000|China|Beijing|China Unicom Beijing Province Network|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|12|86.109.3.28|9400|United States|Chicago|Packet Host, Inc.|
+|13|72.10.160.94|3947|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|103.46.10.206|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|16|67.43.236.18|30359|Canada|Montreal|GloboTech Communications|
+|17|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|67.43.236.20|4873|Canada|Montreal|GloboTech Communications|
+|19|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|20|67.43.236.20|4873|Canada|Montreal|GloboTech Communications|
 
 
 
