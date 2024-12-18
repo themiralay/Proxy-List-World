@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5774** proxies at the latest update. Usable proxies are below.
+> Scraper found **5885** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|283|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|284|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|818|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|536|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3321|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|41.65.174.36|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|7|52.35.240.119|3128|United States|Portland|Amazon.com, Inc.|
-|8|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|172.105.225.253|8181|Japan|Tokyo|Akamai Technologies|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|11|1.4.251.70|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|103.186.69.33|8080|India|Shimoga|Gatik Greenergy PVT LTD|
-|15|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|16|60.53.133.218|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|18|171.228.191.89|12030|Vietnam|Vĩnh Tường|Viettel Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|14|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.164.178|31275|Canada|Montreal|GloboTech Communications|
+|19|139.200.86.205|9999|China|Muping|Chinanet|
+|20|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
