@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|142.59.30.212|8888|Canada|Okotoks|TELUS Communications Inc|
-|11|103.46.10.206|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|181.58.31.201|999|Colombia|Montería|Telmex Colombia S.A.|
 |12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|122.228.246.248|3128|China|Wenzhou|China Telecom|
-|14|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
 
 
 
