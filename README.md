@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|4|43.248.8.70|3128|Hong Kong|Mong Kok|Xnnet LLC|
-|5|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|6|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|9|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|10|72.10.160.91|19067|Canada|Montreal|GloboTech Communications|
-|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|12|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|13|72.10.160.173|8441|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|26465|Canada|Montreal|GloboTech Communications|
-|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|16|72.10.160.173|8441|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|31871|Canada|Montreal|GloboTech Communications|
-|18|27.189.135.139|8089|China|Langfang|Chinanet|
-|19|72.10.164.178|22593|Canada|Montreal|GloboTech Communications|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|5|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|9|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|10|119.95.180.151|8081|Philippines|Guagua|Philippine Long Distance Telephone Co.|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|72.10.164.178|18933|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|72.10.164.178|18933|Canada|Montreal|GloboTech Communications|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|72.10.160.171|7623|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|1831|Canada|Montreal|GloboTech Communications|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|103.217.224.203|8090|Indonesia|Ungaran|PT Nesta Indo Media|
 
 
 
