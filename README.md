@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5683** proxies at the latest update. Usable proxies are below.
+> Scraper found **5767** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|284|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|763|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|498|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3296|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|116.105.171.174|10001|Vietnam|Da Nang|Viettel Corporation|
-|6|116.105.171.28|10001|Vietnam|Da Nang|Viettel Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|12|188.132.150.200|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|2|107.148.32.17|1080|Singapore|Singapore|PEG TECH INC|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|78.38.99.11|2080|Iran|Gorgan|Iran Telecommunication Company PJS|
+|11|112.11.119.22|3128|China|Hangzhou|China Mobile Communications Corporation|
+|12|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.122.65.15|8282|Indonesia|Banjar Wates Tengah|PT. Jinom Network Indonesia|
-|16|103.179.217.242|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
-|17|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|15|72.10.164.178|6091|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.160.91|28507|Canada|Montreal|GloboTech Communications|
+|19|116.98.6.207|14745|Vietnam|Hanoi|Viettel Corporation|
+|20|188.245.166.71|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
