@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|118.71.75.242|10004|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|118.71.75.242|10004|Vietnam|Quận Bình Thạnh|Vietnam Internet Network Information Center|
+|5|203.150.113.235|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|124.106.173.56|8082|Philippines|Tagbilaran|Philippine Long Distance Telephone Co.|
 |8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
-|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.179.71.76|667|Brazil|Salvador|Marktec Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.126.87.120|8082|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
-|18|36.90.51.50|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|19|131.100.51.252|999|Colombia|Neiva|Fibernet TV SAS|
-|20|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|103.147.134.85|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|13|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|45.188.156.121|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|17|193.68.115.14|8080|Bulgaria|Hadzhidimovo|Sarnica-Net LTD|
+|18|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|19|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|20|45.4.1.208|999|Chile|Santiago|Tlink SPA|
 
 
 
