@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5638** proxies at the latest update. Usable proxies are below.
+> Scraper found **5371** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|288|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|497|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3246|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|113.11.183.92|8080|Indonesia|Bandung|Biznet Networks|
-|9|203.150.128.83|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|13|119.93.206.217|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|16|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|42.113.4.25|10017|Vietnam|Hanoi|FPT Telecom Company|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|6|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|203.150.128.83|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|44.226.167.102|1080|United States|Portland|Amazon.com, Inc.|
+|13|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|14|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|190.103.16.68|999|Argentina|Tapalqué|CYBERTAP|
+|18|67.43.227.226|1835|Canada|Montreal|GloboTech Communications|
+|19|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
