@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|123.30.189.20|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|42.115.131.184|10009|Vietnam|Hanoi|FPT Telecom Company|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|103.178.171.36|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|5|147.75.202.36|10092|United States|San Jose|Packet Host, Inc.|
 |6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|8|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|101.98.17.89|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|12|51.89.25.53|3128|United Kingdom|London|OVH SAS|
-|13|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|86.109.3.28|9400|United States|Chicago|Packet Host, Inc.|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|203.190.41.177|8085|Indonesia|Sleman|PT Jaring Lintas Utara|
-|19|34.55.246.226|3128|United States|Council Bluffs|Google LLC|
-|20|34.55.246.226|3128|United States|Council Bluffs|Google LLC|
+|7|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|8|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|9|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|69.75.140.157|8080|United States|Orange|Spectrum|
+|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|17|103.126.87.181|7777|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
