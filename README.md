@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|1|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
 |2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|7|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
-|8|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|36.88.16.173|8080|Indonesia|Purwakarta|PT. Telekomunikasi Indonesia|
-|12|103.172.70.12|8080|Indonesia|Karawang|AZNET|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
-|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
+|7|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|15|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
+|16|89.110.116.45|8118|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
+|19|122.228.246.248|3128|China|Wenzhou|China Telecom|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
