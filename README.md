@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5766** proxies at the latest update. Usable proxies are below.
+> Scraper found **5761** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|276|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|730|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|502|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3332|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
 |5|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|9|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|119.95.180.151|8081|Philippines|Guagua|Philippine Long Distance Telephone Co.|
-|12|36.88.111.98|55443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|14|13.76.132.79|18888|Singapore|Singapore|Microsoft Corporation|
-|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|16|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|17|42.113.4.143|10005|Vietnam|Hanoi|FPT Telecom Company|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|192.121.102.82|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|6|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|181.209.66.179|1120|Argentina|La Carlota|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|12|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|72.10.160.171|2697|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|8093|Canada|Montreal|GloboTech Communications|
+|16|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|17|103.80.98.19|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
+|18|72.10.164.178|5255|Canada|Montreal|GloboTech Communications|
+|19|38.54.116.125|3128|Oman|Muscat|Kaopu Cloud HK Limited|
+|20|67.43.227.226|12705|Canada|Montreal|GloboTech Communications|
 
 
 
