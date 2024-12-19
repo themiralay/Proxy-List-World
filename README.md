@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5604** proxies at the latest update. Usable proxies are below.
+> Scraper found **5512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|294|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|687|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|374|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3323|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|115.72.170.5|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|6|175.103.40.221|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|45.149.93.200|2024|Singapore|Singapore|PT Perwira Media Solusi|
-|9|190.202.84.199|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|10|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
-|11|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|103.81.194.49|2020|Indonesia|Bogor|PT Rtiga Global Media|
-|15|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|27.66.8.224|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|72.10.160.90|28503|Canada|Montreal|GloboTech Communications|
-|20|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|1|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|5|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|8|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|11|115.72.170.243|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|13|190.202.84.199|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|14|5.75.197.254|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|15|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
