@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|6|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|7|95.179.248.44|10001|Germany|Frankfurt am Main|The Constant Company, LLC|
-|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|11|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
-|12|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|13|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
-|14|115.178.49.111|8080|Indonesia|Bandung|NOC SIMAYA|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|157.66.85.78|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|5|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
+|6|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|95.179.248.44|10001|Germany|Frankfurt am Main|The Constant Company, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|108.175.14.187|55779|United States|Sulphur Springs|IONOS SE|
+|15|223.206.2.29|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|103.247.23.53|4317|Indonesia|Cileungsir|PT wifian Solution|
+|17|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|18|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
