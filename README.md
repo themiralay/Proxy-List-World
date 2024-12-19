@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6041** proxies at the latest update. Usable proxies are below.
+> Scraper found **5951** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|296|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|881|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|944|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|723|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|569|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3215|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|36.68.33.3|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|83.54.167.77|3128|Spain|León|Telefonica de Espana SAU|
-|7|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|8|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|182.53.71.222|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
-|19|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|20|103.154.91.250|8081|Indonesia|Bogor|MORATELINDONAP|
+|1|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|108.172.128.9|3128|Canada|Vancouver|TELUS Communications Inc|
+|5|107.175.77.50|8961|United States|Buffalo|HostPapa|
+|6|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|7|172.105.91.75|1080|Germany|Frankfurt am Main|Akamai Technologies|
+|8|107.175.77.50|8961|United States|Buffalo|HostPapa|
+|9|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|12|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana Telecomunicações Ltda|
+|15|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
