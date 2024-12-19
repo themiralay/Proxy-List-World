@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|11|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|72.10.164.178|26859|Canada|Montreal|GloboTech Communications|
 |13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|103.46.9.59|8088|Indonesia|Denpasar|PT Jaringanku Sarana Nusantara Malang|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|72.10.164.178|24217|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|3361|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|27155|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|15313|Canada|Montreal|GloboTech Communications|
+|14|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|15|72.10.164.178|26859|Canada|Montreal|GloboTech Communications|
+|16|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|67.43.227.227|21415|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|26859|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.230|25925|Canada|Montreal|GloboTech Communications|
+|20|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
