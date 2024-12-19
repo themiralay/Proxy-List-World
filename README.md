@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.47.90.228|3127|Indonesia|Sragen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|1|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|194.33.45.160|9021|United States|New York|Clouvider Limited|
+|4|194.33.45.160|9021|United States|New York|Clouvider Limited|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
 |8|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|181.198.64.114|999|Ecuador|Guayaquil|Telconet S.A|
-|10|177.36.14.137|8080|Brazil|Recife|1telecom Servicos De Tecnologia EM Internet Ltda|
-|11|122.154.75.200|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|103.122.65.15|8282|Indonesia|Banjar Wates Tengah|PT. Jinom Network Indonesia|
-|13|186.192.78.7|8080|Brazil|Crateús|AtualNet Provedor de Internet Ltda|
-|14|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|16|103.189.123.246|7777|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|17|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|18|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|9|95.179.248.44|10001|Germany|Frankfurt am Main|The Constant Company, LLC|
+|10|175.215.73.82|3129|South Korea|Jinju|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|13|86.109.3.28|9400|United States|Chicago|Packet Host, Inc.|
+|14|115.72.32.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|19|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
