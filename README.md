@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|27.66.8.224|10003|Vietnam|Ho Chi Minh City|Viettel Group|
 |5|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
-|6|115.72.170.5|10010|Vietnam|Vũng Tàu|VIETELmetro|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|8|103.215.187.66|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|9|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|15|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|16|27.66.8.224|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|103.80.98.19|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|19|27.66.8.224|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|114.218.150.61|8089|China|Nanjing|China Telecom|
+|6|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|10|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|12|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|181.115.185.50|8080|Bolivia|La Paz|Entel S.A. - EntelNet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|222.71.141.78|8080|China|Shanghai|China Telecom (Group)|
 
 
 
