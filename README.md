@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|5|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|116.106.192.19|1001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|9|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|10|115.74.108.104|1001|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|171.249.173.176|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
+|7|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|8|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|115.77.162.195|10005|Vietnam|Vũng Tàu|Viettel Group|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|115.72.170.5|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|14|115.72.37.85|10010|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|27.65.100.101|21147|Vietnam|Bình Dương Province|Viettel Group|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|115.72.34.201|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|115.72.37.85|10010|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|116.105.169.157|10009|Vietnam|Da Nang|Viettel Corporation|
 
 
 
