@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|103.162.55.2|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|42.113.195.184|10017|Vietnam|Hanoi|FPT Telecom Company|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|4|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|172.105.91.75|1080|Germany|Frankfurt am Main|Akamai Technologies|
 |11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|13|108.172.128.9|3128|Canada|Vancouver|TELUS Communications Inc|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|103.146.184.134|8080|Indonesia|Yogyakarta|YAMNET|
-|19|103.46.10.206|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|12|109.96.23.90|3128|Romania|Fieni|Romtelecom|
+|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|14|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A.|
+|16|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|20|108.172.128.9|3128|Canada|Vancouver|TELUS Communications Inc|
 
 
 
