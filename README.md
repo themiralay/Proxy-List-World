@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.205.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|118.69.26.26|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|116.105.162.81|10001|Vietnam|Da Nang|Viettel Corporation|
-|8|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|10|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|1.53.155.105|10099|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|15|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|19|118.69.26.122|10053|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|3|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|118.69.26.211|10087|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|116.105.162.81|10001|Vietnam|Da Nang|Viettel Corporation|
+|6|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|12|1.53.155.158|10037|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|118.69.26.121|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|186.3.98.230|999|Ecuador|Quito|Telconet S.A|
+|15|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|1.53.155.202|10084|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
+|18|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|20|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
 
 
 
