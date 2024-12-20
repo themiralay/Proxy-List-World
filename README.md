@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|8|67.43.228.250|3543|Canada|Montreal|GloboTech Communications|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|72.10.160.171|28071|Canada|Montreal|GloboTech Communications|
-|11|36.88.148.139|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|202.148.14.196|8050|Indonesia|Mojokerto|DNET-SBY|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|67.43.228.253|32495|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|25693|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|32495|Canada|Montreal|GloboTech Communications|
-|17|159.192.102.249|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|18|72.10.160.170|23935|Canada|Montreal|GloboTech Communications|
-|19|103.144.147.18|8080|Indonesia|Tulungagung|Lexxa Data|
-|20|72.10.160.170|23935|Canada|Montreal|GloboTech Communications|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|54.147.130.61|80|United States|Ashburn|Amazon Technologies Inc.|
+|7|72.10.160.91|25693|Canada|Montreal|GloboTech Communications|
+|8|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
+|9|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|67.43.228.253|12825|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|29833|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|15421|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|15421|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|10391|Canada|Montreal|GloboTech Communications|
+|16|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|103.76.91.50|8081|Indonesia|Bekasi|PT Kampung Dua Net|
+|19|180.180.175.240|3128|Thailand|Pak Tho|TOT Public Company Limited|
+|20|91.201.112.48|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
