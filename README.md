@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|6|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|7|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|10|103.253.18.126|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
-|11|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|12|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|13|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|14|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|15|45.123.142.75|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|16|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|17|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.164.178|18649|Canada|Montreal|GloboTech Communications|
+|2|14.171.46.113|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|115.77.139.128|10032|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
+|9|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
+|11|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.10.164.178|3981|Canada|Montreal|GloboTech Communications|
+|20|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
