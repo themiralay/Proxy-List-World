@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.41.123.20|3128|South Korea|Seoul|Microsoft Corporation|
-|2|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|3|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.166.32.46|1111|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
-|8|1.179.148.9|55636|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|9|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|10|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
-|12|170.84.147.129|8088|Brazil|Luzilândia|Direct Telecom Ltda|
-|13|203.150.113.146|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|103.76.108.114|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|15|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
-|16|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|17|110.78.147.251|3127|Thailand|Phi Phi Don|CAT-BB|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.46.10.206|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|1|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|103.11.96.178|3128|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.133.61.165|1111|Indonesia|Pekalongan|TLINK|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|8|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
+|10|84.241.6.102|8080|Iran|Tehran|SHATEL DSL Network|
+|11|103.214.9.99|3128|Vietnam|Thanh Xuân|MEGACORE|
+|12|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|13|125.133.98.152|8080|South Korea|Yangcheon-gu|Korea Telecom|
+|14|170.233.146.182|8080|Peru|Lima|Optical Technologies S.A.C.|
+|15|149.86.146.196|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|17|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|92.207.253.226|38157|United Kingdom|Kensington|Gamma Telecom Holdings Ltd|
+|19|103.76.108.114|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|20|103.217.224.203|8090|Indonesia|Ungaran|PT Nesta Indo Media|
 
 
 
