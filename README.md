@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|3|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|4|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|6|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
-|8|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|9|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|67.43.236.20|6711|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|19699|Canada|Montreal|GloboTech Communications|
+|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|2|47.243.50.86|48342|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
+|6|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|7|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|8|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|9|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|10|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
+|11|72.10.160.93|19847|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|103.85.158.100|8080|Bangladesh|Chittagong|Earth Telecommunication ( pvt ) Limited|
-|14|72.10.164.178|13325|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|10203|Canada|Montreal|GloboTech Communications|
-|16|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|18|67.43.227.227|2553|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|19847|Canada|Montreal|GloboTech Communications|
-|20|195.35.9.209|3128|United States|Phoenix|HOSTINGER US|
+|14|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|15|72.10.164.178|11903|Canada|Montreal|GloboTech Communications|
+|16|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|17|189.164.103.232|8080|Mexico|Cholula|UNINET|
+|18|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|171.250.21.235|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
