@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5799** proxies at the latest update. Usable proxies are below.
+> Scraper found **5717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|772|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|690|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|549|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3252|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|4|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|5|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|6|78.38.99.11|2080|Iran|Gorgan|Iran Telecommunication Company PJS|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|72.10.160.170|3261|Canada|Montreal|GloboTech Communications|
-|9|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|10|199.127.62.89|3128|United States|Miami|ReliableSite.Net LLC|
-|11|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|13|5.128.120.101|8181|Russia|Novosibirsk|Novotelecom Ltd|
-|14|72.10.164.178|20591|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|16567|Canada|Montreal|GloboTech Communications|
-|16|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|17|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|18|72.10.160.170|3261|Canada|Montreal|GloboTech Communications|
-|19|186.125.218.162|999|Argentina|Molinos|Telecom Argentina S.A.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|4|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|5|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.162.54.116|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
+|9|72.10.160.170|26367|Canada|Montreal|GloboTech Communications|
+|10|120.28.216.126|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.118.127.218|6969|Indonesia|Jakarta|Tele|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|15|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|103.26.128.226|8080|Indonesia|Yogyakarta|PT Jaringan Inti Exadata|
+|18|72.10.160.171|21901|Canada|Montreal|GloboTech Communications|
+|19|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|20591|Canada|Montreal|GloboTech Communications|
 
 
 
