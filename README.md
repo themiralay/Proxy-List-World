@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.213.137.6|8007|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
 |7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|9|27.79.205.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|47.88.17.136|18080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|124.105.17.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|17|103.254.106.74|8080|Indonesia|Lampung|PT GIGA PATRA MULTIMEDIA|
-|18|200.24.147.104|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
-|19|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|20|72.10.160.90|25261|Canada|Montreal|GloboTech Communications|
+|8|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
+|15|186.96.31.46|7070|Mexico|Guadalajara|Total Play Telecomunicaciones SA De CV|
+|16|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|17|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
+|18|203.192.199.158|53|India|Pune|Entire In2Cable|
+|19|27.79.205.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
 
 
 
