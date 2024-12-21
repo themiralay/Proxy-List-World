@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5908** proxies at the latest update. Usable proxies are below.
+> Scraper found **5844** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|775|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|521|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3386|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|6|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|13.200.198.229|8888|India|Mumbai|Amazon.com, Inc.|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|41.60.239.110|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|45.184.103.117|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|14|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|15|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|16|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|17|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|19|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.20|18679|Canada|Montreal|GloboTech Communications|
+|2|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|49.48.103.77|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|5|180.180.210.105|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|49.48.44.197|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|94.156.177.124|80|The Netherlands|Eygelshoven|Railnet LLC|
+|8|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|10|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|49.49.195.103|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|13|180.180.184.74|8080|Thailand|Changwat Sara Buri|TOT Public Company Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|38.188.127.138|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|18|185.250.38.211|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|19|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 
 
 
