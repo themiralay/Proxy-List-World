@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5342** proxies at the latest update. Usable proxies are below.
+> Scraper found **5821** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|488|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3252|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|4|188.226.140.127|7080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
-|7|103.181.255.203|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|8|27.79.205.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|45.122.228.10|8899|Australia|Cannonvale|NETPTYLTD|
-|14|72.10.160.173|8409|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|7407|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|14515|Canada|Montreal|GloboTech Communications|
-|17|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
-|18|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|19|67.43.227.226|6425|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|5039|Canada|Montreal|GloboTech Communications|
+|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
+|9|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|10|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|12|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
+|13|45.229.56.64|999|Panama|La Chorrera|Geek Networks|
+|14|67.43.236.20|3389|Canada|Montreal|GloboTech Communications|
+|15|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|181.78.82.211|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|18|67.43.227.228|23455|Canada|Montreal|GloboTech Communications|
+|19|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
