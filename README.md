@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.121.2.196|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|3|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|4|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|52.179.23.32|8080|United States|Boydton|Microsoft Corporation|
-|10|13.200.198.229|8888|India|Mumbai|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|14|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|161.97.162.97|3129|Germany|Düsseldorf|Contabo GmbH|
+|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|193.203.15.61|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|9|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|115.241.64.129|23500|India|Gurugram|Reliance Jio Infocomm Limited|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|19|103.55.224.122|8080|Indonesia|Karawang|PT Gapura Era Digital|
-|20|209.14.115.101|999|Colombia|Neiva|AGIS|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.20.165.231|8586|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|19|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|20|181.78.17.73|999|Colombia|Andalucía|IFX Networks Argentina S.R.L|
 
 
 
