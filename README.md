@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5958** proxies at the latest update. Usable proxies are below.
+> Scraper found **5619** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|869|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|830|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3299|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.15.66.100|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|2|13.200.198.229|8888|India|Mumbai|Amazon.com, Inc.|
-|3|45.114.144.150|32650|India|Jaipur|Tejays Dynamic Limited|
-|4|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|1.2.252.65|8080|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|7|65.1.244.232|80|India|Mumbai|Amazon.com|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|157.15.80.43|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
-|10|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|11|193.29.57.50|10014|Germany|Frankfurt Am Main|diva-e Datacenters GmbH|
-|12|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|203.150.128.100|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|110.74.195.142|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|94.156.177.124|80|The Netherlands|Eygelshoven|Railnet LLC|
-|19|72.10.164.178|21465|Canada|Montreal|GloboTech Communications|
-|20|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|113.11.179.19|8181|Indonesia|Bandung|Biznet Networks|
+|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|6|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|9|64.147.212.78|8080|United States|Asheville|ERC Broadband|
+|10|65.1.244.232|80|India|Mumbai|Amazon.com|
+|11|203.150.128.100|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|193.29.57.50|10014|Germany|Frankfurt Am Main|diva-e Datacenters GmbH|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|45.114.144.150|32650|India|Jaipur|Tejays Dynamic Limited|
 
 
 
