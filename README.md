@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5657** proxies at the latest update. Usable proxies are below.
+> Scraper found **5572** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|713|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|429|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3289|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|137.184.249.235|32153|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.20.50.218|8080|Indonesia|Temanggung|PT Cmdj Network Solution|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|45.32.28.107|1083|Japan|Shinagawa|Choopa|
-|7|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|8|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|9|103.189.248.6|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|10|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|191.102.250.101|8080|Argentina|Rosario|IP·RED|
-|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|103.115.23.18|8082|Myanmar|Tachilek|AST SYSTEM TECHNOLOGY COMPANY LIMITED|
-|18|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|19|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|20|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|4|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|5|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|6|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
+|9|27.189.130.28|8089|China|Langfang|Chinanet|
+|10|72.10.160.174|22269|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|18787|Canada|Montreal|GloboTech Communications|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|67.43.228.253|10457|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|23471|Canada|Montreal|GloboTech Communications|
+|16|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|17|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
+|18|182.53.144.136|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
