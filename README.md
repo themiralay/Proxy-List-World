@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.54.93.178|1080|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|2|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
-|8|103.130.128.66|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|9|182.53.20.41|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
-|10|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.97.91.42|80|Nigeria|Lagos|Melbikomas UAB|
-|12|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
-|13|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|15|67.43.236.20|25431|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|14419|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25431|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|28817|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|10009|Canada|Montreal|GloboTech Communications|
-|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|9|160.238.227.135|1313|Brazil|Teixeira de Freitas|Conexaoba Provedor De Internet|
+|10|181.198.63.142|999|Ecuador|Junín|Telconet S.A|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|13|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
+|14|27.79.204.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|16|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|72.10.160.170|8833|Canada|Montreal|GloboTech Communications|
+|18|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|115.147.36.37|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
