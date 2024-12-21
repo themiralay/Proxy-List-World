@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|5|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
-|6|72.10.164.178|2229|Canada|Montreal|GloboTech Communications|
-|7|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|8|116.105.164.46|10057|Vietnam|Da Nang|Viettel Corporation|
-|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|10|27.189.134.254|8089|China|Langfang|Chinanet|
-|11|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|14.177.74.95|8080|Vietnam|Hanoi|VNPT|
-|16|27.189.132.118|8089|China|Langfang|Chinanet|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|5.161.143.119|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|4|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|13.200.198.229|8888|India|Mumbai|Amazon.com, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
+|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|11|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|12|5.161.143.119|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|101.255.104.38|1080|Indonesia|Jakarta|PT Remala Abadi|
+|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|15|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|67.43.228.253|33021|Canada|Montreal|GloboTech Communications|
+|17|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|18|67.43.227.226|17921|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|20|139.84.211.63|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
