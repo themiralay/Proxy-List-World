@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.32.28.107|1083|Japan|Shinagawa|Choopa|
-|5|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|6|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|7|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|8|103.173.138.190|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|103.80.98.19|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|12|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|13|64.147.212.78|8080|United States|Asheville|ERC Broadband|
-|14|27.79.214.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|16|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|27.79.214.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.214.9.96|3128|Vietnam|Thanh Xuân|MEGACORE|
+|4|27.79.240.105|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|103.127.220.190|8181|Indonesia|Mojokerto|PT Multi Guna Sinergi|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.156.113.156|1111|Indonesia|Jakarta|MYREPUBLIC|
+|8|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|10|103.196.156.38|8080|Indonesia|Sawangan|PT Data Cyber Nusantara|
+|11|27.79.240.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|115.72.174.75|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|13|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|109.96.23.90|3128|Romania|Fieni|Romtelecom|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|17|38.159.229.72|999|Ecuador|Vinces|Turbonet S.A.|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|102.0.16.244|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 
 
 
