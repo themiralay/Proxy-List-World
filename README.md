@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.239.166.18|80|United States|Council Bluffs|Google LLC|
-|2|27.79.140.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|35.239.166.18|80|United States|Council Bluffs|Google LLC|
-|4|23.27.6.196|10001|United States|Ashburn|Cyclone Servers|
-|5|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|27.79.167.184|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|45.10.40.160|10001|Kazakhstan|Almaty|TimeWeb Ltd.|
-|9|38.46.219.140|10003|United States|Draper|FiberState, LLC|
-|10|27.79.178.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|27.79.218.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|23.27.6.196|10001|United States|Ashburn|Cyclone Servers|
-|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
-|17|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|27.79.187.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|66.29.131.231|1080|United States|Los Angeles|Namecheap, Inc.|
+|5|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|6|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|7|35.239.166.18|80|United States|Council Bluffs|Google LLC|
+|8|27.79.157.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.183.249|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.192.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.141.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|35.239.166.18|80|United States|Council Bluffs|Google LLC|
+|13|27.79.226.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|38.46.219.140|10003|United States|Draper|FiberState, LLC|
+|15|27.79.237.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.239.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.133.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|203.150.113.213|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|19|27.79.241.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
 
 
 
