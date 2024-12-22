@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|27.79.253.171|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|27.79.249.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|27.79.253.171|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.156.86.85|7777|Indonesia|Palopo|PT Chacha Networking System|
-|8|66.29.131.231|1080|United States|Los Angeles|Namecheap, Inc.|
-|9|27.79.151.167|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|11|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|27.79.239.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|103.132.55.214|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|16|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|17|27.79.199.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.201.203|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.218.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|5|27.79.219.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.29.131.231|1080|United States|Los Angeles|Namecheap, Inc.|
+|7|103.172.86.241|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|9|27.79.176.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|27.79.155.113|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|181.30.109.218|50098|Argentina|Buenos Aires|Telecom Argentina S.A|
+|16|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
+|17|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|27.79.238.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.214.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.199.0|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
