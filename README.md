@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|7|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|2|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|9|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|10|27.79.226.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.253.171|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|27.79.196.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|17|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|18|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|27.79.251.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|13|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|27.79.240.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.230.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|18|27.79.218.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|202.77.112.245|8080|Indonesia|Tangerang|LINKNET|
+|20|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
