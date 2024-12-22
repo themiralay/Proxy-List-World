@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|27.79.156.189|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
 |3|27.79.241.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|5|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|4|27.79.242.58|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.133.74.120|10001|Germany|Estenfeld|Florian Kolb|
 |6|45.133.74.120|10001|Germany|Estenfeld|Florian Kolb|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|8597|Canada|Montreal|GloboTech Communications|
-|10|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|11|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|54.151.194.56|10001|Singapore|Singapore|Amazon Technologies Inc.|
-|13|27.79.216.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
-|15|27.79.155.55|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|47.128.147.64|10006|Singapore|Singapore|Amazon Technologies Inc|
-|17|36.94.27.65|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|72.10.164.178|24847|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|217.61.105.211|4265|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|9|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|67.43.227.227|4279|Canada|Montreal|GloboTech Communications|
+|11|180.107.218.17|8089|China|Nanjing|China Telecom|
+|12|180.107.218.14|8089|China|Nanjing|China Telecom|
+|13|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|180.112.182.206|8089|China|Nanjing|Chinanet|
+|15|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|16|72.10.160.93|22721|Canada|Montreal|GloboTech Communications|
+|17|206.42.19.56|8080|Brazil|Vitória de Santo Antão|Brisanet Prestacao De Servicos De Internet Ltda|
+|18|104.129.194.44|10000|United States|Reston|ZSCALER, INC.|
+|19|67.43.236.18|23331|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7683|Canada|Montreal|GloboTech Communications|
 
 
 
