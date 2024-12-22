@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|5|89.163.145.22|33533|Germany|Düsseldorf|WIIT AG|
-|6|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|5.160.32.35|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|45.174.250.2|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|13|38.183.146.159|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|103.156.248.45|8080|Indonesia|Surabaya|Trans Media Telekomunikasi|
-|15|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|16|45.184.74.246|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|17|188.132.150.36|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|89.163.145.22|33533|Germany|Düsseldorf|WIIT AG|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.188.175.35|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|7|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|8|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
+|9|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|10|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|11|103.13.204.89|8083|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|12|168.197.44.35|3665|Argentina|Palpalá|Videotel SRL|
+|13|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|15|200.32.51.179|8080|Argentina|Mendoza|Telefonica de Argentina|
+|16|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|17|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|18|112.78.131.6|8080|Indonesia|Pamulang|Biznet Networks|
+|19|38.9.48.163|8090|Dominican Republic|Tamboril|INVERSIONES BONAFER, SRL|
+|20|62.3.30.70|8080|Georgia||Enbinet Ltd.|
 
 
 
