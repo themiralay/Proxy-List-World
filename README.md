@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5762** proxies at the latest update. Usable proxies are below.
+> Scraper found **6009** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|842|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|674|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3320|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.65|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|27.147.177.74|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|3|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|5|103.242.107.226|8098|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|6|80.78.65.230|8080|Albania|Tirana|ABCom|
-|7|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|8|102.50.248.123|9172|Morocco|Tétouan|Maroc telecom static ip adress|
-|9|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
-|10|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
-|11|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|12|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|159.146.54.137|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|15|64.71.151.20|8888|United States|Fremont|Hurricane Electric LLC|
-|16|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|18|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|19|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
-|20|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|5|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|6|103.27.239.200|3128|Vietnam|Quận Hai|Long Van System Solution|
+|7|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|8|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|54.147.130.61|80|United States|Ashburn|Amazon Technologies Inc.|
+|10|103.169.133.46|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|13|67.43.228.252|25103|Canada|Montreal|GloboTech Communications|
+|14|45.70.236.192|999|Ecuador|Vinces|Ufinet Panama S.A.|
+|15|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|19|27.189.128.251|8089|China|Langfang|Chinanet|
+|20|190.186.33.250|8080|Bolivia|Santa Cruz|Cotas Ltda.|
 
 
 
