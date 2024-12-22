@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5533** proxies at the latest update. Usable proxies are below.
+> Scraper found **5387** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|834|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|688|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|621|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3090|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|138.124.123.67|3128|Hungary|Budapest|Ithostline LTD|
-|3|138.124.123.67|3128|Hungary|Budapest|Ithostline LTD|
-|4|27.79.176.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
-|6|27.79.177.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.203.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|170.205.30.68|10000|United States|Los Angeles|Advin Services LLC|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|10|27.79.236.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|12|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|13|27.189.131.62|8089|China|Langfang|Chinanet|
-|14|67.43.227.227|21529|Canada|Montreal|GloboTech Communications|
-|15|183.236.232.160|8080|China|Guangzhou|China Mobile|
-|16|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|54.151.194.56|10001|Singapore|Singapore|Amazon Technologies Inc.|
+|4|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|9|18.100.238.91|10001|Spain|Zaragoza|Amazon Technologies Inc.|
+|10|18.100.238.172|10001|Spain|Zaragoza|Amazon Technologies Inc.|
+|11|170.205.30.68|10001|United States|Los Angeles|Advin Services LLC|
+|12|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|13|14.241.227.89|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|15|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|16|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
 |17|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|18|101.255.210.73|1111|Indonesia|Bekasi|PT Remala Abadi|
-|19|27.79.239.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|209.38.138.65|10001|United States|San Francisco|DigitalOcean, LLC|
+|18|88.218.93.203|58635|United States|Los Angeles|Stark Industries Solutions LTD|
+|19|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|20|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
 
 
 
