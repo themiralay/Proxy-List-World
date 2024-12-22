@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
-|5|27.79.241.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|7|27.79.241.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|144.48.162.121|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|11|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|12|64.112.124.233|10001|United States|Spring|Cyber Planet LLC|
-|13|64.6.8.5|8080|United States|Dallas City|MTC Communications|
-|14|27.79.238.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.78.25.42|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|16|72.10.164.178|7753|Canada|Montreal|GloboTech Communications|
-|17|209.38.138.65|10000|United States|San Francisco|DigitalOcean, LLC|
+|3|27.79.216.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
+|5|113.160.133.32|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|54.151.194.56|10001|Singapore|Singapore|Amazon Technologies Inc.|
+|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
+|9|38.255.85.157|999|Venezuela|Barquisimeto|Galanet Solution C.A.|
+|10|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|11|38.240.58.141|10001|Germany|Frankfurt am Main|Hyonix|
+|12|27.79.237.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|27.79.255.1|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.244.146|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|67.43.227.226|3957|Canada|Montreal|GloboTech Communications|
-|20|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|19|103.48.71.70|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|27.79.185.127|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
