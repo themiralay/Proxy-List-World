@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5297** proxies at the latest update. Usable proxies are below.
+> Scraper found **5341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|788|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|592|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2955|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|18.141.234.246|10001|Singapore|Singapore|Amazon.com, Inc.|
-|4|54.151.194.56|10006|Singapore|Singapore|Amazon Technologies Inc.|
-|5|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|191.102.250.102|8084|Argentina|Rosario|IP·RED|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|110.78.186.63|8080|Thailand|Bangkok|CAT-BB|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
-|12|213.134.208.187|8080|Russia|Tuapse|NewCom Port|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|186.122.178.59|80|Argentina|Córdoba|Techtel LMDS Comunicaciones Interactivas S.A.|
-|16|170.205.30.68|10001|United States|Los Angeles|Advin Services LLC|
-|17|13.228.183.211|10006|Singapore|Singapore|Amazon Technologies Inc.|
-|18|170.205.30.68|10001|United States|Los Angeles|Advin Services LLC|
-|19|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|20|168.228.204.43|80|Brazil|Santaluz|Advanx Informatica Ltda|
+|1|103.146.184.134|8080|Indonesia|Yogyakarta|YAMNET|
+|2|103.181.255.221|1080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|3|103.199.214.48|1007|India|Haldwani|RailTel Corporation|
+|4|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
+|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|8|168.228.204.43|80|Brazil|Santaluz|Advanx Informatica Ltda|
+|9|45.174.80.83|20183|Brazil|Riachão das Neves|Davilson Dos Santos Correia-me|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.79.141.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|109.96.23.90|3128|Romania|Fieni|Romtelecom|
+|13|49.254.146.127|28919|South Korea|Cheonan|Korea Telecom|
+|14|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|15|64.112.124.233|10001|United States|Spring|Cyber Planet LLC|
+|16|154.201.74.228|8080|United States|Dallas|High Family Technology Co|
+|17|181.198.64.114|999|Ecuador|Guayaquil|Telconet S.A|
+|18|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|19|101.255.167.49|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
