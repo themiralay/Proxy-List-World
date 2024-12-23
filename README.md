@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|203.150.128.135|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|103.82.36.146|14001|Vietnam|Láng Thượng|Cloudfly Corporation|
-|7|64.71.151.20|8888|United States|Logan|Hurricane Electric LLC|
-|8|185.140.12.38|80|Germany|Frankfurt am Main|Melbikomas UAB|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|103.82.36.146|14001|Vietnam|Láng Thượng|Cloudfly Corporation|
+|6|139.84.136.201|3129|India|Bengaluru|The Constant Company|
+|7|86.109.3.28|9401|United States|Chicago|Packet Host, Inc.|
+|8|64.71.151.20|8888|United States|Logan|Hurricane Electric LLC|
 |9|64.71.151.20|8888|United States|Logan|Hurricane Electric LLC|
-|10|27.79.219.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.250.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|27.79.224.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
-|16|182.253.109.192|8080|Indonesia|Jakarta|Biznet Metronet|
-|17|49.49.95.185|8888|Thailand|Akat Amnuai|Triple T Broadband Public Company Limited|
-|18|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
-|19|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|12|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|13|103.154.92.74|8080|Indonesia|Depok|PT Mora Telematika Indonesia|
+|14|27.79.186.231|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|16|109.96.23.90|3128|Romania|Fieni|Romtelecom|
+|17|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|18|103.166.32.78|8091|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
+|19|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|20|203.150.128.135|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
