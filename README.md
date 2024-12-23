@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|18.167.194.10|80|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|6|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|27.79.199.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.206.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.250.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
-|12|93.113.180.43|10002|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
-|15|27.79.145.195|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|17|27.79.189.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|49.254.146.127|28919|South Korea|Gwangmyeong|Korea Telecom|
-|19|124.121.2.159|8080|Thailand|Bangkok|TRUEBB|
-|20|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|4|190.14.251.109|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
+|5|103.168.149.48|8181|Indonesia|Samosir|TORSADA|
+|6|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|7|54.147.130.61|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.71.151.20|8888|United States|Logan|Hurricane Electric LLC|
+|11|41.212.16.180|8080|Kenya|Mombasa|Wananchi Group (K) LTD|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|111.125.242.34|1111|India|Mumbai|NIXI|
+|18|67.43.227.226|9055|Canada|Montreal|GloboTech Communications|
+|19|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|20|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
 
 
 
