@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.247.14.38|9285|Indonesia|Klaten|TERABIT|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|13|103.126.219.204|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|14|103.158.121.42|1988|Indonesia|Indramayu|CDN|
-|15|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|16|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|223.206.35.10|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|18|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
-|20|67.43.228.251|7665|Canada|Montreal|GloboTech Communications|
+|6|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|27.79.166.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|13|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|14|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|18|27.79.247.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|102.38.31.8|80|Libya|Tripoli|GZA|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
