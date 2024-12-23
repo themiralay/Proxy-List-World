@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.238.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.203.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|54.151.194.56|10006|Singapore|Singapore|Amazon Technologies Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.79.182.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.149.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|12|109.96.23.90|3128|Romania|Fieni|Romtelecom|
-|13|27.79.180.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|200.5.196.218|3128|Argentina|Carlos Spegazzini|Telefonica de Argentina|
-|15|102.212.201.151|8080|South Africa|Johannesburg|JENNY INTERNET (PTY) LTD|
-|16|18.141.234.246|10001|Singapore|Singapore|Amazon.com, Inc.|
-|17|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|18|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|19|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|20|103.168.44.191|8083|Indonesia|Kuningan Barat|PT CYB Media Group|
+|2|113.160.132.195|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|4|203.144.144.146|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|8|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|200.95.184.50|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|12|64.112.124.233|10001|United States|Spring|Cyber Planet LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|17|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|18|38.137.203.14|999|Peru|Lima|Internet Services Perú|
+|19|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|20|64.112.124.233|10001|United States|Spring|Cyber Planet LLC|
 
 
 
