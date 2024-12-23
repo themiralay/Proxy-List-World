@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5002** proxies at the latest update. Usable proxies are below.
+> Scraper found **5068** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|770|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2836|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.198.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|18.167.194.10|80|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|5|27.79.137.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|27.79.212.161|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
-|10|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|13|27.79.152.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.228.253|23589|Canada|Montreal|GloboTech Communications|
-|15|103.132.54.150|8080|Indonesia|Semarang|PT. ADEAKSA INDO JAYATAMA|
-|16|72.10.160.91|1097|Canada|Montreal|GloboTech Communications|
-|17|119.11.205.129|8080|Indonesia|Jakarta|PT. NTT Indonesia|
-|18|72.10.160.174|12177|Canada|Montreal|GloboTech Communications|
-|19|27.79.198.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
+|6|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|7|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
+|8|72.10.160.91|14463|Canada|Montreal|GloboTech Communications|
+|9|187.102.216.202|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
+|10|72.10.164.178|21207|Canada|Montreal|GloboTech Communications|
+|11|27.79.212.161|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|27.79.195.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
+|15|72.10.160.91|14463|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|1623|Canada|Montreal|GloboTech Communications|
+|17|180.112.180.156|8089|China|Nanjing|Chinanet|
+|18|114.218.144.30|7788|China|Nanjing|China Telecom|
+|19|113.160.115.254|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|20|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
 
 
 
