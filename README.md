@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4924** proxies at the latest update. Usable proxies are below.
+> Scraper found **4968** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|126|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2920|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.11.179.19|8181|Indonesia|Bandung|Biznet Networks|
-|4|57.128.190.31|9091|United Kingdom|Erith|OVH SAS|
-|5|57.128.190.29|9091|United Kingdom|Erith|OVH SAS|
-|6|57.128.190.32|9091|United Kingdom|Erith|OVH SAS|
-|7|27.79.133.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|157.66.50.39|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|9|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|92.255.107.53|8080|Russia|St Petersburg|TimeWeb Ltd.|
-|12|24.52.33.75|8080|United States|Golden|TDS TELECOM|
-|13|146.59.92.91|9091|Poland|Warsaw|OVH SAS|
-|14|57.128.183.113|9091|United Kingdom|Erith|OVH SAS|
-|15|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|16|129.154.216.93|8888|South Korea|Seoul|Oracle Corporation|
-|17|64.71.151.20|8888|United States|Logan|Hurricane Electric LLC|
-|18|213.108.23.81|3128|Finland|Helsinki|Aeza International LTD|
-|19|122.54.119.79|8080|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|20|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|57.128.191.10|9091|United Kingdom|Erith|OVH SAS|
+|5|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|54.37.235.105|9091|Poland|Wroclaw|OVH SAS|
+|8|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
+|9|57.128.191.4|9091|United Kingdom|Erith|OVH SAS|
+|10|27.79.253.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|177.234.240.124|1993|Ecuador|Azogues|Ufinet Panama S.A.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|27.79.206.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|16|27.79.250.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|19|27.79.183.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|182.253.134.115|8080|Indonesia|Jakarta|BIZNET|
 
 
 
