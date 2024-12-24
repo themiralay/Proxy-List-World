@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4310** proxies at the latest update. Usable proxies are below.
+> Scraper found **4209** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|126|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2216|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.136|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|27.79.208.15|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.246.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|57.128.191.9|9091|United Kingdom|Erith|OVH SAS|
-|6|27.79.179.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|8|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|27.79.222.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|79.175.133.162|3128|Iran|Tehran|AFranet Co|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|18|20.120.225.109|3128|United States|Quincy|Microsoft Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|203.150.113.136|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.190.60.26|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|5|27.79.246.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|8|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|9|27.79.248.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|92.255.107.53|8080|Russia|St Petersburg|TimeWeb Ltd.|
+|12|27.79.143.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|15|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|103.75.84.199|8080|Indonesia|Central Java|MEGADATA|
+|18|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|19|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|72.10.164.178|29295|Canada|Montreal|GloboTech Communications|
 
 
 
