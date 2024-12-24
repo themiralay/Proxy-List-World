@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5470** proxies at the latest update. Usable proxies are below.
+> Scraper found **5638** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|846|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|697|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3017|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|57.128.183.113|9091|United Kingdom|Erith|OVH SAS|
+|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|27.79.171.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
 |6|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|7|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|8|54.38.159.195|9091|Germany|Limburg an der Lahn|OVH SAS|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|11|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
-|12|119.95.180.151|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|13|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|14|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
-|15|45.81.144.17|8080|Iraq|Duhok|Fact LTD|
-|16|27.79.252.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|7|54.37.233.151|9091|Poland|Warsaw|OVH SAS|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|10|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|11|103.166.159.142|7777|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|12|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|13|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|49.254.146.127|28919|South Korea|Gwangmyeong|Korea Telecom|
+|15|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
+|16|190.97.234.173|999|Venezuela|Betijoque|Viginet C.A|
+|17|85.112.71.208|8080|Lebanon|Beirut|TerraNet sal|
+|18|27.79.237.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
 
 
 
