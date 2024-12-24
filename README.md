@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|3|27.79.217.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|57.128.190.20|9091|United Kingdom|Erith|OVH SAS|
-|5|27.79.204.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.250.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.219.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.79.178.80|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|54.37.204.111|9091|Germany|Limburg an der Lahn|OVH SAS|
-|12|27.79.207.122|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|14|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|15|27.79.201.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.165.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.153.254.110|6987|Vietnam|Thanh Xuân|VINAHOST-HN|
-|19|27.73.226.177|10027|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|140.227.204.70|3128|Japan|Chiyoda|InfoSphere|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
+|10|27.79.214.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|12|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|27.79.183.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|17|54.38.159.195|9091|Germany|Limburg an der Lahn|OVH SAS|
+|18|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
+|19|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
