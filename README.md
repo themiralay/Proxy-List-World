@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5185** proxies at the latest update. Usable proxies are below.
+> Scraper found **5145** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|130|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|534|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2932|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.196.67.229|6987|Vietnam|Quận Tân Phú|VinaHost Co|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|57.128.190.29|9091|United Kingdom|Erith|OVH SAS|
-|5|92.255.107.53|8080|Russia|St Petersburg|TimeWeb Ltd.|
-|6|57.128.215.139|9091|Poland|Warsaw|OVH SAS|
-|7|57.128.197.164|9091|Poland|Warsaw|OVH SAS|
-|8|57.128.190.28|9091|United Kingdom|Erith|OVH SAS|
-|9|57.128.213.252|9091|Poland|Warsaw|OVH SAS|
-|10|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|11|123.200.14.194|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|27.79.227.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|15|154.201.74.228|8080|United States|Los Angeles|FD-298-8796|
-|16|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|17|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|18|185.220.205.60|8080|Netherlands|Amsterdam|Kamatera Inc|
-|19|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|20|109.120.184.15|8080|Finland|Helsinki|Aeza International LTD|
+|1|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.153.254.91|6987|Vietnam|Thanh Xuân|VINAHOST-HN|
+|3|154.205.83.144|20022|United States|Los Angeles|ADA Digital Global Inc|
+|4|200.233.147.14|3128|Brazil|Ribeirão Preto|ALGAR TELECOM S/A|
+|5|190.94.213.108|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|27.79.151.218|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|57.128.191.10|9091|United Kingdom|Erith|OVH SAS|
+|9|57.128.190.33|9091|United Kingdom|Erith|OVH SAS|
+|10|38.156.72.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|12|27.79.244.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.167.126.237|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|191.103.219.225|48612|Colombia|Sahagún|Edatel S.a. E.S.P|
+|15|57.128.213.252|9091|Poland|Warsaw|OVH SAS|
+|16|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|119.95.180.151|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|18|27.79.140.63|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|92.255.107.53|8080|Russia|St Petersburg|TimeWeb Ltd.|
 
 
 
