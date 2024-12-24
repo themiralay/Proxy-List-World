@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.247.23.231|1111|Indonesia|Cilacap|PT wifian Solution|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|57.128.191.10|9091|United Kingdom|Erith|OVH SAS|
-|6|77.73.71.87|43800|Latvia|Riga|SIA VEESP|
-|7|27.79.243.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|10|57.128.182.237|9091|United Kingdom|Erith|OVH SAS|
-|11|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|12|181.204.83.115|41890|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|13|32.142.206.26|9081|United States|Ashburn|AT&T Services, Inc.|
-|14|27.79.222.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|17|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|20|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.160.12.96|6060|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|5.161.143.119|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|8|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|11|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|12|103.121.122.147|3333|Indonesia|Jakarta|CV. NATANETWORK SOLUTION|
+|13|27.79.243.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|15|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|16|101.255.119.206|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
+|19|27.79.155.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|104.129.194.44|10000|United States|Reston|ZSCALER, INC.|
 
 
 
