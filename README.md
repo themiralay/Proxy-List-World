@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5323** proxies at the latest update. Usable proxies are below.
+> Scraper found **5338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|126|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|763|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|603|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2920|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.34|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|27.79.188.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|5.45.71.215|49999|The Netherlands|Amsterdam|Managed by ISPIRIA Networks|
-|4|57.128.190.32|9091|United Kingdom|Erith|OVH SAS|
-|5|57.128.176.170|9091|United Kingdom|Erith|OVH SAS|
-|6|57.128.182.237|9091|United Kingdom|Erith|OVH SAS|
-|7|103.168.149.48|8181|Indonesia|Samosir|TORSADA|
-|8|54.37.233.151|9091|Poland|Warsaw|OVH SAS|
-|9|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|57.128.190.30|9091|United Kingdom|Erith|OVH SAS|
+|3|57.128.182.237|9091|United Kingdom|Erith|OVH SAS|
+|4|27.79.185.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|203.150.113.34|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|57.128.190.29|9091|United Kingdom|Erith|OVH SAS|
+|7|27.79.232.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|9|27.79.188.111|16000|Vietnam|Hanoi|Viettel Corporation|
 |10|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
-|11|146.59.92.91|9091|Poland|Warsaw|OVH SAS|
-|12|103.148.45.184|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|13|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|14|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|16|57.128.191.13|9091|United Kingdom|Erith|OVH SAS|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|54.147.130.61|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|57.128.197.171|9091|Poland|Warsaw|OVH SAS|
-|20|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|170.84.146.176|8099|Brazil|Teresina|Direct Telecom Ltda|
+|13|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|14|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
+|15|27.79.221.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|17|104.129.194.43|10005|United States|Reston|ZSCALER, INC.|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|67.43.227.228|8229|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3963|Canada|Montreal|GloboTech Communications|
 
 
 
