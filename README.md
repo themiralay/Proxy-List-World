@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.239.166.18|80|United States|Council Bluffs|Google LLC|
-|2|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|3|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|4|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|5|125.26.165.245|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|171.224.81.145|10006|Vietnam|Hanoi|Viettel Corporation|
-|7|57.128.176.170|9091|United Kingdom|Erith|OVH SAS|
-|8|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|57.128.183.113|9091|United Kingdom|Erith|OVH SAS|
-|11|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|57.128.183.113|9091|United Kingdom|Erith|OVH SAS|
+|3|57.128.190.24|9091|United Kingdom|Erith|OVH SAS|
+|4|57.128.176.170|9091|United Kingdom|Erith|OVH SAS|
+|5|57.128.190.25|9091|United Kingdom|Erith|OVH SAS|
+|6|181.198.115.179|999|Ecuador|El Reventador|Telconet S.A|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|146.59.93.170|9091|Poland|Warsaw|OVH SAS|
+|9|110.136.37.190|8080|Indonesia|South Tangerang|PT. TELKOM INDONESIA|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
 |13|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|15|103.220.22.89|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|15|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
 |16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|17|163.47.210.73|8080|India|Bengaluru|Microsense Pvt. Limited|
-|18|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
-|19|72.10.164.178|17015|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17015|Canada|Montreal|GloboTech Communications|
+|17|204.199.105.222|999|Colombia|Bogotá|CTL Colombia|
+|18|72.10.164.178|17015|Canada|Montreal|GloboTech Communications|
+|19|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
+|20|72.10.160.170|10543|Canada|Montreal|GloboTech Communications|
 
 
 
