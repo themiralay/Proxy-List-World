@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.133.26.110|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|6|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|7|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|57.128.190.20|9091|United Kingdom|Erith|OVH SAS|
-|9|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|10|182.52.70.72|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|200.24.152.210|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
-|12|57.128.190.31|9091|United Kingdom|Erith|OVH SAS|
-|13|131.100.51.41|999|Colombia|Neiva|Fibernet TV SAS|
-|14|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
-|15|113.132.112.45|9000|China|Xi'an|Chinanet|
-|16|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|17|187.204.28.78|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|18|154.201.74.228|8080|United States|Los Angeles|FD-298-8796|
-|19|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|20|162.243.5.191|80|United States|New York|DigitalOcean, LLC|
+|4|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|8|27.79.130.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
+|10|27.79.183.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|154.73.28.241|8080|Libya|Tripoli|Rawafed|
+|12|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|13|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|14|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|15|165.16.27.36|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|16|103.232.228.138|8080|Nepal|Kathmandu|RO-228 BroadLink|
+|17|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|18|113.132.112.45|9000|China|Xi'an|Chinanet|
+|19|72.10.164.178|1389|Canada|Montreal|GloboTech Communications|
+|20|168.63.249.119|18888|Singapore|Singapore|Microsoft Corporation|
 
 
 
