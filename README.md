@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|3|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|27.79.213.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|27.79.201.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|54.37.204.206|9091|Germany|Limburg an der Lahn|OVH SAS|
-|8|108.129.139.196|8081|Ireland|Dublin|BellSouth.net Inc.|
-|9|54.38.214.34|9091|United Kingdom|Bexley|OVH SAS|
-|10|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
-|11|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|14|54.38.159.195|9091|Germany|Limburg an der Lahn|OVH SAS|
-|15|27.79.195.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|163.47.210.73|8080|India|Bengaluru|Microsense Pvt. Limited|
-|19|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|101.108.117.89|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|27.79.168.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|57.128.176.170|9091|United Kingdom|Erith|OVH SAS|
+|6|57.128.183.169|9091|United Kingdom|Erith|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|27.79.238.27|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|54.37.232.151|9091|Poland|Wroclaw|OVH SAS|
+|11|92.255.107.53|8080|Russia|St Petersburg|TimeWeb Ltd.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|14|190.7.57.84|8080|Argentina|Resistencia|Gigared S.A|
+|15|103.245.16.134|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|16|103.16.119.19|8080|Indonesia|Madiun|CV Trustnet Media|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
+|19|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|20|54.38.214.34|9091|United Kingdom|Bexley|OVH SAS|
 
 
 
