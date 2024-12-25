@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|27.79.152.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.194.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.139.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.248.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.180.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.76.105.211|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|27.79.246.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.190.89|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|27.79.205.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.180.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|38.55.193.246|7893|Hong Kong|Hong Kong|Lucidacloud Limited|
-|13|27.79.230.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|45.12.136.145|58799|Lithuania|Vilnius|Stark Industries Solutions LTD|
-|15|103.166.32.78|8091|Indonesia|Krajan Tegalombo|PT Daniswara Citra Informatika|
-|16|27.79.170.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|9|160.22.193.118|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
+|10|27.79.152.28|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|49.49.148.224|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|12|45.239.28.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
+|13|27.79.228.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|27.79.239.92|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.136.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|38.55.193.246|7893|Hong Kong|Hong Kong|Lucidacloud Limited|
+|18|180.191.42.241|8082|Philippines|Caloocan City|Globe Telecom|
+|19|91.201.112.48|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
