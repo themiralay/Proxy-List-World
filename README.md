@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|149.28.181.248|80|Australia|Sydney|The Constant Company|
-|8|103.199.214.48|1007|India|Nainital|RailTel Corporation|
-|9|49.254.146.127|28919|South Korea|Gwangmyeong|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|12|64.176.181.31|10001|United Kingdom|Swinton|The Constant Company, LLC|
-|13|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|14|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|27.79.195.185|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|20|27.73.226.177|10011|Vietnam|Hanoi|Newass2011xDSLHN|
+|1|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|64.176.181.31|10001|United Kingdom|Swinton|The Constant Company, LLC|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|10|38.159.226.214|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|11|49.254.146.127|28919|South Korea|Gwangmyeong|Korea Telecom|
+|12|150.107.245.20|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|13|27.79.157.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|15|58.147.186.226|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
+|18|121.126.68.66|22551|South Korea|Namyangju|HAIonNet|
+|19|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
+|20|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
 
 
 
