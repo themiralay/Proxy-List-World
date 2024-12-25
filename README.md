@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5637** proxies at the latest update. Usable proxies are below.
+> Scraper found **5723** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|802|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|616|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3084|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.178.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|35.239.166.18|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|7|103.250.130.140|7777|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|8|27.79.238.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.222.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|182.53.20.9|8080|Thailand|Si Racha|TOT Public Company Limited|
-|13|49.145.50.38|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|27.79.151.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|8.210.130.199|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|157.10.182.233|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|49.145.50.38|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|6|27.79.151.92|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|10|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|11|27.79.211.255|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|13|27.79.205.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|219.65.42.161|80|India|New Delhi|Tata Communications Limited|
+|15|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
 |16|137.59.48.20|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|18|103.172.23.82|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|19|103.226.232.164|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|20|27.76.106.16|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|18|115.72.5.86|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
