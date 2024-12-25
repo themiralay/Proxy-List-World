@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|101.32.14.101|1080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|35.239.166.18|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|35.239.166.18|80|United States|Council Bluffs|Google LLC|
-|6|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|7|27.79.128.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|91.201.112.48|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|27.79.185.8|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|14|27.79.152.28|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
-|18|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|103.220.23.217|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|6|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|9|177.135.38.76|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
+|10|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|11|35.239.166.18|80|United States|Council Bluffs|Google LLC|
+|12|107.175.155.246|55555|United States|Buffalo|HostPapa|
+|13|147.75.202.36|9401|United States|San Jose|Packet Host, Inc.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|16|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|17|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|18|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|19|104.129.194.46|10005|United States|Reston|ZSCALER, INC.|
+|20|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
 
 
 
