@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.198.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|27.79.198.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.176.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.225.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.165.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.173.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.227.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.157.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|212.33.205.42|8118|Iran|Tehran|Asiatech Data Transmission company|
+|3|27.79.203.242|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.198.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.225.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.164.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.157.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.176.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|11|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.173.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|27.79.206.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|19|27.79.244.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|207.148.15.250|31862|United States|Elk Grove Village|The Constant Company|
 
 
 
