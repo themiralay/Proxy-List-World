@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|27.79.168.203|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|182.52.32.171|8080|Thailand|Tha Tum|TOT Public Company Limited|
-|4|27.79.143.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.133.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.213.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.189.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.175.188|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|16|27.79.252.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|190.110.35.106|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
-|19|27.79.179.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.223.247|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.189.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.143.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|8|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|11|27.79.133.22|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
+|14|203.175.102.80|8080|Indonesia|Sukasari|MITRAKITA|
+|15|182.52.32.171|8080|Thailand|Tha Tum|TOT Public Company Limited|
+|16|158.101.2.192|9091|United States|Phoenix|Oracle Corporation|
+|17|94.154.32.210|10001|Türkiye|Istanbul|Yusuf Kemal TURKMENOGLU|
+|18|103.93.93.220|3127|Indonesia|Wedoro|MYRISE|
+|19|177.234.247.234|999|Ecuador|Azogues|Ufinet Panama S.A.|
+|20|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
 
 
 
