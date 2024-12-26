@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|49.145.114.16|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.173.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.244.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|162.191.181.73|80|United States|Bellevue|T-Mobile USA, Inc.|
-|10|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.203.242|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.135.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.244.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.247.253|16000|Vietnam|Hanoi|Viettel Corporation|
 |11|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|203.192.199.158|53|India|Pune|Entire In2Cable|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
-|16|27.79.157.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
-|18|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|19|103.163.227.213|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|20|27.79.202.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.236.171|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.79.227.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|45.233.169.21|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|16|103.87.170.49|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
+|20|103.38.104.166|8798|Indonesia|Wonosobo|PT Tunas Media Data|
 
 
 
