@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5250** proxies at the latest update. Usable proxies are below.
+> Scraper found **5278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|412|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3014|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.237.49|40563|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.224.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.182.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.247.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.182.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|9|27.79.133.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.168.203|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.145.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
-|14|94.154.32.210|10001|Türkiye|Istanbul|Yusuf Kemal TURKMENOGLU|
-|15|121.101.133.81|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|16|185.44.65.171|9595|United States|New York|Massivegrid LTD|
-|17|177.93.39.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.240.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|34.80.240.128|8080|Taiwan|Taipei|Google LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|27.79.157.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.237.49|40563|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.151.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.240.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.168.203|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.182.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.222.228|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
+|12|27.79.132.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.145.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.195.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.161.16.53|22000|Vietnam|Phúc Lai|BKSI|
+|17|94.154.32.210|10001|Türkiye|Istanbul|Yusuf Kemal TURKMENOGLU|
+|18|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
+|19|124.122.134.243|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|20|27.79.206.49|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
