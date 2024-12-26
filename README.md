@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|103.157.59.239|8090|Indonesia|Bandung|PT. Eka Mas Republik|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|3.86.159.154|3128|United States|Ashburn|Amazon Technologies Inc.|
 |4|3.86.159.154|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|3.86.159.154|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|27.79.173.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.18.77.87|8080|Indonesia|Menteng|PT Usaha Adi Sanggoro|
-|8|27.79.164.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|27.79.233.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.148.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.198.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|27.65.62.211|9062|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|27.79.157.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.233.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|24.52.33.75|8080|United States|Golden|TDS TELECOM|
+|6|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
+|7|27.79.206.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.247.23.29|4317|Indonesia|Cilacap|PT wifian Solution|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.79.236.171|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.168.149.48|8181|Indonesia|Samosir|TORSADA|
+|13|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
+|14|27.65.62.211|9025|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|27.79.164.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|18|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|27.79.131.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
