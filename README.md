@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.223.247|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.229.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|6|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|3|193.228.162.163|3128|Russia|Rostov-on-Don|Republican Digital Communications Office LAN|
+|4|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|5|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|6|27.79.231.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.138.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
 |10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|180.107.218.42|8089|China|Nanjing|China Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.79.133.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|185.64.208.151|53281|Russia|Kstovo|Svyazist LLC|
-|15|124.198.103.81|28124|South Korea|Gwangmyeong|Korea Telecom|
-|16|122.3.121.231|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
-|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|18|45.149.93.200|2024|Singapore|Singapore|PT Perwira Media Solusi|
-|19|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|11|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|41.222.57.59|8080|Tanzania|Arusha|Arusha Art Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|159.223.43.178|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.12.136.145|58799|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|18|38.255.86.253|999|Venezuela|Caracas|Galanet Solution C.A.|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|49.254.146.127|28919|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
