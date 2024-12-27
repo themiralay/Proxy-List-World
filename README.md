@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
-|4|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|5|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|6|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|7|49.48.98.169|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|8|102.66.104.137|8080|South Africa|Thulamahashi|HERO TELECOMS (PTY) LTD|
-|9|186.96.79.158|999|Venezuela|Caracas|Gold Data USA Inc|
-|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|14|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|67.43.228.254|3899|Canada|Montreal|GloboTech Communications|
-|19|103.133.61.187|3127|Indonesia|Pekalongan|TLINK|
-|20|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.252.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|6|27.79.150.71|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.207.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|223.205.165.43|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
+|9|27.79.201.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.143.8.126|8089|India|Andheri|Juweriyah Networks Private Limited|
+|14|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.189.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|19|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
