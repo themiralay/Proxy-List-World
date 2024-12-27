@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.201.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.176.5|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.220.23.217|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|7|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|9|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|10|27.79.222.55|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|116.163.1.85|9999|China|Beijing|China Unicom CHINA169 Network|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|103.133.61.187|3127|Indonesia|Pekalongan|TLINK|
-|14|91.108.130.111|32650|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|204.10.194.63|10112|Germany|Nuremberg|Advin Services LLC|
-|17|103.126.219.204|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|2|27.79.216.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.166.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.144.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.173.229|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.222.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |18|27.79.134.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|20|128.136.25.175|5009|United States|Charlotte|Flexential Colorado Corp.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
 
 
 
