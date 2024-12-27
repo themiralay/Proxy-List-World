@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|124.121.2.179|8080|Thailand|Bangkok|TRUEBB|
-|4|27.79.207.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.239.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.233.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|27.79.224.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.220.143|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|14|27.79.216.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.174.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|18|103.129.201.35|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|19|27.79.207.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.248.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|124.121.2.179|8080|Thailand|Bangkok|TRUEBB|
+|3|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|27.79.224.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|9|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.233.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
+|15|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.174.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|27.79.243.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.220.143|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
