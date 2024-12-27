@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|149.28.40.44|1080|United States|Piscataway|The Constant Company|
 |4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.157.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|10|172.236.32.254|4145|Australia|Melbourne|Akamai Technologies, Inc.|
-|11|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.162.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|17|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|18|27.79.207.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.180.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
+|8|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.220.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.169.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|23.27.6.196|10008|United States|Ashburn|Cyclone Servers|
+|15|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|27.79.234.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.220.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
 
 
 
