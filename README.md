@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|5|27.79.224.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|2|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|9|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|10|27.79.163.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.254.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|15|27.79.183.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|37.32.15.125|6888|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|19|114.249.232.20|8000|China|Beijing|China Unicom Beijing Province Network|
-|20|103.133.27.50|8081|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|8|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|9|103.16.119.19|8080|Indonesia|Madiun|CV Trustnet Media|
+|10|27.79.221.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|14|190.122.88.144|8080|Argentina|Buenos Aires|Servicios y Telecomunicaciones S.A|
+|15|37.32.15.125|6888|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|171.15.37.211|20006|China|Zhengzhou|China Telecom|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
