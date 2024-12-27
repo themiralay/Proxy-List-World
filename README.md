@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|4|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|5|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|6|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
-|7|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|8|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.150.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|94.74.99.46|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|11|113.175.223.221|443|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|121.101.133.81|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|13|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|67.43.227.226|30153|Canada|Montreal|GloboTech Communications|
-|16|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
-|17|14.245.187.186|8080|Vietnam|Da Nang|VNPT|
-|18|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|20|72.10.160.90|21371|Canada|Montreal|GloboTech Communications|
+|2|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|3|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|4|27.79.189.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.237.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.204.82|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.164.76|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|10|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.169.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|16|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
+|17|106.75.226.193|8119|China|Yangpu|UCLOUD|
+|18|45.5.117.168|999|Guatemala|Guatemala City|Infinitum S.A.|
+|19|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|20|67.43.228.250|21463|Canada|Montreal|GloboTech Communications|
 
 
 
