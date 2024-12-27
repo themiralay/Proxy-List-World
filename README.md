@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
 |2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|5|27.79.150.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.133.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.150.71|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|27.79.225.180|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.161.159|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.225.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|103.16.119.19|8080|Indonesia|Madiun|CV Trustnet Media|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|27.79.183.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|77.238.224.28|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|18|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|19|13.60.184.180|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
+|3|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|4|171.5.182.200|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|27.79.212.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.169.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|27.79.163.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|15|27.79.163.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.201.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|27.79.221.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.161.159|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
