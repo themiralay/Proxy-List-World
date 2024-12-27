@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|103.125.50.223|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
-|4|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|12|116.102.108.46|10014|Vietnam|Bà Rịa|Viettel Corporation|
-|13|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.170.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.153.142.18|8080|India|Keonjhargarh|Om Jay Infotech|
-|17|171.248.203.237|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|93.183.95.159|20170|Russia|Moscow|Hosting technology LTD|
+|2|27.79.166.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.243.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.216.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.243.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.252.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.176.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|17|103.125.50.223|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
+|18|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
