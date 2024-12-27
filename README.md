@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|115.77.248.206|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|27.79.150.17|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|27.79.230.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|115.72.45.149|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|27.79.237.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.233.2|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|12|27.79.243.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.224.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.174.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|18|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.183.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.150.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|6|27.79.190.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.220.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.230.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.189.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.237.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.224.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.228.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.163.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.254.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|19|27.79.174.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
