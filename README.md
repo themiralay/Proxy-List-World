@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |2|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|7|27.79.134.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.172.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.166.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.126.172.139|8080|Indonesia|Bandar Lampung|MEGARAP|
-|13|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|27.79.169.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|54.147.130.61|1080|United States|Ashburn|Amazon Technologies Inc.|
-|16|27.79.251.234|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|20|54.88.119.225|80|United States|Ashburn|Amazon.com, Inc.|
+|4|27.79.251.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.150.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|27.79.221.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.134.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|13|27.79.225.180|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|16|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|18|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|19|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|20|27.79.187.52|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
