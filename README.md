@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|3|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
-|4|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
-|5|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.204.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|14|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.221.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|67.43.236.19|13683|Canada|Montreal|GloboTech Communications|
-|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|20|67.43.236.20|27911|Canada|Montreal|GloboTech Communications|
+|1|27.79.224.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
+|3|27.79.176.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|27.79.174.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
+|7|27.79.224.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.79.190.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.222.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.228.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.178.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.204.82|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
