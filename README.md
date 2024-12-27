@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|209.80.129.2|8080|United States|Needham|HopOne Internet Corporation|
-|6|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|7|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|203.150.113.177|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
-|11|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|203.150.113.177|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.224.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|203.190.46.131|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|45.5.116.144|999|Guatemala|Guatemala City|Infinitum S.A.|
 |14|27.79.220.195|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.207.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.251.234|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.225.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|20|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.163.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.134.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|122.3.121.231|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
+|20|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
