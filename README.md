@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5078** proxies at the latest update. Usable proxies are below.
+> Scraper found **4942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3003|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2878|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|149.28.40.44|1080|United States|Piscataway|The Constant Company|
-|3|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|2|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |4|27.79.228.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|27.79.243.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.162.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|172.236.32.254|4145|Australia|Melbourne|Akamai Technologies, Inc.|
-|11|27.79.139.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|47.90.227.68|10001|United States|Richmond|Alibaba.com LLC|
-|14|58.147.186.31|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|15|103.82.39.12|14001|Vietnam|Sông Thao|Cloudfly Corporation|
-|16|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.197.30|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.237.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.150.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.233.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.220.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.189.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.189.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|27.79.237.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|17|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.183.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.183.58|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
