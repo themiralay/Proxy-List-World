@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|101.109.34.23|8080|Thailand|Si Maha Phot|TOT Public Company Limited|
-|4|27.79.172.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.189.244|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.197.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.203.164|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.251.234|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.207.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|178.178.112.94|8080|Russia|Sochi|MegaFon|
+|2|27.79.203.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|116.102.33.136|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.251.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|183.236.232.160|8080|China|Guangzhou|China Mobile|
+|13|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|14|45.167.126.237|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|16|113.160.115.254|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|17|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|103.228.243.149|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
 
 
 
