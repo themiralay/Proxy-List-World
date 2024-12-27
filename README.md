@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|149.28.40.44|1080|United States|Piscataway|The Constant Company|
-|3|27.79.172.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|177.73.69.247|3127|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
-|6|3.70.176.179|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|15|67.43.236.18|25565|Canada|Montreal|GloboTech Communications|
-|16|45.81.146.12|8082|Iraq|Sumayl|Duhok Networks|
-|17|45.5.116.144|999|Guatemala|Guatemala City|Infinitum S.A.|
-|18|27.189.132.129|8089|China|Langfang|Chinanet|
-|19|27.79.231.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|72.10.160.170|10829|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|27.79.221.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|177.73.69.247|3127|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
+|8|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|9|27.79.169.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|11|24.23.243.97|8888|United States|Sunnyvale|Comcast Cable Communications, LLC|
+|12|27.79.133.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|122.3.121.231|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
+|14|121.101.133.81|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|15|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|18|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
