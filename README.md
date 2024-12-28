@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|27.79.172.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|11|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|18|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|14|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|18|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|19|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
+|20|177.240.4.125|999|Mexico|Ciudad General Terán|Mega Cable, S.A. de C.V.|
 
 
 
