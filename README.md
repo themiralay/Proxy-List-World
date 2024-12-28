@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|119.18.156.245|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
-|5|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|6|27.79.166.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|13|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|16|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
-|17|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|4|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|5|27.79.166.96|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.135.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.170.1|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|13|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|119.18.156.245|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
+|15|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|119.95.237.19|8080|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|103.154.220.26|1111|Indonesia|Bandung|MORATELINDONAP|
+|19|45.160.179.15|80|Brazil|Santana do Araguaia|P.A THOMAZ MARCELINO & CIA EPP LTDA|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
