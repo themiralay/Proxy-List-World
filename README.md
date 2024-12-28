@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.220.246|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|5|27.79.254.31|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.178.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.137.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.223.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|95.71.33.176|8080|Russia|Stary Oskol|Rostelecom networks|
-|10|27.79.220.176|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.76.109.35|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|27.79.228.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.182.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|17|27.79.159.239|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.160.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|103.81.221.214|8080|Indonesia|Bandung|STARNET|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.249.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.166.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.184.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.172.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.196.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.132.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.167.158|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.254.31|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.244.82|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.178.21|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.245.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.168.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|20|27.79.209.32|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
