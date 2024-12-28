@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.238.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|5|27.79.216.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.160.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|27.79.170.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.154.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|18|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|27.79.152.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|27.79.181.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.216.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|19|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
+|20|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
 
 
 
