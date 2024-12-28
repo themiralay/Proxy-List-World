@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.172.150|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|3|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|4|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|79.175.133.162|3128|Iran|Tehran|AFranet Co|
-|12|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|27.79.148.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|17|72.10.160.91|1783|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|177.242.147.110|3030|Mexico|Los Encinos|Mega Cable, S.A. de C.V.|
-|20|176.32.2.193|8080|Ukraine|Kamianets-Podilskyi|Lanet Network|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|27.79.219.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.168.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|27.79.245.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|8|27.79.159.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|13|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|14|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|15|187.249.20.153|8081|Mexico|Ciudad Acuña|Transtelco Inc|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|189.51.34.144|8056|Brazil|Ribeirão Preto|CLIENT.CO SERVIÇOS E TELECOMUNICAÇÕES LTDA|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|27.79.219.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|103.126.219.204|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
 
 
 
