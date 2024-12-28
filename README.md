@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4768** proxies at the latest update. Usable proxies are below.
+> Scraper found **5068** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|3|27.79.253.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|27.79.134.27|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.148.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|223.204.166.157|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|9|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.154.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
-|17|45.177.16.131|999|Paraguay|Ciudad del Este|MSW S.A.|
-|18|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|5|27.79.168.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|103.247.23.28|9223|Indonesia|Cilacap|PT wifian Solution|
+|7|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|8|41.60.239.108|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|11|27.79.178.21|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.148.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|27.79.209.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
