@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|4|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.253.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.172.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|9|202.57.26.58|8080|Indonesia|Bandung|WANET|
-|10|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|11|103.124.139.184|8080|Indonesia|Bandung|Global Media Data Prima|
-|12|27.79.190.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.137.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|103.168.149.48|8181|Indonesia|Samosir|TORSADA|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.79.252.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.129.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.154.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.166.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|45.167.126.237|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|27.79.220.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|27.79.203.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.223.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.212.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.253.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.206.73|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.206.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|14|27.79.247.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|16|27.79.228.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|190.121.207.161|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|18|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|20|91.236.156.30|8282|Ukraine|Lokhvytsya|Limited Liability Company AVATOR ISP|
 
 
 
