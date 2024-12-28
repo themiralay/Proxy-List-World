@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|1.4.251.12|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.159.196.149|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|5|27.79.166.102|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.172.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.212.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.167.158|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.225.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|1.4.251.12|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|115.72.40.211|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.165.116|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|27.79.247.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.165.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|189.195.139.178|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|27.79.230.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.76.153.137|37779|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|27.79.196.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.147.218.162|8080|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|19|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
