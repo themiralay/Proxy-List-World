@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.132.159|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|5|27.79.245.110|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.252.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.159.239|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.248.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.165.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.134.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.233.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.253.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.178.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.246.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|16|27.79.184.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.168.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.166.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|188.168.24.38|81|Russia|Irkutsk|TTK-Retail|
+|3|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.249.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.168.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.166.27|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.245.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|192.69.221.26|3128|Canada|Toronto|WebNX, Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|110.137.24.126|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.190.185.206|8080|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|13|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|14|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|119.93.206.217|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|103.190.60.27|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|17|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|18|27.79.134.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|77.47.179.6|8888|Ukraine|Kyiv|iServerHost LLC|
 
 
 
