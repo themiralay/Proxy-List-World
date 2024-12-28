@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|4|103.175.225.29|9090|Indonesia|Jakarta|MYREPUBLIC|
-|5|27.79.170.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|8|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|9|27.79.196.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.252.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.160.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|14|200.10.31.221|999|Colombia|Pereira|Super Redes S.A.S|
-|15|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|16|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|17|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|122.3.121.231|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
-|19|103.157.146.168|6969|Indonesia|Palu|PT Warna Data Multimedia|
-|20|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.132.159|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.168.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|212.193.4.133|1080|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|11|27.79.252.45|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.159.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.184.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|115.72.0.233|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|15|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|27.76.109.35|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|27.79.224.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|20|27.79.148.194|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
