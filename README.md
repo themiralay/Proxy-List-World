@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.247.14.38|9285|Indonesia|Klaten|TERABIT|
-|2|124.121.2.251|8080|Thailand|Bangkok|TRUEBB|
-|3|27.79.209.32|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|1.4.250.44|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|3|27.76.109.35|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|27.79.241.1|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|27.79.196.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|179.32.62.127|999|Colombia|Cartagena|Colombia Telecomunicaciones S.a. ESP|
-|11|103.156.248.27|8085|Indonesia|Batu Panjang|Trans Media Telekomunikasi|
-|12|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|19|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|20|103.178.194.199|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|89.110.106.78|38914|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|43.128.110.204|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.132.159|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.230.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|13|27.79.132.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.206.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|116.203.139.209|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|18|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|20|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
 
 
 
