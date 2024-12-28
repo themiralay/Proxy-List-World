@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.71.212.248|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|5|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|6|89.110.106.78|38914|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.244.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.170.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.209.32|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|38.123.192.193|8080|Mexico|Santa Ana Nextlalpan|Cogent Communications|
-|13|27.79.196.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|103.159.46.10|84|India|Ahmedabad|King Netsol Private Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.79.190.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|5|27.79.168.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.226.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.209.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
+|9|27.79.129.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|89.110.106.78|38914|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|27.79.172.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.224.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.132.159|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.248.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.137.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.128.229|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|27.79.154.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|45.224.149.15|999|Ecuador|Borbón|Ufinet Panama S.A.|
-|20|165.255.22.2|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|19|27.79.166.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.196.22|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
