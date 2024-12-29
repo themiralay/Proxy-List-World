@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|5|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|6|27.79.229.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.196.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|125.24.161.239|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|11|27.79.160.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|14|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.247.187|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.172.150|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
-|20|27.79.137.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
+|7|27.79.134.208|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|18|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
 
 
 
