@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.128.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|160.16.230.224|3128|Japan|Tokyo|SAKURA Internet Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|4|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|5|27.79.247.187|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|10|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|11|107.152.39.106|8888|Canada|Montreal|tzulo, inc.|
-|12|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|45.249.122.54|8080|India|Kāramadai|Airconnect Services|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.240.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.241.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.171.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.128.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.119.67.95|8080|Indonesia|Tangerang|MYREPUBLIC|
+|10|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.219.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|13|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
+|15|27.79.247.187|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|17|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|18|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
