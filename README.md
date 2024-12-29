@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|14.229.156.242|8080|Vietnam|Vinh|VNPT|
 |3|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
 |4|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.198.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|27.79.254.159|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.200.110|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.169.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|18|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.197.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|5|27.79.254.159|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.169.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|116.107.112.47|10089|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.138.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.147.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|27.79.214.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.76.109.115|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.211.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|27.79.166.83|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
