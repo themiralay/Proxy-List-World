@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|3|27.79.132.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.229.156.242|8080|Vietnam|Vinh|VNPT|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|1|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.229.156.242|8080|Vietnam|Vinh|VNPT|
+|4|27.79.139.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.167.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.76.109.115|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|27.79.219.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
 |10|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|11|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|18|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|19|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|14|27.79.194.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
