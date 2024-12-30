@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|171.245.88.153|10085|Vietnam|Thái Bình|Viettel Corporation|
-|3|27.79.243.204|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.192.181|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|27.79.133.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.243.204|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.143.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|16|27.79.240.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.175.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.201.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.143.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|27.79.201.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|27.79.240.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.192.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.155.220|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
