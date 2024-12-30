@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|27.79.191.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|45.61.161.124|10000|Germany|Nuremberg|Advin Services LLC|
-|6|216.158.246.90|51012|United States|Taos|Kit Carson Electric Cooperative, Inc|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|117.121.202.17|20280|Indonesia|Banyumas|PT Sekawan Global Komunika|
-|12|103.117.57.200|80|Indonesia|Cicurug|BYOIP PT. Cloud Hosting Indonesia|
-|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|72.10.164.178|9033|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|32759|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9033|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32759|Canada|Montreal|GloboTech Communications|
-|18|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|20|67.43.228.253|4445|Canada|Montreal|GloboTech Communications|
+|1|45.149.93.123|1567|Singapore|Singapore|PT Perwira Media Solusi|
+|2|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|104.129.182.41|8798|Canada|Vancouver|IT7 Networks Inc|
+|5|113.160.116.52|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|113.160.116.157|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|7|202.154.18.17|1122|Indonesia|Jombang|DIGITNET|
+|8|58.147.190.147|8181|Indonesia|Bogor|PT. Transhybrid Communication|
+|9|103.155.198.161|8037|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|103.245.16.241|7878|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|11|113.160.117.35|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|12|203.161.30.138|8070|Indonesia|Bandar Lampung|PT. Trimitra Usaha Sejahtera|
+|13|113.160.115.139|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|14|103.167.68.90|8181|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|15|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
+|16|103.176.96.185|1565|Indonesia|Karawang|PT Global Sarana Elektronika|
+|17|103.155.196.119|8084|Indonesia|Sukabumi|JEMBATANDATA|
+|18|103.75.84.32|8076|Indonesia|Central Java|MEGADATA|
+|19|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|20|210.87.125.14|8088|Indonesia|Kediri|CV Brawijaya Giga Network|
 
 
 
