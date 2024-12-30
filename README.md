@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|5|27.79.197.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|7|45.61.161.124|10000|Germany|Nuremberg|Advin Services LLC|
-|8|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.138.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|8|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|27.79.194.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|45.61.161.124|10000|Germany|Nuremberg|Advin Services LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.12.136.145|21752|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|14|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
 |17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|198.23.158.172|3128|United States|Buffalo|HostPapa|
-|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|19|103.81.194.49|2020|Indonesia|Bogor|PT Rtiga Global Media|
+|20|72.10.160.91|14807|Canada|Montreal|GloboTech Communications|
 
 
 
