@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.141.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|91.236.230.57|3128|United States|Los Angeles|BlueVPS OU|
-|4|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.109.59.179|9080|Bangladesh|Lākshām|HelloTech Limited|
-|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|12|27.79.248.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|18|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|54.86.192.11|8888|United States|Ashburn|Amazon.com, Inc.|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.79.155.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|113.192.30.123|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|119.95.227.213|8082|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
+|13|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
+|14|27.79.221.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
 
 
 
