@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.229.156.242|8080|Vietnam|Vinh|VNPT|
-|4|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|10|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.249.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|184.82.19.145|8080|Thailand|Chiang Mai|AIS-Fibre|
-|16|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|170.64.217.128|3128|Australia|Sydney|DigitalOcean, LLC|
-|18|14.229.156.242|8080|Vietnam|Vinh|VNPT|
-|19|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|14.229.156.242|8080|Vietnam|Vinh|VNPT|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.79.218.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.69.246.239|20081|Vietnam|Da Nang|Viettel Group|
+|10|27.79.167.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.117.58.65|8085|Indonesia|Arjawinangun|PT Jaringan Multimedia Cirebon|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.79.197.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.139.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.191.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
