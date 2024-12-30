@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.214.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|185.44.65.171|3128|United States|New York|Massivegrid LTD|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.244.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|103.237.134.60|3888|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|10|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |12|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|13|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|185.44.65.171|3128|United States|New York|Massivegrid LTD|
-|16|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|17|27.69.242.210|20014|Vietnam|Da Nang|Viettel Group|
-|18|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.236.18|31799|Canada|Montreal|GloboTech Communications|
-|20|27.79.244.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|14|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|15|61.178.141.146|80|China|Zhangyelu|Chinanet|
+|16|67.43.227.226|9007|Canada|Montreal|GloboTech Communications|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|72.10.160.170|26105|Canada|Montreal|GloboTech Communications|
+|19|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|20|67.43.227.226|9007|Canada|Montreal|GloboTech Communications|
 
 
 
