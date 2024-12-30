@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.219.248|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.79.144.57|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|5|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|6|18.130.207.254|8888|United Kingdom|London|Amazon Technologies Inc.|
-|7|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|8|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.119.51.158|8080|Indonesia|Bogor|PT. Eka Mas Republik|
-|13|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|14|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|18|45.184.124.33|1985|Mexico|Mexico City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
-|19|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
-|20|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
+|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|18.135.211.182|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|35.178.104.4|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
+|12|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|13|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|14|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|27.79.183.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|38.183.146.43|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|19|171.247.238.176|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
