@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.156.242|8080|Vietnam|Vinh|VNPT|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|4|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|7|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|182.253.223.141|8080|Indonesia|Jakarta|BIZNET|
-|15|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|103.228.243.149|8080|Indonesia|Jakarta|SpaceX Starlink|
-|18|27.79.214.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|20|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|3|27.79.132.45|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|14.229.156.242|8080|Vietnam|Vinh|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|11|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
+|18|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|19|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
 
 
 
