@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4777** proxies at the latest update. Usable proxies are below.
+> Scraper found **4875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|98|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|659|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
-|6|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.166.83|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.167.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|65.1.244.232|80|India|Mumbai|Amazon.com|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|17|45.184.103.123|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.252.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|27.79.171.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.154.146.66|8080|Indonesia|Jakarta|MORATELINDONAP|
+|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|9|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.59.44.213|8083|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|27.65.59.238|8083|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.194.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|187.103.105.22|8999|Brazil|Florianópolis|BR.Digital Provider|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
