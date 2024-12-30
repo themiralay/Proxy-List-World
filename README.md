@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5322** proxies at the latest update. Usable proxies are below.
+> Scraper found **5323** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|125|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|126|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|761|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|490|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|3|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|5|27.79.179.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|116.105.61.225|10014|Vietnam|Hanoi|Viettel Corporation|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|113.11.183.11|8082|Indonesia|Bandung|Biznet Networks|
-|14|27.79.214.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|16|179.1.142.129|8080|Colombia|Líbano|InterNexa Global Network|
-|17|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|18|202.89.106.150|8080|India|Madhapur|VALUELABS|
-|19|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|20|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|1|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|3|116.105.61.225|10000|Vietnam|Hanoi|Viettel Corporation|
+|4|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|5|27.79.156.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|7|103.189.123.246|7777|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|8|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|27.79.219.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.171.245.24|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|12|67.43.228.254|2679|Canada|Montreal|GloboTech Communications|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|185.44.65.171|3128|United States|New York|Massivegrid LTD|
+|19|77.221.151.186|3128|Russia|Moscow|xorek.cloud Group Ltd.|
+|20|113.11.183.11|8082|Indonesia|Bandung|Biznet Networks|
 
 
 
