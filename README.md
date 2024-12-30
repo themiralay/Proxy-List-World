@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|38.183.146.183|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|3|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|4|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|54.86.192.11|8888|United States|Ashburn|Amazon.com, Inc.|
-|9|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|12|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|5|27.79.244.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|7|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|8|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|185.82.99.210|8080|Lebanon|Baalbek|NET 360 S.A.R.L|
+|10|45.177.16.133|999|Paraguay|Ciudad del Este|MSW S.A.|
+|11|185.208.102.155|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
-|15|27.79.141.51|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |16|95.47.148.244|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
-|17|201.77.98.131|999|Mexico|Huichapan|Erik Tovar Juarez|
-|18|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|19|190.120.254.240|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|20|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
+|17|103.85.53.54|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
+|18|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|103.247.23.231|1111|Indonesia|Cilacap|PT wifian Solution|
+|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
