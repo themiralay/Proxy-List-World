@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.85.117.17|8080|Indonesia|Makassar|BOSOWA|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|112.78.166.229|8080|Indonesia|Jakarta|Biznet Networks|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.183.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|190.8.164.64|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|13|103.132.55.214|8080|Indonesia|Semarang|PT Adeaksa Indo Jayatama|
-|14|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|18|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|19|27.79.229.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|6|27.79.218.92|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|8|27.79.209.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|115.124.75.57|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|11|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|12|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|13|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|16|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
