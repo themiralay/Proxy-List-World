@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.141.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
 |4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|103.231.236.122|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|9|103.156.86.130|8080|Indonesia|Palopo|PT Chacha Networking System|
-|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|114.223.141.244|8089|China|Wuxi|Chinanet|
-|12|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|13|125.27.14.92|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|72.10.164.178|17735|Canada|Montreal|GloboTech Communications|
-|17|103.165.93.16|8080|Bangladesh|Khulna|Saifuzzaman Babu|
-|18|182.53.55.198|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|67.43.227.227|28081|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|14891|Canada|Montreal|GloboTech Communications|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|9|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|67.43.228.250|10767|Canada|Montreal|GloboTech Communications|
+|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|103.176.227.197|8009|Indonesia|Bandung|PT Pass Internet Indonesia|
+|13|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|184.82.19.145|8080|Thailand|Chiang Mai|AIS-Fibre|
+|16|72.10.160.94|8393|Canada|Montreal|GloboTech Communications|
+|17|27.79.132.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|19|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
+|20|103.162.54.203|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
 
 
 
