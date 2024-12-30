@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4655** proxies at the latest update. Usable proxies are below.
+> Scraper found **4688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|103|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|505|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|327|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2827|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.176.82.215|45613|Singapore|Singapore|The Constant Company, LLC|
-|2|146.56.98.157|13128|South Korea|Chuncheon|Oracle Corporation|
-|3|171.245.116.102|10003|Vietnam|Bắc Giang|Viettel Corporation|
-|4|27.69.245.101|20098|Vietnam|Da Nang|Viettel Group|
-|5|27.69.245.246|20030|Vietnam|Da Nang|Viettel Group|
-|6|171.245.88.153|10085|Vietnam|Thái Bình|Viettel Corporation|
-|7|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|8|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|9|45.61.161.124|10000|Germany|Nuremberg|Advin Services LLC|
-|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|11|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
-|12|27.79.236.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|27.79.191.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|17|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|146.56.98.157|13128|South Korea|Chuncheon|Oracle Corporation|
+|2|171.245.88.153|10085|Vietnam|Thái Bình|Viettel Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|27.79.197.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|8|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|10|171.245.116.102|10003|Vietnam|Bắc Giang|Viettel Corporation|
+|11|45.61.161.124|10000|Germany|Nuremberg|Advin Services LLC|
+|12|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|13|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|14|147.45.170.226|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|15|45.12.136.145|21752|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|16|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|20|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
