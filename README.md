@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5231** proxies at the latest update. Usable proxies are below.
+> Scraper found **5347** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.232.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.155.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|54.86.192.11|8888|United States|Ashburn|Amazon.com, Inc.|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|8|154.197.73.173|39045|Vietnam|Hanoi|Vcore Company Limited|
-|9|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
-|10|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|11|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|45.149.93.123|1567|Singapore|Singapore|PT Perwira Media Solusi|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.85.53.54|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
-|20|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|1|45.149.93.123|1567|Singapore|Singapore|PT Perwira Media Solusi|
+|2|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|3|54.86.192.11|8888|United States|Ashburn|Amazon.com, Inc.|
+|4|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|81.223.55.43|8080|Austria|Vienna|T-Mobile Austria GmbH|
+|6|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
+|7|27.79.155.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|10|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|11|103.180.123.15|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|13|27.79.251.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|27.79.196.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|20|111.125.242.34|1111|India|Mumbai|NIXI|
 
 
 
