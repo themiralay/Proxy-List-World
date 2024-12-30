@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|27.79.167.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|27.79.166.83|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.198.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.79.132.45|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
+|6|27.79.130.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.191.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|170.64.242.38|3128|Australia|Sydney|DigitalOcean, LLC|
+|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|27.79.222.152|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|17|91.144.19.89|80|Syria|Damascus|STE Public Data Network Backbone and LIR|
-|18|27.79.194.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.218.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.139.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.214.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.190.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.138.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.166.83|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|14.229.156.242|8080|Vietnam|Vinh|VNPT|
+|20|182.253.217.198|8008|Indonesia|Jakarta|BIZNET|
 
 
 
