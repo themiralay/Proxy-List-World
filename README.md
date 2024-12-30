@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.134.220.145|8080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|4|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
-|5|91.236.230.57|3128|United States|Los Angeles|BlueVPS OU|
-|6|91.236.230.57|3128|United States|Los Angeles|BlueVPS OU|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.79.205.171|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|116.105.61.225|10017|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.179.166|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|27.79.205.171|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|11|103.231.62.10|8080|Cambodia|Phnom Penh|Mekongnet|
-|12|27.79.178.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|148.233.136.213|80|Mexico|Santa María Chimalhuacán|Uninet S.A. de C.V.|
+|11|103.155.197.116|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|12|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|13|177.234.227.147|999|Ecuador|Pueblo Nuevo|Ufinet Panama S.A.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|116.105.61.225|10017|Vietnam|Hanoi|Viettel Corporation|
-|17|177.234.227.147|999|Ecuador|Pueblo Nuevo|Ufinet Panama S.A.|
-|18|103.160.15.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|19|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|20|110.136.37.45|8080|Indonesia|South Tangerang|PT. TELKOM INDONESIA|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|18|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
+|19|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|20|154.205.83.130|20008|United States|Los Angeles|ADA Digital Global Inc|
 
 
 
