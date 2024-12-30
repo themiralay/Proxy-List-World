@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.149.93.123|1567|Singapore|Singapore|PT Perwira Media Solusi|
-|2|103.167.68.90|8181|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|3|103.59.44.213|8083|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|4|103.133.61.163|8182|Indonesia|Pekalongan|TLINK|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|113.160.117.35|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|103.155.197.125|2024|Indonesia|Sukabumi|JEMBATANDATA|
-|8|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
-|9|103.176.96.185|1565|Indonesia|Karawang|PT Global Sarana Elektronika|
-|10|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|11|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|12|157.66.84.24|1983|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|13|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
-|14|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
-|15|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|16|113.160.115.139|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.115.139|8014|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|103.176.96.185|1565|Indonesia|Karawang|PT Global Sarana Elektronika|
+|5|103.131.19.29|8012|Indonesia|Lamongan|PT Global Media Data Prima|
+|6|103.133.61.163|8182|Indonesia|Pekalongan|TLINK|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
+|9|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
+|10|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
+|11|203.161.50.34|8799|United States|New York|Namecheap, Inc.|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|14|163.172.235.236|3131|France|Paris|Online S.A.S.|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|210.87.125.14|8088|Indonesia|Kediri|CV Brawijaya Giga Network|
 |17|103.231.236.27|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|18|95.142.35.209|8038|Russia|Moscow|EuroByte LLC|
-|19|163.172.235.236|3131|France|Paris|Online S.A.S.|
-|20|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
+|18|103.87.231.120|8128|Indonesia|Bandar Lampung|ZITLINE|
+|19|95.142.35.209|8038|Russia|Moscow|EuroByte LLC|
+|20|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
