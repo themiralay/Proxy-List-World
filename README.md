@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|2|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|3|54.86.192.11|8888|United States|Ashburn|Amazon.com, Inc.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|103.247.23.72|7777|Indonesia|Cilacap|PT wifian Solution|
-|6|103.13.205.41|8080|Indonesia|Pati|PT Jaringanku Sarana Nusantara Pati|
-|7|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.231.236.82|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|10|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|11|27.79.176.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|16|27.79.232.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|1|27.79.155.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|7|27.79.141.51|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.176.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|177.67.86.96|999|Brazil|Alvorada|W I X NET DO BRASIL LTDA - ME|
+|11|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
+|12|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|27.79.248.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|113.192.48.25|8181|Indonesia|Batu|PT.Global Media Data Prima|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|27.79.156.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
 
 
 
