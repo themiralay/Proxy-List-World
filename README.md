@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|3|27.79.160.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|27.79.218.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.153.246.130|8282|Indonesia|Purwakarta|PRIMAHOME|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|180.107.218.30|8089|China|Nanjing|China Telecom|
-|12|72.10.160.90|30287|Canada|Montreal|GloboTech Communications|
-|13|27.79.218.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|15|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|16|91.107.141.127|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|72.10.160.173|26925|Canada|Montreal|GloboTech Communications|
-|19|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|8|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.179.166|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|14|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|15|198.23.158.172|3128|United States|Buffalo|HostPapa|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|20|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
 
 
 
