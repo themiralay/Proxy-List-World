@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|103.134.220.145|8080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|5|49.48.40.36|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|9|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.177.23.18|999|Peru|Lima region|P&P BUSINESS GROUP SAC|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|17|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|18|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|19|27.79.235.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.249.93|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.86.116.46|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|6|45.149.93.123|1567|Singapore|Singapore|PT Perwira Media Solusi|
+|7|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|8|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|10|102.39.244.235|80|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|45.12.136.145|21752|Lithuania|Vilnius|Stark Industries Solutions LTD|
+|13|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
+|15|27.79.244.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
+|17|179.49.117.19|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
+|18|103.134.220.145|8080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
