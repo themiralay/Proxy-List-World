@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|3|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|106.251.66.243|53452|South Korea|Songpa-gu|LG DACOM Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.247.14.51|9285|Indonesia|Klaten|TERABIT|
-|8|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|9|27.79.139.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|13|45.174.57.26|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
-|14|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|17|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|18|115.72.9.43|10007|Vietnam|Vũng Tàu|VIETELmetro|
-|19|181.209.82.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|27.79.139.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|27.79.223.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|9|201.39.229.148|80|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|11|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|12|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|14|149.86.142.201|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|179.1.13.67|8080|Colombia|Convención|InterNexa Global Network|
+|16|27.79.144.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|27.79.197.88|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
