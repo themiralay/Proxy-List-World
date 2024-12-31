@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|1|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|5|149.28.41.163|808|United States|Piscataway|The Constant Company|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|11|128.90.145.117|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|12|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|14|27.69.246.195|20005|Vietnam|Da Nang|Viettel Group|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.156.141.172|8081|Indonesia|Krajan|PT Tekling Media Telematika|
+|7|120.28.210.205|8080|Philippines|Davao City|Globe Telecom|
+|8|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|213.134.208.187|8080|Russia|Tuapse|NewCom Port|
+|13|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|14|27.79.229.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|143.64.8.21|8080|China|Zhangjiakou|Shanghai Blue Cloud Technology Co., Ltd|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|72.10.164.178|19341|Canada|Montreal|GloboTech Communications|
+|18|38.41.4.138|999|Venezuela|Charallave|MDS TELECOM C.A.|
 |19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|67.43.227.226|12033|Canada|Montreal|GloboTech Communications|
 
 
 
