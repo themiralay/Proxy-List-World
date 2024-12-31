@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.79.195.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.248.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|27.79.252.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|171.228.146.37|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|12|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|27.79.161.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|47.88.85.102|3389|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|188.132.150.200|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|190.235.185.67|999|Peru|Lima|TDP-GRS|
-|20|103.153.62.158|8090|Indonesia|Weleri|IMEDIANET|
+|2|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|3|27.79.154.206|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|27.79.252.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|9|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|149.28.41.163|808|United States|Piscataway|The Constant Company|
+|11|27.79.195.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
+|13|27.79.195.168|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.236.26|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|16|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|17|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|18|154.73.28.241|8080|Libya|Tripoli|Rawafed|
+|19|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|20|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
 
 
 
