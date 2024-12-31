@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|7|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|8|27.79.214.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|27.79.210.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|103.130.106.169|83|India|Medinīpur|Opticom Networks Private Limited|
-|15|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|190.8.164.71|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|18|36.94.185.122|60080|Indonesia|Kuningan Barat|PT. Telekomunikasi Indonesia|
-|19|103.172.121.38|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
-|20|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|149.28.41.163|808|United States|Piscataway|The Constant Company|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|7|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
+|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|187.251.108.31|1985|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
+|10|27.79.192.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
