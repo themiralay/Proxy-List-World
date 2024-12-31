@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|124.121.2.233|8080|Thailand|Bangkok|TRUEBB|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|65.1.244.232|80|India|Mumbai|Amazon.com|
-|6|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|7|27.79.214.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|103.126.87.181|7777|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|9|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|10|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|11|185.231.205.133|8020|France|Paris|Stark Industries Solutions LTD|
-|12|47.88.85.102|3389|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|15|116.105.10.190|2012|Vietnam|Da Nang|Viettel Corporation|
-|16|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|17|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.214.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|124.121.2.233|8080|Thailand|Bangkok|TRUEBB|
+|7|27.79.196.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|116.105.14.227|20258|Vietnam|Da Nang|Viettel Corporation|
+|9|27.79.214.82|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.79.211.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|15|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
+|18|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|19|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|20|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
 
 
 
