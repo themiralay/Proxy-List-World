@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|27.79.236.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|190.211.163.20|999|Chile|San Fernando|INTERNEXA Chile S.A.|
-|12|45.184.103.117|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|37.232.13.2|8080|Georgia|Tbilisi|JSC "Silknet"|
-|15|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|71.42.125.220|4444|United States|Leander|Spectrum|
-|17|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|18|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|19|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|5|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|7|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
+|8|27.79.251.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|10|27.79.214.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|12|27.79.139.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|20|141.145.197.152|8888|France|Paris|Oracle Corporation|
 
 
 
