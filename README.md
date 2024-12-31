@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|6|181.188.238.146|999|Ecuador|Quito|Otecel S.A.|
-|7|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|8|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|12|27.76.102.235|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|108.227.1.196|8888|United States|Dallas|AT&T Services, Inc.|
-|14|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
-|15|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
-|16|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|17|27.79.155.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|1|112.198.132.107|8082|Philippines|Nasugbu|Globe Telecom|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|27.79.155.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.132.45|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|27.79.236.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|108.227.1.196|8888|United States|Dallas|AT&T Services, Inc.|
+|17|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
