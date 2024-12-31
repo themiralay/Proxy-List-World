@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|4|27.79.146.146|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|6|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|170.205.28.82|10003|United States|Miami|Advin Services LLC|
-|8|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|10|114.223.141.245|8089|China|Wuxi|Chinanet|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|45.235.200.32|4000|Brazil|Santa Bárbara|VIA ONDAS TELECOMUNICACOES LTDA|
-|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|16|38.156.233.226|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|17|41.254.48.66|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|2|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|3|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|203.150.113.71|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|13|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|16|185.64.208.110|53281|Russia|Kstovo|Svyazist LLC|
+|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
