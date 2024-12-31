@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|203.150.113.159|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|27.79.185.244|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|9|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|10|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|11|27.79.156.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|187.86.159.54|3128|Brazil|Rio Grande|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|179.1.203.53|999|Colombia|Bogotá|InterNexa Global Network|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|20|45.174.95.137|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|124.121.2.233|8080|Thailand|Bangkok|TRUEBB|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|27.79.146.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.69.248.20|20016|Vietnam|Da Nang|Viettel Group|
+|9|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|12|204.157.251.154|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|13|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|27.79.185.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|18|27.69.248.20|20016|Vietnam|Da Nang|Viettel Group|
+|19|27.79.185.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
