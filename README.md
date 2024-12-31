@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|103.87.171.1|32650|India|Jaipur|Tejays|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|27.79.243.204|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|114.225.152.213|8089|China|Wuxi|Chinanet|
-|11|27.79.236.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|67.43.228.250|12889|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|72.10.164.178|15181|Canada|Montreal|GloboTech Communications|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|67.43.227.226|13239|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2727|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|11775|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|186.148.195.67|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|1|118.172.159.249|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|2|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|27.79.133.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.228.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|162.249.171.248|4144|United States|New York|PureVoltage Hosting Inc.|
+|18|162.249.171.248|4144|United States|New York|PureVoltage Hosting Inc.|
+|19|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|20|27.79.201.207|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
