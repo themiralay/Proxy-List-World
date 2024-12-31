@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.79.243.204|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|27.79.175.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|12|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|168.196.161.5|8080|Brazil|Gameleiras|JJVA Provedor de Internet ME LTDA|
-|17|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|1|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|2|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|27.79.236.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|27.79.133.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|27.79.236.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.48.71.130|83|India|Pargi|Country Online Services PVT LTD|
+|12|27.79.135.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|14|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|15|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|16|182.253.66.148|8989|Indonesia|Jakarta|BIZNET|
+|17|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|18|27.79.192.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
 
 
 
