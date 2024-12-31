@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.194.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.155.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|5|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|116.105.32.232|20134|Vietnam|Thanh Khê|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|9|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|27.79.139.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|27.79.155.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.201.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|8|27.79.192.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|116.105.32.232|20134|Vietnam|Thanh Khê|Viettel Corporation|
+|10|27.79.139.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|27.79.214.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|16|103.232.21.139|3127|India|Haldwani|PT Terabyte Network Indonesia|
-|17|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|18|39.112.232.27|8080|South Korea|Daegu|SK Broadband Co Ltd|
-|19|103.133.24.97|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.135.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|118.97.237.4|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|20|103.85.53.54|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
 
 
 
