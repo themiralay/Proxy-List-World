@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|170.205.28.82|10003|United States|Miami|Advin Services LLC|
+|2|113.192.30.183|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|3|36.94.185.122|60080|Indonesia|Kuningan Barat|PT. Telekomunikasi Indonesia|
+|4|45.32.244.63|80|Australia|Sydney|Choopa|
+|5|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
 |6|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|7|103.94.10.180|8080|Indonesia|Yogyakarta|INTERSATNET|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|27.79.208.247|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|34.215.74.117|1080|United States|Portland|Amazon.com, Inc.|
-|14|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|15|116.105.14.227|20258|Vietnam|Da Nang|Viettel Corporation|
-|16|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|17|222.127.51.132|8082|Philippines|Lahug|INNOVE|
-|18|180.107.218.14|8089|China|Nanjing|China Telecom|
-|19|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.166.158.165|8085|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|11|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|103.48.71.18|83|India|Pargi|Country Online Services PVT LTD|
+|13|27.79.240.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|82.118.225.151|8080|Bulgaria|Sofia|BGO Cloud OOD|
+|15|47.88.85.102|3389|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
