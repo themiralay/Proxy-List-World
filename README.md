@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|27.79.232.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|9|27.79.248.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|45.235.252.46|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|2|27.79.128.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.232.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|27.79.144.142|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
 |11|27.79.143.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
-|14|103.199.214.48|1007|India|Nainital|RailTel Corporation|
-|15|189.195.139.178|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|16|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|18|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|27.189.129.130|8089|China|Langfang|Chinanet|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|16|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|17|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|18|27.79.178.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|103.147.247.124|8080|Indonesia|Tangerang|PLBNET|
 
 
 
