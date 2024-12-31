@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5208** proxies at the latest update. Usable proxies are below.
+> Scraper found **5216** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|720|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|706|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|555|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3029|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|124.217.42.127|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|27.79.161.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.79.238.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|12|27.79.195.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.243.204|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|49.49.89.76|8888|Thailand|Akat Amnuai|Triple T Broadband Public Company Limited|
-|15|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.236.26|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|18|27.79.133.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|103.147.134.91|1010|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|72.10.164.178|21817|Canada|Montreal|GloboTech Communications|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|89.109.43.125|3128|Russia|Nizhniy Novgorod|NMTS|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|14|67.43.227.226|5601|Canada|Montreal|GloboTech Communications|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|72.10.164.178|21817|Canada|Montreal|GloboTech Communications|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|114.223.54.15|8089|China|Wuxi|Chinanet|
+|19|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
+|20|72.10.164.178|21817|Canada|Montreal|GloboTech Communications|
 
 
 
