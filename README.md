@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5703** proxies at the latest update. Usable proxies are below.
+> Scraper found **5400** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|681|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3082|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2778|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.236.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.252.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
-|7|43.230.129.54|3333|Indonesia|Banjar Sandinggianyar|Internet Ini Saja|
-|8|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|9|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|10|27.79.236.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.201.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.162.62.28|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|27.79.139.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.214.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|103.182.213.97|8080|Bangladesh|Tongi|Rapid Network|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|27.79.236.26|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|4|27.79.173.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
+|7|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|11|27.79.232.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|18|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.160.12.96|6060|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|20|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
