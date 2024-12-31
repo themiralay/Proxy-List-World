@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.168.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|27.79.210.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.157.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|11|103.175.225.29|9090|Indonesia|Jakarta|MYREPUBLIC|
-|12|27.79.165.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|27.79.196.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|79.106.108.150|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
+|4|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|27.79.211.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|9|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|10|51.159.159.73|80|France|Paris|SCALEWAY|
+|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|12|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|13|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|61.178.141.146|80|China|Zhangyelu|Chinanet|
+|16|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|179.107.85.2|8180|Brazil|Belém|Pelc Servicos De Informatica|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
