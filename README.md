@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|27.79.238.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.218.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 |5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
+|6|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|7|27.79.238.111|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|43.224.116.125|8080|Bangladesh|Kāfrul|Next Online Limited|
-|14|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|9|27.79.250.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|180.107.218.27|8089|China|Nanjing|China Telecom|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
 |15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|18|67.43.228.250|21829|Canada|Montreal|GloboTech Communications|
-|19|27.69.248.20|20012|Vietnam|Da Nang|Viettel Group|
-|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|157.20.98.58|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
