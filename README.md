@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|27.79.146.146|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
-|6|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|7|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|10|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
-|11|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|67.43.236.20|14643|Canada|Montreal|GloboTech Communications|
-|16|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
-|17|27.69.246.25|20290|Vietnam|Da Nang|Viettel Group|
-|18|67.43.227.228|14477|Canada|Montreal|GloboTech Communications|
-|19|171.7.125.137|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|1|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|185.64.208.197|53281|Russia|Kstovo|Svyazist LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
+|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 
 
 
