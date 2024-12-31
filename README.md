@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|103.169.189.125|3125|Indonesia|Magetan|Sarana Media Cemerlang|
-|3|170.205.28.82|10003|United States|Miami|Advin Services LLC|
-|4|190.16.199.142|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
-|5|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|6|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|7|27.79.143.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|9|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|14|72.10.160.90|18869|Canada|Montreal|GloboTech Communications|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|4|170.205.28.82|10003|United States|Miami|Advin Services LLC|
+|5|115.72.40.211|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|27.79.163.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 |16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|67.43.228.250|32785|Canada|Montreal|GloboTech Communications|
-|18|141.145.197.152|8888|France|Paris|Oracle Corporation|
-|19|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|162.249.171.248|4144|United States|New York|PureVoltage Hosting Inc.|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|103.174.237.71|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
