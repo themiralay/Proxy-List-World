@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
-|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|13|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|203.111.253.134|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|18|27.79.205.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|223.204.166.145|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|49.48.40.165|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|1.2.218.138|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|14|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|72.10.164.178|1881|Canada|Montreal|GloboTech Communications|
 
 
 
