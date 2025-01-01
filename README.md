@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|203.150.113.153|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|27.79.236.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|27.79.245.61|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|27.79.147.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|12|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|13|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|14|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
-|20|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|27.79.147.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|27.79.236.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
+|9|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|10|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|11|27.79.245.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|13|203.150.113.153|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
+|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|16|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|67.43.227.228|2395|Canada|Montreal|GloboTech Communications|
+|18|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
