@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|190.186.33.250|8080|Bolivia|Santa Cruz|Cotas Ltda.|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|181.209.111.84|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|10|103.85.53.54|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
-|11|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|27.79.144.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|17|27.79.168.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|7|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
+|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|11|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|12|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|13|27.79.146.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|3.71.48.139|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|27.79.170.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|190.186.33.250|8080|Bolivia|Santa Cruz|Cotas Ltda.|
+|19|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
+|20|78.187.2.189|1454|Turkey|Diyarbakır|TurkTelecom|
 
 
 
