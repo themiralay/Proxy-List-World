@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5544** proxies at the latest update. Usable proxies are below.
+> Scraper found **5465** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|808|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2955|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|119.95.238.173|8082|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|7|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|10|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|11|122.50.6.186|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|12|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|13|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|5|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|10|184.82.58.213|8080|Thailand|Khon Kaen|AIS-Fibre|
+|11|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |15|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|14.139.219.232|8080|India|Tezpur|National Knowledge Network|
+|20|192.145.206.193|8080|Brazil|Patis|Vianet Guaraciama Eireli ME|
 
 
 
