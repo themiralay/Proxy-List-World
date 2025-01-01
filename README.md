@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|7|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|67.43.228.253|28301|Canada|Montreal|GloboTech Communications|
-|19|162.249.171.248|4144|United States|New York|PureVoltage Hosting Inc.|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|202.138.243.24|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|12|47.88.85.102|3389|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|15|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|18|116.254.98.244|8080|Indonesia|Jakarta|SpaceX Starlink|
+|19|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
 
 
 
