@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|7|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|27.79.212.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.160.40.253|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
 |8|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |9|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |10|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|67.43.228.253|15719|Canada|Montreal|GloboTech Communications|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|223.206.141.156|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|112.111.62.220|3128|China|Putian|China Unicom CHINA169 Fujian Province Network|
-|19|72.10.160.170|19213|Canada|Montreal|GloboTech Communications|
-|20|110.78.149.14|8080|Thailand|Bangkok|CAT-BB|
+|15|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|16|143.47.255.13|59900|United Kingdom|London|Oracle Corporation|
+|17|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|18|124.13.227.79|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|19|103.199.139.14|84|India|Pune|Syscon Infoway Pvt. Ltd.|
+|20|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
