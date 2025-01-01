@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|27.79.238.206|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|203.73.62.104|60808|Taiwan|New Taipei City|Digital United Inc.|
-|7|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|204.199.122.250|3012|Colombia|Bogotá|CTL Colombia|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|5|108.129.139.196|8081|Ireland|Dublin|BellSouth.net Inc.|
+|6|27.79.253.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|11|27.79.168.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.133.25.185|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|15|49.146.53.63|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|27.79.188.46|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|204.199.122.250|3012|Colombia|Bogotá|CTL Colombia|
 
 
 
