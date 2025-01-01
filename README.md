@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
 |5|185.64.208.216|53281|Russia|Kstovo|Svyazist LLC|
-|6|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|95.142.35.209|8038|Russia|Moscow|EuroByte LLC|
-|8|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|27.79.156.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|12|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|13|185.44.65.171|3128|United States|New York|Massivegrid LTD|
-|14|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|15|138.124.183.210|23081|United States|Secaucus|Stark Industries Solutions LTD|
-|16|103.165.155.68|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|18|141.11.241.162|8080|Indonesia|Jakarta|CV Atha Media Prima|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|180.112.180.109|8089|China|Nanjing|Chinanet|
+|6|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|7|209.14.119.220|999|Colombia|Bogotá|AGIS|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|115.124.75.57|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|149.28.41.163|808|United States|Piscataway|The Constant Company|
+|13|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|15|189.195.139.178|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|16|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|20|72.10.160.170|1643|Canada|Montreal|GloboTech Communications|
 
 
 
