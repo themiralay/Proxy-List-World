@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|27.79.154.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|13|103.162.62.250|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|14|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|15|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|16|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|17|115.72.40.211|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|20|49.145.114.16|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|12|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|15|1.2.218.138|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|18|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
+|19|27.79.245.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
 
 
 
