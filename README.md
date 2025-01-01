@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|171.249.174.183|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|27.79.249.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.245.61|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.147.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
-|13|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|14|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|15|27.79.129.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|19|27.79.154.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|27.79.253.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.196.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|27.79.148.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
+|11|27.79.249.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
+|13|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|27.79.154.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
+|19|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
