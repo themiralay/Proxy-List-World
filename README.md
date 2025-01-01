@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|49.49.30.118|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|10|45.225.206.18|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|13|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|14|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|16|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|17|165.255.71.225|3128|South Africa|Pretoria|Afrihost (Pty) Ltd|
-|18|38.159.232.138|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
-|19|27.79.132.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|27.79.132.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|10|49.151.76.207|8080|Philippines|Alaminos|Philippine Long Distance Telephone Co.|
+|11|45.249.122.54|8080|India|Kāramadai|Airconnect Services|
+|12|27.79.154.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|114.9.26.202|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|24.49.117.218|80|United States|Cambridge|Midcontinent Communications|
+|15|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|18|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|19|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|20|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
