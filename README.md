@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
-|8|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|72.10.160.170|30407|Canada|Montreal|GloboTech Communications|
+|2|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
+|4|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|5|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|67.43.227.227|11659|Canada|Montreal|GloboTech Communications|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |12|72.10.160.93|16189|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|11659|Canada|Montreal|GloboTech Communications|
-|14|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|15|67.43.227.227|11659|Canada|Montreal|GloboTech Communications|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|27.79.196.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|185.202.58.2|3128|Iran|Arak|satiareyertebat|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|14|103.155.198.161|8037|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|16|67.43.227.227|11659|Canada|Montreal|GloboTech Communications|
+|17|119.47.90.228|3127|Indonesia|Sragen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|19|162.249.171.248|4003|United States|New York|PureVoltage Hosting Inc.|
+|20|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
