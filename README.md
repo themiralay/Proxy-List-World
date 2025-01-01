@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
 |7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|49.49.37.113|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|36.91.45.13|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|12|190.71.174.227|999|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
+|13|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|15|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
-|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|18|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
