@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|6|27.79.152.17|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.204.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|12|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|13|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|14|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|80.152.203.134|3128|Germany|Lemgo|Deutsche Telekom AG|
-|18|190.90.39.78|999|Colombia|Cúcuta|InterNexa Global Network|
-|19|70.90.138.109|8080|United States|Sterling Heights|Comcast Cable Communications, LLC|
-|20|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
+|8|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|9|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|202.57.26.58|8080|Indonesia|Bandung|WANET|
+|11|27.79.212.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|17|103.186.96.26|8080|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|69.75.140.157|8080|United States|Bellflower|Spectrum|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
