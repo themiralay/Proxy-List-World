@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5518** proxies at the latest update. Usable proxies are below.
+> Scraper found **5557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|821|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3080|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|185.64.208.216|53281|Russia|Kstovo|Svyazist LLC|
-|5|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
-|8|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|4|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|185.64.208.216|53281|Russia|Kstovo|Svyazist LLC|
+|6|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|95.142.35.209|8038|Russia|Moscow|EuroByte LLC|
+|8|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
 |9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|185.44.65.171|3128|United States|New York|Massivegrid LTD|
-|12|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|13|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|114.223.62.76|8089|China|Wuxi|Chinanet|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|27.189.130.149|8089|China|Langfang|Chinanet|
-|18|103.126.86.200|3127|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.164.178|6613|Canada|Montreal|GloboTech Communications|
+|10|27.79.156.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|12|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
+|13|185.44.65.171|3128|United States|New York|Massivegrid LTD|
+|14|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|15|138.124.183.210|23081|United States|Secaucus|Stark Industries Solutions LTD|
+|16|103.165.155.68|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|141.11.241.162|8080|Indonesia|Jakarta|CV Atha Media Prima|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|180.112.180.109|8089|China|Nanjing|Chinanet|
 
 
 
