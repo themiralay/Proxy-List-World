@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|11|27.79.253.147|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.196.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|16|180.242.151.77|8080|Indonesia|Depok|PT. TELKOM INDONESIA|
-|17|3.71.48.139|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|201.39.229.148|80|Brazil|Rio de Janeiro|Claro S.A|
-|19|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.238.206|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|157.15.51.49|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
+|8|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|27.79.245.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|101.109.122.5|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|27.79.150.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.157.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|16|119.18.156.245|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|18.100.59.209|10001|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|52.53.180.220|8090|United States|San Jose|Amazon.com, Inc.|
 
 
 
