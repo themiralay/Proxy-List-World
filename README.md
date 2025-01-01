@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|203.150.113.70|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|13|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|15|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|16|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|17|1.2.218.138|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|27.79.154.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|20|223.206.35.10|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|223.205.72.92|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|27.79.135.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|203.150.113.70|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|11|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|13|27.79.232.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|16|124.106.66.194|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|45.184.74.249|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|20|103.126.87.120|8082|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
 
 
 
