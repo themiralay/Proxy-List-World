@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|146.56.98.157|13128|South Korea|Chuncheon|Oracle Corporation|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|124.121.2.184|8080|Thailand|Bangkok|TRUEBB|
-|7|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
-|8|27.79.181.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|209.126.1.204|3128|United States|St Louis|Nubes, LLC|
-|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|38.172.130.238|999|Peru|Lima|Conex TV E.I.R.L.|
-|16|43.243.140.58|10001|Indonesia|Jakarta|CEPATNET|
-|17|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|18|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|20|122.3.121.231|8082|Philippines|Pasig-bo|Philippine Long Distance Telephone Co.|
+|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|4|27.79.173.31|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.181.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|103.194.175.138|8080|Indonesia|Banyuwangi|MYNET|
+|9|27.79.163.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.155.197.116|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|11|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
+|12|61.5.100.235|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|13|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
+|18|27.79.173.31|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
+|20|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
 
 
 
