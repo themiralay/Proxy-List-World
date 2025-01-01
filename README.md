@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5556** proxies at the latest update. Usable proxies are below.
+> Scraper found **5669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|820|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|887|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3080|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|103.254.106.74|8080|Indonesia|Lampung|PT GIGA PATRA MULTIMEDIA|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 |3|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|4|27.79.149.237|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|112.201.180.184|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|84.255.40.228|8998|Malta|Birkirkara|Melita plc|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|27.79.147.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.146.146|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|17|27.79.240.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
-|19|103.165.155.68|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|4|27.79.211.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|128.90.145.117|8118|Belgium|Brussels|Powerhouse Management, Inc.|
+|6|45.12.137.38|65401|Estonia|Tallinn|Stark Industries Solutions LTD|
+|7|119.95.238.173|8082|Philippines|Mabalacat|Philippine Long Distance Telephone Co.|
+|8|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
+|9|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|10|27.79.146.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|15|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
+|16|103.178.21.77|8060|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|17|72.10.160.170|1643|Canada|Montreal|GloboTech Communications|
+|18|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
