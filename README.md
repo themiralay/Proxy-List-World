@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.160.201.163|8085|Indonesia|Cicurug|PT Viriya Surya Abadi|
-|11|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|14|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|15|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|16|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|19|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|20|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|5|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|6|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|9|103.81.220.28|8080|Indonesia|Bandung|STARNET|
+|10|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|17|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
