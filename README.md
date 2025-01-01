@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|27.79.222.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.109.237.18|8080|Bangladesh|Nawābganj|City Computer|
-|13|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|14|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|15|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|16|27.79.188.46|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|103.180.123.15|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|117.121.202.14|20280|Indonesia|Banyumas|PT Sekawan Global Komunika|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|157.10.182.249|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|16|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|17|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
