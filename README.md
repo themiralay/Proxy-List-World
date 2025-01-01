@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5514** proxies at the latest update. Usable proxies are below.
+> Scraper found **5379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|148|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|149|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|573|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3058|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|103.133.61.163|8182|Indonesia|Pekalongan|TLINK|
 |4|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|65.155.249.100|8080|United States|Albuquerque|CenturyLink Communications, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.154.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|16|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
-|18|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
-|19|103.179.216.46|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
-|20|27.79.146.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|160.22.193.142|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
+|7|24.49.117.218|80|United States|Cambridge|Midcontinent Communications|
+|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|9|37.78.229.145|3128|Russia|Krasnodar|PAO Rostelecom|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|65.155.249.100|8080|United States|Albuquerque|CenturyLink Communications, LLC|
+|12|223.205.36.6|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|17|103.155.198.105|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|19|190.69.157.208|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP BIC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
