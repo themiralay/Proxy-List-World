@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|5|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|154.73.29.161|8080|Libya|Tripoli|Rawafed|
-|9|18.100.59.209|10001|Spain|Zaragoza|Amazon Technologies Inc.|
-|10|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|179.186.157.60|3128|Brazil|Feira de Santana|TELEFÔNICA BRASIL S.A|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|103.54.36.90|8674|Bangladesh|Bhātāra|Earth Telecommunication (Pvt.) Ltd|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|11|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|12|49.146.53.63|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|13|122.154.75.200|8080|Thailand|Ratchaburi|CAT Telecom Public Company Limited|
+|14|27.79.128.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|103.194.175.138|8080|Indonesia|Banyuwangi|MYNET|
+|19|152.200.179.6|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|20|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
 
 
 
