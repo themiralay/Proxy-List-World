@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|4|52.79.210.217|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|5|194.5.25.34|3212|Singapore|Singapore|Mod Mission Critical LLC|
-|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|27.79.154.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.159.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|11|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|12|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|13|27.79.252.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|16|65.155.249.100|8080|United States|Albuquerque|CenturyLink Communications, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|202.51.215.252|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
-|19|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|20|102.221.40.111|8080|South Africa|George|Telkom SA Ltd.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|27.79.169.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|202.51.215.252|8080|Indonesia|Denpasar|PT. Sejahtera Globalindo|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|12|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|13|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|14|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|15|27.79.218.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.228.250|19137|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|19137|Canada|Montreal|GloboTech Communications|
+|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
