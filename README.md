@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|7|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|8|3.71.48.139|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
-|10|52.53.194.240|8090|United States|San Jose|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|15|49.48.40.165|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|27.189.134.250|8089|China|Langfang|Chinanet|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
+|6|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|187.245.214.7|999|Mexico|Matías Castellanos|Mega Cable, S.A. de C.V.|
+|9|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|10|27.79.168.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|12|103.165.222.190|8080|Indonesia|Malang|PT iForte Global Internet|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|27.79.205.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|18|202.56.166.157|8080|Indonesia|Trucuk|PT Lintas Data Prima|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
