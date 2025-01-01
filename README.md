@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.133.24.5|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|27.79.140.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|12|103.231.236.122|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|103.153.246.130|8282|Indonesia|Purwakarta|PRIMAHOME|
-|15|80.78.65.230|8080|Albania|Tirana|ABCom|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|27.79.185.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|181.115.66.232|999|Honduras|San Pedro Sula|Telgua|
+|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.224.149.230|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
 |16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|36.93.206.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|19|27.79.185.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|24.49.117.218|80|United States|Cambridge|Midcontinent Communications|
+|20|61.7.183.211|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
 
 
 
