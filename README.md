@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5202** proxies at the latest update. Usable proxies are below.
+> Scraper found **5280** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|565|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|493|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2962|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|49.145.114.16|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 |6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|8|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|9|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|16|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|72.10.160.93|8793|Canada|Montreal|GloboTech Communications|
-|19|103.172.71.140|8080|Indonesia|Karawang|AZNET|
-|20|103.177.199.254|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
+|7|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|1.2.218.138|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|15|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|16|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|17|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|18|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|27.79.243.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
