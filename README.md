@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|27.79.158.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|7|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|36.80.26.188|8080|Indonesia|Makassar|PT. TELKOM INDONESIA|
-|9|98.215.248.43|9812|United States|Springfield|Comcast Cable Communications, LLC|
-|10|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
-|12|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|13|103.228.243.58|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|46.161.194.71|3128|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|15|27.79.158.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|27.69.246.25|20126|Vietnam|Da Nang|Viettel Group|
-|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|128.136.25.175|5009|United States|Charlotte|Flexential Colorado Corp.|
+|6|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|171.249.174.183|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|10|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|11|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|18.100.59.209|10001|Spain|Zaragoza|Amazon Technologies Inc.|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|103.171.240.174|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|15|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|16|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|17|27.79.249.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|27.79.158.125|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
