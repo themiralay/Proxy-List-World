@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|27.79.234.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|11|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|12|182.52.72.186|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|7|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|8|122.54.193.69|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.160.179.15|80|Brazil|Santana do Araguaia|P.A THOMAZ MARCELINO & CIA EPP LTDA|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
 |13|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|181.80.25.203|999|Argentina|Concepción|Telecom Argentina S.A.|
-|16|23.147.112.74|8080|United States|Tucson|NGX Networks|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
+|15|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|16|103.146.185.94|8080|Indonesia|Ponorogo|YAMNET|
+|17|45.191.75.186|999|Colombia|Santiago de Cali|Global Raices|
+|18|80.152.203.134|3128|Germany|Lemgo|Deutsche Telekom AG|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
