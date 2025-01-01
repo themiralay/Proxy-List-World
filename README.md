@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5555** proxies at the latest update. Usable proxies are below.
+> Scraper found **5387** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|573|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3058|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|7|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|11|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|12|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
-|13|27.79.146.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|3.71.48.139|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|27.79.170.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|190.186.33.250|8080|Bolivia|Santa Cruz|Cotas Ltda.|
-|19|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|20|78.187.2.189|1454|Turkey|Diyarbakır|TurkTelecom|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|7|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
+|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|9|27.79.168.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|13|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|14|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|18|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
+|19|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|20|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 
 
 
