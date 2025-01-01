@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|6|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|7|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|27.79.240.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|157.10.182.249|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
-|14|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|5|45.149.93.123|1577|Singapore|Singapore|PT Perwira Media Solusi|
+|6|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.79.249.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|71.19.146.127|8888|United States|Santa Clara|prgmr.com, Inc.|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |18|27.79.169.202|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.90|23837|Canada|Montreal|GloboTech Communications|
-|20|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|187.63.156.93|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
 
 
 
