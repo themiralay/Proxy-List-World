@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
-|3|27.79.202.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|109.236.35.71|8089|Albania|Tirana|Abissnet sh.a.|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|14|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|16|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|171.4.64.28|8080|Thailand|Nan|Triple T Broadband Public Company Limited|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|27.79.253.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.192.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|27.79.147.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|1.160.0.143|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|159.89.208.15|4750|Singapore|Singapore|DigitalOcean, LLC|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|78.187.2.189|1454|Turkey|Diyarbakır|TurkTelecom|
+|16|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|109.123.233.239|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |20|27.79.170.23|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
