@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.228.160.250|8080|Myanmar|Yangon|Myanma Post & Telecommunication|
-|6|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|7|43.204.139.123|8888|India|Mumbai|Amazon.com, Inc.|
-|8|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|9|103.189.254.57|1111|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|10|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|103.220.23.221|1080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|14|72.10.164.178|14891|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|4471|Canada|Montreal|GloboTech Communications|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|67.43.236.20|29383|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.164.178|14891|Canada|Montreal|GloboTech Communications|
+|3|136.228.160.250|8080|Myanmar|Yangon|Myanma Post & Telecommunication|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|49.13.10.108|46608|Germany|Falkenstein|Hetzner Online GmbH|
+|6|203.177.237.138|8080|Philippines|Iloilo City|Globe Telecom|
+|7|3.71.106.228|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|45.137.206.17|8888|United States|Secaucus|RoyaleHosting BV|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|27.79.150.4|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.175.225.29|9090|Indonesia|Jakarta|MYREPUBLIC|
+|18|118.179.50.70|80|Bangladesh|Azimpur|Dhakacom Limited|
+|19|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
