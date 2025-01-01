@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|6|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|7|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|10|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|11|27.147.219.198|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|15|186.26.92.180|58339|Brazil|São João de Meriti|SAT TELECOM E CONSULTORIA EM TI Ltda|
-|16|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|5|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|27.79.145.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|10|27.79.205.171|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|12|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|45.224.22.63|999|Ecuador|Chambo|Ufinet Panama S.A.|
+|19|45.181.123.185|8080|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
