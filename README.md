@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|27.79.149.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.76.201.246|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
-|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|13|202.56.166.157|8080|Indonesia|Trucuk|PT Lintas Data Prima|
-|14|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.190.112.210|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|177.234.209.173|999|Ecuador|La Maná|Ufinet Panama S.A.|
+|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|27.79.149.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|13|161.49.116.131|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|41.65.103.26|1981|Egypt|New Cairo|Etisalat Misr Mobile BB|
+|16|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
 |17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|131.221.42.1|4040|Colombia|Yopal|CABLE & TV YOPAL S.A.S (INTERNET INALÁMBRICO)|
-|19|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
-|20|27.79.147.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|19|157.66.84.14|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|20|103.155.198.141|1080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
