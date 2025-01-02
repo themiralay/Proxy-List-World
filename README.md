@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|41.111.188.39|80|Algeria|Oran|Algerie Telecom|
-|5|95.217.120.110|8001|Finland|Helsinki|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|45.184.103.121|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|8|91.241.21.237|9812|Iran|Bandar Abbas|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|9|27.79.212.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|27.79.212.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |10|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|11|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|43.202.192.60|3128|South Korea|Seoul|Amazon.com, Inc.|
-|13|72.10.160.92|13137|Canada|Montreal|GloboTech Communications|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
-|16|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|67.43.227.228|1099|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|17193|Canada|Montreal|GloboTech Communications|
-|19|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|12|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|13|103.245.16.241|7878|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|14|36.91.15.241|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|15|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|16|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|17|67.43.228.250|3345|Canada|Montreal|GloboTech Communications|
+|18|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|113.11.179.15|8080|Indonesia|Bandung|Biznet Networks|
+|20|67.43.236.22|21833|Canada|Montreal|GloboTech Communications|
 
 
 
