@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|2|103.153.62.86|8090|Indonesia|Weleri|IMEDIANET|
-|3|45.136.70.251|3128|Denmark|Nørre Åby|Webdock.io ApS|
-|4|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|171.99.252.63|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
-|8|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|9|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|10|67.43.236.19|2617|Canada|Montreal|GloboTech Communications|
-|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
-|14|213.168.221.155|8080|Germany|Wathlingen|EWE TEL GmbH|
-|15|27.79.228.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|17|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|18|94.158.155.138|54698|Ukraine|Odesa|Comfo LTD|
-|19|38.159.227.194|999|Dominican Republic|Tábara Arriba|TELECABLE DOMINICANO, S.A.|
-|20|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|101.255.211.42|1111|Indonesia|Bekasi|PT Remala Abadi|
+|9|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.19.79.248|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
+|12|115.147.63.59|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|14|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|15|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|16|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|103.181.255.227|3128|Indonesia|Tuban|PT Giga Digital Nusantara|
+|20|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
 
 
 
