@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.184.54.3|7777|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
 |6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|27.76.109.115|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|38.41.4.136|999|Venezuela|Charallave|MDS TELECOM C.A.|
-|12|36.68.33.190|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|13|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|14|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|15|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
-|16|37.232.13.2|8080|Georgia|Tbilisi|JSC "Silknet"|
-|17|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|18|103.239.255.36|58080|Bangladesh|Bhātāra|Carnival Internet|
-|19|103.155.196.116|8084|Indonesia|Sukabumi|JEMBATANDATA|
-|20|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
+|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|9|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|10|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|49.156.151.246|83|India|Kākināda|City Online|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.152.100.221|8080|Pakistan|Kahna Nau|IN CABLE INTERNET (PRIVATE) LIMITED|
+|15|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
+|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|38.159.232.131|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
 
 
 
