@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.120.76.253|8181|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 |5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|9|14.224.31.40|8080|Vietnam|Ân Thi|VNPT|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|168.194.169.101|999|Peru|Lima|FASTNET|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|103.25.210.233|9191|Indonesia|Purwokerto|TRANSDATA|
-|17|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|18|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|19|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|20|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|6|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|7|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|8|103.174.238.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|14.224.31.40|8080|Vietnam|Ân Thi|VNPT|
+|11|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|14|103.190.60.26|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|17|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|18|27.79.157.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
