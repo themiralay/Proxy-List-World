@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|7|157.66.16.35|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|8|103.69.150.24|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|6|116.203.139.209|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|7|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |9|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|14.224.31.40|8080|Vietnam|Ân Thi|VNPT|
 |12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|43.252.237.108|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|103.21.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|14.224.31.40|8080|Vietnam|Ân Thi|VNPT|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|13|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|14|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|107.175.77.50|8965|United States|Buffalo|HostPapa|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|38.45.67.155|8081|United States|Durham|Cogent Communications|
 
 
 
