@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|11|182.52.221.138|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|10|117.102.81.3|53281|Indonesia|Jakarta|Biznet Networks|
+|11|103.166.158.33|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|14|27.79.156.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|164.163.178.61|8080|Brazil|Nova Esperança do Piriá|J M P M ALENCAR & A G F ALENCAR LTDA - ME|
-|16|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|103.247.23.29|4317|Indonesia|Cilacap|PT wifian Solution|
+|13|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
+|14|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|15|24.106.221.230|53281|United States|Leland|Spectrum|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
+|20|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
 
 
 
