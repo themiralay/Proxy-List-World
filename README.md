@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|116.107.127.46|10086|Vietnam|Hanoi|Viettel Corporation|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|5.234.179.172|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
-|7|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|149.28.41.163|808|United States|Piscataway|The Constant Company|
-|15|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|16|61.7.183.211|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|17|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|18|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|27.79.236.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.79.252.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.191.219|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|12|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|13|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
+|14|5.234.179.172|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
+|15|91.92.96.210|8080|Bulgaria|Perushtitsa|Netguard LLC|
+|16|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|17|70.90.138.109|8080|United States|Sterling Heights|Comcast Cable Communications, LLC|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|27.79.180.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|172.208.25.199|3128|United States|Boydton|MICROSOFT|
 
 
 
