@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|7|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.231.236.26|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|11|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|12|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|116.90.181.10|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
 |13|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|14|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|16|190.110.98.204|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
-|17|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|18|14.102.155.202|8080|Indonesia|Bandung|Skyline Semesta, PT|
-|19|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|20|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|14|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|103.86.116.46|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|16|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
+|18|45.177.23.18|999|Peru|Lima region|P&P BUSINESS GROUP SAC|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 
 
 
