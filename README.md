@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
 |5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|184.82.46.89|8080|Thailand|Khon Kaen|AIS-Fibre|
-|7|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|3.71.48.139|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|10|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|11|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|12|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|17|103.228.119.77|3128|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|19|223.204.93.81|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|20|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
+|6|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
+|8|38.159.226.210|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|9|131.100.51.41|999|Colombia|Neiva|Fibernet TV SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.125.216.18|8888|Japan|Tokyo|Marketingboys B.V|
+|12|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|13|183.81.28.154|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|15|103.147.134.91|1010|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|16|103.25.81.116|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|17|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.77.62.134|8080|Bangladesh|Dhaka|Orange Communication (The Sky Traders Ltd)|
+|19|103.155.168.152|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
