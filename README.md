@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|35.241.86.233|1080|Hong Kong|Hong Kong|Google LLC|
-|4|203.150.113.106|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|10|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|115.127.28.10|8674|Bangladesh|Dhaka|BRACNet Limited|
-|13|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|14|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|15|103.247.21.225|2024|Indonesia|Cilacap|PT wifian Solution|
-|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|17|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|1|35.241.86.233|1080|Hong Kong|Hong Kong|Google LLC|
+|2|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|103.247.21.225|2024|Indonesia|Cilacap|PT wifian Solution|
+|6|203.190.41.177|8085|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.199.139.14|84|India|Pune|Syscon Infoway Pvt. Ltd.|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|12|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|13|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|17|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|18|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
