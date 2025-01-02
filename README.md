@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|62.231.106.36|8080|Romania|Baia Mare|RCS & RDS|
-|4|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|101.109.160.6|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|9|223.206.58.2|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|27.79.197.168|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|223.204.90.207|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
-|17|67.43.236.19|15049|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|49.49.56.251|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|20|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|116.104.222.171|10089|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|223.204.90.207|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|13|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|17|112.78.164.4|8080|Indonesia|Jakarta|Biznet Networks|
+|18|45.229.32.244|999|Dominican Republic|Santo Domingo|Gold Data USA Inc|
+|19|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|38.45.67.155|8081|United States|Durham|Cogent Communications|
 
 
 
