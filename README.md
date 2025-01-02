@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|38.45.67.155|8081|United States|Durham|Cogent Communications|
 |4|27.79.150.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|3.71.79.38|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|13.126.79.133|80|India|Mumbai|Amazon Technologies Inc|
-|11|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|12|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|13|27.79.221.30|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|175.103.33.126|7777|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|15|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
-|16|72.10.164.178|19757|Canada|Montreal|GloboTech Communications|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|7|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|8|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|49.48.75.80|8888|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|11|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|27.79.170.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|15|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|16|3.71.79.38|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|18|67.43.228.250|29549|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
