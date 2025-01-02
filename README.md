@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|4|171.224.66.134|10077|Vietnam|Hanoi|Viettel Corporation|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|38.255.85.145|999|Venezuela|Caracas|Galanet Solution C.A.|
-|11|202.93.244.74|8081|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|12|36.89.209.147|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|156.200.110.116|8080|Egypt|Cairo|TE Data|
-|14|117.2.232.87|5403|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|146.196.40.86|8080|Indonesia|Karawang|UNINA|
-|18|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|146.196.40.86|8080|Indonesia|Karawang|UNINA|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|10|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|102.209.18.68|8080|Kenya|Nairobi|Vennet Solutions Limited|
+|12|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|156.200.110.116|8080|Egypt|Cairo|TE Data|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
