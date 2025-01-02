@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|1.179.236.10|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|3|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|4|116.107.124.144|10077|Vietnam|Hanoi|Viettel Corporation|
-|5|182.53.21.155|8080|Thailand|Si Racha|TOT Public Company Limited|
-|6|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|77.37.244.119|8080|Russia|Moscow|NCNET|
-|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|157.20.142.34|9595|Philippines|Tagum|GigaFiber Corp.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|45.167.90.25|999|Argentina|Yerba Buena|Sircom S.R.L.|
+|6|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
+|7|182.253.38.179|3128|Indonesia|Jakarta|BIZNET|
+|8|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
 |9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|27.189.133.130|8089|China|Langfang|Chinanet|
-|12|37.182.79.112|8080|Italy|Naples|VODAFONE|
+|10|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|11|185.65.247.133|48049|Ukraine|Kyiv|Hosting Ukraine LTD|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
 |13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|16|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|17|89.109.43.125|3128|Russia|Nizhniy Novgorod|NMTS|
-|18|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
-|19|72.10.164.178|4131|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|20819|Canada|Montreal|GloboTech Communications|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|18|47.237.67.157|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
 
 
 
