@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|58.11.14.118|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|138.117.84.168|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|1.179.236.10|8080|Thailand|Bang Phli|TOT Public Company Limited|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|9|121.100.19.82|7088|Indonesia|South Tangerang|NAP.Net.id - Network Access Point|
-|10|180.211.161.110|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
-|11|77.37.244.119|8080|Russia|Moscow|NCNET|
-|12|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|103.162.62.43|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|20|27.189.129.195|8089|China|Langfang|Chinanet|
+|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|2|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|4|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|157.66.16.35|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|27.79.197.168|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|18|27.79.209.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|67.43.227.226|9905|Canada|Montreal|GloboTech Communications|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
