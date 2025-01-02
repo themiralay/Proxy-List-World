@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|8|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|9|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|181.115.66.236|999|Honduras|San Pedro Sula|Telgua|
-|11|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|12|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|20|103.21.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|6|103.165.150.74|8085|Indonesia|Bengkalis|PT Agsa Global Network|
+|7|43.252.237.108|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|14.224.31.40|8080|Vietnam|Ân Thi|VNPT|
+|11|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|45.61.161.124|10002|Germany|Nuremberg|Advin Services LLC|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
