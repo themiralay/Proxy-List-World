@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|7|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|42.115.148.174|20001|Vietnam|Hanoi|FPT Telecom Company|
-|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|8|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|103.247.21.117|1111|Indonesia|Cilacap|PT wifian Solution|
-|14|138.201.159.200|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.227.226|30835|Canada|Montreal|GloboTech Communications|
-|16|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|18|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|12|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|13|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|14|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|15|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|45.201.216.193|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
