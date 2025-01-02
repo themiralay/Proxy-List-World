@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5108** proxies at the latest update. Usable proxies are below.
+> Scraper found **5261** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|671|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|824|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|610|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2747|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|103.133.24.121|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|12|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|103.155.169.69|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|15|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|16|103.126.172.139|8080|Indonesia|Bandar Lampung|MEGARAP|
-|17|223.204.93.81|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|18|113.192.31.89|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
+|4|103.59.44.33|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|45.225.120.36|40033|Brazil|Boquim|Centrosulnet Informatica Eireli|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|9|41.139.234.127|8080|Kenya|Nairobi|Converged services Coast|
+|10|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|103.186.96.26|8080|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
+|12|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|13|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|14|103.169.132.62|8081|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
 
 
 
