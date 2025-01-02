@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|171.224.66.134|10077|Vietnam|Hanoi|Viettel Corporation|
-|4|171.224.76.47|10081|Vietnam|Hanoi|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|223.206.123.133|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|27.79.168.106|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|103.181.255.211|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|13|189.127.190.114|8080|Brazil|Brasiléia|Govista Telecomunicao Importacao Ltda|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|102.222.62.111|8080|South Africa|Klerksdorp|Triqa Wifi|
-|16|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|20|49.51.244.112|8888|United States|Santa Clara|OPHL|
+|1|38.183.146.97|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|6|103.137.179.180|8080|Philippines|Balabag|Paradise Cable Television Network|
+|7|177.93.48.2|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|8|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|11|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|14|65.20.188.53|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|16|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|191.53.112.170|45619|Brazil|Contagem|Rede Brasileira de Comunicacao S/A|
+|19|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
