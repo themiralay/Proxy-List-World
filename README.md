@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|4|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
 |6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
-|8|103.25.210.233|9191|Indonesia|Purwokerto|TRANSDATA|
-|9|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|10|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|188.132.222.134|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|104.130.135.21|8088|United States|Dallas|Rackspace Hosting|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|80.152.203.134|3128|Germany|Lemgo|Deutsche Telekom AG|
+|12|101.255.210.85|8090|Indonesia|Bekasi|PT Remala Abadi|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|101.255.210.85|8090|Indonesia|Bekasi|PT Remala Abadi|
-|15|47.176.240.250|4228|United States|Torrance|Frontier Communications of America, Inc.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|15|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|16|1.0.171.213|8080|Thailand|Wang Noi|TOT Public Company Limited|
+|17|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
