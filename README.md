@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|4|42.113.88.61|8080|Vietnam|Hanoi|FPT Telecom Company|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|203.150.113.113|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|7|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
-|11|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|49.73.4.164|8089|China|Nanjing|China Telecom|
-|13|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|49.73.4.164|8089|China|Nanjing|China Telecom|
-|16|72.10.160.170|23463|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|19851|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.228.250|18999|Canada|Montreal|GloboTech Communications|
-|20|27.189.135.127|8089|China|Langfang|Chinanet|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|24.106.221.230|53281|United States|Leland|Spectrum|
+|12|27.76.101.162|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
+|14|103.246.79.14|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|15|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|16|103.80.98.19|8080|Indonesia|Trenggalek|Advertise via PT Menaksopal|
+|17|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
 
 
 
