@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|45.167.90.25|999|Argentina|Yerba Buena|Sircom S.R.L.|
-|13|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|138.117.84.168|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|43.202.192.60|3128|South Korea|Seoul|Amazon.com, Inc.|
-|19|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|203.150.128.226|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|45.167.90.25|999|Argentina|Yerba Buena|Sircom S.R.L.|
+|7|45.189.252.246|999|Mexico|Alvarado|Tracered SA De CV|
+|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|9|47.88.85.102|3389|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|11|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|15|103.155.168.93|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |20|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
