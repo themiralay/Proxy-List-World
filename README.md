@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|8|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|9|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|67.43.227.227|24329|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18149|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|10089|Canada|Montreal|GloboTech Communications|
-|19|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|20|67.43.236.19|25539|Canada|Montreal|GloboTech Communications|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|13|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
+|15|23.88.101.132|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.164.178|1913|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|30653|Canada|Montreal|GloboTech Communications|
+|18|218.205.43.68|99|China|Qinnan|China Mobile communications corporation|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
