@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5009** proxies at the latest update. Usable proxies are below.
+> Scraper found **5162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|153|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|157.230.43.200|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|27.79.169.46|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
 |5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|38.159.226.210|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|7|170.84.233.10|61337|Argentina|Guernica|Privatel S.R.L.|
-|8|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|9|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|10|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|72.10.164.178|27519|Canada|Montreal|GloboTech Communications|
-|14|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
-|15|180.107.218.25|8089|China|Nanjing|China Telecom|
-|16|103.159.92.147|3125|Indonesia|Magetan|PT Chandela Lintas Media|
-|17|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|18|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|19|103.145.34.154|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|20|124.105.17.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|103.22.99.252|8080|Indonesia|Magetan|KHALISTAGROUP|
+|8|190.239.220.139|999|Peru|Sicuani|Telefonica del Peru S.A.A.|
+|9|103.122.0.134|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|10|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|27.79.184.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|17|119.47.90.228|3127|Indonesia|Sragen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|78.187.2.189|1454|Turkey|Diyarbakır|TurkTelecom|
+|19|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|20|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
