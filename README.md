@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|8|223.206.123.133|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.180.122.116|9090|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.122.64.208|8080|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
-|14|160.20.165.229|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|5.161.250.171|8888|United States|Ashburn|Hetzner Online GmbH|
-|18|45.234.83.248|8080|Brazil|Caruaru|J R DA PAZ JUNIOR|
-|19|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
-|20|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|103.188.173.153|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|8|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|223.206.140.61|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|200.125.168.213|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|119.40.98.29|80|Mongolia|Ulan Bator|Topica Co., Ltd|
+|18|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|20|103.190.112.210|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
 
 
 
