@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|38.224.223.226|8080|Mexico|Cunduacán|Javier Tamayo Garcia|
-|7|103.160.205.38|8181|Indonesia|Mataram|PRIME|
-|8|5.35.81.51|8080|Kazakhstan|Astana|BEGET|
-|9|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|10|103.156.16.144|1111|Indonesia|Jakarta|RSTNET|
-|11|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
-|12|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|13|103.19.79.245|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|36.82.196.189|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|103.156.16.144|1111|Indonesia|Jakarta|RSTNET|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|12|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
+|13|103.151.177.105|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|14|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|15|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|16|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|17|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|18|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|189.127.190.114|8080|Brazil|Brasiléia|Govista Telecomunicao Importacao Ltda|
+|20|136.233.136.41|48976|India|Surat|Reliance Jio Infocomm Limited|
 
 
 
