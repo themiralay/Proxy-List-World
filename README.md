@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|157.20.142.34|9595|Philippines|Tagum|GigaFiber Corp.|
-|3|122.222.186.86|8080|Japan|Nakano|ARTERIA Networks Corporation|
-|4|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|5|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|6|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|6|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
 |7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|9|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|125.26.228.63|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
+|8|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|10|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|138.117.84.168|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
+|15|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
+|16|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|191.7.216.208|8080|Brazil|Novo Oriente|Online Telecomunicacoes Ltda|
+|19|101.255.210.85|8090|Indonesia|Bekasi|PT Remala Abadi|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
