@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|185.231.205.133|8020|France|Paris|Stark Industries Solutions LTD|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|9|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
-|10|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|11|3.71.79.38|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
-|16|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|17|67.43.227.227|1773|Canada|Montreal|GloboTech Communications|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|20|114.223.62.101|8089|China|Wuxi|Chinanet|
+|1|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|4|103.151.227.219|8080|Indonesia|Bandung|URBANACCESS|
+|5|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|6|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
+|7|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|1.179.148.9|55636|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|45.232.79.0|9292|Brazil|Planalto|Nets Telecomunicacoes Ltda|
+|14|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|15|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|16|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|17|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
+|18|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|20|191.81.248.123|8080|Argentina|Mendoza|Telefonica de Argentina|
 
 
 
