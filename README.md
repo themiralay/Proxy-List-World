@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|102.68.131.31|8080|Libya|Tripoli|Rawafed|
-|8|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|9|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|193.68.115.14|8080|Bulgaria|Hadzhidimovo|Digital Systems Ltd|
-|15|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|16|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|45.65.227.97|999|Argentina|San Justo|Solution LAN S.A|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|171.224.66.134|10077|Vietnam|Hanoi|Viettel Corporation|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|11|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|12|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|103.97.140.159|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|14|36.77.219.227|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|46.161.194.88|8085|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|20|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
 
 
 
