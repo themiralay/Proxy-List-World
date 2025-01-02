@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4920** proxies at the latest update. Usable proxies are below.
+> Scraper found **4924** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|190|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|385|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|2|103.137.111.66|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
-|3|103.186.92.131|8069|Indonesia|Bangkalan|Global Internet Solusindo|
-|4|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|5|113.192.30.205|8999|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|113.192.30.25|8999|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|7|202.57.25.178|8080|Indonesia|Semarang|announced of WINET|
-|8|223.25.110.205|7777|Indonesia|Surabaya|SinergiNet|
-|9|156.200.110.116|8080|Egypt|Cairo|TE Data|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|202.57.26.150|7777|Indonesia|Bandung|WANET|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|16|103.147.247.100|8080|Indonesia|Tangerang|PLBNET|
-|17|110.77.201.25|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|103.247.15.153|8030|Indonesia|Klaten|TERABIT|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|103.130.182.123|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
+|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|156.200.110.116|8080|Egypt|Cairo|TE Data|
+|7|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|36.89.209.147|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|9|209.14.118.114|999|Colombia|Quinchía|AGIS|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
+|13|171.224.66.134|10077|Vietnam|Hanoi|Viettel Corporation|
+|14|110.77.201.25|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|15|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|20|98.147.60.146|48678|United States|Honolulu|Spectrum|
 
 
 
