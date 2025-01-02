@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|27.79.150.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|9|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|8|3.71.79.38|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|15|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|18|113.160.204.229|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|12|149.28.32.205|25936|United States|Piscataway|The Constant Company|
+|13|149.28.32.205|25936|United States|Piscataway|The Constant Company|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|112.78.164.4|8080|Indonesia|Jakarta|Biznet Networks|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|67.43.227.228|2469|Canada|Montreal|GloboTech Communications|
 
 
 
