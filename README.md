@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|6|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|8|124.13.227.79|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|10|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|11|223.206.194.153|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|12|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|15|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|16|3.10.93.50|1080|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
-|19|45.122.240.154|3128|Vietnam|Ho Chi Minh City|CMCTELECOM|
-|20|65.1.244.232|80|India|Mumbai|Amazon.com|
+|6|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|7|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|141.145.197.152|8888|France|Paris|Oracle Corporation|
+|11|36.92.28.34|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|12|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|13|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
+|14|118.172.159.249|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|15|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|45.174.250.2|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|17|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|19|103.199.214.48|1007|India|Nainital|RailTel Corporation|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
