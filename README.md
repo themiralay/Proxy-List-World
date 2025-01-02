@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|4|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|6|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|11|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|30653|Canada|Montreal|GloboTech Communications|
-|15|23.88.101.132|8081|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.228.250|19971|Canada|Montreal|GloboTech Communications|
-|17|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|18|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
-|19|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|109.127.82.166|8080|Iraq|Erbil|Newroz Telecom|
+|6|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|7|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|23.88.101.132|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|11|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|12|103.91.206.107|8805|Thailand|Bangkok|Csne Co., Ltd.|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|103.211.26.94|22|Indonesia|Madiun|PT Olean Permata Telematika|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
+|19|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
