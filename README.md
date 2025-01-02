@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|8.217.118.147|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|185.231.205.133|8020|France|Paris|Stark Industries Solutions LTD|
 |9|147.45.71.77|3128|Austria|Vienna|Aeza International LTD|
-|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|13|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|14|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|17|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|10|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|11|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|12|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|13|185.126.5.72|8080|Iran|Tehran|PISHGAMAN|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|115.147.25.14|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|82.76.161.158|8080|Romania|Bucharest|RCS & RDS|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
