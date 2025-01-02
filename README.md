@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5332** proxies at the latest update. Usable proxies are below.
+> Scraper found **5255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|221|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|503|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2889|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|4|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|5|24.106.221.230|53281|United States|Leland|Spectrum|
-|6|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|7|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|8|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|9|27.79.217.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
-|11|103.94.10.180|8080|Indonesia|Yogyakarta|INTERSATNET|
-|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
+|5|27.79.199.106|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|36.67.99.31|7023|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|10|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 |13|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|14|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|18|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|19|27.79.199.106|16000|Vietnam|Hanoi|Viettel Corporation|
 |20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
