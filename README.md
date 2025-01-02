@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4866** proxies at the latest update. Usable proxies are below.
+> Scraper found **4858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|368|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.148.44.125|8080|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
+|1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|103.178.170.254|8090|Indonesia|Madiun|PT Trisari Data Indonusa|
-|7|103.188.173.153|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|8|110.136.126.5|8080|Indonesia|Banyuwangi|Telekomunikasi Indonesia|
-|9|38.9.136.99|80|Indonesia|Medan|PT. Media Antar Nusa|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|14|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|103.175.81.254|8080|Indonesia|Bekasi|PT Panglima Kamayo Media|
-|16|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|3|116.107.124.144|10074|Vietnam|Hanoi|Viettel Corporation|
+|4|171.224.76.47|10081|Vietnam|Hanoi|Viettel Corporation|
+|5|171.224.66.134|10077|Vietnam|Hanoi|Viettel Corporation|
+|6|103.82.39.237|15500|Vietnam|Thái Nguyên|Cloudfly Corporation|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|103.82.38.245|14885|Vietnam|Thanh Khê|CLOUDFLY|
+|10|185.231.204.113|8033|Spain|Madrid|Stark Industries Solutions LTD|
+|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|12|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|13|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|103.189.116.227|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|15|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|103.148.44.125|8080|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
 
 
 
