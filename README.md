@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|2|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|65.1.244.232|80|India|Mumbai|Amazon.com|
-|7|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|8|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|72.10.160.90|14837|Canada|Montreal|GloboTech Communications|
-|13|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|186.227.112.65|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.164.178|9855|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8369|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9855|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|103.155.196.144|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|3|171.7.129.103|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|116.104.222.171|10089|Vietnam|Hanoi|Viettel Corporation|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|201.71.137.90|5128|Brazil|Cuiabá|Avato Tecnologia S.A|
+|7|35.241.86.233|1080|Hong Kong|Hong Kong|Google LLC|
+|8|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|10|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|11|42.113.88.61|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
+|15|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|18|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|19|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|20|107.172.208.184|1080|United States|Buffalo|HostPapa|
 
 
 
