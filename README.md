@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|58.187.87.75|14031|Vietnam|Hanoi|FPT Telecom Company|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
-|5|170.205.28.82|10000|United States|Miami|Advin Services LLC|
-|6|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|9|103.125.48.90|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|72.10.160.91|26845|Canada|Montreal|GloboTech Communications|
-|15|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|72.10.160.91|26845|Canada|Montreal|GloboTech Communications|
-|18|27.189.129.140|8089|China|Langfang|Chinanet|
-|19|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|20|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|103.125.48.90|8080|Indonesia|Pemalang|PT. Eka Mas Republik|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|202.168.69.226|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
+|4|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|5|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|121.101.134.202|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|8|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|121.101.132.151|8030|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|162.243.5.191|80|United States|New York|DigitalOcean, LLC|
+|13|157.66.16.35|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|16|103.190.60.27|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
+|17|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|18|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
 
 
 
