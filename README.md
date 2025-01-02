@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|4|116.107.124.144|10074|Vietnam|Hanoi|Viettel Corporation|
-|5|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|103.172.71.140|8080|Indonesia|Karawang|AZNET|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|1.55.111.172|4101|Vietnam|Hanoi|FPT Telecom Company|
-|10|114.223.79.165|8089|China|Wuxi|Chinanet|
-|11|49.73.4.185|8089|China|Nanjing|China Telecom|
-|12|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|187.44.180.235|61000|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|15|180.107.218.19|8089|China|Nanjing|China Telecom|
-|16|119.95.179.136|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|17|114.218.150.61|8089|China|Nanjing|China Telecom|
-|18|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|58.208.159.204|8089|China|Nanjing|China Telecom|
-|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|4|103.172.71.140|8080|Indonesia|Karawang|AZNET|
+|5|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.107.124.144|10077|Vietnam|Hanoi|Viettel Corporation|
+|7|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|8|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
+|9|170.205.28.82|10000|United States|Miami|Advin Services LLC|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|62.3.30.118|8080|Georgia|Tbilisi|Enbinet Ltd.|
+|12|157.20.142.34|9595|Philippines|Tagum|GigaFiber Corp.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|16|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|38.41.27.150|11201|Venezuela|Biscucuy|MDS TELECOM C.A.|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
