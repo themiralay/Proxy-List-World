@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
 |2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|3|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|3|203.150.113.106|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.241.86.233|1080|Hong Kong|Hong Kong|Google LLC|
+|7|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
 |11|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|12|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|13|171.7.129.103|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|46.161.194.65|1976|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|15|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|16|125.133.98.152|8080|South Korea|Goyang-si|Korea Telecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|67.43.227.227|22169|Canada|Montreal|GloboTech Communications|
+|19|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|20|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
