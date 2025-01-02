@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|1.20.169.154|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|103.76.109.190|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|9|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
-|10|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|18|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|19|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|3|1.20.169.154|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|27.79.164.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|10|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|3.70.229.231|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|186.237.131.122|8080|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|16|38.45.67.155|8081|United States|Durham|Cogent Communications|
+|17|27.79.170.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|20|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 
 
 
