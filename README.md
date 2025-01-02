@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|3|185.231.204.113|8033|Spain|Madrid|Stark Industries Solutions LTD|
-|4|103.80.98.19|8080|Indonesia|Trenggalek|Advertise via PT Menaksopal|
-|5|45.116.230.79|8080|India|Kochi|DWANIRINN|
-|6|24.106.221.230|53281|United States|Leland|Spectrum|
-|7|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|8|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|62.146.176.25|8080|United States|St Louis|Nubes, LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|182.253.93.2|53281|Indonesia|Jakarta|BIZNET|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
-|16|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|17|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|18|180.127.145.231|1080|China|Nanjing|Chinanet|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|9|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|191.97.6.149|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|15|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|67.43.236.19|26055|Canada|Montreal|GloboTech Communications|
+|20|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
 
 
 
