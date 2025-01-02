@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|6|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|7|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.173.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|10|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|11|103.153.62.86|8090|Indonesia|Weleri|IMEDIANET|
-|12|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|13|112.78.39.252|8080|Indonesia|Semarang|PT Media Sarana Data|
-|14|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|18|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|19|221.225.67.86|7788|China|Suzhou|CHINANET jiangsu province network|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.153.62.86|8090|Indonesia|Weleri|IMEDIANET|
+|5|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|6|103.175.240.49|8080|Indonesia|Banyumas|LDP|
+|7|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|9|177.93.40.56|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
+|10|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|182.253.40.49|8080|Indonesia|Jakarta|BIZNET|
+|12|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
+|13|188.125.169.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|190.15.192.169|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|188.132.222.132|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|200.217.165.114|8080|Brazil|São Paulo|V tal|
+|19|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|20|45.122.123.182|8080|India|Delhi|FusionNet|
 
 
 
