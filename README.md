@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|3|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|109.122.242.82|8080|Iran|Tehran|Avini cultural and Art Institute|
-|5|157.66.85.65|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|6|103.175.81.254|8080|Indonesia|Bekasi|PT Panglima Kamayo Media|
-|7|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|38.183.146.97|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|12|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
-|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|18|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|19|45.173.123.102|999|Chile|San Bernardo|OPTVE TELECOMUNICACIONES SpA|
-|20|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|4|119.11.205.96|8080|Indonesia|Jakarta|PT. NTT Indonesia|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|160.20.165.229|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|223.206.123.133|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|9|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|223.205.33.122|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
