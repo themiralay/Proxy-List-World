@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
-|2|103.86.116.46|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|1.20.169.154|8080|Thailand|Pattaya|TOT Public Company Limited|
 |4|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|7|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|8|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|38.45.67.155|8081|United States|Durham|Cogent Communications|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|172.96.171.125|8095|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|13|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
-|14|177.93.60.170|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|3.71.79.38|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.12.173.38|8080|Bangladesh|Kāfrul|SkyTel Communications Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|3.70.244.140|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.79.164.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.146.196.91|8181|Indonesia|Banyuwangi|RIYADNETWORK|
+|14|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|16|36.73.141.79|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
 |18|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.160.91|20353|Canada|Montreal|GloboTech Communications|
-|20|101.109.160.6|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
