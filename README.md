@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|152.0.56.226|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|6|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
-|7|8.218.117.116|1057|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|27.79.199.106|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|181.64.75.158|999|Peru|Sauce|TDP-GRS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|46.4.176.185|3333|Germany|Falkenstein|Hetzner Online GmbH|
-|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|18|24.106.221.230|53281|United States|Leland|Spectrum|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|4|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|45.179.71.90|3180|Brazil|Salvador|Marktec Telecom|
+|9|103.132.54.150|8080|Indonesia|Semarang|PT. ADEAKSA INDO JAYATAMA|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|49.49.60.99|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|18|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|19|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
