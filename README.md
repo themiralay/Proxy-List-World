@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.41|443|Japan|Tokyo|Packet Host, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|203.150.128.5|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|34.60.74.134|80|United States|Council Bluffs|Google LLC|
-|6|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.201.216.137|8080|United States|Los Angeles|Zillion Network Inc.|
-|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|9|181.188.238.146|999|Ecuador|Quito|Otecel S.A.|
-|10|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|11|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
-|12|77.52.187.199|10000|Ukraine|Balta|PrJSC "VF UKRAINE"|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|46.249.122.1|8080|Iran|Kerman|Didehban Net Company|
-|15|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
+|4|103.151.246.18|7777|Indonesia|Bogor|MANAKARRANET|
+|5|136.243.207.58|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|45.201.216.141|8080|United States|Los Angeles|Zillion Network Inc.|
+|8|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
+|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|103.188.175.35|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|181.188.238.146|999|Ecuador|Quito|Otecel S.A.|
+|14|203.150.128.5|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|103.167.87.48|39045|Vietnam|Quận Bình Thạnh|Tino Group Joint Stock Company|
 |16|45.201.216.126|8080|United States|Los Angeles|Zillion Network Inc.|
-|17|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|18|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|19|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|182.252.94.217|8082|Bangladesh|Madaripur|SkyTel Communications Ltd|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
