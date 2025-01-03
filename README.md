@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|116.58.240.243|8080|Thailand|Prachin Buri|CAT Telecom Public Company Limited|
-|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|5|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|3.144.253.206|80|United States|Dublin|Amazon.com, Inc.|
-|9|18.223.195.217|80|United States|Dublin|Amazon.com, Inc.|
-|10|35.94.61.145|80|United States|Portland|Amazon.com, Inc.|
-|11|45.157.11.158|1080|Germany|Lensahn|Anders & Thesing GbR|
-|12|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.193.144.203|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|118.173.88.19|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|116.107.164.101|10003|Vietnam|Hanoi|Viettel Corporation|
-|20|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|1|116.58.240.243|8080|Thailand|Prachin Buri|CAT Telecom Public Company Limited|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
+|4|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|54.189.134.253|80|United States|Portland|Amazon.com, Inc.|
+|7|2.49.91.138|80|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|9|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|10|122.152.4.133|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|185.246.113.101|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|14|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|18|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|19|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
+|20|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
 
 
 
