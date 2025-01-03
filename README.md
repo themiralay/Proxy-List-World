@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
-|5|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|6|162.254.66.65|80|United States|Grand Rapids|Paul Bunyan Communications|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|3.15.229.83|80|United States|Dublin|Amazon.com, Inc.|
-|9|52.34.183.247|80|United States|Portland|Amazon.com, Inc.|
-|10|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|11|44.201.125.130|80|United States|Ashburn|Amazon.com|
-|12|188.241.197.105|80|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|13|34.219.155.41|80|United States|Portland|Amazon.com, Inc.|
-|14|3.133.133.117|80|United States|Dublin|Amazon.com, Inc.|
-|15|54.245.21.189|80|United States|Portland|Amazon.com, Inc.|
-|16|3.93.217.73|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|18.116.81.162|80|United States|Dublin|Amazon.com, Inc.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|34.216.2.171|80|United States|Portland|Amazon.com, Inc.|
+|7|54.189.134.253|80|United States|Portland|Amazon.com, Inc.|
+|8|188.241.197.105|80|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
+|11|35.88.126.44|80|United States|Portland|Amazon.com, Inc.|
+|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|13|3.144.253.206|80|United States|Dublin|Amazon.com, Inc.|
+|14|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|54.245.21.189|80|United States|Portland|Amazon.com, Inc.|
+|17|3.133.133.117|80|United States|Dublin|Amazon.com, Inc.|
 |18|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|19|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|83.138.55.137|80|Austria|Vienna|Alwyzon|
 
 
 
