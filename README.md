@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5115** proxies at the latest update. Usable proxies are below.
+> Scraper found **5229** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|458|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2913|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|5|223.206.62.85|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
+|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |6|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
-|7|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
-|8|27.70.228.57|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|118.179.151.57|5020|Bangladesh|Kāfrul|Dhakacom Limited|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|103.193.144.203|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|165.255.22.2|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|14|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|15|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|93.236.17.79|80|Germany|Bischofsheim|Deutsche Telekom AG|
-|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|18|103.22.99.137|8080|Indonesia|Magetan|KHALISTAGROUP|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|10|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|11|160.119.223.109|443|South Africa|Durban|SAINT ICT CONSULTANTS (PTY) LTD|
+|12|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|13|118.179.151.57|5020|Bangladesh|Kāfrul|Dhakacom Limited|
+|14|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|17|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|19|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|20|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
 
 
 
