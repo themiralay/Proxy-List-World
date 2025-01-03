@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|125.25.227.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|103.124.137.99|8080|Indonesia|Bandung|Global Media Data Prima|
 |5|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
-|6|43.231.78.203|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
-|7|115.74.4.98|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|125.25.227.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |8|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|180.107.218.24|8089|China|Nanjing|China Telecom|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|14|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|15|49.73.4.159|8089|China|Nanjing|China Telecom|
-|16|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|17|72.10.160.90|3325|Canada|Montreal|GloboTech Communications|
-|18|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|20|103.199.214.48|1007|India|Nainital|RailTel Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|181.174.228.186|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|11|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|12|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|15|103.48.69.54|82|India|Hyderabad|Country Online Services PVT LTD|
+|16|190.7.57.84|8080|Argentina|Resistencia|Gigared S.A|
+|17|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|18|103.235.181.250|8080|Indonesia|Jakarta|PT Top Class Universal|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
