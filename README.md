@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|3|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|67.43.227.228|17011|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|16373|Canada|Montreal|GloboTech Communications|
-|7|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|8|67.43.227.230|22069|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.173|31701|Canada|Montreal|GloboTech Communications|
-|10|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|186.190.224.86|999|Colombia|Monterrey|TV AZTECA SUCURSAL COLOMBIA|
+|4|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|5|185.44.26.217|43097|Spain|Pozo Estrecho|Emartinez1|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|10|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
 |11|201.39.229.148|80|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.213.218.23|20073|Vietnam|Haiphong|V9ERP|
-|13|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|14|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|72.10.164.178|16373|Canada|Montreal|GloboTech Communications|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|19|67.43.228.253|21161|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|31511|Canada|Montreal|GloboTech Communications|
+|12|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|72.10.160.173|31701|Canada|Montreal|GloboTech Communications|
+|14|165.255.22.2|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|15|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|16|119.47.90.228|3127|Indonesia|Sragen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
 
 
 
