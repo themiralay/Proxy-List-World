@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|7|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
-|8|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|41.222.8.254|8082|Kenya|Nairobi|FAIBA|
-|11|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|27.79.163.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|103.17.213.100|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|42.115.109.243|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|200.39.138.62|999|Chile|Valparaíso|Iconex SPA|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|202.154.18.136|8087|Indonesia|Jombang|DIGITNET|
+|3|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
+|4|58.69.117.2|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|10|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|223.205.180.73|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|13|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|36.92.60.234|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|223.206.194.153|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
