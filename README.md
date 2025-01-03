@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|119.18.156.245|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|103.25.79.162|8053|Myanmar|Yangon|Global Technology Co|
-|6|27.79.211.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|177.234.250.58|999|Ecuador|Azogues|Ufinet Panama S.A.|
-|10|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|11|124.13.227.79|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|27.79.168.106|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|14|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|17|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
-|18|23.143.160.193|999|Puerto Rico|Santo Domingo|Unonet Corp|
-|19|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|20|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|180.107.218.33|8089|China|Nanjing|China Telecom|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|7|49.73.4.166|8089|China|Nanjing|China Telecom|
+|8|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|14|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|15|36.91.148.36|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|113.192.31.135|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
