@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|3212|Singapore|Singapore|Mod Mission Critical LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|117.54.156.245|8080|Indonesia|Jakarta|PT IndoInternet|
-|5|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|9|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
-|10|159.223.74.131|4750|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.7.116.47|3128|Germany|Karlsruhe|Contabo GmbH|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|102.209.78.72|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|67.43.228.253|16783|Canada|Montreal|GloboTech Communications|
-|17|116.203.7.46|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|190.8.164.25|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|20|72.10.160.174|12031|Canada|Montreal|GloboTech Communications|
+|13|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|20.222.243.172|80|Japan|Tokyo|Microsoft Corporation|
+|18|36.88.13.186|3129|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|67.43.228.253|29341|Canada|Montreal|GloboTech Communications|
 
 
 
