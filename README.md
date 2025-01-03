@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
-|2|118.173.88.19|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|171.232.189.118|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|103.253.14.237|8080|Malaysia|Kuala Lumpur|TeamCloud Solution Sdn Bhd|
-|10|116.107.164.101|10003|Vietnam|Hanoi|Viettel Corporation|
-|11|116.107.164.53|10003|Vietnam|Hanoi|Viettel Corporation|
-|12|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
-|13|45.157.11.158|1080|Germany|Lensahn|Anders & Thesing GbR|
-|14|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|15|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|20|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|116.58.240.243|8080|Thailand|Prachin Buri|CAT Telecom Public Company Limited|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|6|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
+|7|18.191.62.91|80|United States|Dublin|Amazon.com, Inc.|
+|8|2.49.91.138|80|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|9|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|11|118.173.88.19|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|52.90.82.156|80|United States|Ashburn|Amazon.com, Inc.|
+|13|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|14|18.227.24.158|80|United States|Dublin|Amazon.com, Inc.|
+|15|18.233.0.134|80|United States|Ashburn|Amazon.com, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|19|180.107.218.0|8089|China|Nanjing|China Telecom|
+|20|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 
 
 
