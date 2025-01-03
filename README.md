@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|3|171.224.74.143|10081|Vietnam|Hanoi|Viettel Corporation|
-|4|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.235.16.121|27234|Brazil|Agudos do Sul|Acessoline Telecom|
-|6|27.79.233.255|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|186.97.236.98|8080|Colombia|Medellín|Colombia Móvil|
-|9|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|10|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
-|11|61.160.247.69|9999|China|Nanjing|China Telecom|
-|12|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|72.10.160.94|19715|Canada|Montreal|GloboTech Communications|
-|15|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|67.43.227.228|25371|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|19715|Canada|Montreal|GloboTech Communications|
-|19|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
-|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|3|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|4|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|103.42.228.56|8080|Bangladesh|Sandwīp|Skynet Chowmuhani|
+|7|181.78.82.211|999|Colombia|Cocorná|IFX Networks Argentina S.R.L|
+|8|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
+|9|196.251.221.5|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|67.43.227.226|31223|Canada|Montreal|GloboTech Communications|
+|12|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|13|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|15|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|16|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|18|115.245.46.170|8080|India|Hyderabad|Reliance Jio Infocomm Limited|
+|19|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|46.161.194.88|8085|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
 
 
 
