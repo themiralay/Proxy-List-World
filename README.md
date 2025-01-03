@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|3|206.233.199.40|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|4|124.6.164.56|8080|Philippines|Lahug|INNOVE|
-|5|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
-|6|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|7|103.242.104.209|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|8|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|186.0.144.141|9595|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
-|13|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|177.234.247.234|999|Ecuador|Azogues|Ufinet Panama S.A.|
-|20|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
+|1|119.18.154.201|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|157.66.16.43|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|27.79.211.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|185.231.205.133|8020|France|Paris|Stark Industries Solutions LTD|
+|11|124.6.164.56|8080|Philippines|Lahug|INNOVE|
+|12|27.79.170.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.148.178.10|80|Bangladesh|Kāfrul|Bandhon Enterprise|
+|17|181.209.82.197|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|109.234.38.25|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|190.14.251.108|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
 
 
 
