@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|7|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|8|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|9|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|10|103.175.240.49|8080|Indonesia|Banyumas|LDP|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|13|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|14|72.10.160.171|27171|Canada|Montreal|GloboTech Communications|
-|15|191.243.46.17|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|16|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|17|177.93.60.70|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|18|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.160.173|20161|Canada|Montreal|GloboTech Communications|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|6|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|7|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|8|124.106.116.34|1337|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|12|103.235.181.250|8080|Indonesia|Jakarta|PT Top Class Universal|
+|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|105.113.2.82|8080|Nigeria|Okrika|Airtel Networks Limited|
+|15|165.255.22.2|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|16|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
+|17|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|20|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
 
 
 
