@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|2|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
 |3|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
-|4|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|5|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|8|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|122.3.77.27|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|11|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|12|103.69.60.8|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|13|41.222.8.254|8082|Kenya|Nairobi|FAIBA|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.90|7547|Canada|Montreal|GloboTech Communications|
-|17|139.84.150.183|3129|India|Bengaluru|The Constant Company, LLC|
-|18|119.47.90.228|3127|Indonesia|Sragen|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
-|20|67.43.236.20|29473|Canada|Montreal|GloboTech Communications|
+|4|139.84.158.26|3129|India|Bengaluru|The Constant Company, LLC|
+|5|35.174.109.23|8080|United States|Ashburn|Amazon.com, Inc.|
+|6|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|35.174.109.23|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|13|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
+|14|193.30.13.231|999|Ecuador|Guayaquil|GEDATECU SA|
+|15|122.3.77.27|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|46.4.246.198|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
