@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5313** proxies at the latest update. Usable proxies are below.
+> Scraper found **5176** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|237|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|804|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|381|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2965|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|139.84.158.26|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
-|6|139.84.150.183|3129|India|Bengaluru|The Constant Company, LLC|
-|7|36.50.11.196|8080|Bangladesh|Gazipur|Stardust Telecom Ltd|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|12|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|38.156.75.235|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|223.205.180.73|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|16|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|17|65.1.244.232|80|India|Mumbai|Amazon.com|
-|18|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
-|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|139.84.158.26|3129|India|Bengaluru|The Constant Company, LLC|
+|4|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.150.183|3129|India|Bengaluru|The Constant Company, LLC|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
+|8|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
+|9|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|10|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|12|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
+|13|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
+|14|72.10.160.171|1593|Canada|Montreal|GloboTech Communications|
+|15|37.26.86.206|47464|Albania|Librazhd|ATU|
+|16|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.228.251|28797|Canada|Montreal|GloboTech Communications|
+|18|103.247.23.231|1111|Indonesia|Cilacap|PT wifian Solution|
+|19|101.255.209.210|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|36.91.148.36|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
 
 
 
