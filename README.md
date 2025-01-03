@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|103.154.230.188|8080|Indonesia|Lamongan|DIGITNET|
-|6|115.31.160.91|1419|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|7|125.26.99.41|8080|Thailand|Krathum Baen|TOT Public Company Limited|
-|8|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|6|124.121.2.226|8080|Thailand|Bangkok|TRUEBB|
+|7|123.25.146.156|8080|Vietnam|Long An|VietNam Post and Telecom Corporation|
+|8|125.25.227.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|123.25.146.156|8080|Vietnam|Long An|VietNam Post and Telecom Corporation|
-|11|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|13|76.50.80.32|8182|United States|Tarzana|Spectrum|
-|14|119.2.45.103|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|67.43.236.19|10533|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|2733|Canada|Montreal|GloboTech Communications|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|14|181.174.228.186|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|15|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|16|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|17|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|165.255.22.2|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|20|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
 
 
 
