@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4932** proxies at the latest update. Usable proxies are below.
+> Scraper found **4954** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|524|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|327|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|356|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2901|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|115.124.75.57|8080|Indonesia|Jakarta|PT Remala Abadi|
-|5|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|10|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|11|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
-|14|27.79.202.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.93|14921|Canada|Montreal|GloboTech Communications|
-|17|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|18|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|27.79.242.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|6|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|7|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|8|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|11|163.47.210.73|8080|India|Bengaluru|Microsense Pvt. Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.28.114.158|8191|Indonesia|Kasihan|PT Lintas Data Prima|
+|15|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|16|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.227.226|14387|Canada|Montreal|GloboTech Communications|
+|19|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
+|20|180.107.218.36|8089|China|Nanjing|China Telecom|
 
 
 
