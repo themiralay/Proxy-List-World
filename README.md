@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|27.79.227.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|103.17.213.100|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|122.3.77.27|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|12|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.247.14.115|9285|Indonesia|Klaten|TERABIT|
-|16|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|72.10.160.173|15505|Canada|Montreal|GloboTech Communications|
-|19|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
-|20|72.10.160.170|3523|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|8|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|9|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|11|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|12|89.104.102.209|58080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
