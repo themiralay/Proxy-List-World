@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4964** proxies at the latest update. Usable proxies are below.
+> Scraper found **4946** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|515|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2986|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|3|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|6|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|7|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|8|72.10.160.91|32011|Canada|Montreal|GloboTech Communications|
-|9|103.242.104.233|8080|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|10|72.10.160.90|26179|Canada|Montreal|GloboTech Communications|
-|11|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|12|103.155.198.161|8037|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|67.43.228.250|20441|Canada|Montreal|GloboTech Communications|
-|15|38.41.4.138|999|Venezuela|Charallave|MDS TELECOM C.A.|
-|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|114.223.79.133|8089|China|Wuxi|Chinanet|
-|20|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|2|27.79.253.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|45.235.16.121|27234|Brazil|Agudos do Sul|Acessoline Telecom|
+|7|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|8|103.42.228.56|8080|Bangladesh|Sandwīp|Skynet Chowmuhani|
+|9|157.66.84.57|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|10|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|11|72.10.160.170|16807|Canada|Montreal|GloboTech Communications|
+|12|58.209.32.69|8089|China|Nanjing|China Telecom|
+|13|67.43.227.227|29423|Canada|Montreal|GloboTech Communications|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|72.10.160.93|17431|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|8141|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|17431|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|2271|Canada|Montreal|GloboTech Communications|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
