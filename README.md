@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|185.44.26.217|43097|Spain|Pozo Estrecho|Emartinez1|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|9|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|67.43.236.19|29273|Canada|Montreal|GloboTech Communications|
-|11|103.48.69.54|82|India|Hyderabad|Country Online Services PVT LTD|
-|12|114.223.141.228|8089|China|Wuxi|Chinanet|
-|13|181.115.67.3|999|Honduras|San Pedro Sula|Telgua|
-|14|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.10.160.172|16535|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.228.250|21769|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|103.220.23.215|8181|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|3|27.79.201.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|27.79.205.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|8|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|10|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|103.247.23.231|1111|Indonesia|Cilacap|PT wifian Solution|
+|14|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|15|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|16|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|17|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|20|72.10.160.93|22079|Canada|Montreal|GloboTech Communications|
 
 
 
