@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|27.79.163.248|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|27.79.202.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.170.172.216|8080|Brazil|Aparecida do Rio Doce|Adriano Cirilo Pasqual Doneda Eireli|
-|8|102.223.27.226|8080|Equatorial Guinea|Malabo|Muni S.A|
-|9|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|10|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|11|8.212.18.158|808|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
-|16|27.189.135.153|8089|China|Langfang|Chinanet|
-|17|114.223.54.47|8089|China|Wuxi|Chinanet|
-|18|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|19|27.189.129.213|8089|China|Langfang|Chinanet|
-|20|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|3|202.191.123.228|58080|Bangladesh|Kāfrul|Bijoy Online Limited|
+|4|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|5|27.79.202.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|8|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|9|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
 
 
 
