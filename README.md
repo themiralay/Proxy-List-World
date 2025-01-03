@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|139.84.150.183|3129|India|Bengaluru|The Constant Company, LLC|
-|3|139.84.158.26|3129|India|Bengaluru|The Constant Company, LLC|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|27.79.194.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
-|9|27.79.227.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|139.84.147.234|3129|India|Bengaluru|The Constant Company, LLC|
+|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|2|139.84.158.26|3129|India|Bengaluru|The Constant Company, LLC|
+|3|139.84.150.183|3129|India|Bengaluru|The Constant Company, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|58.69.117.2|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|27.79.233.255|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|27.79.230.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|190.71.174.227|999|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
+|15|27.79.241.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|46.4.246.198|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
