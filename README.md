@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|1|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|190.121.153.68|999|Colombia|Bogotá|Media Commerce Partners S.A|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|103.132.52.118|8080|Indonesia|Semarang|PT Adeaksa Indo Jayatama|
-|12|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|49.73.4.164|8089|China|Nanjing|China Telecom|
-|15|72.10.160.90|26607|Canada|Montreal|GloboTech Communications|
-|16|223.205.114.128|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|17|38.159.226.211|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|18|103.199.214.48|1007|India|Nainital|RailTel Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|103.44.19.218|1112|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|10|217.88.78.140|8080|Germany|Traunstein|Deutsche Telekom AG|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|13|103.199.214.48|1007|India|Nainital|RailTel Corporation|
+|14|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
+|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
 
 
 
