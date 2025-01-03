@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|178.128.51.244|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|45.70.221.145|18080|Argentina|Rosario del Tala|Delco Imagen S.A.|
-|12|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|80.240.55.244|3128|Russia|Yeysk|inetnum UGTEL|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|212.252.72.106|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|20|72.10.160.90|19331|Canada|Montreal|GloboTech Communications|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|178.128.51.244|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|116.203.139.209|8081|Germany|Nuremberg|Hetzner Online GmbH|
+|7|203.150.128.188|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|9|181.224.224.166|999|Peru|Lima|Inversiones Telcotel SAC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|74.208.75.233|3128|United States|Chicago|IONOS SE|
+|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|74.208.75.233|3128|United States|Chicago|IONOS SE|
+|15|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|27.147.220.153|8080|Bangladesh|Kāfrul|Link3 Technologies Limited|
+|17|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
