@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|103.158.253.29|8382|Indonesia|Dukuhturi|Rapid Network|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|11|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
-|12|67.43.228.250|29285|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.227.229|21773|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26393|Canada|Montreal|GloboTech Communications|
-|16|175.143.201.44|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|17|72.10.160.174|22739|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|30039|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|180.254.144.46|8080|Indonesia|Matangkuli|PT. TELKOM INDONESIA|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.202.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|5|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|6|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|10|27.79.184.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|12|103.9.134.234|100|Bangladesh|Gazipur|Information Services Network Ltd|
+|13|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|14|115.124.75.57|8080|Indonesia|Jakarta|PT Remala Abadi|
+|15|114.9.26.202|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|17|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|27.79.242.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
