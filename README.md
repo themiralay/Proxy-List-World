@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.202.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|5.153.234.91|3128|Sweden|Stockholm|Angelnet Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.199.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|103.80.237.211|3888|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
-|8|38.159.232.141|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
-|9|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|10|190.102.16.74|1111|Sint Maarten|Philipsburg|New Technologies Group N.V.|
-|11|202.191.123.228|58080|Bangladesh|Kāfrul|Bijoy Online Limited|
-|12|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|13|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|16|103.76.201.246|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
-|17|43.202.192.60|3128|South Korea|Seoul|Amazon.com, Inc.|
-|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|27.79.168.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|10|5.153.234.91|3128|Sweden|Stockholm|Angelnet Limited|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|103.235.181.250|8080|Indonesia|Jakarta|PT Top Class Universal|
+|13|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
+|18|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|67.43.227.228|22675|Canada|Montreal|GloboTech Communications|
+|20|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 
 
 
