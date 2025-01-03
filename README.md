@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|103.180.118.107|999|Indonesia|Setro|PT Persada Data Multimedia|
-|5|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
-|6|179.186.157.60|3128|Brazil|Feira de Santana|TELEFÔNICA BRASIL S.A|
-|7|154.113.205.170|8080|Nigeria|Lagos|Mainone Cable Company|
-|8|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|34.216.2.171|80|United States|Portland|Amazon.com, Inc.|
-|12|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|188.241.197.105|80|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|17|69.167.38.80|8118|United States|Austin|Paradise Networks LLC|
-|18|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|19|62.60.153.22|3128|Sweden|Stockholm|Aeza International LTD|
-|20|61.160.247.69|9999|China|Nanjing|China Telecom|
+|2|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|6|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|7|83.138.55.137|80|Austria|Vienna|Alwyzon|
+|8|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|9|179.32.62.127|999|Colombia|Cartagena|Colombia Telecomunicaciones S.a. ESP|
+|10|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|11|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|12|179.186.157.60|3128|Brazil|Feira de Santana|TELEFÔNICA BRASIL S.A|
+|13|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|112.201.180.184|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|16|1.2.176.236|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|19|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|20|202.154.18.17|1122|Indonesia|Jombang|DIGITNET|
 
 
 
