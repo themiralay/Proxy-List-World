@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|27.79.199.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|6|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|7|165.227.64.66|3128|United States|Clifton|DigitalOcean, LLC|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|61.160.247.69|9999|China|Nanjing|China Telecom|
-|10|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|67.43.236.19|31953|Canada|Montreal|GloboTech Communications|
-|13|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
-|14|121.236.239.189|8089|China|Nanjing|Jiangsu Network of ChinaTelecom|
-|15|103.48.71.2|83|India|Pargi|Country Online Services PVT LTD|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
-|18|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
-|19|49.73.4.177|8089|China|Nanjing|China Telecom|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|27.79.199.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|5|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|6|27.79.252.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|67.43.236.19|12691|Canada|Montreal|GloboTech Communications|
+|13|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|14|67.43.236.19|12691|Canada|Montreal|GloboTech Communications|
+|15|49.73.4.162|8089|China|Nanjing|China Telecom|
+|16|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|36.92.162.220|8080|Indonesia|Malang|Telekomunikasi Indonesia|
+|18|49.73.4.164|8089|China|Nanjing|China Telecom|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
