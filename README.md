@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|2|116.107.164.53|10003|Vietnam|Hanoi|Viettel Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|103.153.62.46|8080|Indonesia|Weleri|IMEDIANET|
+|1|116.107.164.53|10003|Vietnam|Hanoi|Viettel Corporation|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|1.20.98.121|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
 |5|111.95.176.247|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|194.163.140.174|80|Germany|Düsseldorf|Contabo GmbH|
-|11|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|16|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|17|3.133.148.29|80|United States|Dublin|Amazon.com, Inc.|
-|18|115.72.15.3|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|20|52.90.82.156|80|United States|Ashburn|Amazon.com, Inc.|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|11|178.251.45.225|8080|Türkiye|Ankara|3c1b Telekom|
+|12|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
+|15|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|16|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|17|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|202.148.16.150|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
