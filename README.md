@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
-|2|27.79.242.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|27.79.233.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|27.79.242.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|27.79.207.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|65.108.159.129|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|12|27.79.252.18|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|14|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|15|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|200.32.51.179|8080|Argentina|Mendoza|Telefonica de Argentina|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|13|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|14|27.147.128.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|27.189.135.25|8089|China|Langfang|Chinanet|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|72.10.160.170|12017|Canada|Montreal|GloboTech Communications|
+|19|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|217.88.78.140|8080|Germany|Traunstein|Deutsche Telekom AG|
 
 
 
