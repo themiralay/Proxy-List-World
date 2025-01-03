@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|153.206.199.194|80|Japan|Ōtsukimachi|NTT Communications Corporation|
-|2|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|154.64.251.128|1080|United States|Los Angeles|Cogent Communications|
-|5|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|154.64.251.128|1080|United States|Los Angeles|Cogent Communications|
+|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|162.254.66.65|80|United States|Grand Rapids|Paul Bunyan Communications|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
 |10|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
-|11|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|12|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
-|13|139.162.147.122|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|14|188.241.197.105|80|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|15|162.254.66.65|80|United States|Grand Rapids|Paul Bunyan Communications|
-|16|54.245.21.189|80|United States|Portland|Amazon.com, Inc.|
-|17|34.216.2.171|80|United States|Portland|Amazon.com, Inc.|
-|18|35.88.126.44|80|United States|Portland|Amazon.com, Inc.|
-|19|77.91.85.221|1080|Sweden|Stockholm|Aeza International LTD|
-|20|52.34.183.247|80|United States|Portland|Amazon.com, Inc.|
+|11|188.241.197.105|80|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|12|139.162.147.122|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|13|54.245.21.189|80|United States|Portland|Amazon.com, Inc.|
+|14|34.216.2.171|80|United States|Portland|Amazon.com, Inc.|
+|15|54.189.134.253|80|United States|Portland|Amazon.com, Inc.|
+|16|35.88.126.44|80|United States|Portland|Amazon.com, Inc.|
+|17|35.94.61.145|80|United States|Portland|Amazon.com, Inc.|
+|18|52.34.183.247|80|United States|Portland|Amazon.com, Inc.|
+|19|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|20|18.227.24.158|80|United States|Dublin|Amazon.com, Inc.|
 
 
 
