@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|177.234.217.234|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|9|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|10|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|187.63.156.91|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
-|12|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
-|13|61.5.100.235|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|125.25.227.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|115.74.4.98|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|4|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
+|5|177.234.217.234|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|83.138.55.137|80|Austria|Vienna|Alwyzon|
+|7|103.172.120.91|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|125.25.227.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
+|11|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|38.159.232.146|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|16|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|17|200.71.237.243|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|18|177.93.40.56|999|Colombia|Palestina|TV AZTECA SUCURSAL COLOMBIA|
+|19|103.88.239.118|84|India|Hyderabad|Mana Communications|
+|20|67.43.228.250|20419|Canada|Montreal|GloboTech Communications|
 
 
 
