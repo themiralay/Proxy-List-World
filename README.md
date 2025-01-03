@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5244** proxies at the latest update. Usable proxies are below.
+> Scraper found **5300** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|657|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|713|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|539|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2895|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
-|6|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
-|7|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|36.73.130.134|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|10|36.83.84.147|80|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
-|11|36.82.186.31|80|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|12|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|13|109.123.242.77|80|Germany|Düsseldorf|Contabo GmbH|
-|14|91.206.148.3|8080|Russia|Nachalovo|Ast-Systems Ltd.|
-|15|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
-|16|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
-|18|91.107.175.85|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|157.173.112.75|80|Germany|Düsseldorf|Contabo GmbH|
-|20|194.163.140.174|80|Germany|Düsseldorf|Contabo GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|34.101.137.167|80|Indonesia|Jakarta|Google LLC|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|83.138.55.137|80|Austria|Vienna|Alwyzon|
+|7|150.241.85.118|80|Sweden|Stockholm|xorek.cloud International LTD|
+|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|9|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|15|65.1.244.232|80|India|Mumbai|Amazon.com|
+|16|171.240.89.128|10013|Vietnam|Hanoi|Viettel Corporation|
+|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|18|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|19|105.113.2.82|8080|Nigeria|Okrika|Airtel Networks Limited|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
