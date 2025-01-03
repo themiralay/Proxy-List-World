@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|27.79.242.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|45.177.16.130|999|Paraguay|Ciudad del Este|MSW S.A.|
+|3|103.17.150.37|8080|Bangladesh|Dhaka|SYSSOLUTION|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|7|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|8|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|11|163.47.210.73|8080|India|Bengaluru|Microsense Pvt. Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.28.114.158|8191|Indonesia|Kasihan|PT Lintas Data Prima|
-|15|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|16|200.37.187.62|999|Peru|Las Nazarenas|Telefonica del Peru S.A.A.|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.227.226|14387|Canada|Montreal|GloboTech Communications|
-|19|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
-|20|180.107.218.36|8089|China|Nanjing|China Telecom|
+|5|147.45.152.140|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|91.212.153.104|8080|Germany|Düsseldorf|WIIT AG|
+|7|103.105.126.26|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|189.195.139.178|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|10|103.23.141.253|8181|Indonesia|Legian|PT. DEWATA TELEMATIKA|
+|11|38.156.233.226|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|12|36.88.137.114|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|13|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|186.96.31.46|7070|Mexico|Acapulco de Juárez|Total Play Telecomunicaciones SA De CV|
+|16|27.147.128.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|138.118.48.44|8080|Argentina|La Plata|CyberWave S.A.|
+|18|181.115.149.74|8080|Bolivia|Santa Cruz|Entel S.A. - EntelNet|
+|19|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
+|20|167.71.185.237|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
