@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.179.85.151|80|Japan|Sendai|The Constant Company, LLC|
-|2|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|82.197.68.168|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
-|5|82.197.68.167|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|82.197.68.169|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|2|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
+|3|82.197.68.167|80|Singapore|Singapore|Contabo Asia Private Limited|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|82.197.68.168|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|8|36.73.130.134|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
 |10|14.227.78.101|8080|Vietnam|Ho Chi Minh City|VNPT|
-|11|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
-|12|36.85.56.74|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|13|157.66.251.226|8080|Indonesia|Muarauya|PT Haykal Solutions Technology|
-|14|36.73.130.134|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|15|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|16|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|17|36.72.246.139|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|18|36.83.84.147|80|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
+|11|36.82.186.31|80|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|12|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|13|36.83.84.147|80|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
+|14|36.72.246.139|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
+|15|36.85.56.74|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|16|157.66.251.226|8080|Indonesia|Muarauya|PT Haykal Solutions Technology|
+|17|82.197.68.169|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|187.223.136.50|8080|Mexico|La Paz|Uninet S.A. de C.V.|
 |19|201.152.55.166|8080|Mexico|San Luis Potosí City|UNINET|
-|20|85.154.6.40|8080|Oman|Salalah|Oman Telecommunications Company (S.A.O.G)|
+|20|202.65.171.68|8080|Bangladesh|Chittagong|Chittagong Online Limited.|
 
 
 
