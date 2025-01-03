@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|6|181.49.122.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|27.189.131.5|8089|China|Langfang|Chinanet|
-|8|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|9|27.189.133.51|8089|China|Langfang|Chinanet|
-|10|180.107.218.58|8089|China|Nanjing|China Telecom|
-|11|27.189.130.7|8089|China|Langfang|Chinanet|
-|12|188.132.150.164|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|67.43.227.226|29707|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|67.43.228.252|14117|Canada|Montreal|GloboTech Communications|
-|16|180.112.180.158|8089|China|Nanjing|Chinanet|
-|17|72.10.160.173|18259|Canada|Montreal|GloboTech Communications|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|38.52.221.173|999|Dominican Republic|Guerra|TELECABLE DOMINICANO, S.A.|
-|20|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|3|203.150.128.92|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|27.79.201.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|15|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|16|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|17|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|180.254.151.151|8080|Indonesia|Lhokseumawe|Telekomunikasi Indonesia|
+|20|67.43.227.226|29707|Canada|Montreal|GloboTech Communications|
 
 
 
