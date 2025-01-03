@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|103.174.175.98|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
-|7|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|8|149.86.144.216|8080|Turkey|Kışlak|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|9|115.72.15.3|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|10|203.150.113.28|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|11|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
-|12|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|15|103.157.59.239|8090|Indonesia|Bandung|PT. Eka Mas Republik|
-|16|103.57.38.38|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
-|17|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|20|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|27.70.228.57|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|12|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|13|103.247.23.231|1111|Indonesia|Cilacap|PT wifian Solution|
+|14|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|18|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|19|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|20|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 
 
 
