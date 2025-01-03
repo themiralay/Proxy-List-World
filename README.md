@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|8|188.132.221.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|13|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
-|14|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
-|15|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|16|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|17|157.66.50.39|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|103.131.19.29|8012|Indonesia|Lamongan|PT Global Media Data Prima|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|10|45.70.236.195|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|12|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|13|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
+|17|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|18|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|19|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|20|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
 
 
 
