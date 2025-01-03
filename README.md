@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|203.150.113.28|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|7|171.224.78.223|10081|Vietnam|Hanoi|Viettel Corporation|
-|8|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|203.150.113.28|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|116.58.240.243|8080|Thailand|Prachin Buri|CAT Telecom Public Company Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|45.157.11.158|1080|Germany|Lensahn|Anders & Thesing GbR|
-|15|116.58.240.243|8080|Thailand|Prachin Buri|CAT Telecom Public Company Limited|
-|16|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|181.115.67.3|999|Honduras|San Pedro Sula|Telgua|
+|10|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|188.132.150.68|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|15|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|181.78.17.73|999|Colombia|Andalucía|IFX Networks Argentina S.R.L|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
