@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5035** proxies at the latest update. Usable proxies are below.
+> Scraper found **5000** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|510|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2742|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|11|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|12|204.10.194.63|10129|Germany|Nuremberg|Advin Services LLC|
-|13|179.186.157.60|3128|Brazil|Feira de Santana|TELEFÔNICA BRASIL S.A|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|16|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
-|17|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.160.172|11665|Canada|Montreal|GloboTech Communications|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|51.159.159.73|80|France|Paris|SCALEWAY|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|10|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|67.43.227.226|23821|Canada|Montreal|GloboTech Communications|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
+|18|67.43.227.228|4033|Canada|Montreal|GloboTech Communications|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
 
 
 
