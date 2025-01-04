@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|91.225.79.220|8088|Russia|Kazan'|SkyNetwork Ltd.|
-|5|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
-|6|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|11|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|103.156.140.239|8080|Indonesia|Krajan|PT Tekling Media Telematika|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|13|103.156.75.213|8099|Indonesia|Gianyar|PT Trika Global Media|
+|14|49.48.40.165|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |15|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|16|185.246.113.101|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|17|67.43.227.227|5537|Canada|Montreal|GloboTech Communications|
-|18|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|19|67.43.227.228|5537|Canada|Montreal|GloboTech Communications|
-|20|34.124.254.47|8888|Singapore|Singapore|Google LLC|
+|16|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|20|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
