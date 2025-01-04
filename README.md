@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|5|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
 |6|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|9|18.191.83.37|8090|United States|Dublin|Amazon.com, Inc.|
-|10|101.255.210.85|8090|Indonesia|Bekasi|PT Remala Abadi|
-|11|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|12|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|13|113.167.137.207|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|159.192.205.63|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|16|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|223.25.110.148|8080|Indonesia|Surabaya|SinergiNet|
-|18|98.83.64.145|3128|United States|Ashburn|BellSouth.net Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|168.228.204.43|80|Brazil|Santaluz|Advanx Informatica Ltda|
+|8|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|9|186.96.97.205|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|171.6.99.151|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|159.192.205.63|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|12|103.228.243.77|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|14|1.20.169.77|8080|Thailand|Pattaya|TOT Public Company Limited|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|17|38.156.233.226|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|18|103.19.79.255|999|Indonesia|Kuningan Barat|Advertise Via PT Persada Data Multimedia|
+|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|20|61.160.247.69|9999|China|Nanjing|China Telecom|
 
 
 
