@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|96.126.98.62|3128|United States|Fremont|Akamai Technologies, Inc.|
-|7|202.61.230.222|9571|Germany|Nuremberg|netcup GmbH|
-|8|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|96.126.98.62|3128|United States|Fremont|Akamai Technologies, Inc.|
-|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|15|49.73.4.169|8089|China|Nanjing|China Telecom|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|38.156.233.226|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|18|72.10.160.170|3757|Canada|Montreal|GloboTech Communications|
-|19|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|20|67.43.227.226|1123|Canada|Montreal|GloboTech Communications|
+|4|202.61.230.222|9571|Germany|Nuremberg|netcup GmbH|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|9|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|67.43.227.226|1123|Canada|Montreal|GloboTech Communications|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|14|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|17|190.14.251.108|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
+|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|19|116.101.54.99|10015|Vietnam|Hanoi|Viettel Corporation|
+|20|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 
 
 
