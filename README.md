@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4875** proxies at the latest update. Usable proxies are below.
+> Scraper found **4876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|268|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|67.43.228.250|21769|Canada|Montreal|GloboTech Communications|
-|17|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
+|2|203.150.128.72|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|4|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|8|182.253.109.23|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|10|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|61.129.2.212|8080|China|Beijing|CHINANET|
+|13|190.119.76.150|8080|Peru|Chiclayo|America Movil Peru S.A.C.|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|171.6.13.99|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|36.91.148.36|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|17|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|18|27.70.228.57|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|103.162.55.42|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
+|20|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 
 
 
