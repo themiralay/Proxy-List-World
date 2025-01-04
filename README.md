@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|18.191.83.37|8090|United States|Dublin|Amazon.com, Inc.|
-|7|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|8|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|9|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|27.79.228.176|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|121.101.132.99|1080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|8|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
+|9|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 |10|93.113.180.209|10000|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|11|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|14|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|18|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|19|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|20|74.208.88.240|34988|United States|Chicago|IONOS SE|
+|11|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|15|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|16|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|17|18.191.83.37|8090|United States|Dublin|Amazon.com, Inc.|
+|18|18.191.83.37|8090|United States|Dublin|Amazon.com, Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
