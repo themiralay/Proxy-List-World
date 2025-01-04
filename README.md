@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|116.102.40.238|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
-|8|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|223.130.23.18|8080|Indonesia|Kamal|PT Solnet Indonesia|
-|13|160.22.6.140|8080|Indonesia|Demak|PT Satu Lima Indonesia|
-|14|168.228.221.251|8080|Brazil|Corrente|Buritinet Telecom Eireli|
-|15|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|16|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|17|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|18|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|19|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|20|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.133.24.121|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
+|10|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.35.109.205|58080|Bangladesh|Kāfrul|Ranks ITT|
+|13|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|15|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|168.228.221.251|8080|Brazil|Corrente|Buritinet Telecom Eireli|
+|18|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|19|45.230.49.2|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|20|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
 
 
 
