@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|36.68.33.73|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|213.168.221.155|8080|Germany|Wathlingen|EWE TEL GmbH|
+|7|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
 |8|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|94.181.34.54|8080|Russia|Chelyabinsk|JSC "ER-Telecom Holding"|
-|12|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|15|180.112.180.134|8089|China|Nanjing|Chinanet|
-|16|49.73.4.150|8089|China|Nanjing|China Telecom|
-|17|114.223.141.206|8089|China|Wuxi|Chinanet|
-|18|27.189.133.56|8089|China|Langfang|Chinanet|
-|19|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|20|191.7.216.208|8080|Brazil|Novo Oriente|Online Telecomunicacoes Ltda|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|11|102.0.13.20|8080|Kenya|Machakos|Airtel KE Mobile & Fixed Internet|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|16|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|17|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|18|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
