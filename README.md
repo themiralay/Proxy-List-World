@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|171.250.21.36|33253|Vietnam|Can Tho|Viettel Corporation|
-|4|103.162.55.42|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
-|5|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|6|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|7|103.69.150.24|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|8|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|67.43.227.229|16601|Canada|Montreal|GloboTech Communications|
-|11|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|12|67.43.236.18|29639|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|29639|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|58.136.96.248|8080|Thailand|Ratchathewi|AIS-Fibre|
-|17|157.173.112.75|80|Germany|Düsseldorf|Contabo GmbH|
-|18|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
-|19|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|198.145.118.11|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|171.250.21.36|33253|Vietnam|Can Tho|Viettel Corporation|
+|9|102.0.9.114|8080|Kenya|Naivasha|Airtel KE Mobile & Fixed Internet|
+|10|103.126.172.139|8080|Indonesia|Bandar Lampung|MEGARAP|
+|11|171.224.77.130|10081|Vietnam|Hanoi|Viettel Corporation|
+|12|61.129.2.212|8080|China|Beijing|CHINANET|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|19|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
