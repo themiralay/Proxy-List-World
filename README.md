@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|121.101.132.151|8030|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|96.126.98.173|3128|United States|Fremont|Akamai Technologies, Inc.|
-|6|202.61.230.222|9571|Germany|Nuremberg|netcup GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|9|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|14|38.159.227.194|999|Dominican Republic|Tábara Arriba|TELECABLE DOMINICANO, S.A.|
-|15|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|157.15.44.39|8080|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
-|18|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|19|181.209.72.174|999|Argentina|Empedrado|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|203.175.103.55|8060|Indonesia|Kuningan|MITRAKITA|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|96.126.98.139|3128|United States|Fremont|Akamai Technologies, Inc.|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|96.126.98.139|3128|United States|Fremont|Akamai Technologies, Inc.|
+|6|96.126.98.62|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|103.155.197.116|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|8|202.61.230.222|9571|Germany|Nuremberg|netcup GmbH|
+|9|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|203.190.41.234|8015|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|13|171.247.80.68|10003|Vietnam|Biên Hòa|Viettel Corporation|
+|14|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|15|49.73.4.167|8089|China|Nanjing|China Telecom|
+|16|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|17|49.73.4.164|8089|China|Nanjing|China Telecom|
+|18|103.235.181.250|8080|Indonesia|Jakarta|PT Top Class Universal|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|111.125.242.34|80|India|Mumbai|NIXI|
 
 
 
