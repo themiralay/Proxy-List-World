@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|27.79.228.176|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|103.181.255.231|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|12|91.217.179.174|8080|Ukraine|Kyiv|Startnet LTD|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|23.128.168.7|999|Puerto Rico|Guaynabo|Thundernet Wireless|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|6|116.101.54.99|10003|Vietnam|Hanoi|Viettel Corporation|
+|7|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
+|8|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|18.191.83.37|8090|United States|Dublin|Amazon.com, Inc.|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|12|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|13|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|14|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |19|74.208.88.240|61215|United States|Chicago|IONOS SE|
-|20|190.121.4.157|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|20|45.224.249.6|8080|Brazil|Bocaiúva|MS - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO LTDA|
 
 
 
