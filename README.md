@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|113.167.137.207|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|116.107.119.159|10088|Vietnam|Hanoi|Viettel Corporation|
-|5|125.25.43.147|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|117.5.60.186|10095|Vietnam|Hanoi|VIETTEL|
-|7|182.53.21.151|8080|Thailand|Si Racha|TOT Public Company Limited|
-|8|117.5.63.204|10074|Vietnam|Hanoi|VIETTEL|
-|9|117.5.57.125|10083|Vietnam|Hanoi|VIETTEL|
-|10|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|11|103.179.252.75|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|12|58.136.246.197|8080|Thailand|Bangkok|AIS-Fibre|
-|13|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|182.53.182.160|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
-|15|176.226.230.113|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|16|223.204.195.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|103.76.109.54|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|18|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|19|1.4.250.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|36.82.200.153|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|6|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|7|98.83.64.145|3128|United States|Ashburn|BellSouth.net Inc.|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|10|93.113.180.209|10000|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|11|98.83.64.145|3128|United States|Ashburn|BellSouth.net Inc.|
+|12|36.82.200.135|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|13|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|14|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|15|171.7.11.148|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|17|49.49.17.209|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|18|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
+|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|20|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
