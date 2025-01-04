@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|4|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|5|185.65.247.133|48049|Ukraine|Kyiv|Hosting Ukraine LTD|
-|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|3|83.138.55.137|80|Austria|Vienna|Alwyzon|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|158.222.90.12|4481|United States|Twin Valley|Northwest Minnesota Special Access, LLC|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|9|103.81.194.48|2020|Indonesia|Bogor|PT Rtiga Global Media|
-|10|109.123.230.204|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|103.224.124.135|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|13|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|16|27.189.130.138|8089|China|Langfang|Chinanet|
-|17|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|8|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|185.241.132.22|8080|Ireland|Tarmon|Enet Telecommunications Networks Limited|
+|11|103.246.79.14|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|13|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|16|95.217.120.110|8002|Finland|Helsinki|Hetzner Online GmbH|
+|17|67.43.228.250|7751|Canada|Montreal|GloboTech Communications|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
