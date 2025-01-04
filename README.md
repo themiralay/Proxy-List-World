@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|5|113.167.137.207|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|182.53.182.160|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|9|1.4.250.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|223.204.195.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|190.211.172.178|999|Chile|San Fernando|InterNexa Global Network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|103.235.181.250|8080|Indonesia|Jakarta|PT Top Class Universal|
-|14|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|37.210.242.79|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|17|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
-|18|131.100.48.253|999|Colombia|Neiva|Fibernet TV SAS|
-|19|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|223.25.110.148|8080|Indonesia|Surabaya|SinergiNet|
+|8|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|9|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|10|103.57.36.112|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|11|171.7.28.254|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|113.167.137.207|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|49.48.83.179|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|16|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
