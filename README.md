@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5423** proxies at the latest update. Usable proxies are below.
+> Scraper found **5120** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|473|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3010|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|170.64.151.251|3128|Australia|Sydney|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.155.197.113|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|10|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|27.79.253.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|16|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|20|49.49.93.144|8888|Thailand|Akat Amnuai|Triple T Broadband Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.167.170.22|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|7|36.93.206.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|9|116.101.54.99|10026|Vietnam|Hanoi|Viettel Corporation|
+|10|3.14.251.155|80|United States|Dublin|Amazon.com, Inc.|
+|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|12|103.85.117.17|8080|Indonesia|Makassar|BOSOWA|
+|13|104.225.150.168|8081|United States|Los Angeles|IT7 Networks Inc|
+|14|27.189.134.226|8089|China|Langfang|Chinanet|
+|15|112.198.178.194|8082|Philippines|Nasugbu|Globe Telecom|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|67.43.236.19|7091|Canada|Montreal|GloboTech Communications|
+|19|115.147.63.59|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
 
 
 
