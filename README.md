@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|3|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |4|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|5|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|122.53.247.189|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|8|115.72.168.22|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|9|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|10|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|11|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|12|72.10.160.90|16935|Canada|Montreal|GloboTech Communications|
-|13|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|14|67.43.236.20|2317|Canada|Montreal|GloboTech Communications|
-|15|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|16|67.43.228.253|25701|Canada|Montreal|GloboTech Communications|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|171.224.73.97|10077|Vietnam|Hanoi|Viettel Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.160.170|24999|Canada|Montreal|GloboTech Communications|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|7|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|8|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|10|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|11|160.22.134.3|1111|Indonesia|Cirebon|PT GALAXY SINERGI NETWORK|
+|12|67.43.228.253|25701|Canada|Montreal|GloboTech Communications|
+|13|181.115.67.3|999|Honduras|San Pedro Sula|Telgua|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|180.107.218.19|8089|China|Nanjing|China Telecom|
+|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|19|36.68.33.73|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
