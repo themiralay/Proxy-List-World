@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5043** proxies at the latest update. Usable proxies are below.
+> Scraper found **5040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|430|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2775|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
 |5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|7|98.83.64.145|3128|United States|Ashburn|BellSouth.net Inc.|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|10|93.113.180.209|10000|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|11|98.83.64.145|3128|United States|Ashburn|BellSouth.net Inc.|
-|12|36.82.200.135|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|13|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|14|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|15|171.7.11.148|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
-|17|49.49.17.209|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|18|181.188.238.150|999|Ecuador|Quito|Otecel S.A.|
-|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|20|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|6|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|7|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|8|116.107.119.159|10088|Vietnam|Hanoi|Viettel Corporation|
+|9|125.25.43.147|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|11|103.76.109.54|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|12|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|13|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|14|190.242.181.61|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|182.53.182.160|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
+|16|115.72.168.22|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|17|58.136.246.197|8080|Thailand|Bangkok|AIS-Fibre|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|182.253.137.30|8080|Indonesia|Jakarta|BIZNET|
+|20|103.75.84.72|8080|Indonesia|Central Java|MEGADATA|
 
 
 
