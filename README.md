@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|3|103.59.44.33|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|11|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|13|38.9.136.104|8888|Indonesia|Medan|PT. Media Antar Nusa|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|46.8.252.24|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
-|18|103.247.21.225|2024|Indonesia|Cilacap|PT wifian Solution|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|148.101.144.112|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|7|38.159.232.131|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|8|103.85.53.54|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
+|9|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|10|54.37.207.54|3128|The Netherlands|Rotterdam|OVH SAS|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|49.73.4.167|8089|China|Nanjing|China Telecom|
+|13|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|14|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|91.189.237.78|8080|Russia|Petropavlovsk-Kamchatsky|InterkamService Ltd|
+|18|180.107.218.0|8089|China|Nanjing|China Telecom|
+|19|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|20|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 
 
 
