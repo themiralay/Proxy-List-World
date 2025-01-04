@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|202.61.230.222|9571|Germany|Nuremberg|netcup GmbH|
-|7|115.72.10.103|10015|Vietnam|Vũng Tàu|VIETELmetro|
-|8|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|45.70.85.33|58080|Brazil|Tupã|B.B.S COMUNICAÇÕES LTDA ME|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|12|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|17|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.3.246.215|12945|Vietnam|Quận Tân Phú|VDATA|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|103.188.242.114|1314|Vietnam|Cẩm Lệ|BSSVIET|
+|6|171.250.21.36|33253|Vietnam|Can Tho|Viettel Corporation|
+|7|103.177.35.126|1311|Vietnam|Thái Nguyên|VERMOS|
+|8|210.79.146.106|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|10|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|47.91.87.64|10009|Germany|Frankfurt am Main|Alibaba.com LLC|
+|13|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|14|117.102.67.67|8050|Indonesia|Jakarta|BIZNET|
+|15|18.134.236.231|1080|United Kingdom|London|Amazon Technologies Inc.|
+|16|116.101.54.99|10003|Vietnam|Hanoi|Viettel Corporation|
+|17|45.189.252.246|999|Mexico|Alvarado|Tracered SA De CV|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|103.180.138.56|1311|Vietnam|Ho Chi Minh City|TANHOANGVINA|
+|20|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
