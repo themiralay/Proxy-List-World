@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|101.109.154.227|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.228.187|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|157.66.84.57|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|190.61.61.155|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|16|27.79.228.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|41.254.48.190|1976|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|115.72.168.22|10022|Vietnam|Vũng Tàu|VIETELmetro|
-|20|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|101.109.154.227|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|5|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|6|117.103.70.9|8715|Indonesia|Malang|NARATEL|
+|7|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|8|27.79.253.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.125.174.73|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|10|27.79.254.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|19|115.72.168.22|10018|Vietnam|Vũng Tàu|VIETELmetro|
+|20|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
