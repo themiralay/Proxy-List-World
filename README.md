@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|147.45.170.226|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|188.132.222.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|20|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|27.79.252.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|27.79.254.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.253.187|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.252.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|12|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|181.52.238.165|54694|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|15|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|16|27.79.253.187|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|147.45.170.226|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
