@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|6|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
-|7|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.169.255.194|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|11|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|12|96.126.98.153|3128|United States|Fremont|Akamai Technologies, Inc.|
-|13|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|149.86.142.201|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|7|103.171.182.108|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|8|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|9|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|10|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|11|115.147.36.37|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|13|185.246.113.101|8080|Turkey|Bursa|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|114.218.150.61|8089|China|Nanjing|China Telecom|
-|17|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|18|72.10.160.170|27773|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|21935|Canada|Montreal|GloboTech Communications|
-|20|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|16|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|19|103.145.143.118|80|Indonesia|Jakarta Pusat|PT. Indonesia Comnets Plus|
+|20|150.107.247.212|8080|Indonesia|Bandung|Infrastruktur STARNET|
 
 
 
