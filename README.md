@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|171.224.75.84|10081|Vietnam|Hanoi|Viettel Corporation|
-|5|124.217.39.154|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.153.62.46|8080|Indonesia|Weleri|IMEDIANET|
-|10|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
-|11|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|12|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|13|103.242.105.163|3125|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|16|186.148.181.66|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|18|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|4|103.171.163.66|8080|Indonesia|Jakarta|MYREPUBLIC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|171.224.75.84|10081|Vietnam|Hanoi|Viettel Corporation|
+|7|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|8|20.222.243.172|9401|Japan|Tokyo|Microsoft Corporation|
+|9|101.32.207.84|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|46.4.176.185|3333|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|15|103.247.22.124|4317|Indonesia|Cilacap|PT wifian Solution|
+|16|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|17|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|18|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|19|171.224.75.84|10081|Vietnam|Hanoi|Viettel Corporation|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
