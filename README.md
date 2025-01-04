@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4776** proxies at the latest update. Usable proxies are below.
+> Scraper found **5055** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|485|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|3|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|9|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|41.217.220.214|32650|Kenya|Nairobi|MyISP Ltd|
-|13|72.10.160.170|2123|Canada|Montreal|GloboTech Communications|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|67.43.228.250|5373|Canada|Montreal|GloboTech Communications|
-|19|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|20|128.199.118.49|9090|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|6|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
+|7|203.190.46.89|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|8|83.138.55.137|80|Austria|Vienna|Alwyzon|
+|9|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|10|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|11|111.125.242.34|80|India|Mumbai|NIXI|
+|12|46.161.194.88|8085|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|13|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|103.41.90.49|82|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|15|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|16|201.77.98.131|999|Mexico|Huichapan|Erik Tovar Juarez|
+|17|103.154.90.190|3128|Indonesia|Bogor|MORATELINDONAP|
+|18|116.101.54.99|10015|Vietnam|Hanoi|Viettel Corporation|
+|19|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
+|20|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
 
 
 
