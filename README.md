@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
-|7|103.151.141.35|8181|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|8|83.138.55.137|80|Austria|Vienna|Alwyzon|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|14|96.126.98.62|3128|United States|Fremont|Akamai Technologies, Inc.|
-|15|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
-|16|96.126.98.173|3128|United States|Fremont|Akamai Technologies, Inc.|
-|17|67.43.227.227|28731|Canada|Montreal|GloboTech Communications|
-|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|19|114.223.54.58|8089|China|Wuxi|Chinanet|
-|20|67.43.236.18|30325|Canada|Montreal|GloboTech Communications|
+|3|96.126.98.153|3128|United States|Fremont|Akamai Technologies, Inc.|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|96.126.98.153|3128|United States|Fremont|Akamai Technologies, Inc.|
+|6|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|7|47.151.128.178|8888|United States|Santa Monica|Frontier Communications Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|96.126.98.139|3128|United States|Fremont|Akamai Technologies, Inc.|
+|10|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|202.131.159.222|1111|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|12|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
+|13|77.238.224.28|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|16|35.247.237.139|31986|Brazil|Sao Paulo|Google LLC|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|20|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
 
 
 
