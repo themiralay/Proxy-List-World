@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |6|157.173.112.75|80|Germany|Düsseldorf|Contabo GmbH|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|9|61.160.247.69|9999|China|Nanjing|China Telecom|
-|10|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|11|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.176.97.229|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|16|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|17|91.236.156.30|8282|Ukraine|Lokhvytsya|Limited Liability Company AVATOR ISP|
-|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|115.74.11.152|10016|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|8|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|9|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|10|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|15|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
