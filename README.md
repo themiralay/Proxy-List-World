@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|4|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|13|162.249.171.248|4164|United States|New York|PureVoltage Hosting Inc.|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
-|16|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
-|17|67.43.228.252|7717|Canada|Montreal|GloboTech Communications|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|10|67.43.227.226|23319|Canada|Montreal|GloboTech Communications|
+|11|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|13|27.79.212.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|15|116.101.54.99|10032|Vietnam|Hanoi|Viettel Corporation|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
 |18|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|72.10.160.174|14603|Canada|Montreal|GloboTech Communications|
-|20|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|19|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
