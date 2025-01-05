@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4651** proxies at the latest update. Usable proxies are below.
+> Scraper found **4667** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|577|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|386|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|114.9.26.202|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|136.243.82.121|1083|Germany|Falkenstein|Hetzner Online GmbH|
-|8|117.219.10.150|8080|India|Udaipur|BSNL Internet|
-|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
-|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|13|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|16|1.53.4.35|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|18|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|103.243.177.90|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
+|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|37.187.64.116|3128|France|Roubaix|OVH SAS|
+|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|12|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|190.113.41.140|999|Dominican Republic|Santiago de los Caballeros|MR Networking, SRL|
+|15|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
