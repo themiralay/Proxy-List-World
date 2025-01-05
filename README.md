@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|109.206.203.79|3128|Poland|Warsaw|Skynet sp. z o.o.|
-|4|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|27.70.228.57|10016|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
-|9|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|11|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|38.47.125.75|3128|Japan|Tokyo|VMISS Inc.|
-|14|181.78.216.90|999|Paraguay|Nanawa|Ufinet Paraguay S.A|
-|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|16|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|67.43.228.253|28659|Canada|Montreal|GloboTech Communications|
-|20|36.83.84.147|80|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
+|3|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|162.249.171.248|4164|United States|New York|PureVoltage Hosting Inc.|
+|6|147.78.169.80|8443|Slovakia|Nitra|OSTV s.r.o.|
+|7|181.115.149.74|8080|Bolivia|Santa Cruz|Entel S.A. - EntelNet|
+|8|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|13|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|14|200.71.237.243|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|15|74.208.88.240|57884|United States|Chicago|IONOS SE|
+|16|72.10.160.171|6455|Canada|Montreal|GloboTech Communications|
+|17|103.137.111.66|7777|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|20|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 
 
 
