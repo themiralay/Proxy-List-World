@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.79.253.187|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|17|27.79.253.187|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|36.92.162.220|8080|Indonesia|Malang|Telekomunikasi Indonesia|
-|19|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|101.47.145.217|3390|China|Hongkou|Great Wall Broadband Network|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|8|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|12|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|13|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|16|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|17|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|103.133.61.186|3030|Indonesia|Pekalongan|TLINK|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
