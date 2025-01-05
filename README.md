@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|171.7.125.137|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|5|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|6|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|7|45.174.80.83|20183|Brazil|Riachão das Neves|Davilson Dos Santos Correia-me|
-|8|154.113.205.170|8080|Nigeria|Lagos|Mainone Cable Company|
-|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|10|188.132.150.36|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|11|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|12|103.172.121.35|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
-|13|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|14|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|103.133.61.189|8080|Indonesia|Pekalongan|TLINK|
-|16|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|17|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|18|110.44.126.27|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|19|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|20|103.105.53.110|7777|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|9|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|116.107.127.238|10088|Vietnam|Hanoi|Viettel Corporation|
+|11|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|13|200.71.237.243|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|14|72.10.160.90|3623|Canada|Montreal|GloboTech Communications|
+|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|194.163.140.174|80|Germany|Düsseldorf|Contabo GmbH|
+|20|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
 
 
 
