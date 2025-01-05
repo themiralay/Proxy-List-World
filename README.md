@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
-|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|12|116.101.54.99|10011|Vietnam|Hanoi|Viettel Corporation|
-|13|72.10.160.171|8925|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|16|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|18|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|19|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|20|190.189.249.108|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|9|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|93.85.75.59|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|13|178.49.151.17|8999|Russia|Novosibirsk|Novotelecom Ltd|
+|14|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|17|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
+|18|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 
 
 
