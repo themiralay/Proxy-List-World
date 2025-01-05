@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.153.246.141|8181|Indonesia|Purwakarta|PRIMAHOME|
-|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 |8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|9|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|11|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|12|116.101.54.99|10005|Vietnam|Hanoi|Viettel Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|15|114.96.47.159|1080|China|Hefei|Chinanet|
-|16|67.43.236.19|1225|Canada|Montreal|GloboTech Communications|
-|17|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|103.169.128.148|8080|Indonesia|Cirebon|PT Media Akses Data|
-|20|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|9|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|14|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|15|103.13.204.89|8083|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|16|72.10.164.178|32039|Canada|Montreal|GloboTech Communications|
+|17|218.78.55.172|8089|China|Shanghai|China Telecom (Group)|
+|18|202.154.18.149|8087|Indonesia|Jombang|DIGITNET|
+|19|67.43.236.19|12563|Canada|Montreal|GloboTech Communications|
+|20|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
 
 
 
