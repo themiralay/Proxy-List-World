@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|61.160.247.69|9999|China|Nanjing|China Telecom|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|13|181.236.247.8|8813|Colombia|Bucaramanga|Telebucaramanga S.a. E.S.P.|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|116.101.54.99|10008|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.164.178|12841|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|1243|Canada|Montreal|GloboTech Communications|
-|18|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
-|19|162.249.171.248|4164|United States|New York|PureVoltage Hosting Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|1.2.176.252|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|203.150.113.4|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|6|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|7|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|10|116.101.54.99|10017|Vietnam|Hanoi|Viettel Corporation|
+|11|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|72.10.160.93|14019|Canada|Montreal|GloboTech Communications|
+|13|186.97.138.66|999|Colombia|Medellín|Colombia Móvil|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|18|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
