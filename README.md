@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|3|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
 |5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|11|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|14|117.5.61.166|10083|Vietnam|Hanoi|VIETTEL|
-|15|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|16|103.228.243.219|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|6|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|7|27.79.252.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|10|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|14|203.150.128.117|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|49.73.4.180|8089|China|Nanjing|China Telecom|
+|18|114.9.25.190|1010|Indonesia|Sangatta|PT. INDOSAT Tbk|
+|19|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
