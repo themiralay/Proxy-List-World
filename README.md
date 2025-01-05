@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|91.191.173.135|61110|Turkey|Işıkkent|Netdirekt A.S. Izmir|
-|6|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|121.227.109.0|8089|China|Nanjing|China Telecom|
-|15|67.43.236.18|18643|Canada|Montreal|GloboTech Communications|
-|16|114.223.54.43|8089|China|Wuxi|Chinanet|
-|17|27.189.130.141|8089|China|Langfang|Chinanet|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|67.43.236.20|7155|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25655|Canada|Montreal|GloboTech Communications|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|27.79.225.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|38.183.146.191|1989|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.226|23493|Canada|Montreal|GloboTech Communications|
 
 
 
