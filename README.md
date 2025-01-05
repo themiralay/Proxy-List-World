@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4667** proxies at the latest update. Usable proxies are below.
+> Scraper found **4661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|577|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|571|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|386|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2762|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|103.243.177.90|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
-|6|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|37.187.64.116|3128|France|Roubaix|OVH SAS|
-|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|12|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|190.113.41.140|999|Dominican Republic|Santiago de los Caballeros|MR Networking, SRL|
-|15|37.60.227.201|80|Germany|Düsseldorf|Contabo GmbH|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|67.43.228.252|19769|Canada|Montreal|GloboTech Communications|
+|11|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|12|101.47.145.217|3390|China|Hongkou|Great Wall Broadband Network|
+|13|72.10.160.90|2937|Canada|Montreal|GloboTech Communications|
+|14|114.141.51.141|8010|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|15|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|16|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|67.43.227.227|22123|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|5447|Canada|Montreal|GloboTech Communications|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
