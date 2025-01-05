@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.131.19.29|8012|Indonesia|Lamongan|PT Global Media Data Prima|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|103.179.216.46|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|115.72.40.211|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
 |11|36.94.13.63|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|116.101.54.99|10035|Vietnam|Hanoi|Viettel Corporation|
-|15|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|16|189.127.190.114|8080|Brazil|Brasiléia|Govista Telecomunicao Importacao Ltda|
-|17|67.43.228.254|23197|Canada|Montreal|GloboTech Communications|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|72.10.164.178|17727|Canada|Montreal|GloboTech Communications|
+|12|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|13|103.179.216.46|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
+|14|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|15|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|18|190.119.76.150|8080|Peru|Chiclayo|America Movil Peru S.A.C.|
+|19|116.107.171.113|10000|Vietnam|Hanoi|Viettel Corporation|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
