@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|203.150.113.227|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|6|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
-|8|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|27.79.223.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.189.135.9|8089|China|Langfang|Chinanet|
-|15|72.10.160.173|10249|Canada|Montreal|GloboTech Communications|
-|16|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|17|45.236.105.138|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|27.79.223.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|49.49.37.113|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|9|103.159.78.227|8080|Pakistan|Lahore|Call 2 Phone Private Limited|
+|10|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|11|27.79.255.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.219.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|14.18.126.57|3128|China|Guangzhou|CHINANET Guangdong province network|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|27.79.219.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|19|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
