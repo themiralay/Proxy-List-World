@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.11.152.158|8085|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
-|14|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|15|184.82.55.109|8080|Thailand|Khon Kaen|AIS-Fibre|
-|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|213.169.33.7|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|7|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|10|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|15|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
+|16|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|19|103.11.152.158|8085|India|Navi Mumbai|Web Werks India Pvt. Ltd.|
+|20|222.243.174.132|81|China|Xiangtan|Chinanet|
 
 
 
