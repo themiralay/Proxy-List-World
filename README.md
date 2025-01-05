@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|8|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|8|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|27.189.131.3|8089|China|Langfang|Chinanet|
+|11|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|12|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.164.178|10757|Canada|Montreal|GloboTech Communications|
 |14|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|15|188.132.150.36|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|17|67.43.228.250|31069|Canada|Montreal|GloboTech Communications|
-|18|114.223.62.93|8089|China|Wuxi|Chinanet|
-|19|72.10.164.178|31569|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|15467|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|10757|Canada|Montreal|GloboTech Communications|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|72.10.164.178|10757|Canada|Montreal|GloboTech Communications|
 
 
 
