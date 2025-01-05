@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|116.107.171.113|10003|Vietnam|Hanoi|Viettel Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|8|117.5.60.186|10095|Vietnam|Hanoi|VIETTEL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|46.149.251.225|54486|United Kingdom|Southwark|Vaioni Group Ltd|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|13|202.191.123.195|8090|Bangladesh|Kāfrul|Bijoy Online Limited|
-|14|200.5.196.218|3128|Argentina|Avellaneda|Telefonica de Argentina|
-|15|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|116.107.171.113|10003|Vietnam|Hanoi|Viettel Corporation|
-|18|103.214.9.96|3128|Vietnam|Thanh Xuân|MEGACORE|
-|19|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
-|20|165.227.64.66|3128|United States|Clifton|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|80.92.206.177|15532|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|115.74.2.125|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|16|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|18|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
 
 
 
