@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|14.167.210.49|8080|Vietnam|Can Tho|VNPT-VNNIC|
-|4|38.9.136.99|80|Indonesia|Medan|PT. Media Antar Nusa|
-|5|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|9|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
-|10|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|11|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|12|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
-|13|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|14|103.51.53.221|8080|Bangladesh|Mātuail|63/B(5th Floor)|
-|15|36.88.125.36|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|67.43.236.20|13537|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|21125|Canada|Montreal|GloboTech Communications|
-|18|103.69.106.151|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|19|67.43.236.18|29639|Canada|Montreal|GloboTech Communications|
-|20|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|2|194.5.25.34|3212|Singapore|Singapore|Mod Mission Critical LLC|
+|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|10|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|103.133.61.186|3030|Indonesia|Pekalongan|TLINK|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|18|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|27.79.223.97|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
