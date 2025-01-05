@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
 |3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
-|10|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|11|124.156.100.83|8118|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|12|195.26.243.36|80|United States|St Louis|Nubes, LLC|
-|13|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|14|198.145.118.91|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|112.198.132.107|8082|Philippines|Nasugbu|Globe Telecom|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|19|159.253.23.38|3128|Estonia|Jõhvi|PAGM network|
-|20|51.79.175.215|8080|Singapore|Singapore|OVH SAS|
+|4|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|103.125.174.59|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.143.169.130|83|India|Hyderabad|Aspt Networks Pvt Ltd|
+|8|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|12|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|14|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|15|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|16|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|36.82.200.153|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|20|125.27.32.235|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
