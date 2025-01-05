@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.251.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|10|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|12|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|14|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|15|103.191.196.33|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|16|36.72.254.13|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|17|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|103.191.196.33|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|6|45.177.23.18|999|Peru|Lima region|P&P BUSINESS GROUP SAC|
+|7|157.66.37.60|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|9|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|10|203.150.128.117|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|12|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|116.107.171.113|10000|Vietnam|Hanoi|Viettel Corporation|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
 
 
 
