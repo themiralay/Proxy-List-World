@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|8|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|11|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|12|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|13|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|14|72.10.160.173|25039|Canada|Montreal|GloboTech Communications|
-|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
-|18|38.52.221.66|8080|Dominican Republic|Guerra|TELECABLE DOMINICANO, S.A.|
-|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|3|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|4|112.78.163.168|8080|Indonesia|Jakarta|Biznet Networks|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|10|103.153.190.218|8081|Indonesia|Jember|WANET|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|72.10.160.170|24369|Canada|Montreal|GloboTech Communications|
+|13|187.44.180.235|61000|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|14|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|16|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
