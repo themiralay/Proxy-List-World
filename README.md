@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|14.235.61.138|8080|Vietnam|Hanoi|VNPT|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|6|36.82.200.153|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|27.79.251.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|190.94.213.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|27.79.251.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|148.251.7.27|43001|Germany|Falkenstein|Hetzner Online GmbH|
-|18|187.94.248.32|15552|Brazil|São Roque de Minas|Vital NET|
-|19|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|190.61.61.155|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|10|113.166.59.191|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|27.79.223.91|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|13|188.125.169.71|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|190.94.213.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|17|27.79.219.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
