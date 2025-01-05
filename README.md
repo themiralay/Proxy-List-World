@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|67.43.228.252|19769|Canada|Montreal|GloboTech Communications|
-|11|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|12|101.47.145.217|3390|China|Hongkou|Great Wall Broadband Network|
-|13|72.10.160.90|2937|Canada|Montreal|GloboTech Communications|
-|14|114.141.51.141|8010|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|15|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|16|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
-|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|18|67.43.227.227|22123|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5447|Canada|Montreal|GloboTech Communications|
-|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|128.140.113.110|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.126.87.181|7777|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|20|195.26.243.36|80|United States|St Louis|Nubes, LLC|
 
 
 
