@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|6|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|27.79.223.91|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.122.168.226|8080|India|Noida|Spacetrade Internet Pvt Ltd|
-|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|116.107.171.113|10000|Vietnam|Hanoi|Viettel Corporation|
-|13|143.208.84.57|8589|Brazil|Ubiratã|V. GRAZIOLI & CIA. LTDA. - ME|
-|14|72.10.160.91|6169|Canada|Montreal|GloboTech Communications|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|116.101.54.99|10010|Vietnam|Hanoi|Viettel Corporation|
-|17|144.126.227.37|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|223.206.62.113|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|13|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|14|180.127.145.221|1080|China|Nanjing|Chinanet|
+|15|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|171.240.89.128|10014|Vietnam|Hanoi|Viettel Corporation|
 
 
 
