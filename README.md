@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|124.217.111.20|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.228.250|9039|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|7249|Canada|Montreal|GloboTech Communications|
-|17|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|103.91.62.37|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|19|114.223.141.199|8089|China|Wuxi|Chinanet|
-|20|180.112.180.126|8089|China|Nanjing|Chinanet|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|115.72.12.34|10015|Vietnam|Vũng Tàu|VIETELmetro|
+|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|14|116.101.54.99|10006|Vietnam|Hanoi|Viettel Corporation|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|67.43.236.18|12805|Canada|Montreal|GloboTech Communications|
+|20|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
