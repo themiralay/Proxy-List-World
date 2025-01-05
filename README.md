@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|27.79.219.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|1.2.176.252|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|103.156.75.213|8099|Indonesia|Gianyar|PT Trika Global Media|
-|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|14|45.150.55.158|3128|Hong Kong|Tsuen Wan|SHINE TELECOM CO., LTD.|
-|15|27.189.129.90|8089|China|Langfang|Chinanet|
-|16|67.43.228.250|31285|Canada|Montreal|GloboTech Communications|
-|17|114.225.152.209|8089|China|Wuxi|Chinanet|
-|18|27.189.134.161|8089|China|Langfang|Chinanet|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|121.224.231.149|8089|China|Nanjing|China Telecom|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|5|103.160.182.33|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|27.79.219.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|18|103.193.144.203|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|116.101.54.99|10020|Vietnam|Hanoi|Viettel Corporation|
+|20|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
 
 
 
