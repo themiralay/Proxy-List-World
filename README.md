@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|103.158.250.118|8788|Indonesia|Ngrance|VCDNET|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
 |8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|10|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|12|45.170.172.216|8080|Brazil|Aparecida do Rio Doce|Adriano Cirilo Pasqual Doneda Eireli|
 |13|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|14|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 |17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|20|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
