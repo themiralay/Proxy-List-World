@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|112.205.88.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|54.254.72.28|6969|Singapore|Singapore|Amazon Technologies Inc.|
-|5|49.151.111.121|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|6|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|7|160.22.22.159|8080|Indonesia|Ciampea|PT Sarana Digital Network|
-|8|171.6.6.128|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|113.192.31.161|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|10|113.174.18.79|8080|Vietnam|Tân Phú|VietNam Post and Telecom Corporation|
+|2|112.205.88.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
+|5|112.198.178.35|8080|Philippines|Nasugbu|Globe Telecom|
+|6|113.174.18.79|8080|Vietnam|Tân Phú|VietNam Post and Telecom Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|49.151.111.121|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|9|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|10|149.28.129.222|443|Singapore|Singapore|The Constant Company|
 |11|223.206.56.111|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|1.4.250.32|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|101.109.145.221|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|14|134.236.19.74|8080|Thailand|Bang Lamung|CAT-BB|
-|15|35.239.102.9|3128|United States|Council Bluffs|Google LLC|
-|16|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|12|54.254.72.28|6969|Singapore|Singapore|Amazon Technologies Inc.|
+|13|116.105.36.212|8080|Vietnam|Hanoi|Viettel Corporation|
+|14|171.6.157.30|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|49.49.144.221|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|16|49.49.187.206|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
 |17|49.49.140.242|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
-|18|171.6.157.30|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|157.20.209.105|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
-|20|202.154.18.24|6969|Indonesia|Jombang|DIGITNET|
+|18|113.192.31.161|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|19|36.73.138.126|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|20|134.236.61.72|8080|Thailand|Bang Pakong|CAT-BB|
 
 
 
