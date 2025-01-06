@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|103.110.80.181|8888|Hong Kong|Mong Kok|High Family Technology Co., Limited|
-|5|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|9|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|10|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|11|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|13|157.100.63.129|80|Ecuador|Cuenca|Ufinet Panama S.A.|
-|14|3.21.21.66|3128|United States|Dublin|Amazon.com, Inc.|
-|15|54.80.19.53|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|71.175.178.185|3128|United States|Downingtown|Verizon Business|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|102.210.25.34|8080|Kenya|Nairobi|Dansted Tech Suppliers Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|6|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
+|7|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|9|3.21.21.66|3128|United States|Dublin|Amazon.com, Inc.|
+|10|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|11|27.79.250.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|54.80.19.53|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|15|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|190.6.56.133|8080|Venezuela|Caracas|Net Uno, C.A.|
+|18|169.63.183.220|3128|United States|Washington|SoftLayer|
+|19|27.79.223.8|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|177.136.12.160|55443|Brazil|Lauro de Freitas|TASCOM TELECOMUNICAÇÕES LTDA|
 
 
 
