@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|27.79.255.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|8|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
-|9|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.205.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|119.18.151.49|8080|Bangladesh|Comilla|BBTS Network|
-|16|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|17|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|18|177.55.176.110|8080|Brazil|Pedro Leopoldo|BTT TELECOMUNICACOES S.A.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|78.38.99.11|2085|Iran|Gorgan|Iran Telecommunication Company PJS|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|8|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|10|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|13|186.65.107.2|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|27.79.252.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 
 
 
