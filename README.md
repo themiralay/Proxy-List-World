@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|7|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|8|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
-|9|103.155.198.141|1080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|10|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|13|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
 |16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|67.43.227.227|29039|Canada|Montreal|GloboTech Communications|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|18|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
 
 
 
