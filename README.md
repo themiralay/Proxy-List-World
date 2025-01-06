@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|178.73.192.2|3128|Sweden|Stockholm|Portlane Network|
-|5|115.72.36.233|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|8|58.136.96.248|8080|Thailand|Ratchathewi|AIS-Fibre|
-|9|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|10|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|2|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|115.72.36.233|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|11|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|12|185.44.65.187|9595|United States|New York|Massivegrid LTD|
+|13|61.160.247.69|9999|China|Nanjing|China Telecom|
 |14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|16|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
+|16|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
 
 
 
