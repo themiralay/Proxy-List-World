@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|6|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.21.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
-|9|91.191.173.135|61110|Turkey|Işıkkent|Netdirekt A.S. Izmir|
-|10|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|11|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
-|12|20.222.243.172|9480|Japan|Tokyo|Microsoft Corporation|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|104.248.157.138|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|18|36.73.134.22|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|8|103.153.246.130|8282|Indonesia|Purwakarta|PRIMAHOME|
+|9|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|14|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|17|36.73.134.22|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
 
 
 
