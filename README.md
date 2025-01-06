@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|1.10.234.55|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|5|124.121.2.148|8080|Thailand|Bangkok|TRUEBB|
-|6|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.119.67.95|8080|Indonesia|Tangerang|MYREPUBLIC|
-|11|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|12|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|13|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|15|115.72.47.131|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|114.69.225.6|83|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|18|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
-|19|124.217.64.126|8080|Philippines|Magalang|Philippine Long Distance Telephone Co.|
-|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|1.10.234.55|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|8|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|17|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|18|181.188.238.147|999|Ecuador|Quito|Otecel S.A.|
+|19|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
 
 
 
