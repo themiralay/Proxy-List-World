@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.198.90.94|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|6|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|10|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|11|182.253.109.182|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|103.161.16.53|22000|Vietnam|Phúc Lai|BKSI|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
-|15|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|16|203.150.128.66|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|17|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|18|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
-|19|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|20|196.74.25.57|8080|Morocco|Agadir|ADSL Maroc telecom|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|4|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
+|5|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|6|152.67.8.148|443|India|Mumbai|Oracle Corporation|
+|7|182.253.109.182|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|147.79.70.114|3128|France|Paris|Hostinger International Limited|
+|10|203.150.128.66|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
+|13|115.72.40.211|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|15|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|16|61.198.90.94|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|17|65.20.164.31|8080|Iraq|Najaf|Hulum|
+|18|134.106.87.59|3128|Germany|Oldenburg|Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.|
+|19|94.142.141.134|8080|Russia|Moscow|I-servers LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
