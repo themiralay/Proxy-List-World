@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|116.107.171.113|10000|Vietnam|Hanoi|Viettel Corporation|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.151.246.18|7777|Indonesia|Bogor|MANAKARRANET|
-|12|103.160.205.230|8080|Indonesia|Mataram|PRIME|
-|13|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|5|103.22.183.216|8080|Thailand|Pak Kret|Siamdata Communication Co., ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |14|84.46.240.253|3128|Germany|Düsseldorf|Contabo GmbH|
 |15|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
 |17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|72.10.160.174|22919|Canada|Montreal|GloboTech Communications|
-|19|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|20|49.48.47.251|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
