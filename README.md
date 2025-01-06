@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|10|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|14|27.79.216.184|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|20|180.112.180.131|8089|China|Nanjing|Chinanet|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|6|103.157.116.213|8088|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
+|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|8|14.143.172.246|8080|India|Kolkata|Tata Communications Limited|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|14|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
