@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|110.78.147.221|8080|Thailand|Phi Phi Don|CAT-BB|
+|5|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |7|103.79.143.167|2598|Vietnam|Văn Quán|CADI|
-|8|175.141.238.25|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|111.95.41.168|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|10|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|11|115.127.139.90|58080|Bangladesh|Dhaka|BRACNet Limited|
-|12|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|13|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|14|3.21.21.66|3128|United States|Dublin|Amazon.com, Inc.|
-|15|191.81.242.144|8080|Argentina|Mendoza|Telefonica de Argentina|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|54.80.19.53|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|19|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|8|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|9|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
+|10|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|11|110.78.147.221|8080|Thailand|Phi Phi Don|CAT-BB|
+|12|49.48.47.48|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|14|202.180.21.210|80|Indonesia|Depok|PT. HIPERNET INDODATA|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
+|17|103.210.206.26|8080|India|Karur|Blue Net It Solutions Pvt Ltd|
+|18|36.78.219.152|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|179.52.111.250|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|20|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
 
 
 
