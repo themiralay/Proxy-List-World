@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|3|94.251.95.138|5225|Russia|Omsk|ZSTTK|
 |4|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|7|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|103.171.245.155|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 |9|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|10|54.212.162.236|3128|United States|Portland|Amazon.com, Inc.|
-|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|154.12.50.96|8080|United States|Los Angeles|NetLab Global|
 |12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|191.101.78.207|3128|Brazil|São Paulo|Hostinger International Limited|
-|15|91.191.173.135|61110|Turkey|Işıkkent|Netdirekt A.S. Izmir|
-|16|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|17|38.156.72.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|49.70.172.196|8089|China|Nanjing|Chinanet|
-|19|197.248.75.221|8104|Kenya|Nairobi|Safaricom Limited|
-|20|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|195.26.243.36|80|United States|St Louis|Nubes, LLC|
+|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|15|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|157.173.112.70|80|Germany|Düsseldorf|Contabo GmbH|
+|19|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|20|103.160.205.230|8080|Indonesia|Mataram|PRIME|
 
 
 
