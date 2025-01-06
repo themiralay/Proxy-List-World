@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|60.51.51.204|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|6|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|9|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|10|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|11|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|36.91.155.42|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|72.10.160.171|2697|Canada|Montreal|GloboTech Communications|
-|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|27.189.134.10|8089|China|Langfang|Chinanet|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|6|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|11|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|12|36.90.48.77|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|13|176.32.35.11|8888|Russia|Moscow|LLC Baxet|
+|14|101.255.211.42|1111|Indonesia|Bekasi|PT Remala Abadi|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|202.148.14.196|8050|Indonesia|Mojokerto|DNET-SBY|
+|18|139.162.147.122|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|122.3.159.79|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
