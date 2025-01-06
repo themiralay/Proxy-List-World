@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
+|6|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |7|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|8|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|12|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
-|13|171.6.15.136|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|15|49.70.172.170|8089|China|Nanjing|Chinanet|
-|16|67.43.228.253|3237|Canada|Montreal|GloboTech Communications|
-|17|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|18|67.43.227.226|3727|Canada|Montreal|GloboTech Communications|
-|19|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|11|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|114.9.26.194|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
 
 
 
