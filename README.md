@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|119.76.173.95|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|49.73.4.157|8089|China|Nanjing|China Telecom|
-|17|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|18|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|2|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|190.52.97.27|999|Venezuela|Caracas|Gold Data USA Inc|
+|5|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|27.79.239.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.191.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|27.79.180.115|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
 
 
 
