@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|7|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|77.37.132.129|8080|Russia|Moscow|NCNET|
-|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|15|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|16|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|4|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|20|171.6.96.150|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
