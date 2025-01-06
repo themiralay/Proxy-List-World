@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|6|103.130.80.50|8080|Indonesia|Tulungagung|PT PRISMA MEDIA NUSANTARA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|11|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |15|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.75.84.72|8080|Indonesia|Central Java|MEGADATA|
-|20|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|110.164.175.110|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
