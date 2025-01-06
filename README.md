@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5348** proxies at the latest update. Usable proxies are below.
+> Scraper found **5341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|818|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|769|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|621|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|662|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2965|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|8|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|9|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|10|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|13|186.65.107.2|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|27.79.252.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|7|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|9|27.79.255.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|182.253.36.72|443|Indonesia|Sukabumi|BIZNET|
+|12|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.251.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
+|16|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
