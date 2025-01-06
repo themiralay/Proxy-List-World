@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|6|116.104.223.167|10089|Vietnam|Hanoi|Viettel Corporation|
-|7|185.44.65.171|9595|United States|New York|Massivegrid LTD|
-|8|65.1.244.232|80|India|Mumbai|Amazon.com|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
-|11|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
-|16|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|5|116.98.66.101|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|11|58.136.96.248|8080|Thailand|Ratchathewi|AIS-Fibre|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|15|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |17|185.44.65.187|3128|United States|New York|Massivegrid LTD|
-|18|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|27.72.224.152|10003|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
