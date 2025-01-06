@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|164.163.42.13|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
+|9|182.253.109.182|8080|Indonesia|Jakarta|Biznet Metronet|
 |10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|13|182.253.109.182|8080|Indonesia|Jakarta|Biznet Metronet|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|19|67.43.228.251|20023|Canada|Montreal|GloboTech Communications|
-|20|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|20|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
