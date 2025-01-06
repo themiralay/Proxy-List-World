@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|190.60.54.7|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|7|27.79.181.161|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|51.89.5.14|56789|United Kingdom|London|OVH SAS|
+|7|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|85.192.62.235|8080|Russia|Moscow|KONEKT Ltd.|
+|9|27.79.181.216|16000|Vietnam|Hanoi|Viettel Corporation|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|27.79.181.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|15|103.70.147.233|8080|India|Mathura|Elxire Data Services Pvt. Ltd.|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
