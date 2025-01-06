@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|8|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|9|27.79.255.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|182.253.36.72|443|Indonesia|Sukabumi|BIZNET|
-|12|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.251.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|103.79.155.210|8080|Indonesia|Tangerang|MORATELINDO|
-|16|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
-|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|18|157.66.50.73|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|103.153.96.100|8181|Indonesia|Serang|NITNET|
+|3|101.128.95.241|3125|Indonesia|Jakarta|CBN|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|38.183.144.177|3125|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|6|157.10.97.155|1111|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|101.128.106.164|3125|Indonesia|Ciputat|CBN|
+|9|103.183.113.145|2606|Vietnam|Hanoi|Thien Quang Digital technology joint stock company|
+|10|113.192.31.19|8800|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|146.196.41.27|8085|Indonesia|Karawang|UNINA|
+|13|103.242.104.47|7777|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|14|103.155.46.36|3125|Indonesia|Bogor|PRONETINDO|
+|15|128.199.115.61|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.224.125.38|2024|Indonesia|Jakarta|PT Curug Lintas Indonesia|
+|17|103.155.196.122|8084|Indonesia|Sukabumi|JEMBATANDATA|
+|18|171.6.201.112|18080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|103.105.57.64|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|20|103.125.117.253|3125|Indonesia|Bandung|PT Baraya Telematika Nusantara|
 
 
 
