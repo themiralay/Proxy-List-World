@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|187.63.156.102|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
-|9|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|10|52.192.24.206|80|Japan|Tokyo|Amazon Technologies Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|27.79.251.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|5|103.153.149.207|8080|Indonesia|Semarang|JARINGANKU|
+|6|223.205.180.73|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|8|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|180.245.126.20|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|13|36.73.138.126|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
 |16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|36.73.138.126|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|121.101.131.142|8181|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|20|102.0.14.38|8080|Kenya|Gilgil|Airtel KE Mobile & Fixed Internet|
 
 
 
