@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
-|5|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|6|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|7|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|103.159.194.33|1111|Indonesia|Surabaya|PT Giga Digital Nusantara|
+|5|103.151.223.203|8080|Indonesia|Bangkinang|CMEDIANET|
+|6|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
 |8|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|9|190.2.209.62|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.245.16.133|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
-|12|188.132.150.66|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|15|116.107.219.85|10006|Vietnam|Hải Dương|Viettel Corporation|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|9|49.49.93.144|8888|Thailand|Akat Amnuai|Triple T Broadband Public Company Limited|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|12|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|13|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.16.119.19|8080|Indonesia|Madiun|CV Trustnet Media|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
