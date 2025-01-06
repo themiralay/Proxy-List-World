@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5188** proxies at the latest update. Usable proxies are below.
+> Scraper found **5254** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|829|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|895|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|570|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2845|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|49.48.47.251|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|16|67.43.236.21|12449|Canada|Montreal|GloboTech Communications|
-|17|95.111.239.49|3128|France|Lauterbourg|Contabo GmbH|
-|18|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|19|171.224.73.97|10077|Vietnam|Hanoi|Viettel Corporation|
-|20|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|3|112.205.88.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|54.254.72.28|6969|Singapore|Singapore|Amazon Technologies Inc.|
+|5|49.151.111.121|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|6|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|7|160.22.22.159|8080|Indonesia|Ciampea|PT Sarana Digital Network|
+|8|171.6.6.128|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|113.192.31.161|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|10|113.174.18.79|8080|Vietnam|Tân Phú|VietNam Post and Telecom Corporation|
+|11|223.206.56.111|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|1.4.250.32|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|101.109.145.221|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|14|134.236.19.74|8080|Thailand|Bang Lamung|CAT-BB|
+|15|35.239.102.9|3128|United States|Council Bluffs|Google LLC|
+|16|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|17|49.49.140.242|8080|Thailand|Phanom Sarakham|Triple T Broadband Public Company Limited|
+|18|171.6.157.30|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|157.20.209.105|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
+|20|202.154.18.24|6969|Indonesia|Jombang|DIGITNET|
 
 
 
