@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|5|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|6|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|27.79.216.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|193.203.203.162|59286|Canada|Toronto|Tangram Canada Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|115.74.0.108|10012|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|13|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|14|200.71.109.101|999|Mexico|San Felipe Orizatlán|Digy Networks S.A De C.V.|
-|15|38.41.5.85|999|Venezuela|Carrizal|MDS TELECOM C.A.|
-|16|189.193.225.10|999|Mexico|San Lorenzo Axocomanitla|Mega Cable, S.A. de C.V.|
-|17|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
-|18|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.180.118.207|7777|Indonesia|Setro|PT Persada Data Multimedia|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|182.52.137.188|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|115.74.0.108|10005|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|11|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|12|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|185.35.130.23|60982|Russia|Moscow|Plazmatelekom LLC|
+|16|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
