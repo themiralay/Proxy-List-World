@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|7|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|10|67.43.228.250|18831|Canada|Montreal|GloboTech Communications|
-|11|27.189.134.159|8089|China|Langfang|Chinanet|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|103.148.130.42|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|211.38.54.85|3010|South Korea|Seocho-gu|Korea Telecom|
-|16|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
-|17|65.109.72.240|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|7|91.191.173.135|61110|Turkey|Işıkkent|Netdirekt A.S. Izmir|
+|8|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|9|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|10|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|18|78.85.34.42|38080|Russia|Izhevsk|Rostelecom networks|
+|19|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
