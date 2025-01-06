@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|3|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|12|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|2|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|8|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|9|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|72.10.160.170|8751|Canada|Montreal|GloboTech Communications|
 |18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|20|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|61.160.247.69|9999|China|Nanjing|China Telecom|
 
 
 
