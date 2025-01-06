@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|113.183.72.105|8080|Vietnam|Bắc Giang|VNPT|
-|5|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|6|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|7|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|8|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|9|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|13|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|14|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|16|197.250.16.217|8082|Tanzania|Dar es Salaam|Vodacom Tanzania Ltd|
-|17|27.79.197.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|8|27.79.141.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|10|27.79.197.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|12|116.98.66.101|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
+|14|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|185.73.103.23|3128|Czechia|Ostrov|ISP Alliance a.s.|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
