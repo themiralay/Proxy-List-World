@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5465** proxies at the latest update. Usable proxies are below.
+> Scraper found **5374** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|752|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2845|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.144.52.42|443|Japan|Tokyo|Packet Host, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
-|4|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|36.78.219.152|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
-|7|202.180.21.210|80|Indonesia|Depok|PT. HIPERNET INDODATA|
-|8|103.210.206.26|8080|India|Karur|Blue Net It Solutions Pvt Ltd|
-|9|179.52.111.250|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|10|78.141.220.53|6969|The Netherlands|Amsterdam|The Constant Company, LLC|
+|4|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
+|5|171.234.227.2|10005|Vietnam|Hanoi|Viettel Corporation|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|36.78.219.152|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|159.138.29.243|12345|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|10|159.89.239.166|18094|United States|North Bergen|DigitalOcean, LLC|
 |11|74.207.241.132|8080|United States|Fremont|Akamai Technologies, Inc.|
-|12|154.70.152.201|3128|Romania|Bucharest|NexonHost Srl|
-|13|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|61.198.90.94|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|15|190.121.138.210|8080|Colombia|Buenaventura|Media Commerce Partners S.A|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|54.80.19.53|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|94.182.49.130|3128|Iran|Tehran|Aria Shatel PJSC|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|104.194.90.19|3128|United States|Los Angeles|IT7 Networks Inc|
+|13|103.79.143.167|2598|Vietnam|Văn Quán|CADI|
+|14|191.81.212.236|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|15|191.81.242.144|8080|Argentina|Mendoza|Telefonica de Argentina|
+|16|187.21.164.112|8080|Brazil|Santos|Claro NXT Telecomunicacoes Ltda|
+|17|146.190.248.206|8888|Canada|Toronto|DigitalOcean, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|136.169.249.129|8080|Russia|Ufa|JSC "Ufanet"|
+|20|54.80.19.53|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
