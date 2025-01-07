@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|3|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|4|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |6|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|7|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |13|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|16|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|157.173.112.70|80|Germany|Düsseldorf|Contabo GmbH|
 |18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|19|188.72.6.153|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
