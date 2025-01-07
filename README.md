@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.247.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.244.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|4|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|49.48.80.179|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|6|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|9|177.93.63.2|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|27.79.191.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|194.5.25.34|3212|Singapore|Singapore|Mod Mission Critical LLC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|103.82.126.34|1111|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|5|103.63.26.227|8080|Indonesia|Brebes|PT Global Media Data Prima|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|103.133.26.7|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|181.78.109.49|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|103.154.139.139|8080|Indonesia|Jakarta|MORATELINDONAP|
-|14|27.79.187.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|16|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|13|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|27.79.191.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|16|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|17|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
