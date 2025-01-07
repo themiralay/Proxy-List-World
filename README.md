@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4804** proxies at the latest update. Usable proxies are below.
+> Scraper found **4559** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|81|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|480|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|281|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3005|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2791|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|103.147.247.100|8080|Indonesia|Tangerang|PLBNET|
-|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|8|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|11|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|12|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|14|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
-|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|18|119.95.251.92|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|19|45.7.64.140|999|Mexico|Zacualtipán|Maysnet SA De CV|
-|20|72.10.160.170|10861|Canada|Montreal|GloboTech Communications|
+|5|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|6|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|7|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|8|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|9|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|10|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|36.50.115.180|8081|Indonesia|Jakarta|MYREPUBLIC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|103.85.183.30|4995|Bangladesh|Dhaka|Smart Online|
+|19|36.68.25.185|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|20|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
 
 
 
