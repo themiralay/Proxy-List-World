@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|36.72.247.224|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|182.52.47.91|8080|Thailand|Bang Kruai|TOT Public Company Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|9|103.75.85.131|8070|Indonesia|Central Java|MEGADATA|
-|10|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.125.38.82|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|15|157.20.238.247|8080|Indonesia|Buduran|PT Era Network Indonesia|
-|16|27.147.155.44|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|36.72.247.224|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|79.175.138.142|3128|Iran|Tehran|AFranet Co|
+|10|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|13|181.10.200.154|3128|Argentina|Nono|Telecom Argentina S.A.|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.122.168.226|8080|India|Noida|Spacetrade Internet Pvt Ltd|
 
 
 
