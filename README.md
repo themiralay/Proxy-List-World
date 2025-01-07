@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.160.205.38|8181|Indonesia|Mataram|PRIME|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|95.47.238.254|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|6|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|9|190.144.238.66|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|10|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|190.60.53.198|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
 |13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|16|211.22.151.163|60808|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|18|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|19|67.43.228.250|19475|Canada|Montreal|GloboTech Communications|
-|20|27.189.133.213|8089|China|Langfang|Chinanet|
+|14|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|18|116.193.216.131|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|178.49.151.17|8999|Russia|Novosibirsk|Novotelecom Ltd|
 
 
 
