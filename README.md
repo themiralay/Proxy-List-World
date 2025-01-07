@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|116.107.124.98|10073|Vietnam|Hanoi|Viettel Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|27.79.226.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|115.72.12.239|10018|Vietnam|Vũng Tàu|VIETELmetro|
 |7|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
 |8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|10|103.161.195.27|1080|Indonesia|Malang|PT Java Media Grup|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.155.196.116|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|14|115.72.12.239|10008|Vietnam|Vũng Tàu|VIETELmetro|
-|15|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|51.255.203.90|6128|France|Roubaix|OVH SAS|
-|19|27.72.224.152|10018|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|27.72.224.152|10018|Vietnam|Hanoi|Newass2011xDSLHN|
+|9|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|11|51.255.203.90|6128|France|Roubaix|OVH SAS|
+|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|13|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|14|81.90.149.186|3128|Iran|Tehran|Afranet|
+|15|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|19|134.236.232.108|8080|Thailand|Pattaya|CAT Telecom Public Company Limited|
+|20|116.107.124.98|10071|Vietnam|Hanoi|Viettel Corporation|
 
 
 
