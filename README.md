@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|27.79.255.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|185.208.101.89|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|103.178.125.42|8080|Indonesia|Batang|IKI-INDONESIA|
-|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|165.255.57.171|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|18|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|157.15.44.39|8080|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
 
 
 
