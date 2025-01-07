@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4888** proxies at the latest update. Usable proxies are below.
+> Scraper found **4909** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|571|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|374|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.92.153.24|8137|Bangladesh|Dhaka|Masud M Reza|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|7|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|114.96.47.171|1080|China|Hefei|Chinanet|
-|10|67.43.236.20|13155|Canada|Montreal|GloboTech Communications|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|13|72.10.160.91|4685|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.227.226|1829|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|4685|Canada|Montreal|GloboTech Communications|
-|17|27.189.130.47|8089|China|Langfang|Chinanet|
-|18|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|184.82.55.109|8080|Thailand|Khon Kaen|AIS-Fibre|
-|20|114.223.79.155|8089|China|Wuxi|Chinanet|
+|5|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|6|95.246.149.124|8080|Italy|Naples|Telecom Italia S.p.A., Alice - Smart, Services|
+|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|11|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|12|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|13|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|14|49.48.82.51|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|188.132.150.68|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|103.147.134.91|1010|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|19|72.10.164.178|22469|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
