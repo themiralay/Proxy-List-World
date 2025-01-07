@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|115.74.10.26|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|47.252.21.14|443|United States|Richmond|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|65.20.164.31|8080|Iraq|Najaf|Hulum|
-|11|103.190.78.12|8082|Indonesia|Blitar|PT Blitar Sarana Data|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|6|20.222.243.172|9443|Japan|Tokyo|Microsoft Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|9|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|45.5.119.38|999|Guatemala|Guatemala City|Infinitum S.A.|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|114.96.47.133|1080|China|Hefei|Chinanet|
-|17|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|13|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|14|27.131.248.173|8080|Indonesia|Jakarta|SpaceX Starlink|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
