@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|9|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|11|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|13|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|200.10.31.148|999|Colombia|Pereira|Super Redes S.A.S|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|27.79.243.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|20|45.225.204.128|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
 
 
 
