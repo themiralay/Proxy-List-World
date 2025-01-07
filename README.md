@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.72.224.152|10016|Vietnam|Hanoi|Newass2011xDSLHN|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|109.206.203.79|3128|Poland|Warsaw|Skynet sp. z o.o.|
-|8|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|9|176.88.175.216|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|36.91.148.36|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|8|43.243.174.26|83|India|Pune|Shah Solutions|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.227.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|78.38.100.50|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|45.184.103.121|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|15|38.255.85.157|999|Venezuela|Barquisimeto|Galanet Solution C.A.|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
 
 
 
