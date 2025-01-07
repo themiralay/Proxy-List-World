@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|124.122.114.109|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 |4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
-|6|27.79.243.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|95.47.238.254|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|47.252.21.14|80|United States|Richmond|Alibaba.com LLC|
+|10|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|15|188.132.150.78|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|17|49.73.4.189|8089|China|Nanjing|China Telecom|
-|18|8.217.251.159|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|190.211.163.20|999|Chile|San Fernando|INTERNEXA Chile S.A.|
+|14|27.131.248.173|8080|Indonesia|Jakarta|SpaceX Starlink|
+|15|27.72.224.152|10003|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|17|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
+|18|49.48.82.51|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|103.157.116.213|8088|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
+|20|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 
 
 
