@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|27.79.197.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.181.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.180.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.165.155.243|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|10|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.126.87.181|7777|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|15|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|20|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|120.28.210.205|8080|Philippines|Davao City|Globe Telecom|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.72.224.152|10003|Vietnam|Hanoi|Newass2011xDSLHN|
+|7|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|202.93.245.18|8080|Indonesia|Kebomas|DWPNAP|
+|10|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
 
 
 
