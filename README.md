@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |4|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|6|89.169.55.200|3128|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|7|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|45.149.93.123|4323|Singapore|Singapore|PT Perwira Media Solusi|
-|9|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|10|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|45.149.93.123|4323|Singapore|Singapore|PT Perwira Media Solusi|
+|10|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|177.234.212.188|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|27.79.180.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|186.122.178.59|80|Argentina|Córdoba|Techtel LMDS Comunicaciones Interactivas S.A.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.85.183.30|4995|Bangladesh|Dhaka|Smart Online|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|51.89.96.237|3128|United Kingdom|London|OVH SAS|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|72.10.160.170|25411|Canada|Montreal|GloboTech Communications|
 
 
 
