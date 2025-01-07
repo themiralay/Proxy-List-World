@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|7|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|8|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|49.73.4.143|8089|China|Nanjing|China Telecom|
-|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|20|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|103.191.196.34|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
+|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
+|14|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|15|177.125.86.18|8080|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|27.79.181.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
