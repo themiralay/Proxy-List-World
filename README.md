@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|6|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|24.72.215.236|8246|United States|Central City|Vyve Broadband|
-|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|10|190.52.97.25|999|Venezuela|Caracas|Gold Data USA Inc|
-|11|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|12|147.79.86.18|3128|Brazil|São Paulo|Hostinger International Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|51.89.5.14|56789|United Kingdom|London|OVH SAS|
-|15|116.104.216.240|10089|Vietnam|Hanoi|Viettel Corporation|
-|16|123.24.63.106|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.189.96.96|2022|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
-|18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|49.145.53.171|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|190.52.97.25|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|16|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
