@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.46.9.107|8080|Indonesia|Denpasar|PT Jaringanku Sarana Nusantara Malang|
-|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|6|171.5.142.46|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|8|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|103.171.255.242|8080|Indonesia|Sleman|ZKI|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|51.255.203.90|6128|France|Roubaix|OVH SAS|
+|8|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |9|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
-|11|51.255.203.90|6128|France|Roubaix|OVH SAS|
-|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|27.79.226.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|16|45.224.22.63|999|Ecuador|Chambo|Ufinet Panama S.A.|
-|17|103.171.255.242|8080|Indonesia|Sleman|ZKI|
-|18|182.253.178.110|3128|Indonesia|Jakarta|BIZNET|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|119.76.173.95|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|12|89.169.55.200|3128|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|13|80.78.65.230|8080|Albania|Tirana|ABCom|
+|14|144.126.142.70|3128|United States|St Louis|Nubes, LLC|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|144.126.142.70|3128|United States|St Louis|Nubes, LLC|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|27.72.224.152|10022|Vietnam|Hanoi|Newass2011xDSLHN|
+|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|42.96.16.71|3128|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
