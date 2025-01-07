@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|115.72.39.94|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|6|116.107.124.98|10084|Vietnam|Hanoi|Viettel Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|10|47.84.42.132|3128|Singapore|Singapore|Alibaba.com LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|157.15.62.99|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|190.94.212.197|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|49.149.194.214|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|3|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|4|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|27.79.243.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|8|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|116.107.126.229|10070|Vietnam|Hanoi|Viettel Corporation|
+|10|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|11|116.104.10.201|10010|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.245.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.149.93.123|4323|Singapore|Singapore|PT Perwira Media Solusi|
+|15|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|27.72.224.152|10009|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|27.79.148.162|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
