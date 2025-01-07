@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|5|203.150.113.35|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|103.155.169.69|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|7|115.72.45.215|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.242.105.251|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|10|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|46.246.14.16|3128|Sweden|Stockholm|Portlane Network|
-|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|171.224.64.211|10081|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|20|65.1.244.232|80|India|Mumbai|Amazon.com|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.150.113.35|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|190.60.38.198|999|Colombia|San Pedro|IFX NETWORKS COLOMBIA|
+|12|65.20.164.31|8080|Iraq|Najaf|Hulum|
+|13|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
+|20|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
 
 
 
