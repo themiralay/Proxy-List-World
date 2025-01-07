@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|125.24.183.230|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|27.79.180.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|1.2.176.169|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.190.112.210|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|6|194.233.75.162|80|Singapore|Singapore|Contabo Asia Private Limited|
+|7|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
 |10|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|27.79.247.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|140.82.8.62|33128|United States|Piscataway|The Constant Company|
-|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|13|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|202.191.123.228|58080|Bangladesh|Kāfrul|Bijoy Online Limited|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
 |18|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|19|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
-|20|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|61.160.247.69|9999|China|Nanjing|China Telecom|
+|20|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
 
 
 
