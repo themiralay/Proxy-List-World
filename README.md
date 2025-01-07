@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
-|9|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|10|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|14|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
-|15|106.58.215.103|8008|China|Kunming|Chinanet|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|27.79.177.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|115.72.14.4|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|5|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|58.147.186.226|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|18|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
 
 
 
