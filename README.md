@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|4|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|5|157.15.62.99|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|6|47.84.42.132|3128|Singapore|Singapore|Alibaba.com LLC|
-|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|116.107.171.113|10006|Vietnam|Hanoi|Viettel Corporation|
-|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
-|14|223.205.66.112|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|27.72.224.152|10019|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|27.72.224.152|10019|Vietnam|Hanoi|Newass2011xDSLHN|
-|17|27.72.224.152|10019|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|116.107.124.98|10082|Vietnam|Hanoi|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|190.94.212.197|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|15|27.72.224.152|10036|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|27.72.224.152|10036|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|203.112.79.90|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|19|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
