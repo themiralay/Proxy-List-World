@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|2.180.36.127|3128|Iran|Zarrīn Shahr|mashhad|
-|8|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
-|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|17|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|19|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|20|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|7|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|14|124.217.64.126|8080|Philippines|Magalang|Philippine Long Distance Telephone Co.|
+|15|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.227.230|2577|Canada|Montreal|GloboTech Communications|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|113.53.60.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
