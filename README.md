@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|125.24.183.230|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|36.83.85.73|2020|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|103.63.26.231|8080|Indonesia|Brebes|PT Global Media Data Prima|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
-|10|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|45.70.236.193|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|17|72.10.164.178|1745|Canada|Montreal|GloboTech Communications|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|20|140.82.8.62|33128|United States|Piscataway|The Constant Company|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|12|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
+|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
+|17|67.43.227.230|21027|Canada|Montreal|GloboTech Communications|
+|18|157.173.112.70|80|Germany|Düsseldorf|Contabo GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.164.178|13175|Canada|Montreal|GloboTech Communications|
 
 
 
