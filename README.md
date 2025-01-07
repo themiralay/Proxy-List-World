@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|168.232.243.248|666|Brazil|Salvador|GSG TELECOM SERVICOS LTDA - ME|
-|11|200.37.187.58|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
-|12|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|115.72.12.239|10019|Vietnam|Vũng Tàu|VIETELmetro|
-|15|188.125.169.71|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|116.107.225.102|20006|Vietnam|Haiphong|Viettel Corporation|
-|20|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|6|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|103.172.121.35|8081|Indonesia|Semarang|PT Digital Akses Nusantara|
+|9|200.37.187.58|999|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|13|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|14|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|15|190.60.41.70|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|223.204.32.202|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
