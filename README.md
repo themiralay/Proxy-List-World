@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|27.79.181.161|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|95.0.90.242|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|7|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|27.189.134.49|8089|China|Langfang|Chinanet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|12|67.43.227.226|25449|Canada|Montreal|GloboTech Communications|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|16|72.10.160.90|28559|Canada|Montreal|GloboTech Communications|
-|17|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
-|18|72.10.160.91|28073|Canada|Montreal|GloboTech Communications|
-|19|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|67.43.228.251|20729|Canada|Montreal|GloboTech Communications|
+|16|186.97.138.66|999|Colombia|Medellín|Colombia Móvil|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|185.142.131.113|8080|Portugal|Caldas da Rainha|LigaT Telecom Sociedade Unipessoal LDA|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
