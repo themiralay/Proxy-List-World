@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|6|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|10|1.2.176.169|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|175.145.184.253|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|4.157.219.21|80|United States|Boydton|Microsoft Corporation|
-|17|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|34.218.79.98|80|United States|Portland|Amazon.com, Inc.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|115.74.10.26|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|7|202.148.16.150|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|8|27.79.181.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
+|12|125.24.183.230|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|27.79.243.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
