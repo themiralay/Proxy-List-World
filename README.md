@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|115.72.12.239|10018|Vietnam|Vũng Tàu|VIETELmetro|
-|12|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|13|121.227.146.88|8089|China|Nanjing|China Telecom|
-|14|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|15|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|188.125.169.71|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|116.107.120.233|10096|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.160.173|14417|Canada|Montreal|GloboTech Communications|
-|19|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|115.72.14.4|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|5|115.72.13.223|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|6|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|7|115.72.33.194|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|8|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.183.10.171|1111|Indonesia|Manguharjo|PT Yasmin Amanah Media|
+|10|103.162.62.250|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|27.79.177.51|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|190.52.108.248|6666|Venezuela|Caracas|Gold Data USA Inc|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|171.7.56.140|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
 
 
 
