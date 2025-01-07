@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.123.142.16|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.85.159.174|8888|Bangladesh|Paltan|EarthTelecommunication|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|9|181.78.99.31|8080|El Salvador|Chalatenango|Ufinet Panama S.A.|
-|10|103.155.198.105|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|27.72.224.152|10016|Vietnam|Hanoi|Newass2011xDSLHN|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|213.168.221.155|8080|Germany|Wathlingen|EWE TEL GmbH|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|12|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|13|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|103.169.39.66|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
 |15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|17|67.43.228.252|17925|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|17173|Canada|Montreal|GloboTech Communications|
-|19|115.74.10.26|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
+|17|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
