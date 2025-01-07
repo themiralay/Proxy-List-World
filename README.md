@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|2|115.72.12.239|10018|Vietnam|Vũng Tàu|VIETELmetro|
-|3|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|5|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|10|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|101.108.173.227|8080|Thailand|Sam Phran|TOT Public Company Limited|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|51.255.203.90|6128|France|Roubaix|OVH SAS|
-|14|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|49.229.71.150|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|17|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
-|18|147.45.170.53|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|19|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|103.171.255.242|8080|Indonesia|Sleman|ZKI|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|6|27.65.237.80|5102|Vietnam|Thu Dau Mot|Viettel Group|
+|7|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|13|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|14|116.107.124.98|10077|Vietnam|Hanoi|Viettel Corporation|
+|15|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
