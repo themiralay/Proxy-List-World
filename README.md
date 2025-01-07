@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|116.107.124.98|10077|Vietnam|Hanoi|Viettel Corporation|
-|5|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|6|51.255.203.90|6128|France|Roubaix|OVH SAS|
-|7|113.11.179.104|8181|Indonesia|Bandung|Biznet Networks|
-|8|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|10|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|27.79.156.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|13|103.57.131.153|60000|Vietnam|Nhổn|KIM|
-|14|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|223.204.88.97|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|4|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|5|51.255.203.90|6128|France|Roubaix|OVH SAS|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|115.72.13.223|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|10|35.200.0.214|80|Japan|Tokyo|Google LLC|
+|11|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|195.178.56.37|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|168.197.182.137|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|95.55.110.47|8080|Russia|St Petersburg|Rostelecom networks|
-|18|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|17|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|41.209.10.229|8080|Kenya|Ruiru|MTN Business Kenya|
+|20|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
