@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
-|5|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|7|115.72.13.223|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|8|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|58.147.186.226|3125|Indonesia|Sambas|PT. Transhybrid Communication|
-|10|103.162.62.250|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|11|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|115.72.33.194|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|181.209.124.10|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
-|17|212.231.230.141|19775|Spain|Barcelona|Xtra Telecom S.A|
-|18|162.55.46.46|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.162.62.250|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|5|115.72.13.223|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|27.79.148.162|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|67.43.228.250|8639|Canada|Montreal|GloboTech Communications|
+|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 
 
 
