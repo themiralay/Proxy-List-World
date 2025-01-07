@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|49.49.185.74|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|8|95.71.49.179|8080|Russia|Belgorod|Rostelecom networks|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|11|45.149.93.123|4323|Singapore|Singapore|PT Perwira Media Solusi|
-|12|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|115.72.12.239|10019|Vietnam|Vũng Tàu|VIETELmetro|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|103.133.61.187|3127|Indonesia|Pekalongan|TLINK|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
+|3|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|10|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|14|61.160.247.69|9999|China|Nanjing|China Telecom|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|103.133.26.75|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|20|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
