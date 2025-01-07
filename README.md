@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|5|38.172.131.34|999|Peru|Lima|Conex TV E.I.R.L.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|9|181.78.19.13|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|12|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|52.0.26.215|80|United States|Ashburn|Amazon.com, Inc.|
-|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|190.60.37.10|999|Colombia|Pueblo Nuevo|IFX NETWORKS COLOMBIA|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
+|8|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 
 
 
