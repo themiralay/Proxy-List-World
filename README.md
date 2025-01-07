@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|3|27.79.246.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.189.225|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|9|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|13|103.126.87.181|7777|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|10|103.173.139.117|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|11|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|190.60.53.198|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
 |14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|17|45.70.236.195|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 |18|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|20|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|20|103.105.57.64|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
 
 
 
