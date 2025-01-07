@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|4|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|27.72.224.152|10003|Vietnam|Hanoi|Newass2011xDSLHN|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|7|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
 |8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|103.155.199.111|7080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|159.223.42.24|8101|Singapore|Singapore|DigitalOcean, LLC|
-|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|10|217.15.166.94|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|157.100.63.128|80|Ecuador|Cuenca|Ufinet Panama S.A.|
+|12|116.107.171.113|10006|Vietnam|Hanoi|Viettel Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 |15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|17|114.223.79.173|8089|China|Wuxi|Chinanet|
-|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|19|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|20|49.70.172.160|8089|China|Nanjing|Chinanet|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|27.79.180.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
