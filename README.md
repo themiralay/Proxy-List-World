@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|2|103.224.124.93|8080|Indonesia|Jakarta|PT Curug Lintas Indonesia|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|5|27.79.243.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
-|7|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|8|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|11|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|12|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|10|36.88.170.170|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|189.232.98.44|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|14|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
 |15|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|116.98.66.101|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|67.43.236.19|18873|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|136.243.82.121|1082|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
