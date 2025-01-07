@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|4|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|5|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|8|103.126.226.178|80|Indonesia|Yogyakarta|PT Deneva|
-|9|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|10|119.76.173.95|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.90|6127|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|45.224.22.63|999|Ecuador|Chambo|Ufinet Panama S.A.|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|49.73.4.133|8089|China|Nanjing|China Telecom|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|49.49.185.74|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|7|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|8|116.107.124.98|10077|Vietnam|Hanoi|Viettel Corporation|
+|9|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|11|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
+|12|37.26.86.206|47464|Albania|Librazhd|ATU|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|17|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|45.61.161.124|10007|Germany|Nuremberg|Advin Services LLC|
 
 
 
