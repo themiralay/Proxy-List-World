@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5210** proxies at the latest update. Usable proxies are below.
+> Scraper found **5180** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|579|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3005|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|125.24.183.230|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
-|12|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|102.50.248.123|9172|Morocco|Casablanca|Maroc telecom static ip adress|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
-|17|67.43.227.230|21027|Canada|Montreal|GloboTech Communications|
-|18|157.173.112.70|80|Germany|Düsseldorf|Contabo GmbH|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.164.178|13175|Canada|Montreal|GloboTech Communications|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|54.93.225.46|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|54.93.85.147|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|103.133.25.57|3125|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|8|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|27.79.247.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|194.233.66.80|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|49.156.20.122|8082|Indonesia|Central Java|PT Palapa Global Nusantara|
+|12|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|13|139.219.239.14|8080|China|Shanghai|Shanghai Blue Cloud Technology Co., Ltd|
+|14|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|187.249.114.150|8080|Mexico|Teapa|Transtelco Inc|
+|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
