@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
-|4|124.107.144.249|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|5|115.72.33.194|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|7|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.225.204.128|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|11|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|38.9.48.163|8090|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|91.107.253.219|46054|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|213.169.33.7|4002|Bulgaria|Sofia|A1 Bulgaria EAD|
+|13|116.104.10.215|10002|Vietnam|Hanoi|Viettel Corporation|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|18|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
