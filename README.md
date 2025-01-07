@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|6|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
+|1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
 |7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
-|9|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|13|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|14|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|67.43.227.226|2747|Canada|Montreal|GloboTech Communications|
-|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|17|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
-|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|8|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|119.76.173.95|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|27.72.224.152|10031|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
