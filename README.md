@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4861** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|111|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|348|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|6|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|7|113.192.31.5|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|8|27.79.156.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|203.150.113.35|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|103.107.84.191|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
+|6|45.90.220.104|8000|United States|Phoenix|HOSTINGER US|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|203.150.113.35|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|186.97.236.98|8080|Colombia|Medellín|Colombia Móvil|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |14|24.152.58.196|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|15|49.48.82.51|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|103.94.10.180|8080|Indonesia|Yogyakarta|INTERSATNET|
-|17|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|18|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|72.10.160.90|17253|Canada|Montreal|GloboTech Communications|
+|16|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|17|43.246.200.73|9080|Bangladesh|Sonargaon|HelloTech Limited|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|72.10.160.90|17253|Canada|Montreal|GloboTech Communications|
+|20|189.173.185.66|999|Mexico|Hermosillo|UNINET|
 
 
 
