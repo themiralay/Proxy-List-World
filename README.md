@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.150.113.137|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|101.255.167.25|8080|Indonesia|Jakarta|PT Remala Abadi|
-|5|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|203.150.113.137|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
 |6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|7|103.12.173.38|8080|Bangladesh|Dhaka|SkyTel Communications Limited|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|10|27.79.251.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|195.36.19.20|8080|Italy|Serravalle Sesia|TELNET|
-|19|72.10.160.92|3467|Canada|Montreal|GloboTech Communications|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|49.49.149.182|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|95.174.102.131|53281|Russia|Taganrog|our short network|
+|12|49.48.90.179|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|103.82.126.34|1111|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|14|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|185.130.44.177|8080|Sweden|Stockholm|Privex Inc.|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
 
 
 
