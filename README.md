@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|110.49.53.69|8081|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|5|49.249.83.13|8080|India|Hyderabad|TTL GSM|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|8|103.132.54.150|8080|Indonesia|Semarang|PT. ADEAKSA INDO JAYATAMA|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|152.26.231.93|9443|United States|Charlotte|MCNC|
-|14|67.43.227.230|21161|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|22599|Canada|Montreal|GloboTech Communications|
-|16|27.189.130.52|8089|China|Langfang|Chinanet|
-|17|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|19|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|20|67.43.227.226|30307|Canada|Montreal|GloboTech Communications|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|152.26.229.34|9443|United States|Charlotte|MCNC|
+|7|152.26.231.93|9443|United States|Charlotte|MCNC|
+|8|159.255.187.47|8080|Poland|Zamość|TOM-NET s.c. Dariusz Koper, Radoslaw Koper|
+|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
+|12|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
 
 
 
