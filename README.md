@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|2|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|3|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
 |7|152.26.229.47|9443|United States|Charlotte|MCNC|
 |8|152.26.231.93|9443|United States|Charlotte|MCNC|
-|9|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
 |10|98.8.195.160|443|United States|Orlando|Spectrum|
 |11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|199.116.62.148|9999|Puerto Rico|Guaynabo|OSNET Wireless|
-|13|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.144.146.40|34343|Indonesia|Tulungagung|Lexxa Data|
 |17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|122.50.6.186|80|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|18|201.77.98.131|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
