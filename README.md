@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|203.150.113.87|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|7|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|190.14.249.35|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|6|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|203.190.46.99|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|9|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
+|11|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|12|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|194.242.57.254|80|Germany|Düsseldorf|Contabo GmbH|
 |15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|195.36.19.20|8080|Italy|Serravalle Sesia|TELNET|
-|20|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
