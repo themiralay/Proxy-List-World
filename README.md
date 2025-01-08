@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|5|103.170.22.137|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|8|203.190.46.99|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|38.183.146.171|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
-|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
-|15|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
+|4|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|118.99.95.134|8888|Indonesia|Jakarta|Biznet Metronet|
+|6|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|38.159.232.141|999|Dominican Republic|Santo Domingo|Lightwave S.R.L|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
+|15|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|17|111.132.17.19|3389|China|Beijing|China TieTong Telecommunications Corporation|
 |18|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|19|67.43.227.229|14143|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|3393|Canada|Montreal|GloboTech Communications|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
