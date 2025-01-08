@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
-|5|109.62.178.90|8080|Russia|Belgorod|PJSC Rostelecom|
-|6|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|176.241.143.197|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|15|72.10.160.93|25633|Canada|Montreal|GloboTech Communications|
-|16|203.189.154.190|32650|Cambodia|Phnom Penh|ONLINE|
-|17|77.52.187.199|10000|Ukraine|Balta|PrJSC "VF UKRAINE"|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|38.230.165.25|9090|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|20|72.10.160.170|19383|Canada|Montreal|GloboTech Communications|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|109.62.178.90|8080|Russia|Belgorod|PJSC Rostelecom|
+|8|206.62.64.34|8080|Brazil|Apucarana|AGIS|
+|9|42.96.16.71|3128|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|32.140.234.250|83|United States|New York|AT&T Services, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|45.177.16.134|999|Paraguay|Ciudad del Este|MSW S.A.|
+|13|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
