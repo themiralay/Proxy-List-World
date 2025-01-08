@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|194.124.36.248|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|188.134.91.83|8080|Russia|St Petersburg|Interzet|
-|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|13|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|116.98.65.36|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|45.7.64.124|999|Mexico|Zacualtipán|Maysnet SA De CV|
+|9|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
+|10|103.101.99.45|8080|Bangladesh|Bhātāra|Pandora Technology|
+|11|27.79.192.175|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|103.126.86.17|3127|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|20|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
 
 
 
