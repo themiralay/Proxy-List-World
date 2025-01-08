@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|65.1.244.232|80|India|Mumbai|Amazon.com|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
-|6|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|8|152.26.229.34|9443|United States|Charlotte|MCNC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|67.43.236.18|32127|Canada|Montreal|GloboTech Communications|
-|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|103.228.243.175|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|72.10.160.174|20905|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.47|9443|United States|Charlotte|MCNC|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|103.165.155.145|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|19|223.206.48.159|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|162.249.171.248|4164|United States|New York|PureVoltage Hosting Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.192.199.158|53|India|Pune|Entire In2Cable|
+|5|188.132.222.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|10|95.9.89.25|8080|Turkey|Kızıltoprak|TTNet A.S.|
+|11|103.180.123.15|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
