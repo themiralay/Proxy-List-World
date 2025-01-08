@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
-|9|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
-|14|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
-|17|187.94.223.194|3128|Brazil|Espera Feliz|Acesse Comunicação Ltda|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|152.26.229.46|9443|United States|Charlotte|MCNC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|101.255.167.50|8080|Indonesia|Jakarta|PT Remala Abadi|
+|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|4|36.67.208.59|32650|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|131.255.56.22|8080|Brazil|Auriflama|Link Brasil Telecomunicacoes Ltda|
+|9|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|12|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|72.10.160.171|22869|Canada|Montreal|GloboTech Communications|
+|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
