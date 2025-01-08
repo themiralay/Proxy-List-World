@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|4|181.198.115.179|999|Ecuador|El Reventador|Telconet S.A|
-|5|101.255.210.2|1111|Indonesia|Bekasi|PT Remala Abadi|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|118.99.95.134|8888|Indonesia|Jakarta|Biznet Metronet|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|152.26.229.46|9443|United States|Charlotte|MCNC|
-|10|72.10.160.91|8503|Canada|Montreal|GloboTech Communications|
-|11|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|157.20.244.38|1111|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|17|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.91|8503|Canada|Montreal|GloboTech Communications|
-|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|198.52.243.3|7777|Puerto Rico|San Juan|BNET|
+|4|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|6|181.209.111.146|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|103.81.110.250|8181|Indonesia|Serang|PT Fiber Data Nusantara|
+|9|202.47.188.25|5566|Indonesia|Madiun|Lintas Data Prima, PT|
+|10|190.61.61.155|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|11|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|12|181.198.115.179|999|Ecuador|El Reventador|Telconet S.A|
+|13|102.213.248.59|8080|Kenya|Nairobi|Optinode Group LLP|
+|14|194.242.57.254|80|Germany|Düsseldorf|Contabo GmbH|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|196.192.76.185|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
