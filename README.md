@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|2|27.79.252.147|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|202.168.69.225|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|9|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
+|4|65.1.244.232|80|India|Mumbai|Amazon.com|
+|5|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|152.26.231.93|9443|United States|Charlotte|MCNC|
 |12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|152.26.229.47|9443|United States|Charlotte|MCNC|
-|16|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|19|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|18|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
