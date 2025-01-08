@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|3|171.243.253.44|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|131.255.56.169|9292|Brazil|Tupã|Link Brasil Telecomunicacoes Ltda|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|152.26.229.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|110.168.213.65|8213|Thailand|Bangkok|TRUENET|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|6|116.98.65.36|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|91.191.173.135|61111|Turkey|Işıkkent|Netdirekt A.S. Izmir|
+|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|103.242.104.47|7777|Indonesia|Mranggen|PT Lintas Jaringan Nusantara|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
 
 
 
