@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|167.71.222.91|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.130.131.83|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|116.107.124.98|10077|Vietnam|Hanoi|Viettel Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|27.131.250.210|8080|Indonesia|Jakarta|SpaceX Starlink|
-|13|37.27.180.39|8082|Finland|Helsinki|Hetzner Online GmbH|
-|14|42.96.16.71|3128|Vietnam|Hanoi|HOALAC-VNNIC|
-|15|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
-|16|103.189.96.240|8080|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
-|17|103.159.195.193|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|167.71.222.91|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|7|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|124.121.58.55|8080|Thailand|Bangkok|TRUEBB|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|14|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|103.36.8.37|8080|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|18|27.79.216.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
