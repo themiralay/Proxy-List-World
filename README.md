@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|7|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|122.222.186.86|8080|Japan|Nakano|ARTERIA Networks Corporation|
-|10|82.118.225.151|8080|Bulgaria|Sofia|BGO Cloud OOD|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|38.97.215.145|8080|United States|Denver|Cogent Communications|
-|17|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|71.136.71.109|3128|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|20|180.112.180.171|8089|China|Nanjing|Chinanet|
+|6|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|119.235.220.194|3128|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|10|181.204.81.178|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|11|103.171.255.58|8080|Indonesia|Sleman|ZKI|
+|12|181.12.169.91|11201|Argentina|Guaraní|Telecom Argentina S.A|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
