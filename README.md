@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|200.92.212.90|999|Mexico|Puebla City|Mega Cable, S.A. de C.V.|
+|3|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |7|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|18|218.145.131.182|443|South Korea|Gangnam-gu|Korea Telecom|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|49.48.138.209|8080|Thailand|Kalasin|Triple T Broadband Public Company Limited|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
+|20|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
