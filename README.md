@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|3|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
-|4|65.1.244.232|80|India|Mumbai|Amazon.com|
-|5|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|65.1.244.232|80|India|Mumbai|Amazon.com|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|9|45.189.118.195|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|152.26.229.47|9443|United States|Charlotte|MCNC|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|121.232.181.175|8089|China|Nanjing|Chinanet|
-|16|180.107.218.33|8089|China|Nanjing|China Telecom|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|20|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
+|7|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|152.26.229.93|9443|United States|Charlotte|MCNC|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|152.26.231.93|9443|United States|Charlotte|MCNC|
+|15|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|17|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
