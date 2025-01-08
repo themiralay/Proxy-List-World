@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
-|5|61.7.191.243|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|6|194.195.124.250|3128|Australia|Sydney|Akamai Technologies, Inc.|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.147.246.78|8080|Indonesia|Tangerang|PLBNET|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|175.103.40.102|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
-|14|157.20.100.26|1111|Indonesia|Baekrajan|PT Muria Global Network|
-|15|223.25.110.205|7777|Indonesia|Surabaya|SinergiNet|
-|16|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|17|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|18|124.217.6.179|8081|Philippines|Argao|Philippine Long Distance Telephone Co.|
-|19|38.41.4.138|999|Venezuela|Charallave|MDS TELECOM C.A.|
-|20|20.222.243.172|9400|Japan|Tokyo|Microsoft Corporation|
+|3|113.192.31.89|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|43.229.127.26|8080|Bhutan|Thimphu|NANO|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|27.79.192.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|113.53.60.232|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|77.37.244.119|8080|Russia|Moscow|NCNET|
+|13|45.174.79.65|999|Mexico|Delicias|Raul Duarte Urita|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|16|103.124.139.197|2024|Indonesia|Bandung|Global Media Data Prima|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V.|
+|19|152.26.229.34|9443|United States|Charlotte|MCNC|
+|20|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
 
 
 
