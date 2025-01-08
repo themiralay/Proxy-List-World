@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|168.149.26.34|8080|Saudi Arabia|Jeddah|Saudi Telecom Company JSC|
-|10|27.79.156.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|103.124.137.230|8080|Indonesia|Bandung|Global Media Data Prima|
-|14|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.228.243.189|8080|Indonesia|Jakarta|SpaceX Starlink|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|38.172.130.50|999|Peru|Lima|Conex TV E.I.R.L.|
+|7|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|103.155.116.247|1080|Indonesia|Serang|IOSYS|
+|10|203.111.253.130|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|11|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|12|27.79.168.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
 |15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|45.161.161.216|5566|Brazil|Patos de Minas|Maykon Leonel Silvano-ME|
-|17|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|38.172.130.50|999|Peru|Lima|Conex TV E.I.R.L.|
+|18|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
