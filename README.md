@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|65.1.244.232|80|India|Mumbai|Amazon.com|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|203.192.199.158|53|India|Pune|Entire In2Cable|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|152.26.229.34|9443|United States|Charlotte|MCNC|
-|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|61.160.247.69|9999|China|Nanjing|China Telecom|
-|20|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|103.191.218.211|1111|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|3|65.1.244.232|3128|India|Mumbai|Amazon.com|
+|4|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|219.65.42.161|80|India|New Delhi|Tata Communications Limited|
+|6|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
+|7|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
+|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|10|103.235.181.130|8080|Indonesia|Jakarta|PT Top Class Universal|
+|11|95.9.89.25|8080|Turkey|Kızıltoprak|TTNet A.S.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
