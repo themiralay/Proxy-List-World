@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|11|152.26.229.93|9443|United States|Charlotte|MCNC|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|72.10.160.170|24869|Canada|Montreal|GloboTech Communications|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|162.249.171.248|4246|United States|New York|PureVoltage Hosting Inc.|
-|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|200.92.212.90|999|Mexico|Puebla City|Mega Cable, S.A. de C.V.|
+|4|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|6|152.26.229.93|9443|United States|Charlotte|MCNC|
+|7|152.26.231.93|9443|United States|Charlotte|MCNC|
+|8|152.26.229.47|9443|United States|Charlotte|MCNC|
+|9|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|10|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|11|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|175.5.60.109|8088|China|Qingyuan|Chinanet|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|17|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|36.93.206.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
