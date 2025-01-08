@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|27.79.192.175|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|201.1.174.168|3128|Brazil|São Paulo|Vivo|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|223.204.48.121|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|27.79.139.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|67.43.227.227|21887|Canada|Montreal|GloboTech Communications|
-|20|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
+|2|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|6|58.136.170.59|8080|Thailand|Bangkok|AIS-Fibre|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|190.14.249.176|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|13|84.255.40.228|8998|Malta|Birkirkara|Melita plc|
+|14|181.209.66.179|1120|Argentina|Esquel|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|16|200.10.31.220|999|Colombia|Pereira|Super Redes S.A.S|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|105.174.40.54|8080|Angola|Luanda|UNITEL SA|
+|19|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|20|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
