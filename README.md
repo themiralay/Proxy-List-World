@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|4|103.162.62.89|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
-|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|6|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|8|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|36.76.103.9|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|12|49.48.90.179|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|10|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|194.195.124.250|3128|Australia|Sydney|Akamai Technologies, Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|17|36.93.4.59|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
 |20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
