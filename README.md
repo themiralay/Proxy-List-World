@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|200.92.212.90|999|Mexico|Puebla City|Mega Cable, S.A. de C.V.|
-|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.156.15.134|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|9|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|11|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|177.136.12.160|55443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|20|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|182.253.38.179|3128|Indonesia|Jakarta|BIZNET|
+|8|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|103.36.11.238|3125|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|162.249.171.248|4246|United States|New York|PureVoltage Hosting Inc.|
 
 
 
