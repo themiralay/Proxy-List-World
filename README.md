@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|197.211.45.4|10000|Nigeria|Lagos|Globacom Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|152.26.229.34|9443|United States|Charlotte|MCNC|
-|10|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|11|119.95.243.211|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|152.26.229.46|9443|United States|Charlotte|MCNC|
-|14|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|15|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.192.199.158|53|India|Pune|Entire In2Cable|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|9|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|10|152.26.229.34|9443|United States|Charlotte|MCNC|
+|11|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
 |17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|181.224.224.166|999|Peru|Lima|Inversiones Telcotel SAC|
-|20|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|19|1.202.174.38|80|China|Beijing|China Networks Inter-Exchange|
+|20|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
 
 
 
