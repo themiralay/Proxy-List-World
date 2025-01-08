@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|202.62.75.17|83|India|Hyderabad|CityOnline Services|
-|8|27.79.249.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|10|177.234.223.29|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|12|38.52.212.113|999|Guatemala|Salcajá|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|15|171.228.159.146|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|16|103.105.126.26|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|65.20.167.44|8080|Iraq|Najaf|Hulum|
+|9|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.245.16.133|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|14|103.59.44.33|8181|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|103.175.46.203|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|16|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
