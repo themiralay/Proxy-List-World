@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|5|113.192.30.249|8999|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|110.78.164.224|8888|Thailand|Pattaya|CAT-BB|
-|8|27.79.192.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|157.66.16.35|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.83.179.148|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|14|193.31.41.19|8080|France|Paris|Regxa Company for Information Technology Ltd|
-|15|179.228.241.22|8080|Brazil|São Paulo|Vivo|
-|16|103.154.90.190|3128|Indonesia|Bogor|MORATELINDONAP|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|160.22.22.159|8080|Indonesia|Ciampea|PT Sarana Digital Network|
-|19|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|3|153.92.214.226|3128|United States|Phoenix|Hostinger International Limited|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|103.122.1.26|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
+|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|7|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|171.228.159.146|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|152.67.8.148|443|India|Mumbai|Oracle Corporation|
+|12|202.154.18.149|8087|Indonesia|Jombang|DIGITNET|
+|13|103.163.103.50|8070|Indonesia|Wonogiri|PT Mamura Inter Media|
+|14|103.220.23.113|1080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|15|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
+|16|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
+|17|103.48.68.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
