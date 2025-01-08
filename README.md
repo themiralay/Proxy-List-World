@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|203.150.128.86|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|9|38.7.23.197|999|Mexico|San Agustín de las Palmas|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|1|203.150.113.87|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|190.2.209.61|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.180.122.105|8080|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|194.242.57.254|80|Germany|Düsseldorf|Contabo GmbH|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|194.5.25.34|3212|Singapore|Singapore|Mod Mission Critical LLC|
+|13|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
 |17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
