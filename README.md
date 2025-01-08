@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|139.177.201.63|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|4|139.177.201.63|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|5|15.228.121.123|6969|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|147.45.170.226|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|31.14.122.28|443|Iran|Tehran|Afranet Co|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|10|103.247.23.65|4317|Indonesia|Cilacap|PT wifian Solution|
-|11|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|12|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
-|20|49.73.4.138|8089|China|Nanjing|China Telecom|
+|8|58.136.96.248|8080|Thailand|Ratchathewi|AIS-Fibre|
+|9|103.234.26.113|8080|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
+|10|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|177.93.45.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
