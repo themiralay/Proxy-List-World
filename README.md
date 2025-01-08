@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4477** proxies at the latest update. Usable proxies are below.
+> Scraper found **4467** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|142|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|356|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|346|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2763|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|115.72.47.63|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|152.26.229.34|9443|United States|Charlotte|MCNC|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|152.26.229.46|9443|United States|Charlotte|MCNC|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|19|91.191.173.135|61111|Turkey|Işıkkent|Netdirekt A.S. Izmir|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|1|115.74.10.2|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|2|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|5|152.26.229.93|9443|United States|Charlotte|MCNC|
+|6|152.26.231.93|9443|United States|Charlotte|MCNC|
+|7|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|8|152.26.229.47|9443|United States|Charlotte|MCNC|
+|9|223.25.110.148|8080|Indonesia|Prapen|SinergiNet|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|14|117.102.66.201|80|Indonesia|Jakarta|BIZNET|
+|15|171.6.109.12|18080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|103.133.61.230|8080|Indonesia|Pekalongan|TLINK|
+|17|201.48.63.91|5151|Brazil|Hortolândia|ALGAR TELECOM S/A|
+|18|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
