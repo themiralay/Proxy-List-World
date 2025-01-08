@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|203.150.113.15|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|203.150.113.15|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|103.245.16.133|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|4|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|5|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|6|124.107.206.181|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
-|11|38.52.212.113|999|Guatemala|Salcajá|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|12|194.233.75.162|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|19|160.22.134.3|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|152.26.229.93|9443|United States|Charlotte|MCNC|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|16|210.79.146.178|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|17|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|18|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
