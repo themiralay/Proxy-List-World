@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|27.79.168.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|116.107.124.98|10073|Vietnam|Hanoi|Viettel Corporation|
 |5|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
-|6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|7|103.159.195.29|8080|Indonesia|Surabaya|PT Giga Digital Nusantara|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
 |9|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|10|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|35.212.74.86|80|United States|Washington|Google LLC|
-|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|11|27.79.247.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|49.48.40.165|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|17|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
 |18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|103.169.138.23|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
 
 
 
