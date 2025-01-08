@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|27.79.168.11|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|152.26.229.47|9443|United States|Charlotte|MCNC|
-|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|11|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|12|152.26.229.46|9443|United States|Charlotte|MCNC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|72.10.160.90|17751|Canada|Montreal|GloboTech Communications|
-|16|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|72.10.160.170|21235|Canada|Montreal|GloboTech Communications|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|5|115.72.47.63|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|7|200.0.228.26|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|8|38.172.130.51|999|Peru|Lima|Conex TV E.I.R.L.|
+|9|103.228.119.154|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.168.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
