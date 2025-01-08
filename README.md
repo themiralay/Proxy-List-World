@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.75.84.72|8080|Indonesia|Central Java|MEGADATA|
-|6|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|95.174.102.131|53281|Russia|Taganrog|our short network|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.245.159.52|8080|Indonesia|Jakarta|PDWNet|
-|14|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|15|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|16|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|17|27.79.177.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|171.6.109.12|18080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|10|71.14.23.121|8080|United States|Springville|Spectrum|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|38.159.227.138|999|Dominican Republic|Tábara Arriba|TELECABLE DOMINICANO, S.A.|
+|13|103.82.126.34|1111|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|152.26.231.93|9443|United States|Charlotte|MCNC|
+|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|67.43.228.250|17483|Canada|Montreal|GloboTech Communications|
+|20|180.130.116.186|8080|China|Dali|China Unicom Yunnan Province Network|
 
 
 
