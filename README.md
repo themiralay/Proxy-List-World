@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
-|5|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|203.150.128.7|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|11|165.255.22.244|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|14|102.0.16.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|185.82.98.73|99|Lebanon|Beirut|Protected|
-|17|27.147.142.17|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|185.130.44.177|8080|Sweden|Stockholm|Privex Inc.|
-|19|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|20|175.158.57.136|7788|Indonesia|Jakarta|CBNNAP|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|41.111.243.133|80|Algeria|Ouled Moussa|Algerie Telecom|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
