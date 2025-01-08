@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|5|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|6|103.162.54.117|2233|Indonesia|Subang|PT Pratama Asia Globalindo|
-|7|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|8|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
-|9|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|10|27.79.192.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|15|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|203.192.199.158|53|India|Pune|Entire In2Cable|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|152.67.8.148|443|India|Mumbai|Oracle Corporation|
+|6|210.201.86.72|8080|Taiwan|Yingge District|Asia Pacific On-line Service Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|9|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|10|191.37.33.38|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|11|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.48.68.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|60.53.133.218|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|16|116.254.98.184|8080|Indonesia|Jakarta|SpaceX Starlink|
+|17|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|18|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|19|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|38.45.45.60|999|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
 
 
 
