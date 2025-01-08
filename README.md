@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4740** proxies at the latest update. Usable proxies are below.
+> Scraper found **4732** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|172|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|491|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|483|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2688|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.191.218.211|1111|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|3|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|4|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|219.65.42.161|80|India|New Delhi|Tata Communications Limited|
-|6|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
-|7|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
-|8|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|9|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|10|103.235.181.130|8080|Indonesia|Jakarta|PT Top Class Universal|
-|11|95.9.89.25|8080|Turkey|Kızıltoprak|TTNet A.S.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|19|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|5|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|6|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|7|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
+|8|95.9.89.25|8080|Turkey|Kızıltoprak|TTNet A.S.|
+|9|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|10|170.249.211.10|8080|United States|Atlanta|PrivateSystems Networks|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|207.230.8.74|999|Colombia|Bogotá|Cogent Communications|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
 
 
 
