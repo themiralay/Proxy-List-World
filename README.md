@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|5|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|152.26.229.34|9443|United States|Charlotte|MCNC|
+|11|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|103.18.77.29|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|205.185.122.157|50806|United States|Las Vegas|FranTech Solutions|
+|18|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+
 
 
 ## Contributing
