@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|49.156.20.122|8082|Indonesia|Central Java|PT Palapa Global Nusantara|
-|6|152.26.231.93|9443|United States|Charlotte|MCNC|
-|7|152.26.229.46|9443|United States|Charlotte|MCNC|
-|8|27.189.129.170|8089|China|Langfang|Chinanet|
-|9|27.79.247.114|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|72.10.160.91|22005|Canada|Montreal|GloboTech Communications|
-|14|24.152.58.132|999|Colombia|San Gil|Calltopbx S.A.S.|
-|15|67.43.227.228|22009|Canada|Montreal|GloboTech Communications|
-|16|103.247.23.213|1111|Indonesia|Baturaden|PT wifian Solution|
-|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|18|72.10.164.178|17875|Canada|Montreal|GloboTech Communications|
-|19|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|20|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|152.26.231.93|9443|United States|Charlotte|MCNC|
+|5|152.26.229.46|9443|United States|Charlotte|MCNC|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|8|152.26.229.34|9443|United States|Charlotte|MCNC|
+|9|103.187.162.75|8085|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|11|103.181.255.231|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|12|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|14|103.175.202.182|8090|Indonesia|Batulicin|PT Ameera Mega Buana|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|203.150.113.112|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
