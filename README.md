@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|4|103.154.230.92|8080|Indonesia|Lamongan|DIGITNET|
-|5|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|152.26.229.34|9443|United States|Charlotte|MCNC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|119.95.243.211|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|13|171.248.202.249|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|5|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|41.33.203.227|1976|Egypt|Cairo|TE Data|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
 |14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|20.222.243.172|443|Japan|Tokyo|Microsoft Corporation|
-|18|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|103.171.182.108|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|171.248.202.249|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|20|103.180.122.81|7777|Indonesia|Kroya|PT Indo Telemedia Solusi|
 
 
 
