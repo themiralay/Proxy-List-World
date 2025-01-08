@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
-|4|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|12|122.3.77.27|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|8|103.189.249.141|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|170.205.31.41|10003|United States|Los Angeles|Advin Services LLC|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|24.172.82.94|53281|United States|Winston-Salem|Spectrum|
+|16|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
