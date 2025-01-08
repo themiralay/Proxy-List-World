@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|8|203.192.199.158|53|India|Pune|Entire In2Cable|
-|9|152.26.229.34|9443|United States|Charlotte|MCNC|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|152.26.229.46|9443|United States|Charlotte|MCNC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|61.247.185.50|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|19|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|20|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
