@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|27.79.192.175|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|103.41.34.185|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|103.88.239.38|82|India|Hyderabad|Mana Communications|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|223.206.48.159|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|27.79.251.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.192.175|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|5|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|6|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.247.21.104|8080|Indonesia|Bekasi|PT wifian Solution|
+|11|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|12|103.44.19.225|34340|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|13|171.228.159.146|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|14|171.248.202.249|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
 |16|179.52.111.250|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|20|180.130.116.186|8080|China|Dali|China Unicom Yunnan Province Network|
+|17|104.248.51.135|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|104.248.51.135|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
