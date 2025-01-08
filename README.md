@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|103.180.122.60|8091|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|182.78.42.112|83|India|Manchikalapādu|Bharti Airtel|
-|9|223.204.48.121|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|27.79.168.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
-|15|154.73.28.241|8080|Libya|Tripoli|Rawafed|
-|16|190.120.251.17|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
-|17|165.255.57.9|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|185.130.44.177|8080|Sweden|Stockholm|Privex Inc.|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.150.128.7|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.203.234.24|8090|Indonesia|Ungaran|PT Nesta Indo Media|
+|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|188.132.150.36|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|10|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|11|103.126.87.112|3030|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|12|114.130.39.169|8080|Bangladesh|Mīrpur|Mango DHK|
+|13|190.120.251.17|8989|Venezuela|Barinas|CORPORACION FIBEX TELECOM, C.A.|
+|14|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|152.26.231.93|9443|United States|Charlotte|MCNC|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
