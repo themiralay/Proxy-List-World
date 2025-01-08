@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.75.84.32|8045|Indonesia|Central Java|MEGADATA|
-|4|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|5|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|24.152.58.195|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|8|103.148.44.99|8080|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
-|9|77.237.236.247|80|Germany|Düsseldorf|Contabo GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|139.162.147.122|80|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|12|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.180.122.81|7777|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|15|103.151.246.18|7777|Indonesia|Bogor|MANAKARRANET|
-|16|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|171.243.12.4|9017|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|8|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|42.113.88.61|8080|Vietnam|Hanoi|FPT Telecom Company|
+|11|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|15|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|20|179.49.117.19|999|Honduras|Tegucigalpa|Asociacion De Servicio De Internet S. De RL.|
 
 
 
