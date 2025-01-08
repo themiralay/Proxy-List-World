@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|115.72.47.63|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|152.26.229.34|9443|United States|Charlotte|MCNC|
-|7|152.26.229.93|9443|United States|Charlotte|MCNC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|152.26.229.46|9443|United States|Charlotte|MCNC|
-|12|171.224.68.92|10081|Vietnam|Hanoi|Viettel Corporation|
-|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|17|67.43.236.19|10327|Canada|Montreal|GloboTech Communications|
-|18|61.160.247.69|9999|China|Nanjing|China Telecom|
-|19|67.43.228.250|13155|Canada|Montreal|GloboTech Communications|
-|20|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|115.72.47.63|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|152.26.229.93|9443|United States|Charlotte|MCNC|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|91.191.173.135|61111|Turkey|Işıkkent|Netdirekt A.S. Izmir|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
