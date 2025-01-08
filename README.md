@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|82.197.68.166|80|Singapore|Singapore|Contabo Asia Private Limited|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|157.20.244.38|1111|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|6|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
-|7|194.242.57.254|80|Germany|Düsseldorf|Contabo GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
-|10|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|11|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
+|5|103.179.216.46|8080|Indonesia|Surabaya|PT Lintas Data Multimedia|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|181.198.115.179|999|Ecuador|El Reventador|Telconet S.A|
+|8|103.59.44.213|8083|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|15|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |18|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
