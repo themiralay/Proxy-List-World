@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|9|103.210.162.50|3128|China|Guangzhou|CDS Global Cloud Co., Ltd|
-|10|38.156.74.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|13|156.235.28.118|3128|United States|Ashburn|Cloud Innovation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|16|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
-|17|102.0.9.114|8080|Kenya|Naivasha|Airtel KE Mobile & Fixed Internet|
-|18|117.1.102.87|10024|Vietnam|Hanoi|Viettel Corporation|
-|19|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|20|27.72.224.152|10012|Vietnam|Hanoi|Newass2011xDSLHN|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|45.151.70.164|8080|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|3|1.20.250.145|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
+|4|103.220.23.177|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|11|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|12|38.156.74.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|16|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
