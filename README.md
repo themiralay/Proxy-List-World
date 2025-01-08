@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|36.72.247.224|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.140.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|101.108.193.131|8080|Thailand|Pak Kret|TOT Public Company Limited|
-|9|27.79.254.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|11|103.171.182.108|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|16|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|17|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|36.90.175.134|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|36.72.247.224|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
+|6|36.90.175.134|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|7|124.217.106.37|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|10|157.20.238.247|8080|Indonesia|Buduran|PT Era Network Indonesia|
+|11|65.20.189.104|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|203.150.128.218|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|103.147.247.189|8080|Indonesia|Tangerang|PLBNET|
+|15|94.79.152.14|80|Germany|Hürth|Vodafone|
+|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|27.79.245.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.72.224.152|10015|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
 
 
 
