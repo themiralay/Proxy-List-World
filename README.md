@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|35.200.0.214|80|Japan|Tokyo|Google LLC|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|212.34.152.157|40888|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|27.79.247.130|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|152.26.229.47|9443|United States|Charlotte|MCNC|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|17|80.240.55.244|3128|Russia|Yeysk|inetnum UGTEL|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.174|8493|Canada|Montreal|GloboTech Communications|
-|20|49.73.4.172|8089|China|Nanjing|China Telecom|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|7|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|8|27.79.247.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|11|152.26.229.47|9443|United States|Charlotte|MCNC|
+|12|152.26.229.34|9443|United States|Charlotte|MCNC|
+|13|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|14|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|15|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
