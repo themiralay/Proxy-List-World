@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
-|7|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
-|8|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|9|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|45.128.232.104|8123|The Netherlands|Drenthe|Individual Entrepreneur Anton Levin|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|31.14.122.28|443|Iran|Tehran|Afranet Co|
+|7|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.143.105.138|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|152.26.229.34|9443|United States|Charlotte|MCNC|
-|14|152.26.229.46|9443|United States|Charlotte|MCNC|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
