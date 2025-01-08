@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.25.108.218|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|209.14.119.209|999|Colombia|Bogotá|AGIS|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.214.9.97|3128|Vietnam|Thanh Xuân|MEGACORE|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|6|103.210.162.50|3128|China|Guangzhou|CDS Global Cloud Co., Ltd|
 |7|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|8|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|18.135.133.116|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|17|72.10.160.171|1449|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|27.79.205.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|185.192.124.208|8888|Brazil|São Paulo|ONEPROVIDER|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.171.245.154|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|17|181.204.81.178|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|18|146.196.41.27|8085|Indonesia|Karawang|UNINA|
+|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|20|190.120.252.81|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
 
 
 
