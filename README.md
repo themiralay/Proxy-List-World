@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|152.26.229.34|9443|United States|Charlotte|MCNC|
-|8|152.26.229.93|9443|United States|Charlotte|MCNC|
-|9|152.26.229.46|9443|United States|Charlotte|MCNC|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|12|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|185.142.131.113|8080|Portugal|Montijo|LigaT Telecom Sociedade Unipessoal LDA|
-|16|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
-|17|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|18|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|19|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|152.26.229.34|9443|United States|Charlotte|MCNC|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|152.26.229.93|9443|United States|Charlotte|MCNC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|109.199.110.115|80|Germany|Düsseldorf|Contabo GmbH|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|17|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|103.122.1.34|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
 
 
 
