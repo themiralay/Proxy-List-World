@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|203.150.113.56|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|171.99.252.63|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
-|8|115.72.36.157|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|12|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|13|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|16|103.109.59.179|9080|Bangladesh|Lākshām|HelloTech Limited|
-|17|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|181.209.72.174|999|Argentina|Empedrado|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|10|188.125.169.239|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|181.209.82.198|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
