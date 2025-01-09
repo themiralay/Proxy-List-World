@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|4|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|8|72.10.160.90|14253|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.93|9443|United States|Charlotte|MCNC|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|13|152.26.229.46|9443|United States|Charlotte|MCNC|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.236.18|26899|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|23499|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|19|67.43.236.20|18741|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|27815|Canada|Montreal|GloboTech Communications|
+|1|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|8|101.108.173.227|8080|Thailand|Sam Phran|TOT Public Company Limited|
+|9|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|10|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|11|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|18|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
+|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 
