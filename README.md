@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|181.174.228.178|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|152.26.229.46|9443|United States|Charlotte|MCNC|
-|7|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|152.26.229.34|9443|United States|Charlotte|MCNC|
-|9|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|10|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.172.23.86|1111|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|152.26.229.46|9443|United States|Charlotte|MCNC|
+|8|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|9|152.26.229.34|9443|United States|Charlotte|MCNC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|16|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|17|180.105.38.90|1080|China|Nanjing|Chinanet|
-|18|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|19|67.43.227.229|11971|Canada|Montreal|GloboTech Communications|
-|20|185.180.130.32|3128|Iran|Isfahan|Azarakhsh Ava-e Ahvaz Co|
+|13|181.78.216.90|999|Paraguay|San Pedro de Ycuamandiyú|Ufinet Paraguay S.A|
+|14|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|15|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|16|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|72.10.160.170|2885|Canada|Montreal|GloboTech Communications|
 
 
 
