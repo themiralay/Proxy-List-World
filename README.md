@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|4|103.126.173.47|8080|Indonesia|Bandar Lampung|MEGARAP|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|27.189.130.182|8089|China|Langfang|Chinanet|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|72.10.160.90|8265|Canada|Montreal|GloboTech Communications|
-|14|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|15|72.10.160.173|2321|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|29187|Canada|Montreal|GloboTech Communications|
-|17|114.223.54.36|8089|China|Wuxi|Chinanet|
-|18|67.43.228.250|31285|Canada|Montreal|GloboTech Communications|
-|19|27.189.129.200|8089|China|Langfang|Chinanet|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|65.1.244.232|80|India|Mumbai|Amazon.com|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|152.26.229.93|9443|United States|Charlotte|MCNC|
+|9|152.26.229.34|9443|United States|Charlotte|MCNC|
+|10|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|12|67.43.228.251|3199|Canada|Montreal|GloboTech Communications|
+|13|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
