@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
-|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|122.53.59.191|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|116.98.65.36|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|12|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|14|27.79.197.55|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|16|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|17|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|110.137.24.126|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|7|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|8|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|11|45.187.105.197|8080|Brazil|Bertópolis|GPR NET COMUNICACOES EIRELI|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|103.243.177.90|8080|Indonesia|Kuningan Barat|Universitas Katolik Soegijapranata|
+|17|165.255.22.247|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|18|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
