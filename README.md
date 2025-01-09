@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|7|89.237.32.65|37647|Russia|Novotroitsk|multi-origin SUTTK|
-|8|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|6|115.72.6.171|10026|Vietnam|Vũng Tàu|VIETELmetro|
+|7|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
 |9|103.190.171.213|8181|Indonesia|Jakarta|WMS|
-|10|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|67.43.236.19|17479|Canada|Montreal|GloboTech Communications|
+|10|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|157.20.244.189|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|14|38.244.24.197|20000|United States|Los Angeles|Cogent Communications|
-|15|27.79.249.102|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|17|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|18|190.22.118.157|8080|Chile|Santiago|TELEFÓNICA CHILE S.A.|
-|19|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|20|47.238.82.157|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|38.244.24.197|20000|United States|Los Angeles|Cogent Communications|
+|14|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|18|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
