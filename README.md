@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5062** proxies at the latest update. Usable proxies are below.
+> Scraper found **5038** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|190|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2822|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2837|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|6|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|7|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|8|182.52.137.31|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|124.121.2.248|8080|Thailand|Bangkok|TRUEBB|
+|4|115.74.0.93|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|5|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.238.82.157|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|203.150.128.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
-|14|122.53.247.189|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|8.217.126.3|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|18|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|13|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|14|203.150.128.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|16|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|20|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
 
 
 
