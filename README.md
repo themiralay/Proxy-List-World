@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
-|8|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|11|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|123.24.24.37|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
-|20|103.180.119.82|8181|Indonesia|Sidomukti|PT Persada Data Multimedia|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
+|3|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|4|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|11|163.47.39.126|8080|Bangladesh|Jamālpur|Bangladesh Research and Education Network (BdREN)|
+|12|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
+|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|20|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
 
 
 
