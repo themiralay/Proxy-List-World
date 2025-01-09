@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4562** proxies at the latest update. Usable proxies are below.
+> Scraper found **4614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|178|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2704|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|2|1.0.170.50|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|7|152.26.229.46|9443|United States|Charlotte|MCNC|
-|8|152.26.229.47|9443|United States|Charlotte|MCNC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
-|14|185.180.130.32|3128|Iran|Isfahan|Azarakhsh Ava-e Ahvaz Co|
-|15|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|16|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|19|152.26.229.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
+|4|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
+|5|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|191.102.68.178|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
+|18|36.68.33.194|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
