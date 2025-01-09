@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
-|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|5|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
-|6|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|7|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|51.178.166.17|5556|France|Roubaix|OVH SAS|
-|10|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|116.98.65.36|10000|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|15|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
+|5|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|7|47.237.13.153|10909|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|51.178.166.17|5556|France|Roubaix|OVH SAS|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|14|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|15|27.79.197.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|27.79.185.132|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
