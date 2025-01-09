@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|9|65.1.244.232|80|India|Mumbai|Amazon.com|
-|10|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|103.180.122.116|9090|Indonesia|Kroya|PT Indo Telemedia Solusi|
+|7|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|12|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|13|171.7.84.94|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|90.156.194.75|8026|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
+|13|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|14|45.236.112.9|60399|Brazil|Salvador|Valeria NET Provedor Internet Ltda|
+|15|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|16|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|17|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
 |18|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|19|115.248.66.131|3129|India|Faridabad|Reliance Communications Limited|
-|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
