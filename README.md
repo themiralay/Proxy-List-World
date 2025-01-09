@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|124.121.2.248|8080|Thailand|Bangkok|TRUEBB|
-|4|115.74.0.93|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|5|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|10|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|31.135.214.29|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
-|13|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
-|14|203.150.128.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|16|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|103.148.131.106|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|4|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|5|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|6|51.178.166.17|5556|France|Roubaix|OVH SAS|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.147.144.42|96|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|61.160.247.69|9999|China|Nanjing|China Telecom|
 
 
 
