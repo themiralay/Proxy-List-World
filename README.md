@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|9|72.10.160.90|25991|Canada|Montreal|GloboTech Communications|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|152.26.229.34|9443|United States|Charlotte|MCNC|
-|12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|152.26.229.93|9443|United States|Charlotte|MCNC|
-|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|157.66.85.76|8008|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|223.25.110.225|1080|Indonesia|Prapen|SinergiNet|
+|6|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|7|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|122.185.180.190|32650|India|Barpeta|Bharti Airtel Limited|
+|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|14|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|15|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|16|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
+|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
