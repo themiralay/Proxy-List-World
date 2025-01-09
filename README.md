@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|47.237.13.153|10909|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|3|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|103.154.77.75|89|Indonesia|Sleman|T2NET|
 |7|203.150.113.56|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|65.109.184.166|800|Finland|Helsinki|Hetzner Online GmbH|
-|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|14|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|17|27.79.197.55|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|20|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|15|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|16|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.76.201.126|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|20|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
