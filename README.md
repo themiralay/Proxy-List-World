@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|157.10.97.189|3125|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
-|7|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|84.244.119.36|23500|Czechia|Vlašim|BlueTone-CRa|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|110.44.126.27|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|14|23.27.211.35|10001|United States|Heber|Ace Data Centers II|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|47.88.18.204|8023|United States|San Jose|Alibaba (US) Technology Co., Ltd.|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|18|119.47.90.228|3127|Indonesia|Duri Pulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|180.180.119.202|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
+|2|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|3|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|36.77.212.52|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|8|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|189.203.181.34|8080|Mexico|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|
+|10|200.24.146.93|999|Ecuador|Huaquillas|Ufinet Panama S.A.|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|14|149.86.144.216|8080|Turkey|Kışlak|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|103.153.191.9|8085|Indonesia|Malang|WANET|
+|17|180.180.119.202|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
