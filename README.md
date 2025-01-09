@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
-|8|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|13|103.110.10.132|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|14|72.10.160.170|18813|Canada|Montreal|GloboTech Communications|
-|15|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
-|20|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|10|152.26.229.93|9443|United States|Charlotte|MCNC|
+|11|152.26.231.93|9443|United States|Charlotte|MCNC|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|168.181.87.49|8080|Brazil|Sobral|M. R. MELO ALEXANDRINO|
+|15|157.100.63.129|80|Ecuador|Cuenca|Ufinet Panama S.A.|
+|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|18|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|1.32.48.69|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
 
 
 
