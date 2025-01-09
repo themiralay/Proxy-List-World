@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
-|4|172.233.161.167|80|United States|Miami|Akamai Technologies, Inc.|
-|5|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|152.26.229.47|9443|United States|Charlotte|MCNC|
-|14|152.26.229.46|9443|United States|Charlotte|MCNC|
-|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|191.102.68.178|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
-|18|36.68.33.194|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|36.88.170.170|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|103.166.158.107|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|102.0.16.124|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|8|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|9|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|11|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|152.26.229.46|9443|United States|Charlotte|MCNC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|185.133.249.137|8888|Germany|Karlsruhe|Contabo GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|202.152.24.50|8080|Indonesia|Kampung Melayu|PT Aplikanusa Lintasarta|
+|18|179.107.85.2|8180|Brazil|Belém|Pelc Servicos De Informatica|
+|19|45.61.161.46|10001|Germany|Nuremberg|Advin Services LLC|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
