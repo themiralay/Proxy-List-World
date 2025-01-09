@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|5|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|14|152.26.231.93|9443|United States|Charlotte|MCNC|
-|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|16|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|17|72.10.160.170|4887|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.164.178|10171|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|3|14.192.195.45|443|Malaysia|Petaling Jaya|Maxis Broadband Sdn Bhd|
+|4|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|8|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|10|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|152.26.231.93|9443|United States|Charlotte|MCNC|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|19|190.60.38.198|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
