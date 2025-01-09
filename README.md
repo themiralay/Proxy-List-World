@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|1|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
 |6|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|14|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|10|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|11|38.52.220.171|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 |16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
