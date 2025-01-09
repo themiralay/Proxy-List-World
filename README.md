@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|4|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|5|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|181.119.67.130|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|18|111.132.17.113|3389|China|Beijing|China TieTong Telecommunications Corporation|
-|19|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|7|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|14|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|109.201.13.187|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|19|103.106.231.188|42453|Australia|Sydney|BrainStorm Network|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
