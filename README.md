@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|180.254.149.102|8080|Indonesia|Lhokseumawe|PT. TELKOM INDONESIA|
-|10|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
-|11|118.172.63.45|8080|Thailand|Sai Yok|TOT Public Company Limited|
-|12|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|16|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|104.37.102.45|8282|United States|Attica|ALTIUS Broadband|
-|18|177.242.147.110|3030|Mexico|Natívitas|Mega Cable, S.A. de C.V.|
-|19|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|10|178.212.53.26|41258|Poland|Wawrów|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|103.166.32.226|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
