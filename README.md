@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|2|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|49.49.188.195|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|8|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|9|113.192.3.42|8050|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
-|15|202.89.106.150|8080|India|Madhapur|VALUELABS|
-|16|65.1.244.232|80|India|Mumbai|Amazon.com|
-|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|18|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|7|202.150.151.138|4995|Indonesia|Bandung|PT Comtronics Systems|
+|8|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|9|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|95.246.149.124|8080|Italy|Naples|Telecom Italia S.p.A., Alice - Smart, Services|
+|14|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
