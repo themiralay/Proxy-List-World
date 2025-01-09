@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|67.43.227.226|25237|Canada|Montreal|GloboTech Communications|
-|9|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|114.218.77.208|8089|China|Nanjing|China Telecom|
-|15|103.169.39.66|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|8|103.129.200.2|8124|Bangladesh|Tongi|Weblink Communications Ltd|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|12|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|16|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
 |20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
