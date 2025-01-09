@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|5|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |6|98.8.195.160|443|United States|Orlando|Spectrum|
-|7|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|10|49.146.53.63|8080|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
-|11|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Provider|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
+|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|10|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|11|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|152.26.231.93|9443|United States|Charlotte|MCNC|
+|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|19|152.26.229.34|9443|United States|Charlotte|MCNC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
