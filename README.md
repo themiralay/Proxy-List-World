@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|15.207.35.241|3128|India|Mumbai|Amazon Technologies Inc.|
-|4|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.126.87.120|8082|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|152.26.229.46|9443|United States|Charlotte|MCNC|
-|12|72.10.160.93|1157|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|72.10.160.93|1157|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|28947|Canada|Montreal|GloboTech Communications|
-|16|58.208.159.213|8089|China|Nanjing|China Telecom|
-|17|67.43.236.22|2211|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|19597|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|20|72.10.164.178|1431|Canada|Montreal|GloboTech Communications|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.235.152.170|57413|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|152.26.229.93|9443|United States|Charlotte|MCNC|
+|9|152.26.229.46|9443|United States|Charlotte|MCNC|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|152.26.231.93|9443|United States|Charlotte|MCNC|
+|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
