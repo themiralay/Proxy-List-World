@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|3|190.97.236.44|2023|Venezuela|Maporal|Viginet C.A|
-|4|51.178.166.17|5556|France|Roubaix|OVH SAS|
-|5|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|49.147.48.15|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|12|45.177.16.131|999|Paraguay|Ciudad del Este|MSW S.A.|
-|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|18|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|103.157.59.239|8090|Indonesia|Bandung|PT. Eka Mas Republik|
+|3|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.177.16.131|999|Paraguay|Ciudad del Este|MSW S.A.|
+|9|51.178.166.17|5556|France|Roubaix|OVH SAS|
+|10|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|11|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|12|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|13|103.184.54.64|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|187.49.83.165|8286|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|17|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
