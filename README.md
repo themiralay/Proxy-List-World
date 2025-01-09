@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|152.26.229.46|9443|United States|Charlotte|MCNC|
-|6|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|152.26.229.93|9443|United States|Charlotte|MCNC|
-|9|182.253.159.210|8080|Indonesia|Jakarta|BIZNET|
-|10|125.25.33.213|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|12|67.43.227.227|31451|Canada|Montreal|GloboTech Communications|
-|13|27.189.129.201|8089|China|Langfang|Chinanet|
-|14|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|121.227.146.88|8089|China|Nanjing|China Telecom|
-|16|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|17|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|20|67.43.227.228|28889|Canada|Montreal|GloboTech Communications|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|7|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|152.26.229.46|9443|United States|Charlotte|MCNC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
+|12|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|185.73.103.23|3128|Czechia|Ostrov|ISP Alliance a.s.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|80.78.65.230|8080|Albania|Tirana|ABCom|
 
 
 
