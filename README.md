@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4394** proxies at the latest update. Usable proxies are below.
+> Scraper found **4514** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|328|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|244|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2710|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2687|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|209.14.115.33|999|Colombia|Neiva|AGIS|
-|7|79.106.108.150|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
-|8|36.68.33.194|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|9|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|36.89.212.252|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|27.79.174.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|103.91.62.37|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|20|72.10.160.174|4491|Canada|Montreal|GloboTech Communications|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|3|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|203.150.113.213|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|11|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
