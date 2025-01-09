@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|184.82.55.109|8080|Thailand|Khon Kaen|AIS-Fibre|
-|5|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|6|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|8|149.86.146.222|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|9|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|103.172.71.140|8080|Indonesia|Bandung|AZNET|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|91.202.72.105|8080|Ukraine|Kyiv|Main Gigatrans Infrastructure|
-|16|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|19|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|20|72.10.160.170|22817|Canada|Montreal|GloboTech Communications|
+|1|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|4|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|6|76.50.80.32|8182|United States|Tarzana|Spectrum|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
+|9|152.26.229.47|9443|United States|Charlotte|MCNC|
+|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|13|152.26.229.46|9443|United States|Charlotte|MCNC|
+|14|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|15|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|20|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 
 
 
