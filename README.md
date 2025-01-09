@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|121.101.134.214|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|5|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|11|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|6|45.184.103.118|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
 |12|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|61.160.247.69|9999|China|Nanjing|China Telecom|
-|17|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
-|19|152.26.229.46|9443|United States|Charlotte|MCNC|
-|20|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|18|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|19|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
