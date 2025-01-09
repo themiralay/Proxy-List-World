@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|2|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|3|47.237.13.153|10909|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|51.178.166.17|5556|France|Roubaix|OVH SAS|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.169.41.243|8080|Indonesia|Mata Ie|Telnet Indonesia|
+|1|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|47.237.13.153|10909|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|7|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|8|49.12.231.21|5556|Germany|Nuremberg|Hetzner Online GmbH|
+|9|37.230.93.51|8060|Spain|Gerena|Servihosting|
+|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
 |12|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|17|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|20|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|47.237.13.153|10909|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
