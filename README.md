@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.110.34.144|8089|Indonesia|Jagong|PT RECONET SEMESTA INDONESIA|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|152.26.229.47|9443|United States|Charlotte|MCNC|
-|16|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|17|36.93.206.35|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|5|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|8|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|9|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|14|190.211.172.178|999|Chile|San Fernando|InterNexa Global Network|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|17|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|18|206.42.28.150|8800|Brazil|Mossoró|Brisanet Prestacao De Servicos De Internet Ltda|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
