@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|4|116.107.116.51|10070|Vietnam|Hanoi|Viettel Corporation|
-|5|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|65.109.184.166|800|Finland|Helsinki|Hetzner Online GmbH|
-|8|45.150.33.80|55554|The Netherlands|Amsterdam|Aeza International LTD|
-|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|10|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|11|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|12|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|203.175.102.22|8082|Indonesia|Sukasari|PT. Mitra Kita Brilian|
-|14|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|27.79.254.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|45.149.235.208|444|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|5|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|6|27.79.174.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|45.150.33.80|55554|The Netherlands|Amsterdam|Aeza International LTD|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|1.20.207.32|8180|Thailand|Bangkok|TOT Public Company Limited|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|42.115.148.174|20009|Vietnam|Hanoi|FPT Telecom Company|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
