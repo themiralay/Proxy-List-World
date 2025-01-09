@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.106.231.188|42116|Australia|Sydney|BrainStorm Network|
-|8|124.122.1.139|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|102.164.201.132|59142|South Africa|Potchefstroom|Jenny Internet cc|
-|12|103.163.231.106|3127|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|4|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|102.164.201.132|59142|South Africa|Potchefstroom|Jenny Internet cc|
+|7|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|10|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|17|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
