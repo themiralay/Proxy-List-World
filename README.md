@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|101.108.173.227|8080|Thailand|Sam Phran|TOT Public Company Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|152.26.231.93|9443|United States|Charlotte|MCNC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|171.228.130.205|49916|Vietnam|Vĩnh Tường|Viettel Corporation|
+|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|5|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
+|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|152.26.229.34|9443|United States|Charlotte|MCNC|
-|9|67.43.228.250|25257|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
+|8|152.26.231.93|9443|United States|Charlotte|MCNC|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|152.26.229.34|9443|United States|Charlotte|MCNC|
 |13|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|14|67.43.228.250|25257|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|31389|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28329|Canada|Montreal|GloboTech Communications|
-|17|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.226|9105|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|20589|Canada|Montreal|GloboTech Communications|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|20|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
 
 
 
