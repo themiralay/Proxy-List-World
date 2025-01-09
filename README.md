@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|4|98.8.195.160|443|United States|Orlando|Spectrum|
-|5|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|8|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|12|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|38.7.22.193|999|Mexico|Colonia el Pedregal|Internet Telefonia Y TV De Michoacan SA De CV|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|9|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|14|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|15|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
