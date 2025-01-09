@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|4|203.150.113.56|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.207.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|200.32.51.179|8080|Argentina|Mendoza|Telefonica de Argentina|
-|12|115.72.36.157|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|27.79.197.55|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|171.99.252.63|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|17|195.19.217.200|3128|Russia|Irkutsk|MTS PJSC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|5|203.150.113.56|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|115.72.36.157|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|8|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|10|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|13|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|103.159.96.141|8080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|20|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
