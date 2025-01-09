@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |6|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|181.209.82.195|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|43.153.42.147|8088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |10|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
 |11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|103.253.19.14|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|16|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|12|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|16|103.122.0.162|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
+|19|152.26.229.34|9443|United States|Charlotte|MCNC|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
