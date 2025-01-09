@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|4|103.158.121.38|8080|Indonesia|Jatibarang|CDN|
-|5|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
-|6|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|7|1.32.48.69|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|9|185.231.205.133|8118|France|Paris|Stark Industries Solutions LTD|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|103.158.121.38|8080|Indonesia|Jatibarang|CDN|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|203.150.113.205|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
-|16|197.232.65.40|55443|Kenya|Nairobi|Jamii Telecommunications Limited|
-|17|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
-|18|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|19|103.15.222.51|1080|Vietnam|Hà Đông|TAN Thanh AN International Trade Development Company Limited|
-|20|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|14|152.26.231.93|9443|United States|Charlotte|MCNC|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|20|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
