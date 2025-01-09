@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.33.11|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|206.189.33.11|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.79.249.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|103.126.87.120|8082|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|9|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|5|45.235.252.46|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|6|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|209.97.168.130|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|152.26.229.46|9443|United States|Charlotte|MCNC|
-|11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|27.189.130.171|8089|China|Langfang|Chinanet|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|180.107.218.0|8089|China|Nanjing|China Telecom|
-|17|162.249.171.248|4164|United States|New York|PureVoltage Hosting Inc.|
-|18|27.189.128.71|8089|China|Langfang|Chinanet|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|45.190.197.234|999|Mexico|El Salto|Tecnianet S.A De C.V.|
+|12|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|13|78.108.108.9|8080|Czechia|Kněžmost|Neutral Free eXchange members - FreeTel alternate|
+|14|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|20|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
 
 
 
