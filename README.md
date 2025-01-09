@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|5|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|6|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|3|188.132.222.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |7|24.152.58.195|999|Colombia|San Gil|Calltopbx S.A.S.|
-|8|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|9|152.26.229.47|9443|United States|Charlotte|MCNC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon ISP|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|8|152.26.229.47|9443|United States|Charlotte|MCNC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|72.10.164.178|10247|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|28805|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|18165|Canada|Montreal|GloboTech Communications|
+|13|190.61.116.155|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|124.217.106.37|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|18|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|19|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
