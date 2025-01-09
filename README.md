@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|43.247.38.57|8680|Indonesia|Bekasi|Maxindo|
-|5|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
-|7|38.244.24.197|20000|United States|Los Angeles|Cogent Communications|
-|8|45.150.33.80|55554|The Netherlands|Amsterdam|Aeza International LTD|
-|9|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|12|38.244.24.197|20000|United States|Los Angeles|Cogent Communications|
-|13|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|14|41.90.118.9|8080|Kenya|Nairobi|Safaricom Limited|
-|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
-|18|115.72.6.171|10035|Vietnam|Vũng Tàu|VIETELmetro|
-|19|116.98.65.36|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|2|27.66.73.136|10001|Vietnam|Thái Nguyên|Viettel Group|
+|3|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|5|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
+|6|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|7|172.236.151.143|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|5.78.46.101|2083|United States|Hillsboro|Hetzner Online GmbH|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|45.150.33.80|55554|The Netherlands|Amsterdam|Aeza International LTD|
+|11|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|164.163.42.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|58.187.71.245|8080|Vietnam|Hanoi|FPT Telecom Company|
+|16|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|17|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|51.15.167.168|5558|France|Paris|SCALEWAY|
+|20|27.79.185.173|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
