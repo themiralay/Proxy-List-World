@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
+|4|49.145.53.171|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|152.26.229.93|9443|United States|Charlotte|MCNC|
-|9|152.26.229.46|9443|United States|Charlotte|MCNC|
-|10|152.26.229.34|9443|United States|Charlotte|MCNC|
-|11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|52.0.26.215|1080|United States|Ashburn|Amazon.com, Inc.|
-|13|27.189.130.212|8089|China|Langfang|Chinanet|
-|14|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|15|72.10.160.91|4507|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|72.10.160.91|4507|Canada|Montreal|GloboTech Communications|
-|20|114.216.205.227|8089|China|Nanjing|China Telecom|
+|6|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|152.26.229.93|9443|United States|Charlotte|MCNC|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|16|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
+|17|200.10.31.220|999|Colombia|Pereira|Super Redes S.A.S|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|119.95.243.211|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
