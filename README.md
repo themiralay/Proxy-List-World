@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|2|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|3|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
 |4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|7|44.227.181.1|1080|United States|Portland|Amazon.com, Inc.|
-|8|38.147.188.35|18080|Hong Kong|Hong Kong|Xnnet LLC|
-|9|38.180.20.146|8118|Denmark|Copenhagen|M247 Europe SRL|
-|10|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|36.82.200.135|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|14|115.72.6.171|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|15|103.161.195.27|1080|Indonesia|Malang|PT Java Media Grup|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|119.95.243.211|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|27.189.129.51|8089|China|Langfang|Chinanet|
+|5|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|171.7.23.130|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|9|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|103.18.77.29|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
