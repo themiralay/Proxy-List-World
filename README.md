@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|5|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|6|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|7|171.5.142.46|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|8|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|9|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|11|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|14.236.198.168|8080|Vietnam|Bồng Sơn|VNPT|
-|13|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
-|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|15|80.253.255.138|3128|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
+|10|27.79.245.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|13|181.209.77.162|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|18|45.237.75.6|8080|Brazil|Maricá|Westlink Tecnologia E Comunicacao Ltda. - ME|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
 
 
 
