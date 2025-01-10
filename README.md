@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|7|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|167.71.188.122|8118|United States|Clifton|DigitalOcean, LLC|
-|10|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.155.196.45|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
-|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|15|175.143.193.201|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|71.42.125.220|4444|United States|Leander|Spectrum|
+|7|71.42.125.220|4444|United States|Leander|Spectrum|
+|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|117.1.102.87|10022|Vietnam|Hanoi|Viettel Corporation|
+|11|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
 |18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|72.10.164.178|8985|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
