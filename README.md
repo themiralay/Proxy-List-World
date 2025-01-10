@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|4|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|6|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|202.166.197.177|2121|Nepal|Kathmandu|WorldLink Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|71.42.125.220|4444|United States|Leander|Spectrum|
-|13|14.102.92.2|83|India|Prayagraj|World Phone Internet Services Pvt Ltd|
-|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|152.26.229.47|9443|United States|Charlotte|MCNC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|45.77.46.230|45613|Singapore|Singapore|The Constant Company|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|14.102.92.2|83|India|Prayagraj|World Phone Internet Services Pvt Ltd|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|157.66.37.60|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|8|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|10|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
+|19|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
