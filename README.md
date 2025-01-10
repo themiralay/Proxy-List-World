@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|171.5.142.46|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|195.178.33.86|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|11|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|19|103.160.205.38|8181|Indonesia|Mataram|PRIME|
-|20|152.26.229.46|9443|United States|Charlotte|MCNC|
+|2|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|4|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|115.72.5.161|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|8|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|12|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|15|27.147.218.162|8080|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|16|103.245.16.134|8080|Indonesia|Pondok Bambu|PT Quantum Tera Network|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|20|80.253.255.138|3128|Türkiye|Istanbul|Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.|
 
 
 
