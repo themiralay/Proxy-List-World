@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|203.150.128.27|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|9|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
-|14|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|152.26.231.93|9443|United States|Charlotte|MCNC|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.150.128.27|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|180.180.175.240|3128|Thailand|Krathum Baen|TOT Public Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|7|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|8|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|102.209.18.96|8080|Kenya|Karuri|Vennet Solutions Limited|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|152.26.231.93|9443|United States|Charlotte|MCNC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
