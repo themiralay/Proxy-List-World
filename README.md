@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|198.50.129.111|9595|Israel|Lod|OVH Hosting|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|36.50.115.180|8081|Indonesia|Jakarta|MYREPUBLIC|
-|7|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|8|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|9|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|2.189.148.1|8080|Iran|Tehran|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|12|5.61.30.236|50105|Iran|Rasht|Negah Roshan Pars - ParsDev Iran Network|
-|13|115.72.6.171|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|14|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|15|49.49.61.235|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|16|101.255.166.185|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|4|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|5|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.187.100.198|3129|India|Indore|Khetan Cable Network Pvt. Limited|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|10|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|11|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|12|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|15|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|18|37.152.172.175|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
 |19|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|20|103.126.29.225|9797|Indonesia|Jakarta|PT INTEGRASIA KREASITAMA SOLUSINDO|
+|20|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 
 
 
