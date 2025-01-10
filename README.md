@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |3|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|6|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|4|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
+|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|6|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
 |10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|12|107.152.33.41|8888|United States|Chicago|tzulo, inc.|
+|13|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|15|157.20.209.105|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|18|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 
 
 
