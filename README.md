@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|7|160.22.6.140|8080|Indonesia|Demak|PT Satu Lima Indonesia|
-|8|200.170.253.122|8087|Brazil|Porto Alegre|Telium Telecomunicações Ltda|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|11|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|12|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.178.171.37|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|15|103.210.162.50|3128|China|Guangzhou|CDS Global Cloud Co., Ltd|
-|16|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|18|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|6|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|65.109.184.166|800|Finland|Helsinki|Hetzner Online GmbH|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|148.103.9.57|80|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|10|45.117.63.122|82|Bangladesh|Dhaka|Paradise Technologies Limited|
+|11|5.202.191.225|8080|Iran|Tehran|PTS-Network|
+|12|2.180.3.28|3128|Iran|Mashhad|orumieh|
+|13|103.167.4.10|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|16|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|212.227.186.47|8888|Germany|Berlin|IONOS SE|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|38.51.232.145|999|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
 
 
 
