@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|98.8.195.160|443|United States|Orlando|Spectrum|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|98.8.195.160|443|United States|Orlando|Spectrum|
 |4|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|12|45.77.34.253|45613|Singapore|Singapore|The Constant Company|
-|13|152.26.229.34|9443|United States|Charlotte|MCNC|
-|14|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|11|218.255.90.106|8002|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|12|152.26.229.34|9443|United States|Charlotte|MCNC|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
