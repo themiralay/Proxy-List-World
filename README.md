@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|6|103.250.130.230|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|7|27.79.240.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|14|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|15|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|16|27.79.240.34|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|20|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.79.211.41|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|72.10.160.174|7003|Canada|Montreal|GloboTech Communications|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|8|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|9|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|14|202.137.8.150|8080|Indonesia|Bekasi|LINKNET|
+|15|103.165.157.248|8090|Indonesia|Banyumas|MEGADATA-ISP|
+|16|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|17|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|27.79.240.121|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
