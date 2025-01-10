@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|46.161.194.71|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|92.79.157.81|8080|Germany|Frankfurt am Main|ARCOR-IP|
-|15|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|16|14.143.172.246|8080|India|Kolkata|Tata Communications Limited|
-|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|3|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|4|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.186.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
+|12|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|13|222.127.51.132|8082|Philippines|Lahug|INNOVE|
+|14|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|15|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|16|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|17|54.183.211.191|3128|United States|San Jose|Amazon.com, Inc.|
+|18|46.161.194.71|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|20|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
 
 
 
