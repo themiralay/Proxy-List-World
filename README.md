@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.67.138|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|103.22.99.46|8080|Indonesia|Magetan|KHALISTAGROUP|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|118.172.63.76|8080|Thailand|Sai Yok|TOT Public Company Limited|
-|9|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|182.53.22.210|8080|Thailand|Si Racha|TOT Public Company Limited|
-|13|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|45.77.34.253|45613|Singapore|Singapore|The Constant Company|
+|5|115.74.4.200|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|6|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|7|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|139.84.145.171|3129|India|Bengaluru|The Constant Company, LLC|
+|11|116.98.70.85|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|181.188.238.146|999|Ecuador|Quito|Otecel S.A.|
 |14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|27.79.216.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|152.26.231.93|9443|United States|Charlotte|MCNC|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|72.10.160.93|22499|Canada|Montreal|GloboTech Communications|
+|15|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.85.183.30|4995|Bangladesh|Maulavi Bāzār|Smart Online|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
