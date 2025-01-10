@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|8|141.94.220.45|3128|France|Gravelines|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|27.79.254.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
-|12|27.79.213.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|188.121.121.6|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|17|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|36.73.180.100|8181|Indonesia|Banyuwangi|PT. TELKOM INDONESIA|
-|19|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|20|27.79.213.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|77.237.236.69|80|Germany|Düsseldorf|Contabo GmbH|
+|2|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|93.113.180.209|10000|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|4|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|5|149.28.32.205|25936|United States|Piscataway|The Constant Company|
+|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|190.60.37.10|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|8|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|9|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
+|10|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|11|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|12|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|14|152.26.229.47|9443|United States|Charlotte|MCNC|
+|15|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
