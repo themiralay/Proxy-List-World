@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|6|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|7|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|188.132.222.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|103.154.77.73|89|Indonesia|Sleman|T2NET|
+|4|103.191.155.46|8080|Indonesia|Cikampek|ILHAMWS|
+|5|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|6|115.72.40.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.195.65.185|8080|Indonesia|Tanjung Barat|PT Perwira Media Solusi|
+|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.228.246.134|3344|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|212.227.186.47|8888|Germany|Berlin|IONOS SE|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|179.49.117.19|999|Honduras|Pinalejo|Asociacion De Servicio De Internet S. De RL.|
-|15|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|67.43.228.250|20019|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|14|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|15|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
+|16|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|17|45.184.103.117|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|190.144.238.66|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|20|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
 
 
 
