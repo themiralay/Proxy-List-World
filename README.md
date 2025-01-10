@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|13|185.23.81.173|8080|Russia|Voronezh|OJSC Telecom-Service|
-|14|110.77.244.199|8080|Thailand|Satuek|CAT Telecom Public Company Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|17|95.55.110.47|8080|Russia|St Petersburg|Rostelecom networks|
-|18|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|182.48.77.173|8674|Bangladesh|Chittagong|Corporate Office|
+|3|65.109.184.166|800|Finland|Helsinki|Hetzner Online GmbH|
+|4|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|5|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|6|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|85.192.62.235|8080|Russia|Moscow|KONEKT Ltd.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|188.132.150.66|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|19|114.5.97.150|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
