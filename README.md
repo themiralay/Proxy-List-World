@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
 |2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
 |6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|8|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 |9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|10|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|14|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|15|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|19|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|20|84.255.40.228|8998|Malta|Birkirkara|Melita plc|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|13|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|14|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|15|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|17|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|103.91.62.37|80|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
+|19|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
