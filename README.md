@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|27.79.214.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|71.42.125.220|4444|United States|Leander|Spectrum|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
 |5|71.42.125.220|4444|United States|Leander|Spectrum|
-|6|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|43.252.11.195|7878|Indonesia|Jakarta|QUANTUMNET|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|1.0.170.50|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
+|9|71.42.125.220|4444|United States|Leander|Spectrum|
+|10|27.79.214.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
