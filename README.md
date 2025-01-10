@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|6|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
-|7|115.72.45.11|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|152.26.231.93|9443|United States|Charlotte|MCNC|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|45.7.64.142|999|Mexico|Zacualtipán|Maysnet SA De CV|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|27.79.181.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|203.150.113.219|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|27.79.128.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|108.142.108.255|8070|Netherlands|Amsterdam|Microsoft Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|12|103.228.243.251|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
+|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|8.217.126.3|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
+|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 
 
 
