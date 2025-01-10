@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|4|103.79.155.114|3128|Indonesia|Tangerang|MORATELINDO|
-|5|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.162.153.152|3030|Indonesia|Pangkalan Bunut|AKSIRIAU|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|188.125.169.100|8080|Turkey|Ankara|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|104.248.51.135|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|152.26.229.46|9443|United States|Charlotte|MCNC|
-|14|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
-|15|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|49.51.244.112|8888|United States|Santa Clara|OPHL|
-|18|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|19|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|1|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|167.71.216.130|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|1.4.198.19|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|7|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|9|103.178.21.92|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|10|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|11|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|17|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|161.97.136.251|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
