@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|9|71.42.125.220|4444|United States|Leander|Spectrum|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|51.13.60.244|3128|Norway|Lorenskog|Microsoft Corporation|
-|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|13|77.46.138.38|8080|Serbia|Stari Grad|TELEKOM-SRBIJA|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|152.26.229.46|9443|United States|Charlotte|MCNC|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|5|114.5.196.81|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|8|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|9|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|10|36.85.62.206|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|11|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.105.57.64|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
 
 
 
