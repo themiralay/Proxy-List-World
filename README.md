@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|2|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|8|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|9|35.247.210.0|31986|Brazil|Sao Paulo|Google LLC|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.6.142.249|8088|Mexico|Mexicali|Lumenet Comunicaciones S. De R.l. De C.V.|
-|13|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|103.180.122.81|7777|Indonesia|Kroya|PT Indo Telemedia Solusi|
-|16|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
-|17|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|18|115.74.105.72|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|19|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|121.101.133.220|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|65.109.184.166|800|Finland|Helsinki|Hetzner Online GmbH|
+|7|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.169.128.148|8080|Indonesia|Cirebon|PT Media Akses Data|
+|10|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|14|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|15|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|17|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
