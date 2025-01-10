@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|49.48.49.161|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|122.2.28.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|152.26.229.46|9443|United States|Charlotte|MCNC|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|72.10.164.178|20889|Canada|Montreal|GloboTech Communications|
-|18|38.183.214.50|8080|Venezuela|Villa de Cura|WISP TECNOGER, C.A.|
-|19|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|67.43.227.230|7057|Canada|Montreal|GloboTech Communications|
+|6|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|5.128.15.152|3128|Russia|Novosibirsk|Novotelecom Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|152.26.229.46|9443|United States|Charlotte|MCNC|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|103.125.174.73|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|20|101.109.253.88|1888|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
