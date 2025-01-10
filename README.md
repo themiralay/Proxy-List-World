@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |2|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|3|103.154.77.40|89|Indonesia|Sleman|T2NET|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
-|9|103.245.159.52|8080|Indonesia|Jakarta|PDWNet|
-|10|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|11|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|103.160.205.86|8080|Indonesia|Mataram|PRIME|
+|5|186.96.71.108|999|Venezuela|Caracas|Gold Data C.A|
+|6|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
 |12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|45.119.114.206|3129|India|Hyderabad|Netrun Technologies PVT LTD|
-|15|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|27.189.131.231|8089|China|Langfang|Chinanet|
-|19|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|19|109.127.82.166|8080|Iraq|Erbil|Newroz Telecom|
+|20|157.100.63.129|80|Ecuador|Cuenca|Ufinet Panama S.A.|
 
 
 
