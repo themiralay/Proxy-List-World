@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |2|134.236.16.74|8080|Thailand|Pattaya|CAT-BB|
-|3|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|152.26.229.34|9443|United States|Charlotte|MCNC|
-|7|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|8|72.10.160.94|8729|Canada|Montreal|GloboTech Communications|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|27.79.129.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|72.10.160.90|27475|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|10997|Canada|Montreal|GloboTech Communications|
-|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|18|67.43.228.250|12447|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|190.60.37.10|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
