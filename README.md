@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|5|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.228.243.251|8080|Indonesia|Jakarta|SpaceX Starlink|
-|8|103.175.157.74|3128|Indonesia|Bojonggede 1|MYARSYILA|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|190.12.49.222|8082|Ecuador|Guayaquil|Puntonet S.A|
-|11|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|12|222.127.153.184|8082|Philippines|Carmona|Globe Telecom|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|15|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|27.49.68.66|8082|Philippines|Cebu City|Converge ICT|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.66.73.136|10001|Vietnam|Thái Nguyên|Viettel Group|
+|5|27.79.144.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|176.88.175.190|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|7|103.181.255.233|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|27.79.129.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.162.62.43|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|11|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|12|14.102.92.2|83|India|Prayagraj|World Phone Internet Services Pvt Ltd|
+|13|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|101.109.253.88|1888|Thailand|Bangkok|TOT Public Company Limited|
+|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
 |18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
