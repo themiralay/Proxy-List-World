@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |3|36.72.252.155|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|4|27.79.145.47|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|6|27.79.240.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|54.38.210.165|3128|United Kingdom|London|OVH SAS|
+|6|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|188.132.222.17|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.118.175.144|35689|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|11|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|12|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|172.236.11.164|8080|United Kingdom|London|Akamai Technologies, Inc.|
-|14|103.162.62.43|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
-|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|11|27.79.145.47|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|3.70.20.43|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|27.79.164.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|177.93.48.2|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|17|27.79.240.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
