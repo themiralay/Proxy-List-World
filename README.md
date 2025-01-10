@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
 |2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|3|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|10|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|38.51.232.145|999|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|13|45.117.63.122|82|Bangladesh|Dhaka|Paradise Technologies Limited|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|7|27.79.197.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|13|103.156.15.83|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|14|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|15|103.134.220.145|8080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|16|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|17|27.79.240.34|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
 |19|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
