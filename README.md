@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4623** proxies at the latest update. Usable proxies are below.
+> Scraper found **4622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|130|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
-|4|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|6|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
-|7|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|8|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|9|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|10|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|11|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|12|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|77.237.236.13|80|Germany|Düsseldorf|Contabo GmbH|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|139.84.218.26|3129|India|Bengaluru|The Constant Company, LLC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|1|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|9|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|11|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
+|14|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|15|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|103.148.44.125|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|19|202.47.188.76|8087|Indonesia|Madiun|Lintas Data Prima, PT|
+|20|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
