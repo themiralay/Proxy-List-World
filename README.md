@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|101.109.253.88|1888|Thailand|Bangkok|TOT Public Company Limited|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|8.218.100.62|1088|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|8.218.100.62|1088|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|13|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.149.93.123|3122|Singapore|Singapore|PT Perwira Media Solusi|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|152.26.231.93|9443|United States|Charlotte|MCNC|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|15|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|16|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
