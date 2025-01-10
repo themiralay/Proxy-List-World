@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
-|4|202.137.8.150|8080|Indonesia|Bekasi|LINKNET|
-|5|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|175.103.57.198|57413|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|8|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|9|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|152.67.8.148|443|India|Mumbai|Oracle Corporation|
-|13|103.250.130.230|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|14|36.68.25.185|8080|Indonesia|Sukoharjo|PT. TELKOM INDONESIA|
-|15|27.79.186.164|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
-|19|38.156.74.171|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|1|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|103.69.128.202|10088|Hong Kong|Hong Kong|SIBERFY (PRIVATE) LIMITED|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.42.242.65|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|7|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|103.220.23.211|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|111.125.242.34|80|India|Mumbai|NIXI|
+|12|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.45.242.120|999|Mexico|San Juan de los Lagos|Wifimax Connection S.a.s De C.V|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|119.252.173.26|8080|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|19|27.79.186.164|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
 
 
 
