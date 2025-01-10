@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|6|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|7|27.79.244.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|9|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|10|66.31.131.0|8080|United States|Wayland|Comcast Cable Communications|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|18|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.197.55|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|11|177.234.211.63|999|Ecuador|Quito|VUELATECHNOLOGY|
+|12|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|13|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|20|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
