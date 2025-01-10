@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|74.82.22.195|3128|Japan|Chatan|Hurricane Electric LLC|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|5|74.82.22.195|3128|Japan|Chatan|Hurricane Electric LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|37.152.171.180|8080|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|10|27.79.135.202|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|16|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|17|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|18|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
-|20|179.32.62.127|999|Colombia|Cartagena|Colombia Telecomunicaciones S.a. ESP|
+|1|74.82.22.195|3128|Japan|Chatan|Hurricane Electric LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
+|4|74.82.22.195|3128|Japan|Chatan|Hurricane Electric LLC|
+|5|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|27.79.135.202|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|116.98.65.36|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|10|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
+|11|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.253.18.126|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|27.131.250.222|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
