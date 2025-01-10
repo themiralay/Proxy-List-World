@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|38.181.77.150|8333|Hong Kong|Ha Kwai Chung|Eons Data Communications Limited|
-|3|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
-|4|172.236.151.143|3132|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|27.79.129.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|9|182.253.179.10|3128|Indonesia|Bogor|BIZNET|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|116.98.65.36|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|36.88.249.106|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|172.236.151.143|3129|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|5|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|6|115.72.5.161|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.153.62.158|8090|Indonesia|Bekasi|IMEDIANET|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|116.98.65.36|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|12|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|13|49.13.70.41|6699|Germany|Falkenstein|Hetzner Online GmbH|
+|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|46.161.194.71|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 |16|27.79.213.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|18|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|175.103.40.102|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
-|20|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|17|27.147.218.162|8080|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|18|27.79.129.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|203.144.144.146|8080|Thailand|Nakhon Ratchasima|True Internet Corporation CO. Ltd.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
