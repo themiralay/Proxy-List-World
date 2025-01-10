@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|5|27.112.66.18|8181|Indonesia|Jakarta|GRAHANET|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.11.99.126|8080|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|10|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|11|177.136.32.202|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|12|115.72.40.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|181.57.229.2|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|5|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|212.227.186.47|8888|Germany|Berlin|IONOS SE|
+|13|103.130.116.39|8090|Indonesia|Sembung|Lintas Data Prima, PT|
+|14|45.4.0.59|999|Chile|Santiago|Tlink SPA|
+|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|16|38.7.20.199|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|36.92.107.242|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|19|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|5.143.4.252|8181|Russia|Nakhodka|Rostelecom networks|
 
 
 
