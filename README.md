@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|5|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|6|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|7|46.253.99.71|8080|Czechia|Náchod|Edera Group a.s.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|77.37.244.119|8080|Russia|Moscow|NCNET|
-|13|152.26.229.34|9443|United States|Charlotte|MCNC|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|212.227.186.47|8888|Germany|Berlin|IONOS SE|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|112.78.39.252|8080|Indonesia|Semarang|PT Media Sarana Data|
+|2|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|103.133.27.50|8081|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|5|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|11|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|12|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|46.253.99.71|8080|Czechia|Náchod|Edera Group a.s.|
+|14|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|18|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
