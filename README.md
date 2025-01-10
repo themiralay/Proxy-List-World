@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|9|152.26.231.93|9443|United States|Charlotte|MCNC|
-|10|152.26.229.34|9443|United States|Charlotte|MCNC|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|203.150.128.27|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|6|102.38.29.36|8080|Libya|Tripoli|GZA|
+|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
 |12|152.26.229.46|9443|United States|Charlotte|MCNC|
-|13|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|13|152.26.231.93|9443|United States|Charlotte|MCNC|
+|14|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|17|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom|
-|18|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|41.65.71.137|1976|Egypt|New Cairo|Etisalat Misr|
+|20|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 
 
 
