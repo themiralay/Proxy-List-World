@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
-|6|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|103.151.223.203|8080|Indonesia|Bangkinang|CMEDIANET|
-|9|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|10|103.160.205.38|8181|Indonesia|Mataram|PRIME|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|103.54.218.203|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|103.83.179.148|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|4|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|5|98.8.195.160|443|United States|Orlando|Spectrum|
+|6|103.174.81.10|80|India|Hyderabad|Panduranga Cable & Networks|
+|7|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
+|8|152.26.231.93|9443|United States|Charlotte|MCNC|
+|9|152.26.229.46|9443|United States|Charlotte|MCNC|
+|10|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|13|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|103.163.135.56|7777|Indonesia|Banyuwangi|PROVITEL|
+|18|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|20|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
