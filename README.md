@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|203.150.113.219|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|103.133.26.45|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|10|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|11|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|190.104.20.84|8080|Bolivia|La Bélgica|Telefónica Celular de Bolivia S.A.|
-|13|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|14|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|19|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|115.72.45.11|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|9|167.71.67.138|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|12|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|20|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
 
 
 
