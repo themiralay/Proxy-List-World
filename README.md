@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
+|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|27.79.244.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|7|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|77.232.138.31|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|10|8.217.126.3|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|12|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|13|27.79.214.110|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|13.234.24.116|1080|India|Mumbai|Amazon Technologies Inc.|
-|17|116.98.70.85|10015|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|20|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|3.82.144.72|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|27.66.73.136|10001|Vietnam|Thái Nguyên|Viettel Group|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.122.1.26|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
