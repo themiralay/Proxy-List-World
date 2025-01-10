@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|2|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|3|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.236.16.74|8080|Thailand|Pattaya|CAT-BB|
-|6|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
-|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
