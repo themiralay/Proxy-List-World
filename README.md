@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|2|93.113.180.209|10001|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|6|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|7|103.199.117.104|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|8|119.95.243.211|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|9|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|10|45.77.181.53|45613|Japan|Matsuyama|The Constant Company|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
+|1|167.71.212.147|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|194.4.48.23|8118|Spain|Madrid|Stark Industries Solutions LTD|
+|4|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|6|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|103.133.27.50|8081|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|152.26.229.93|9443|United States|Charlotte|MCNC|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|18|115.72.40.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
