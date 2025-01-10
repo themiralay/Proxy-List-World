@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|134.236.16.74|8080|Thailand|Pattaya|CAT-BB|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.176.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|152.26.229.93|9443|United States|Charlotte|MCNC|
-|12|38.180.195.164|8118|Italy|Milan|M247 Europe SRL|
-|13|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|152.26.229.47|9443|United States|Charlotte|MCNC|
-|16|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|17|72.10.160.90|23577|Canada|Montreal|GloboTech Communications|
-|18|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|19|72.10.160.173|20257|Canada|Montreal|GloboTech Communications|
-|20|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|165.255.57.132|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|24.152.58.194|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|20|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
