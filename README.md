@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|152.26.231.93|9443|United States|Charlotte|MCNC|
-|12|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|152.26.229.46|9443|United States|Charlotte|MCNC|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|72.10.160.170|24875|Canada|Montreal|GloboTech Communications|
-|17|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|3|164.163.1.140|2180|Brazil|Brasília|connectx serviços de telecomunicações ltda|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|122.185.180.190|32650|India|Barpeta|Bharti Airtel Limited|
+|7|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|152.26.231.93|9443|United States|Charlotte|MCNC|
+|10|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|15|67.43.236.18|16575|Canada|Montreal|GloboTech Communications|
+|16|217.28.132.206|8080|Russia|Moscow|NetOne Rus JSC|
+|17|67.43.228.250|19383|Canada|Montreal|GloboTech Communications|
+|18|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|19|103.137.110.88|99|Indonesia|Singosari|PT. Capoeng Digital Nusantara|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
