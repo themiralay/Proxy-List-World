@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|159.192.227.221|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|6|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|103.76.149.14|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|9|147.45.76.102|3128|Sweden|Stockholm|Aeza International LTD|
-|10|173.212.244.38|3128|France|Lauterbourg|Contabo GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|27.79.240.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|45.190.76.115|999|Mexico|Zapopan|Meta Networks SA De CV|
-|14|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|15|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|16|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|181.204.83.115|41890|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|54.38.210.165|3128|United Kingdom|London|OVH SAS|
-|20|27.79.232.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|159.192.227.221|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|5|125.24.44.110|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|103.156.17.93|8080|Indonesia|Jatiwangi|RSTNET|
+|9|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|10|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|16|185.32.5.17|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|17|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|181.198.11.204|8889|Ecuador|Guayaquil|Telconet S.A|
+|19|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|20|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
