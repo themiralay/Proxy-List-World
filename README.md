@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|65.108.159.129|4145|Finland|Helsinki|Hetzner Online GmbH|
-|5|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|190.8.184.149|9600|Argentina|La Plata|Cooperativa Telefónica de Abasto|
-|7|27.79.143.237|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|5.160.57.36|8080|Iran|Tehran|RSPN|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|13|180.105.38.68|1080|China|Nanjing|Chinanet|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|66.19.21.242|8989|United States|Wellington|Windstream Communications LLC|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|6|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|14|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|15|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|67.43.228.250|2623|Canada|Montreal|GloboTech Communications|
+|20|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
