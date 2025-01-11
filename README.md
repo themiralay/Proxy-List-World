@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|124.121.2.131|8080|Thailand|Bangkok|TRUEBB|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|10|103.115.242.194|8080|Bangladesh|Nawābganj|Md. Rashed Mollah|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|124.121.2.131|8080|Thailand|Bangkok|TRUEBB|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.127.220.130|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|7|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|160.22.24.36|1111|Indonesia|Kudus|GIGAMEDIANET|
+|9|36.88.111.98|55443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
 |11|152.26.229.46|9443|United States|Charlotte|MCNC|
-|12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|152.26.229.93|9443|United States|Charlotte|MCNC|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|16|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|17|201.252.56.188|9080|Argentina|Olivos|Telecom Argentina S.A.|
-|18|67.43.227.226|18767|Canada|Montreal|GloboTech Communications|
-|19|103.127.220.130|8080|Indonesia|Pagerwojo|PT Multi Guna Sinergi|
+|12|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|16|101.255.167.242|8181|Indonesia|Jakarta|PT Remala Abadi|
+|17|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|125.25.144.72|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
