@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.226.59|9595|Canada|Toronto|DigitalOcean, LLC|
-|5|103.155.198.141|1080|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|7|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|36.88.111.98|55443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|12|115.74.7.172|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|13|119.2.42.201|8085|Indonesia|Jakarta|PT. Laxo Global Akses|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|103.124.138.76|1111|Indonesia|Adiwerna|Global Media Data Prima|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|157.20.253.173|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|9|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|5.160.57.36|8080|Iran|Tehran|RSPN|
+|17|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|45.239.48.66|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
