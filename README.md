@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|7|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|9|65.1.244.232|80|India|Mumbai|Amazon.com|
-|10|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
-|11|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|185.180.130.32|3128|Iran|Isfahan|Azarakhsh Ava-e Ahvaz Co|
-|13|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
-|14|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|5|27.79.179.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|7|202.57.26.150|7777|Indonesia|Bandung|WANET|
+|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|11|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
