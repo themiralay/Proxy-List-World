@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|23.225.149.42|3128|United States|Denver|Cnservers LLC|
-|8|116.98.70.85|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|10|152.26.229.46|9443|United States|Charlotte|MCNC|
-|11|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|27.79.192.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|27.79.188.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|152.26.229.46|9443|United States|Charlotte|MCNC|
+|9|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|27.79.128.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|18|23.225.149.42|3128|United States|Denver|Cnservers LLC|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
 
 
 
