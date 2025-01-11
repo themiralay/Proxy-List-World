@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.126.87.112|3030|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|5|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|172.96.171.76|8080|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|8|103.160.40.251|8080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|7|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|189.193.225.10|999|Mexico|San Lorenzo Axocomanitla|Mega Cable, S.A. de C.V.|
+|9|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |10|103.118.124.137|6969|Indonesia|Jakarta|Tele|
-|11|175.141.236.44|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|13|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|181.78.83.69|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|17|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|177.93.60.170|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
