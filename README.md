@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|103.247.15.97|231|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|65.1.244.232|80|India|Mumbai|Amazon.com|
-|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|3|65.1.244.232|80|India|Mumbai|Amazon.com|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|13.40.239.130|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|113.192.31.89|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|202.148.16.150|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|12|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|27.79.144.86|16000|Vietnam|Hanoi|Viettel Corporation|
 |15|152.26.229.46|9443|United States|Charlotte|MCNC|
 |16|152.26.231.93|9443|United States|Charlotte|MCNC|
 |17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
