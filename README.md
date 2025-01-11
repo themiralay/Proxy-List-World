@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|36.90.175.134|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|5|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.249.19.73|9699|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
-|8|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|23.132.48.73|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|114.134.95.222|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|16|152.26.229.46|9443|United States|Charlotte|MCNC|
+|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
 |18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|20|103.193.144.203|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
