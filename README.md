@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.227.186.69|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|5|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|111.221.1.114|8021|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 |10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|14|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|15|152.26.229.46|9443|United States|Charlotte|MCNC|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|67.43.227.226|1447|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|72.10.160.170|24875|Canada|Montreal|GloboTech Communications|
+|11|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|15|72.10.160.170|24875|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.93|9443|United States|Charlotte|MCNC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
