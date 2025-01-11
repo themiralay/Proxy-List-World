@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|203.150.113.53|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|45.77.34.253|45613|Singapore|Singapore|The Constant Company|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 |6|103.11.193.67|8080|Mongolia|Ulan Bator|MCS-Univision|
-|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|20.204.164.248|3128|India|Pune|Microsoft Corporation|
-|10|38.183.146.171|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|20.204.164.248|3128|India|Pune|Microsoft Corporation|
+|8|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
+|9|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.189.254.20|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|152.26.229.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 
 
 
