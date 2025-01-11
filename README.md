@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|4|152.26.229.46|9443|United States|Charlotte|MCNC|
-|5|27.189.128.3|8089|China|Langfang|Chinanet|
-|6|47.236.231.113|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|112.209.50.194|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|165.255.57.9|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
-|11|72.10.160.171|29471|Canada|Montreal|GloboTech Communications|
-|12|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|171.6.163.118|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|116.98.70.85|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|116.98.70.85|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|23.225.149.42|3128|United States|Denver|Cnservers LLC|
+|6|152.26.229.46|9443|United States|Charlotte|MCNC|
+|7|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|8|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|27.79.146.161|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|103.166.254.220|3124|Indonesia|Pekanbaru|PT Instanet Media Nusantara|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|77.237.236.223|80|Germany|Düsseldorf|Contabo GmbH|
 
 
 
