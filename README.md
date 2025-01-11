@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|1.4.250.37|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|103.75.84.32|8045|Indonesia|Central Java|MEGADATA|
-|4|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|5|35.212.74.86|80|United States|Washington|Google LLC|
-|6|152.26.229.46|9443|United States|Charlotte|MCNC|
-|7|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|8|202.138.243.42|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|9|152.26.229.93|9443|United States|Charlotte|MCNC|
-|10|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|11|103.214.9.99|3128|Vietnam|Thanh Xuân|MEGACORE|
-|12|5.78.125.114|9095|United States|Hillsboro|Hetzner Online GmbH|
-|13|201.77.98.131|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|15|134.35.4.49|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|67.43.236.20|25423|Canada|Montreal|GloboTech Communications|
-|17|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|18|103.247.20.106|1111|Indonesia|Cikarang|PT Yasmin Amanah Media|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|37.228.136.149|58080|Iran|Tehran|Parsan Lin Co. PJS|
+|4|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|5|3.70.20.43|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|103.155.196.65|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|7|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|8|103.172.196.131|2020|Indonesia|Pakis Krajan|PT Cahaya Solusindo Internusa|
+|9|177.93.36.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|103.242.105.140|8181|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.236.20|25423|Canada|Montreal|GloboTech Communications|
+|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|19|67.43.236.19|4503|Canada|Montreal|GloboTech Communications|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
