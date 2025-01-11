@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|190.97.236.44|2023|Venezuela|Maporal|Viginet C.A|
-|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|152.26.229.47|9443|United States|Charlotte|MCNC|
-|10|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|11|152.26.229.34|9443|United States|Charlotte|MCNC|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|15|189.173.185.66|999|Mexico|Hermosillo|UNINET|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|67.43.228.253|27295|Canada|Montreal|GloboTech Communications|
-|19|136.226.71.65|8800|United States|Boston|ZSCALER, INC.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|35.161.172.205|1080|United States|Portland|Amazon.com, Inc.|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|116.101.2.214|2041|Vietnam|Thanh Hóa|Viettel Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|67.43.227.226|20533|Canada|Montreal|GloboTech Communications|
+|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|67.43.228.250|24659|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|67.43.236.18|30681|Canada|Montreal|GloboTech Communications|
+|17|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|18|118.97.75.85|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
