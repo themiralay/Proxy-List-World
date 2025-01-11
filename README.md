@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|9|103.151.47.90|3127|Pakistan|Lahore|Z COM Networks Private Limited|
-|10|109.127.82.18|8080|Iraq|Erbil|Newroz Telecom|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.46|9443|United States|Charlotte|MCNC|
+|1|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
+|5|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|185.32.5.14|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|7|37.111.52.46|8081|Myanmar|Yangon|Telenor Myanmar|
+|8|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|11|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|109.236.80.6|8888|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
