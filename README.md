@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|7|49.156.20.122|8082|Indonesia|Central Java|PT Palapa Global Nusantara|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|193.37.70.209|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|11|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.125.39.99|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|182.52.216.85|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
-|16|211.50.5.170|60955|South Korea|Yongsan-dong|LG DACOM Corporation|
-|17|27.79.148.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|175.215.54.42|3129|South Korea|Jinju|Korea Telecom|
+|4|52.187.182.135|55555|Singapore|Singapore|Microsoft Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|8|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|12|189.173.185.66|999|Mexico|Hermosillo|UNINET|
+|13|193.37.70.209|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|14|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|103.186.90.18|8080|Indonesia|Guyangan|PT Akses Data Internusa|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
