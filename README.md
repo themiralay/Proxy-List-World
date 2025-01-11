@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|8.218.100.62|1088|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.82.36.146|14001|Vietnam|Láng Thượng|Cloudfly Corporation|
-|4|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
-|5|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|6|190.52.100.211|999|Venezuela|Caracas|Gold Data USA Inc|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
-|9|159.192.227.221|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|10|181.198.11.204|8889|Ecuador|Guayaquil|Telconet S.A|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.79.128.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|157.66.16.67|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.218.100.62|1088|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.82.36.146|14001|Vietnam|Láng Thượng|Cloudfly Corporation|
+|7|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|11|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
+|14|47.238.41.104|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|16|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |17|152.26.229.47|9443|United States|Charlotte|MCNC|
 |18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|136.226.71.65|8800|United States|Boston|ZSCALER, INC.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
