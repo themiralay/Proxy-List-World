@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|2|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|165.227.229.163|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|152.26.229.47|9443|United States|Charlotte|MCNC|
-|9|152.26.231.93|9443|United States|Charlotte|MCNC|
-|10|152.26.229.46|9443|United States|Charlotte|MCNC|
-|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|12|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|72.10.160.173|8693|Canada|Montreal|GloboTech Communications|
-|18|130.162.180.254|8888|United Kingdom|London|Oracle Corporation|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|3|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|152.26.231.93|9443|United States|Charlotte|MCNC|
+|6|152.26.229.47|9443|United States|Charlotte|MCNC|
+|7|152.26.229.46|9443|United States|Charlotte|MCNC|
+|8|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|152.26.229.93|9443|United States|Charlotte|MCNC|
+|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|14|202.47.188.25|5566|Indonesia|Madiun|Lintas Data Prima, PT|
+|15|72.10.160.173|8693|Canada|Montreal|GloboTech Communications|
+|16|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|17|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
+|18|113.192.6.190|80|Vietnam|Thanh Xuân|BASE|
+|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|20|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
