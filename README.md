@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
-|4|115.72.42.93|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|8|3.70.20.43|8090|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|24.106.221.230|53281|United States|Leland|Spectrum|
-|10|109.194.49.193|8080|Russia|Kursk|CJSC "ER-Telecom" Holding" Kursk branch|
-|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|16|187.190.0.247|999|Mexico|Iztacalco|Total Play Telecomunicaciones SA De CV|
-|17|152.26.229.47|9443|United States|Charlotte|MCNC|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
+|5|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
+|8|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|192.141.98.9|3020|Peru|Huancayo|Internet Solutions Network Peru SAC|
+|10|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
+|12|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|27.79.232.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|80.191.105.13|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|17|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
