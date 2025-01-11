@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|8|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|9|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|10|190.60.38.198|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|11|27.79.144.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|11|1.4.250.37|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |12|195.19.217.200|3128|Russia|Irkutsk|MTS PJSC|
-|13|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
-|17|47.150.162.170|3133|United States|Victorville|Frontier Communications Solutions|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|190.60.38.198|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|38.9.141.250|10609|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
