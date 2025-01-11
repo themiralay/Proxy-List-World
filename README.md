@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
 |4|124.121.2.131|8080|Thailand|Bangkok|TRUEBB|
-|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|47.238.41.104|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|13|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|17|180.105.38.115|1080|China|Nanjing|Chinanet|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.135.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.212.208|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|10|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.99.136.30|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|103.183.10.170|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|19|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 
