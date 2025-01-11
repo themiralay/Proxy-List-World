@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|3|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|4|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|152.26.229.47|9443|United States|Charlotte|MCNC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|116.98.70.85|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|13|3.8.139.11|8888|United Kingdom|London|Amazon Technologies Inc.|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|23.225.149.42|3128|United States|Denver|Cnservers LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|4|27.79.212.208|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|9|152.26.229.47|9443|United States|Charlotte|MCNC|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|152.26.229.93|9443|United States|Charlotte|MCNC|
+|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|18|103.76.109.138|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|19|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|20|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
