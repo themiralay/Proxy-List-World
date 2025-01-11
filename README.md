@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4016** proxies at the latest update. Usable proxies are below.
+> Scraper found **4240** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|224|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|462|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.192.227.221|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
-|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.79.240.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|173.212.244.38|3128|France|Lauterbourg|Contabo GmbH|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|51.159.66.158|3128|France|Paris|SCALEWAY|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|24.152.58.196|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|152.26.229.46|9443|United States|Charlotte|MCNC|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|103.63.26.115|8080|Indonesia|Tamanan|PT Global Media Data Prima|
+|4|159.192.227.221|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.126.87.181|7777|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
+|7|117.102.66.201|80|Indonesia|Jakarta|BIZNET|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.79.232.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.240.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|173.212.244.38|3128|France|Lauterbourg|Contabo GmbH|
+|12|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|27.79.240.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.232.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|190.22.118.157|8080|Chile|Santiago|TELEFÓNICA CHILE S.A.|
+|19|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
