@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|103.148.131.110|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 |8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|10|103.149.177.204|3128|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
-|11|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|12|27.79.148.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|202.56.166.157|8080|Indonesia|Trucuk|PT Lintas Data Prima|
-|17|103.75.26.50|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|10|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|12|45.77.34.253|45613|Singapore|Singapore|The Constant Company|
+|13|8.217.126.3|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
+|15|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|171.6.163.118|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |18|152.26.229.47|9443|United States|Charlotte|MCNC|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
 |20|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
 
 
