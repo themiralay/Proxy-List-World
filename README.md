@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|103.93.176.70|8080|India|Faridabad|Elxire Data Services Pvt. Ltd.|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|8|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|10|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|24.49.117.218|8888|United States|Cambridge|Midcontinent Communications|
-|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|41.216.186.52|8080|Indonesia|Kuningan Barat|FASTHOSTING|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|8|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|9|45.4.148.70|8080|Brazil|Surubim|Fausto Silva de Almeida Serviços - ME|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|46.246.4.3|8118|Sweden|Stockholm|Portlane Network|
+|12|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
 |14|155.93.96.210|8080|Nigeria|Eti-Osa|Vodacom Business Nigeria|
-|15|103.226.232.197|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|16|27.79.211.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|152.26.229.93|9443|United States|Charlotte|MCNC|
+|16|71.42.125.218|4444|United States|Leander|Spectrum|
+|17|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
+|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|20|113.255.59.226|8080|Hong Kong|Tsing Yi|HGC Global Communications Limited|
 
 
 
