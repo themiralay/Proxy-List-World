@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|8|103.133.24.73|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
-|9|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
-|10|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|45.117.63.122|82|Bangladesh|Dhaka|Paradise Technologies Limited|
-|13|103.247.22.125|4317|Indonesia|Bekasi|PT wifian Solution|
-|14|103.162.54.116|1111|Indonesia|Subang|PT Pratama Asia Globalindo|
-|15|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|16|47.238.41.104|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|103.132.54.150|8080|Indonesia|Semarang|PT. ADEAKSA INDO JAYATAMA|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|27.131.250.150|8080|Indonesia|Jakarta|SpaceX Starlink|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|7|103.250.130.140|7777|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|8|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.236.170.178|999|Ecuador|General Villamil|Codgrec S.A.|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|15|103.158.96.244|8033|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|16|179.1.98.186|8080|Colombia|Bogotá|InterNexa Global Network|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.189.96.240|8080|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
 
 
 
