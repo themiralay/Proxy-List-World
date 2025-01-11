@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|3|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|7|23.225.149.42|3128|United States|Denver|Cnservers LLC|
-|8|182.52.47.91|8080|Thailand|Bang Kruai|TOT Public Company Limited|
-|9|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
-|13|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|182.53.20.247|8080|Thailand|Si Racha|TOT Public Company Limited|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|18|116.98.70.85|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|185.163.126.106|8081|France|Nanterre|HEXATOM s.a.r.l.|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|23.225.149.42|3128|United States|Denver|Cnservers LLC|
+|10|223.205.33.122|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|11|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|12|27.79.146.161|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|112.209.50.194|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|15|116.107.122.18|10072|Vietnam|Hanoi|Viettel Corporation|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 
 
 
