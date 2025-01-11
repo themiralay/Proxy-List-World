@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|67.43.227.230|15005|Canada|Montreal|GloboTech Communications|
-|15|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|16|67.43.236.18|11589|Canada|Montreal|GloboTech Communications|
-|17|171.7.22.231|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|11|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
