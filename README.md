@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|140.238.24.231|1080|South Korea|Seoul|Oracle Corporation|
 |3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|186.148.184.130|8087|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|8|180.178.95.142|8080|Indonesia|Surakarta|PT Widya Intersat Nusantara|
-|9|27.79.145.47|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|27.79.240.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|14|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|15|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.210.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.145.47|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|190.235.185.164|999|Peru|Lima|TDP-GRS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
+|9|27.79.240.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.231.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|16|96.93.124.211|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|17|2.184.238.79|8080|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
