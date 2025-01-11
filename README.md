@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4137** proxies at the latest update. Usable proxies are below.
+> Scraper found **4125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2323|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|10|202.57.26.150|7777|Indonesia|Bandung|WANET|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|103.48.69.73|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|4|160.22.24.36|1111|Indonesia|Kudus|GIGAMEDIANET|
+|5|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|8|124.121.2.131|8080|Thailand|Bangkok|TRUEBB|
+|9|185.180.130.32|3128|Iran|Isfahan|Azarakhsh Ava-e Ahvaz Co|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.21.69.192|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|17|103.99.136.30|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
