@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|27.79.208.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|103.189.231.210|8181|Indonesia|Ciamis|PT Media Access Telematika|
-|9|109.108.107.122|8080|Czechia|Lanškroun|Nordic Telecom Regional s.r.o.|
-|10|27.79.179.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|27.79.149.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|41.139.237.126|8080|Kenya|Nairobi|Converged services Coast|
-|14|103.126.87.76|8080|Indonesia|Banjarnegara|PT. Rasi Bintang Perkasa|
-|15|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|103.169.138.23|8081|Indonesia|Rembang|Dinas Kominfo Kabupaten Rembang|
+|6|79.132.124.85|8080|Russia|Ulyanovsk|TTK Ulyanovsk|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
+|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|13|115.74.11.118|10003|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|27.124.93.197|8080|Indonesia|Wonogiri|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|152.26.229.46|9443|United States|Charlotte|MCNC|
+|17|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
