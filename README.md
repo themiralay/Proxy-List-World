@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|157.245.52.67|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|5|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|5|171.224.66.73|10091|Vietnam|Hanoi|Viettel Corporation|
 |6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|113.53.127.19|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|149.86.142.201|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|15|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
-|16|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|17|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|8|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|9|171.245.90.145|10085|Vietnam|Thái Bình|Viettel Corporation|
+|10|103.138.14.170|8080|Indonesia|Medan|Adidaya Infocom Lestari|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|103.106.112.230|8090|Indonesia|Bandar Lampung|SMSNET|
+|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|15|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|36.83.85.73|2020|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
+|19|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
+|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
 
 
 
