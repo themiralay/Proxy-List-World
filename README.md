@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|113.53.127.19|8080|Thailand|Bangkok|TOT Public Company Limited|
 |4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|27.79.245.2|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|12|116.98.55.120|2323|Vietnam|Da Nang|Viettel Corporation|
-|13|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|14|149.86.142.201|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|17|131.100.48.241|999|Colombia|Neiva|Fibernet TV SAS|
-|18|180.148.4.74|8080|Vietnam|Bình Dương Province|VNTT|
-|19|188.132.150.70|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.166.32.226|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|84.46.239.104|3128|United States|Miami|Limestone Networks, Inc.|
+|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|15|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|16|111.95.176.247|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|19|65.20.165.70|8081|Iraq|Najaf|Hulum|
+|20|103.35.109.205|58080|Bangladesh|Kāfrul|Ranks ITT|
 
 
 
