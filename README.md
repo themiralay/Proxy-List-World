@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|27.79.228.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|27.79.146.32|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|27.79.228.62|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|20|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|2|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.150.128.167|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|27.79.216.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|10|27.79.228.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|12|27.79.221.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.211.26.94|22|Indonesia|Madiun|PT Olean Permata Telematika|
+|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
