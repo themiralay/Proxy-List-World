@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|168.138.55.69|3128|Japan|Osaka|Oracle Corporation|
+|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|3|115.72.161.210|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|152.26.229.46|9443|United States|Charlotte|MCNC|
-|9|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|10|152.26.229.34|9443|United States|Charlotte|MCNC|
+|6|152.26.229.46|9443|United States|Charlotte|MCNC|
+|7|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|8|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|152.26.229.34|9443|United States|Charlotte|MCNC|
+|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |11|152.26.231.93|9443|United States|Charlotte|MCNC|
-|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|13|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|72.10.160.90|14213|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|103.172.252.229|8080|India|Noida|Cityline Networks Pvt Ltd|
-|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|12|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
