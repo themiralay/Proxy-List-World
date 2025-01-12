@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|5|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
-|8|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|9|116.109.219.171|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|11|36.77.209.91|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|15|190.14.249.35|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|91.239.17.22|8080|Russia|Ulyanovsk|Telecom.ru Ltd|
-|18|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|19|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|20|103.106.112.230|8090|Indonesia|Bandar Lampung|SMSNET|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|6|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|223.206.193.58|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|31.56.78.215|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|11|116.105.74.145|2308|Vietnam|Da Nang|Viettel Corporation|
+|12|177.54.229.164|9292|Brazil|Parauapebas|Aranet Play|
+|13|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|103.106.112.230|8090|Indonesia|Bandar Lampung|SMSNET|
+|15|103.41.34.185|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|16|186.96.74.85|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|18|103.159.96.146|3128|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|19|103.211.107.114|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
