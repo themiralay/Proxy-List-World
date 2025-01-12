@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|27.124.83.229|8080|Indonesia|Wonogiri|PT.Global Media Data Prima|
-|7|170.254.92.199|30420|Argentina|Santa María|Cooperativa Telefónica Santa Maria Limitada|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.169.255.169|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|14|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.147.246.148|2025|Indonesia|Tangerang|PLBNET|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|27.124.83.229|8080|Indonesia|Wonogiri|PT.Global Media Data Prima|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.203.234.24|8090|Indonesia|Ungaran|PT Nesta Indo Media|
+|10|27.79.236.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|13|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|15|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
