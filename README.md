@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|9|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.18.77.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |10|5.234.184.36|8080|Iran|Urmia|Iran Telecommunication Company PJS|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|15|202.47.188.76|8087|Indonesia|Madiun|Lintas Data Prima, PT|
-|16|88.210.11.216|8989|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|103.18.77.86|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|27.79.193.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|77.37.244.119|8080|Russia|Moscow|NCNET|
+|12|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
+|13|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|27.79.255.54|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
