@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
-|5|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|6|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|10|103.130.116.39|8090|Indonesia|Sembung|Lintas Data Prima, PT|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|121.101.131.128|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|13|27.79.255.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|16|45.174.241.4|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|190.60.47.157|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
-|19|38.183.146.25|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|38.183.146.25|3333|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|10|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|12|27.79.255.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|14|116.98.55.120|2323|Vietnam|Da Nang|Viettel Corporation|
+|15|121.101.131.128|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|16|27.79.255.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.19.59.218|2134|Indonesia|Ngawi|BITSNET|
+|18|45.174.241.4|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
+|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
