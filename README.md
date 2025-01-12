@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|171.224.66.73|10091|Vietnam|Hanoi|Viettel Corporation|
-|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|9|78.85.35.180|38080|Russia|Izhevsk|Rostelecom networks|
-|10|103.138.70.42|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|11|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|152.26.229.46|9443|United States|Charlotte|MCNC|
-|13|157.66.16.41|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|16|114.223.54.21|8089|China|Wuxi|Chinanet|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.154.25.110|8080|Indonesia|Selong|HIJRAHNET|
+|8|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|9|115.72.42.74|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|152.26.229.46|9443|United States|Charlotte|MCNC|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|8.217.179.177|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
+|17|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
 |19|72.10.164.178|1441|Canada|Montreal|GloboTech Communications|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.147.246.78|8080|Indonesia|Tangerang|PLBNET|
 
 
 
