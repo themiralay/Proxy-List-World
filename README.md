@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|103.76.151.114|8080|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.184.62.11|8099|Indonesia|Bajo|PT NKNET Data Media|
-|10|177.67.86.96|999|Brazil|Alvorada|W I X NET DO BRASIL LTDA - ME|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|116.105.30.109|2330|Vietnam|Da Nang|Viettel Corporation|
-|13|45.188.125.49|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.A De C.V.|
-|14|103.154.77.64|89|Indonesia|Sleman|T2NET|
-|15|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|115.72.42.74|10015|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|72.10.160.90|3155|Canada|Montreal|GloboTech Communications|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|8|27.79.238.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.173.123.102|999|Chile|San Bernardo|OPTVE TELECOMUNICACIONES SpA|
+|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|181.188.238.147|999|Ecuador|Quito|Otecel S.A.|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|38.183.146.125|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
