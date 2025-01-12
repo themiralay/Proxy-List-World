@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.22.59.117|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.118.175.144|35689|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|6|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|27.79.191.91|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|113.192.31.51|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |9|152.26.229.47|9443|United States|Charlotte|MCNC|
-|10|103.169.33.30|8081|Indonesia|Pekanbaru|PT Triguna Akses Teknologi|
-|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|10|152.26.229.46|9443|United States|Charlotte|MCNC|
+|11|152.26.231.93|9443|United States|Charlotte|MCNC|
 |12|152.26.229.34|9443|United States|Charlotte|MCNC|
 |13|152.26.229.93|9443|United States|Charlotte|MCNC|
-|14|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|15|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|67.43.228.253|16841|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|39.130.182.7|8181|China|Kunming|China Mobile|
+|18|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|19|121.101.131.67|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
