@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|157.20.253.187|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
-|8|103.234.31.0|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|9|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|10|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|12|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|203.111.253.134|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|17|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|18|91.197.77.118|443|Russia|Stary Oskol|ReInfoCom Ltd.|
-|19|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|20|157.20.253.20|8090|Indonesia|Semarang|PT.Global Media Data Prima|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|27.79.255.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|13.126.184.76|1080|India|Mumbai|Amazon Technologies Inc|
+|9|78.38.99.11|2085|Iran|Gorgan|Iran Telecommunication Company PJS|
+|10|190.121.157.141|999|Colombia|Cúcuta|Media Commerce Partners S.A|
+|11|27.79.208.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|176.88.175.190|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|98.8.195.160|443|United States|Orlando|Spectrum|
+|19|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
 
 
 
