@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|103.169.254.45|6080|Indonesia|Curahjati|PT Master Star Network|
-|4|27.79.191.91|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|27.79.193.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|95.111.199.248|2738|Singapore|Singapore|UpCloud Ltd|
-|10|152.26.229.47|9443|United States|Charlotte|MCNC|
-|11|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|12|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|152.26.231.93|9443|United States|Charlotte|MCNC|
-|15|162.254.66.65|80|United States|Grand Rapids|Paul Bunyan Communications|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|103.228.243.251|8080|Indonesia|Jakarta|SpaceX Starlink|
-|18|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|20|202.154.18.17|1122|Indonesia|Jombang|DIGITNET|
+|9|152.26.229.47|9443|United States|Charlotte|MCNC|
+|10|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|12|152.26.231.93|9443|United States|Charlotte|MCNC|
+|13|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|16|103.190.112.210|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
