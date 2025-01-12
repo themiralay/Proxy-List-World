@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|103.40.120.85|50000|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|6|27.79.232.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|133.167.65.66|80|Japan|Osaka|SAKURA Internet Inc.|
-|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|9|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|10|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|11|168.196.161.44|8080|Brazil|Gameleiras|JJVA Provedor de Internet ME LTDA|
-|12|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|116.105.74.145|2308|Vietnam|Da Nang|Viettel Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|19|65.20.164.223|9793|Iraq|Najaf|Hulum|
-|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.156.161.193|8080|Indonesia|Jakarta|MYREPUBLIC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|65.20.164.223|9793|Iraq|Najaf|Hulum|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.236.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|116.105.29.211|2349|Vietnam|Da Nang|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|103.159.96.148|1080|Indonesia|Kidangbang|PT Jinde Grup Indonesia|
+|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|16|152.26.229.46|9443|United States|Charlotte|MCNC|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
