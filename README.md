@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|5|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|36.83.85.73|2020|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
-|8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|190.61.101.72|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|10|94.237.82.148|80|Germany|Frankfurt am Main|UpCloud Ltd|
-|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|190.239.220.83|999|Peru|Río Blanco|Telefonica del Peru S.A.A.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|27.69.250.148|2320|Vietnam|Da Nang|Viettel Group|
-|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|18|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
-|19|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|20|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|1|171.224.66.73|10091|Vietnam|Hanoi|Viettel Corporation|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.171.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|116.105.75.198|2319|Vietnam|Da Nang|Viettel Corporation|
+|7|160.22.65.15|8080|Indonesia|Lamongan|Lintas Data Prima, PT|
+|8|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.155.198.93|8181|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|152.26.231.93|9443|United States|Charlotte|MCNC|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.133.61.251|8181|Indonesia|Pekalongan|TLINK|
+|19|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
 
 
 
