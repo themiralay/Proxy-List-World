@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
-|5|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|6|38.156.75.235|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|9|103.247.23.65|4317|Indonesia|Baturaden|PT wifian Solution|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|103.162.221.3|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|12|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|13|41.139.218.243|82|Kenya|Nairobi|Converged services Western|
-|14|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|36.88.253.86|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|7|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
 |16|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|38.255.23.138|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
+|19|67.43.228.254|3847|Canada|Montreal|GloboTech Communications|
+|20|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
