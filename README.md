@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|103.23.196.21|8080|Indonesia|Dumai|PT Aneka Teguh Jaya|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
 |6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|103.106.240.2|96|Bangladesh|Dhaka|Md. Saddam Hossain|
-|9|101.255.165.130|1111|Indonesia|Jakarta|PT Remala Abadi|
-|10|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
-|11|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|152.26.229.46|9443|United States|Charlotte|MCNC|
-|15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|7|177.93.39.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|103.213.218.79|20915|Vietnam|Haiphong|V9ERP|
+|9|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
+|12|103.178.171.37|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|13|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|14|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|15|152.26.229.46|9443|United States|Charlotte|MCNC|
+|16|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|19|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
 
