@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|2|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|103.30.192.17|8080|Indonesia|Kuningan Barat|PT Telindo Flash Mediatama|
+|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|7|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|19|203.190.44.252|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
-|20|27.79.177.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|178.255.148.218|8118|Norway|Oslo|Blix Solutions|
+|9|116.105.30.84|2347|Vietnam|Da Nang|Viettel Corporation|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|65.108.159.129|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|14|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|203.150.128.53|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|121.101.134.214|1111|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
 
 
 
