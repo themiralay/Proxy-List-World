@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4650** proxies at the latest update. Usable proxies are below.
+> Scraper found **4715** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|65|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|381|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|27.79.231.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.228.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|125.25.33.213|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|3003|Canada|Montreal|GloboTech Communications|
-|16|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|49.48.101.9|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|20|187.204.88.129|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.214.209|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|5|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.182.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|8|27.79.146.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|10|27.79.228.62|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|12|27.79.228.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.35.110.74|5020|Bangladesh|Tungipāra|Ranks ITT|
+|14|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|115.72.47.124|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|188.94.159.26|3128|Kazakhstan|Almaty|It-grad TOO|
+|19|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
