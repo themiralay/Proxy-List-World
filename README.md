@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|152.26.229.46|9443|United States|Charlotte|MCNC|
-|7|152.26.229.93|9443|United States|Charlotte|MCNC|
-|8|152.26.229.47|9443|United States|Charlotte|MCNC|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|152.26.229.34|9443|United States|Charlotte|MCNC|
-|11|152.26.231.93|9443|United States|Charlotte|MCNC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|14.241.121.138|8080|Vietnam|Da Nang|VNPT|
-|14|72.10.164.178|10189|Canada|Montreal|GloboTech Communications|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|17|146.196.108.74|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|18|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|19|2.185.142.57|6565|Iran|Tehran|hamedan|
-|20|203.150.113.50|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|7|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|10|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|13|103.133.24.5|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|152.26.229.93|9443|United States|Charlotte|MCNC|
+|18|72.10.160.90|9897|Canada|Montreal|GloboTech Communications|
+|19|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
