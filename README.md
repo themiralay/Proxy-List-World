@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|171.245.114.80|10001|Vietnam|Bắc Giang|Viettel Corporation|
-|3|8.219.228.179|10000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|115.72.47.124|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|115.72.164.237|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|115.72.2.29|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|7|115.72.40.178|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|27.72.232.56|10001|Vietnam|Hanoi|Viettel Group|
-|9|115.72.165.20|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|10|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|12|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|13|103.42.242.65|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
-|14|49.148.39.207|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|115.72.165.20|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|4|115.72.164.237|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|171.245.114.80|10001|Vietnam|Bắc Giang|Viettel Corporation|
+|7|115.72.2.29|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|8|115.72.47.124|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|12|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|13|115.72.40.178|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|17|115.187.31.93|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|190.144.238.66|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
