@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.179.252.75|8181|Indonesia|Baturaden|PT Pusaka Kreasi Mandiri|
-|3|103.156.16.144|1111|Indonesia|Pamanukan|RSTNET|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|6|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.165.157.248|8090|Indonesia|Banyumas|MEGADATA-ISP|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|10|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|11|152.26.231.93|9443|United States|Charlotte|MCNC|
-|12|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|13|152.26.229.93|9443|United States|Charlotte|MCNC|
-|14|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|27.79.221.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|5|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
+|8|92.126.203.59|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
+|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|10|103.189.197.117|3125|Indonesia|Serang|PT Graha Sumber Teknologi|
+|11|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|12|27.79.236.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|5.160.235.243|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|19|116.105.29.211|2349|Vietnam|Da Nang|Viettel Corporation|
+|20|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
 
 
 
