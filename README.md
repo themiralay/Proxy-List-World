@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|103.159.196.149|8080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.175.225.29|9090|Indonesia|Jakarta|MYREPUBLIC|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|27.79.193.115|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.161.195.27|1080|Indonesia|Malang|PT Java Media Grup|
-|15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|65.1.40.47|3128|India|Mumbai|Amazon.com|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|203.175.102.80|8080|Indonesia|Sukasari|PT. Mitra Kita Brilian|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|2|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|27.79.170.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|27.79.148.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|65.1.40.47|3128|India|Mumbai|Amazon.com|
+|15|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|16|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|44.204.165.196|3128|United States|Ashburn|Amazon.com|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
