@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4045** proxies at the latest update. Usable proxies are below.
+> Scraper found **4277** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|312|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |3|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.188.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|46.39.105.40|8080|Sweden|Solna|Stockholms Stadsnat AB|
-|9|124.105.198.250|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|11|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|12|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|13|171.252.128.146|2309|Vietnam|Da Nang|Viettel Corporation|
-|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|1.160.16.9|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|103.151.223.203|8080|Indonesia|Bangkinang|CMEDIANET|
+|6|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.174.237.66|3127|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|9|103.133.24.49|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|10|186.96.160.202|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|15|223.206.194.153|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|103.105.57.64|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
+|17|187.21.164.112|8080|Brazil|Santos|Claro NXT Telecomunicacoes Ltda|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
