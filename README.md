@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|116.105.29.211|2349|Vietnam|Da Nang|Viettel Corporation|
-|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|27.79.170.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|171.245.114.80|10001|Vietnam|Bắc Giang|Viettel Corporation|
-|8|27.79.148.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|12|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|13|142.171.235.177|8081|United States|Los Angeles|Multacom Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|102.50.248.123|9172|Morocco|Tangier|Maroc telecom static ip adress|
-|16|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.186.193.135|8084|Indonesia|Ploso|PT Lentera Digital Nusantara|
-|19|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|20|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|45.32.244.63|80|Australia|Sydney|Choopa|
+|9|203.190.46.103|8080|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|10|181.52.238.165|54694|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|12|58.69.177.231|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
