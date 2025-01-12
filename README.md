@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.152.247.80|8088|Hong Kong|Hong Kong|Aofei Data International Company Limited|
-|2|27.69.250.148|2320|Vietnam|Da Nang|Viettel Group|
-|3|116.105.30.109|2323|Vietnam|Da Nang|Viettel Corporation|
-|4|116.105.75.198|2319|Vietnam|Da Nang|Viettel Corporation|
-|5|116.105.76.196|2339|Vietnam|Da Nang|Viettel Corporation|
-|6|116.98.55.120|2310|Vietnam|Da Nang|Viettel Corporation|
-|7|116.105.72.38|2308|Vietnam|Da Nang|Viettel Corporation|
-|8|116.105.29.211|2349|Vietnam|Da Nang|Viettel Corporation|
-|9|116.105.74.145|2307|Vietnam|Da Nang|Viettel Corporation|
-|10|171.252.131.254|2336|Vietnam|Da Nang|Viettel Corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|171.252.128.146|2309|Vietnam|Da Nang|Viettel Corporation|
-|14|103.83.179.148|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|98.8.195.160|443|United States|Orlando|Spectrum|
+|3|116.105.75.198|2319|Vietnam|Da Nang|Viettel Corporation|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|27.69.250.148|2320|Vietnam|Da Nang|Viettel Group|
+|6|116.105.30.109|2323|Vietnam|Da Nang|Viettel Corporation|
+|7|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|8|116.105.76.196|2340|Vietnam|Da Nang|Viettel Corporation|
+|9|116.105.29.211|2330|Vietnam|Da Nang|Viettel Corporation|
+|10|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|31.214.171.217|8060|Iran|Tehran|Parsonline|
+|12|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|13|116.105.74.145|2307|Vietnam|Da Nang|Viettel Corporation|
+|14|92.50.76.42|8080|Germany|Bergisch Gladbach|Vodafone|
 |15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|17|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|19|152.26.229.34|9443|United States|Charlotte|MCNC|
 |20|152.26.229.93|9443|United States|Charlotte|MCNC|
 
 
