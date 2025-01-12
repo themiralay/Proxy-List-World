@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4039** proxies at the latest update. Usable proxies are below.
+> Scraper found **4013** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|258|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|341|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|257|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|316|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|215|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2299|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|69.48.179.20|3128|United States|Detroit|A2 Hosting, Inc.|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|162.191.181.73|80|United States|Chicago|T-Mobile USA, Inc.|
-|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
-|12|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|27.79.193.115|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|17|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|18|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|19|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|2.185.142.57|6565|Iran|Tehran|hamedan|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|8|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|5.223.41.232|7000|Singapore|Singapore|Hetzner Online GmbH|
+|10|27.79.233.248|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|14|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|43.130.40.161|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|157.100.63.129|80|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 
 
 
