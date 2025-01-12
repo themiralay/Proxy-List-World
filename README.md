@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|27.79.216.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|103.25.195.242|65300|Indonesia|Karawang|UNINA|
-|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|10|122.154.75.200|8080|Thailand|Ratchaburi|CAT Telecom Public Company Limited|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|193.30.13.231|999|Ecuador|Guayaquil|GEDATECU SA|
-|13|116.100.72.80|8080|Vietnam|Cái Răng|Viettel Corporation|
-|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|124.121.2.165|8080|Thailand|Bangkok|TRUEBB|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|5|102.23.245.118|8080|South Africa|Newcastle|JENNY INTERNET (PTY) LTD|
+|6|194.36.178.179|718|Singapore|Singapore|First Server Limited|
+|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|67.43.236.19|29597|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.47|9443|United States|Charlotte|MCNC|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|13|152.26.231.93|9443|United States|Charlotte|MCNC|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|202.47.188.25|5566|Indonesia|Madiun|Lintas Data Prima, PT|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|116.105.18.143|2333|Vietnam|Da Nang|Viettel Corporation|
 
 
 
