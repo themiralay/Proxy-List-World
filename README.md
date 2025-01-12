@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
 |2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|103.155.199.111|7080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|4|88.210.11.216|8989|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
-|7|77.37.244.119|8080|Russia|Moscow|NCNET|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|38.255.23.138|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|10|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|13|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|14|1.0.138.79|8080|Thailand|Pattaya|TOT Public Company Limited|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|88.210.11.216|8989|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.184.62.120|8099|Indonesia|Bajo|PT NKNET Data Media|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|131.108.139.217|8080|Brazil|Manaus|Speed Wireless Servicos De Comunicacao Multimidia|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|15|36.88.249.106|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
 |17|152.26.229.47|9443|United States|Charlotte|MCNC|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
 |20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
