@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|3|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|20|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|8|190.97.226.25|8080|Venezuela|Mérida|Viginet C.A|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|16|212.123.230.250|8181|The Netherlands|Amsterdam|COLT Technology Services Group Limited|
+|17|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|103.138.70.42|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
 
 
 
