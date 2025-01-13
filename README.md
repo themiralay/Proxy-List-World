@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4409** proxies at the latest update. Usable proxies are below.
+> Scraper found **4451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|437|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|310|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2736|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2778|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|2|109.165.192.12|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|3|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|45.87.154.214|8118|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|7|27.72.237.136|10001|Vietnam|Hanoi|Newass2011xDSLHN|
-|8|121.101.134.202|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
-|9|171.224.79.126|10091|Vietnam|Hanoi|Viettel Corporation|
-|10|103.162.54.158|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
-|11|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|14|152.26.229.93|9443|United States|Charlotte|MCNC|
-|15|152.26.229.46|9443|United States|Charlotte|MCNC|
-|16|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.172.70.191|8181|Indonesia|Bandung|AZNET|
-|19|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|5|27.79.248.34|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|10|27.79.249.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|181.10.160.155|8080|Argentina|Buenos Aires|Telecom Argentina S.A|
+|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|51.89.25.53|3128|United Kingdom|London|OVH SAS|
+|20|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
