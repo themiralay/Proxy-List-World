@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4325** proxies at the latest update. Usable proxies are below.
+> Scraper found **4326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|77|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|199.127.62.89|3128|United States|Miami|ReliableSite.Net LLC|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|199.127.62.89|3128|United States|Miami|ReliableSite.Net LLC|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|9|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|152.26.229.34|9443|United States|Charlotte|MCNC|
-|20|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|45.89.65.240|3128|Russia|Moscow|First Server Limited|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|9|36.83.85.73|2020|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
+|10|203.73.62.104|60808|Taiwan|Taichung|Digital United Inc.|
+|11|41.223.246.148|8080|South Africa|Durban|Thusaconnect|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|152.26.229.46|9443|United States|Charlotte|MCNC|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|116.105.18.143|2333|Vietnam|Da Nang|Viettel Corporation|
+|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
