@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4664** proxies at the latest update. Usable proxies are below.
+> Scraper found **4638** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|455|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2887|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|4|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.171.244.132|8008|Indonesia|Madiun|PT Data Arta Sedaya|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|67.43.227.226|20421|Canada|Montreal|GloboTech Communications|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|152.26.229.93|9443|United States|Charlotte|MCNC|
-|17|67.43.227.227|17185|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Charlotte|MCNC|
-|19|152.26.229.46|9443|United States|Charlotte|MCNC|
-|20|67.43.228.253|23043|Canada|Montreal|GloboTech Communications|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|149.86.146.222|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|190.60.52.19|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|10|45.178.55.2|999|Argentina|Posadas|Globalweb S.R.L.|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|12|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|67.43.236.18|7679|Canada|Montreal|GloboTech Communications|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|27.189.128.41|8089|China|Langfang|Chinanet|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|38.255.21.6|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
 
 
 
