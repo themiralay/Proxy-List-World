@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4890** proxies at the latest update. Usable proxies are below.
+> Scraper found **4354** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2805|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2269|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|103.156.15.130|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|103.76.109.54|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|5|103.242.105.187|7777|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|6|110.77.201.56|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|7|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|11|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|27.79.231.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
-|14|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|27.79.229.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|190.8.184.149|9600|Argentina|La Plata|Cooperativa Telefónica de Abasto|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.173.138.239|1111|Indonesia|Baturaja|PT Serayu Multi Connection|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.25.76.130|3128|Myanmar|Yangon|Global Technology Co|
+|6|103.148.130.37|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|7|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|10|152.53.101.90|3128|Austria|Vienna|ANXHOLDING2|
+|11|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|12|171.5.112.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.156.15.130|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|3.9.71.167|1080|United Kingdom|London|Amazon Technologies Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|27.79.190.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|20|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
