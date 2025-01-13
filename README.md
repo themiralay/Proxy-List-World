@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|5|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|27.79.132.194|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|27.79.150.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|152.26.229.93|9443|United States|Charlotte|MCNC|
-|8|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|152.26.229.46|9443|United States|Charlotte|MCNC|
-|11|185.44.65.171|9595|United States|New York|Massivegrid LTD|
-|12|72.10.160.90|22203|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.34|9443|United States|Charlotte|MCNC|
-|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|98.8.195.160|443|United States|Orlando|Spectrum|
+|8|27.79.228.62|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|67.43.236.19|3581|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.93|9443|United States|Charlotte|MCNC|
+|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|27.79.228.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|152.26.229.34|9443|United States|Charlotte|MCNC|
 |15|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|16|27.79.228.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|12331|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|67.43.228.252|31879|Canada|Montreal|GloboTech Communications|
+|16|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|17|72.10.160.90|22203|Canada|Montreal|GloboTech Communications|
+|18|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|20|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
