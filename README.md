@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|192.99.182.243|3128|Canada|Beauharnois|OVH Hosting|
-|4|8.218.35.38|6666|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.129.92.45|8080|Indonesia|Tulungagung|PT. Eka Mas Republik|
-|7|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|192.99.182.243|3128|Canada|Beauharnois|OVH Hosting|
+|3|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|4|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|5|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.80.81.53|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|12|103.142.60.188|8080|Indonesia|Klaten|UTARAMEDIANET|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|103.172.71.222|8081|Indonesia|Bandung|AZNET|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|19|112.205.103.184|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.76.109.138|7777|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|10|152.26.231.93|9443|United States|Charlotte|MCNC|
+|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|13|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|14|72.10.160.170|13849|Canada|Montreal|GloboTech Communications|
+|15|212.231.230.141|20500|Spain|Barcelona|Xtra Telecom S.A|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|185.44.65.171|9595|United States|New York|Massivegrid LTD|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
