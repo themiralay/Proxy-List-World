@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
-|5|185.128.153.10|8080|Iran|Tehran|Shabakeh Gostar Shahriyar Co. (Ltd.)|
-|6|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|7|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|8|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|116.105.30.84|2340|Vietnam|Da Nang|Viettel Corporation|
-|11|103.25.195.242|65300|Indonesia|Karawang|UNINA|
-|12|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.153.246.130|8282|Indonesia|Purwakarta|PRIMAHOME|
-|14|27.79.249.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|152.26.229.46|9443|United States|Charlotte|MCNC|
-|16|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|101.108.113.17|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|27.79.248.34|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.139.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|9|116.107.124.15|10081|Vietnam|Hanoi|Viettel Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.217.213.124|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
 |19|152.26.231.93|9443|United States|Charlotte|MCNC|
 |20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
