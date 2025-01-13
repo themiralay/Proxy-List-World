@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|116.107.123.48|10081|Vietnam|Hanoi|Viettel Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|9|103.169.238.90|8080|Indonesia|Kedaton|PT INDONESIA TRANS NETWORK|
-|10|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|116.107.122.254|10092|Vietnam|Hanoi|Viettel Corporation|
-|13|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|16|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
-|17|182.253.10.20|8080|Indonesia|Jakarta|BIZNET|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|20|46.173.208.61|1194|Russia|Moscow|GPI|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.32.39.4|443|Russia|St Petersburg|LLC Baxet|
+|9|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|45.174.57.114|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V|
+|12|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
+|13|103.63.26.231|8080|Indonesia|Kresek|PT Global Media Data Prima|
+|14|103.163.135.56|7777|Indonesia|Banyuwangi|PROVITEL|
+|15|162.243.5.191|80|United States|New York|DigitalOcean, LLC|
+|16|68.225.17.237|4228|United States|Irvine|Cox Communications Inc.|
+|17|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|20|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
