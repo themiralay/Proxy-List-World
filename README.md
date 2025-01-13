@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4131** proxies at the latest update. Usable proxies are below.
+> Scraper found **4550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|76|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|507|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|492|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|245|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2377|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2887|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|36.68.33.150|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|36.68.33.150|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|27.79.150.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|9|152.26.231.93|9443|United States|Charlotte|MCNC|
-|10|152.26.229.34|9443|United States|Charlotte|MCNC|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|152.26.229.47|9443|United States|Charlotte|MCNC|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.236.18|27557|Canada|Montreal|GloboTech Communications|
-|20|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|6|36.92.150.242|8080|Indonesia|Malang|Telekomunikasi Indonesia|
+|7|152.26.229.34|9443|United States|Charlotte|MCNC|
+|8|152.26.229.46|9443|United States|Charlotte|MCNC|
+|9|152.26.229.93|9443|United States|Charlotte|MCNC|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|98.8.195.160|443|United States|Orlando|Spectrum|
+|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
+|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|72.10.160.171|3883|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|30791|Canada|Montreal|GloboTech Communications|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
