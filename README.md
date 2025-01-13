@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|103.144.18.72|8090|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|124.83.51.94|8082|Philippines|Famy|Philippine Long Distance Telephone Co.|
-|8|186.96.74.147|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|13|183.88.223.211|8080|Thailand|Bang Pa-in|Triple T Broadband Public Company Limited|
-|14|45.70.236.195|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|24.112.3.220|8080|United States|Bridgeport|Vyve Broadband|
-|16|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|27.79.228.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|116.107.123.48|10081|Vietnam|Hanoi|Viettel Corporation|
+|2|183.88.223.211|8080|Thailand|Bang Pa-in|Triple T Broadband Public Company Limited|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|116.254.99.157|8080|Indonesia|Jakarta|SpaceX Starlink|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|10|146.196.41.31|8085|Indonesia|Karawang|UNINA|
+|11|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|12|27.79.231.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|157.20.209.62|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|152.26.229.34|9443|United States|Charlotte|MCNC|
+|20|27.79.146.32|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
