@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|116.107.122.254|10092|Vietnam|Hanoi|Viettel Corporation|
-|13|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|41.209.10.205|8080|Kenya|Nairobi|MTN Business Kenya|
-|19|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|5|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|6|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|7|101.255.166.134|1111|Indonesia|Jakarta|PT Remala Abadi|
+|8|8.217.113.225|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|10|24.152.58.132|999|Colombia|San Gil|Calltopbx S.A.S.|
+|11|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|159.192.138.170|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|32.140.234.250|83|United States|Ashburn|AT&T Services, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|8.217.182.119|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
