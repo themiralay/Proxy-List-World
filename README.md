@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|152.26.229.46|9443|United States|Charlotte|MCNC|
-|7|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|8|27.79.228.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.42.228.56|8080|Bangladesh|Lākshām|Skynet Chowmuhani|
-|10|106.75.72.146|3128|China|Yangpu|UCLOUD|
-|11|72.10.160.171|21409|Canada|Montreal|GloboTech Communications|
-|12|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
-|13|67.43.228.250|29313|Canada|Montreal|GloboTech Communications|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|101.109.93.86|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|9|103.179.84.143|8080|Indonesia|Boyolali|PT CYB Media Group|
+|10|103.105.55.170|8085|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|11|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|12|103.189.96.240|8080|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
+|13|152.26.229.46|9443|United States|Charlotte|MCNC|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|16|67.43.236.20|30983|Canada|Montreal|GloboTech Communications|
+|16|171.250.132.168|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|19|36.95.55.207|3128|Indonesia|Galur|PT. Telekomunikasi Indonesia|
-|20|72.10.160.92|6999|Canada|Montreal|GloboTech Communications|
+|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
