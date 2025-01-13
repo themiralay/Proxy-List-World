@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.177.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|8|190.103.30.18|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|9|103.25.195.242|65300|Indonesia|Karawang|UNINA|
-|10|203.150.128.73|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|13|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|16|38.52.221.189|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|17|152.26.229.47|9443|United States|Charlotte|MCNC|
-|18|152.26.231.93|9443|United States|Charlotte|MCNC|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|27.79.216.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|178.128.226.59|9595|Canada|Toronto|DigitalOcean, LLC|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
