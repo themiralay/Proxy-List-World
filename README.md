@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.175.238.106|8082|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|13|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|14|152.26.231.93|9443|United States|Charlotte|MCNC|
-|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|16|67.43.228.253|19399|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|36.103.179.194|8088|China|Yinchuan|CHINANET NINGXIA province ZHONGWEI IDC network|
-|19|72.10.160.92|25527|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|27.79.147.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.252.106.210|3128|Indonesia|Blitar|PT Lintas Data Prima|
+|7|103.171.150.56|8080|Indonesia|Bandung|MYREPUBLIC|
+|8|103.181.255.209|8080|Indonesia|Tuban|PT Giga Digital Nusantara|
+|9|45.5.116.145|999|Guatemala|Guatemala City|Infinitum S.A.|
+|10|152.26.231.93|9443|United States|Charlotte|MCNC|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|72.10.160.174|20339|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|103.162.54.250|8066|Indonesia|Subang|PT Pratama Asia Globalindo|
+|16|152.26.229.93|9443|United States|Charlotte|MCNC|
+|17|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|103.189.96.96|2022|Indonesia|Karanganyar Wetankali|Lintas Data Prima, PT|
+|20|152.26.229.46|9443|United States|Charlotte|MCNC|
 
 
 
