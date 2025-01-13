@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|9|103.133.27.247|8181|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|10|37.191.78.178|7050|Iran|Tehran|Ariana Gostar Spadana's|
 |11|152.26.229.46|9443|United States|Charlotte|MCNC|
 |12|152.26.229.34|9443|United States|Charlotte|MCNC|
-|13|149.86.146.197|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|14|103.172.249.234|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|18|152.26.229.93|9443|United States|Charlotte|MCNC|
-|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|16|152.26.231.93|9443|United States|Charlotte|MCNC|
+|17|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|18|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|125.26.4.219|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
