@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|4|124.121.2.153|8080|Thailand|Bangkok|TRUEBB|
+|2|124.121.2.153|8080|Thailand|Bangkok|TRUEBB|
+|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|27.79.140.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.255.23.130|999|Ecuador|Quito|World Sistem Telecom WST S.A.S.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|11|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|13|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|15|186.190.224.86|999|Colombia|Monterrey|TV AZTECA SUCURSAL COLOMBIA|
-|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|6|103.210.206.26|8080|India|Karur|Blue Net It Solutions Pvt Ltd|
+|7|27.79.143.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|27.79.140.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|11|69.167.30.122|8118|United States|San Francisco|Paradise Networks LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|178.124.86.109|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|14|187.217.197.236|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.131.166|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
