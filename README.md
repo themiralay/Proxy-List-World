@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.106.231.188|42450|Australia|Sydney|BrainStorm Network|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|10|114.5.196.81|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|14|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.247.21.238|8080|Indonesia|Bekasi|PT wifian Solution|
-|16|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.106.231.188|42175|Australia|Sydney|BrainStorm Network|
+|9|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|10|103.51.21.165|8080|India|Bilāspur|Foxtel Telecommunications Pvt. Ltd.|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|13|103.183.10.170|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.243.17.244|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|103.81.115.210|8080|Myanmar|Yangon|Horizon Telecom International|
+|19|103.98.30.134|1289|Indonesia|Slawi|Pemerintah Kabupaten Tegal|
+|20|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
 
 
 
