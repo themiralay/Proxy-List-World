@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.154.230.117|8080|Indonesia|Lamongan|DIGITNET|
-|5|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.180.118.217|8080|Indonesia|Setro|PT Persada Data Multimedia|
-|9|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|10|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|20|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|9|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.180.118.217|8080|Indonesia|Setro|PT Persada Data Multimedia|
+|12|45.239.48.66|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|15|185.200.38.194|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|17|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
+|18|159.89.239.166|18097|United States|North Bergen|DigitalOcean, LLC|
+|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
