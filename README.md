@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.66.2.153|1111|Indonesia|Jagabaya Dua|PT Ashyla Karya Abadi|
-|4|103.94.10.180|8080|Indonesia|Yogyakarta|PT Widya Intersat Nusantara|
-|5|116.105.30.84|2350|Vietnam|Da Nang|Viettel Corporation|
-|6|47.238.41.104|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|159.89.239.166|18097|United States|North Bergen|DigitalOcean, LLC|
-|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|10|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.106.231.188|42000|Australia|Sydney|BrainStorm Network|
-|14|138.201.184.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|16|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|20|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|47.238.41.104|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|8.218.212.181|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|27.79.228.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|114.5.196.81|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|18|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
