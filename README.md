@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|103.247.23.53|4317|Indonesia|Baturaden|PT wifian Solution|
-|3|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|109.206.203.79|3128|Poland|Warsaw|Skynet sp. z o.o.|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|152.26.229.93|9443|United States|Charlotte|MCNC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|152.26.229.46|9443|United States|Charlotte|MCNC|
-|15|98.8.195.160|443|United States|Orlando|Spectrum|
-|16|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|152.26.231.93|9443|United States|Charlotte|MCNC|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|20|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|38.159.229.90|999|Ecuador|Vinces|Turbonet S.A.|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|152.26.229.93|9443|United States|Charlotte|MCNC|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|152.26.229.46|9443|United States|Charlotte|MCNC|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|152.26.231.93|9443|United States|Charlotte|MCNC|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|67.43.228.250|22953|Canada|Montreal|GloboTech Communications|
 
 
 
