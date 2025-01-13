@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|103.153.62.246|8181|Indonesia|Bekasi|IMEDIANET|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|185.44.65.171|9595|United States|New York|Massivegrid LTD|
-|6|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|27.79.177.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|152.26.231.93|9443|United States|Charlotte|MCNC|
-|10|72.10.164.178|1443|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.34|9443|United States|Charlotte|MCNC|
-|12|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|15|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|27.131.248.34|8085|Indonesia|Jakarta|SpaceX Starlink|
+|2|103.154.77.40|89|Indonesia|Sleman|T2NET|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|27.79.150.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.147.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.79.243.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|27.79.216.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|19|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
