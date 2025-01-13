@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|193.181.35.84|8118|Sweden|Stockholm|PVDataNet AB|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.25.195.242|65300|Indonesia|Karawang|UNINA|
+|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|116.107.126.213|10081|Vietnam|Hanoi|Viettel Corporation|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.155.116.247|1080|Indonesia|Serang|IOSYS|
-|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|16|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|152.26.229.47|9443|United States|Charlotte|MCNC|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.46|9443|United States|Charlotte|MCNC|
+|9|103.147.134.85|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|12|103.175.83.185|8080|Indonesia|Banjar Jabejero|PT. Jinom Network Indonesia|
+|13|152.26.229.47|9443|United States|Charlotte|MCNC|
+|14|152.26.231.93|9443|United States|Charlotte|MCNC|
+|15|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
