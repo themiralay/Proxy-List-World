@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.180.118.174|6789|Indonesia|Setro|PT Persada Data Multimedia|
-|4|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|125.27.107.53|8080|Thailand|Pattaya|TOT Public Company Limited|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|10|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|9|122.50.6.186|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|10|200.35.50.89|3028|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|72.10.160.171|21985|Canada|Montreal|GloboTech Communications|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|72.10.160.90|32095|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|21985|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|29137|Canada|Montreal|GloboTech Communications|
-|20|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|14|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|15|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|152.26.229.46|9443|United States|Charlotte|MCNC|
+|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|19|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
