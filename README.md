@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
 |3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|103.131.19.29|8012|Indonesia|Lamongan|PT Global Media Data Prima|
-|8|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|43.229.254.221|8181|Indonesia|Jakarta|PT. Media Antar Nusa|
-|11|38.52.221.189|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|11|27.79.216.189|16000|Vietnam|Hanoi|Viettel Corporation|
 |12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|197.250.16.215|8080|Tanzania|Dar es Salaam|Vodacom Tanzania Ltd|
-|14|41.57.34.92|6060|South Africa|Bedfordview|FTH Scr P5|
-|15|41.72.213.182|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.165.211.174|8100|Indonesia|Malang|PT iForte Global Internet|
-|18|98.8.195.160|443|United States|Orlando|Spectrum|
-|19|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|15|41.57.34.92|6060|South Africa|Bedfordview|FTH Scr P5|
+|16|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|17|152.26.229.34|9443|United States|Charlotte|MCNC|
+|18|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
 
 
 
