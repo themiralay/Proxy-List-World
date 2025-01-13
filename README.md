@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.68.33.150|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|6|36.92.150.242|8080|Indonesia|Malang|Telekomunikasi Indonesia|
-|7|152.26.229.34|9443|United States|Charlotte|MCNC|
-|8|152.26.229.46|9443|United States|Charlotte|MCNC|
-|9|152.26.229.93|9443|United States|Charlotte|MCNC|
-|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|13|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|14|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|152.26.229.47|9443|United States|Charlotte|MCNC|
-|17|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|72.10.160.171|3883|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|30791|Canada|Montreal|GloboTech Communications|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|36.68.33.150|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|3|191.81.194.113|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|4|152.26.229.34|9443|United States|Charlotte|MCNC|
+|5|152.26.229.46|9443|United States|Charlotte|MCNC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|152.26.229.93|9443|United States|Charlotte|MCNC|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|38.242.217.57|80|Germany|Düsseldorf|Contabo GmbH|
+|10|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|12|152.26.229.47|9443|United States|Charlotte|MCNC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|67.43.236.19|17307|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.167.229.147|8080|Nepal|Butwāl|Fiberworld Communication Pvt. Ltd|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
