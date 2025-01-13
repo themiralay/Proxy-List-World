@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|101.108.113.17|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|27.79.143.222|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|27.79.140.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|27.79.140.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|103.162.153.157|3030|Indonesia|Pangkalan Bunut|AKSIRIAU|
-|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|72.10.160.91|21607|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|202.93.244.194|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|61.160.247.69|9999|China|Nanjing|China Telecom|
+|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.154.71.72|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|190.60.44.129|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|9|101.108.113.17|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|11|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|98.8.195.160|443|United States|Orlando|Spectrum|
+|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
