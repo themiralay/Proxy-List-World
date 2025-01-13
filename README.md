@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|103.148.178.10|80|Bangladesh|Mīrpur|Bandhon Enterprise|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|27.79.175.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|41.216.186.131|10001|Indonesia|Kuningan Barat|FASTHOSTING|
-|11|114.9.24.210|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|13|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|67.43.236.20|25597|Canada|Montreal|GloboTech Communications|
-|18|201.220.112.98|999|Chile|Coelemu|Telefonica del Sur S.A.|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|152.26.229.47|9443|United States|Charlotte|MCNC|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|27.79.231.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|103.155.198.161|8037|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|10|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|190.202.116.61|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|12|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|13|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 
 
 
