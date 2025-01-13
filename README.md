@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3988** proxies at the latest update. Usable proxies are below.
+> Scraper found **3932** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|351|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|365|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2348|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|9|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|103.82.126.202|8080|Indonesia|Jakarta|PT.PLATINUM CITRA INDONESIA|
-|11|122.2.48.121|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|49.145.185.122|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|4|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|194.87.220.8|1080|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|11|152.26.229.93|9443|United States|Charlotte|MCNC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|14|187.94.248.32|15552|Brazil|São Roque de Minas|Vital NET|
+|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
 |15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|17|152.26.229.47|9443|United States|Charlotte|MCNC|
-|18|177.136.44.193|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|18|1.20.207.32|8180|Thailand|Bangkok|TOT Public Company Limited|
 |19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|202.88.252.147|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
 
 
 
