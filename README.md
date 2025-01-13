@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|6|43.154.156.24|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|152.26.229.46|9443|United States|Charlotte|MCNC|
-|10|152.26.229.93|9443|United States|Charlotte|MCNC|
-|11|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|98.8.195.160|443|United States|Orlando|Spectrum|
-|15|5.160.57.36|8080|Iran|Tehran|RSPN|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|157.66.37.24|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|103.153.247.220|8080|Indonesia|Jakarta|PRIMAHOME|
-|20|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|1|212.34.135.235|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|3|152.26.229.46|9443|United States|Charlotte|MCNC|
+|4|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|5|152.26.229.93|9443|United States|Charlotte|MCNC|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|10|98.8.195.160|443|United States|Orlando|Spectrum|
+|11|152.26.231.93|9443|United States|Charlotte|MCNC|
+|12|27.79.216.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|152.26.229.34|9443|United States|Charlotte|MCNC|
+|14|24.152.58.197|999|Colombia|San Gil|Calltopbx S.A.S.|
+|15|27.79.135.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|72.10.160.171|16213|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|177.93.48.2|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|19|103.250.130.138|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|20|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 
 
 
