@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|106.251.66.243|59049|South Korea|Songpa-gu|LG DACOM Corporation|
-|3|116.107.123.48|10081|Vietnam|Hanoi|Viettel Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|45.89.65.240|3128|Russia|Moscow|First Server Limited|
-|11|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|12|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|9|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|10|2.194.64.64|8080|Italy|Rome|Telecom Italia Mobile|
+|11|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|12|106.251.66.243|59049|South Korea|Songpa-gu|LG DACOM Corporation|
+|13|72.10.160.92|25173|Canada|Montreal|GloboTech Communications|
+|14|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|16|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
-|17|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|20|38.255.85.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|16|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|17|95.154.20.113|34248|Denmark|Rødding|SYD ENERGI|
+|18|197.248.231.91|8080|Kenya|Nairobi|Safaricom Limited|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
 
 
 
