@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|4|103.228.246.133|8080|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|5|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|170.239.151.130|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|2|27.79.228.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|27.79.146.32|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|8|8.217.138.208|60000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|131.255.56.22|8080|Brazil|Auriflama|Link Brasil Telecomunicacoes Ltda|
-|10|116.107.123.48|10081|Vietnam|Hanoi|Viettel Corporation|
-|11|103.213.218.9|22375|Vietnam|Haiphong|V9ERP|
-|12|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.169.255.195|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|15|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|38.52.221.189|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|27.72.232.56|10001|Vietnam|Hanoi|Viettel Group|
+|11|27.79.145.126|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|171.224.79.94|10091|Vietnam|Hanoi|Viettel Corporation|
 |18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|144.48.162.103|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|20|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|62.33.53.248|3128|Russia|Solnechnogorsk|TRANS-TELECOM|
 
 
 
