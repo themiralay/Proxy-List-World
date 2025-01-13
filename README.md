@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|27.79.135.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|35.154.78.253|3128|India|Mumbai|Amazon Technologies Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|200.10.30.77|8083|Colombia|La Virginia|Super Redes S.A.S|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|167.86.99.29|3128|France|Lauterbourg|Contabo GmbH|
+|7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|11|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|152.26.229.46|9443|United States|Charlotte|MCNC|
-|16|67.43.227.226|19913|Canada|Montreal|GloboTech Communications|
-|17|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|18|72.10.160.90|17149|Canada|Montreal|GloboTech Communications|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|67.43.227.230|7057|Canada|Montreal|GloboTech Communications|
+|10|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|12|152.26.229.46|9443|United States|Charlotte|MCNC|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|72.10.164.178|6313|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|11017|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|21855|Canada|Montreal|GloboTech Communications|
 
 
 
