@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|4|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|5|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|10|38.210.83.11|8181|Indonesia|Jatibarang|RSTNET|
-|11|27.79.168.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|27.79.168.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|9|27.79.209.249|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|45.76.122.178|80|Australia|Sydney|The Constant Company|
+|11|45.64.96.205|7777|Indonesia|Jakarta|ARGON|
+|12|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|13|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
 |14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|112.198.186.104|8082|Philippines|Nasugbu|Globe Telecom|
-|16|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|152.26.229.46|9443|United States|Charlotte|MCNC|
-|19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|152.26.229.34|9443|United States|Charlotte|MCNC|
+|16|152.26.229.46|9443|United States|Charlotte|MCNC|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
+|19|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
