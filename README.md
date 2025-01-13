@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4783** proxies at the latest update. Usable proxies are below.
+> Scraper found **4675** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2805|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|2|27.79.190.11|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|15.206.25.41|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|103.138.71.167|8183|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|10|186.167.80.234|8090|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|13|45.76.240.34|1817|United States|Kent|The Constant Company|
-|14|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|15|152.26.231.93|9443|United States|Charlotte|MCNC|
-|16|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|103.152.238.115|1080|Indonesia|Bekasi|APRIN|
-|19|72.10.160.173|32939|Canada|Montreal|GloboTech Communications|
-|20|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.79.190.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|6|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|7|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|9|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|154.205.158.239|5588|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|12|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|124.105.24.80|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|15|24.152.58.198|999|Colombia|San Gil|Calltopbx S.A.S.|
+|16|221.233.71.150|18666|China|Shizishan|Chinanet|
+|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|20|103.131.19.29|8012|Indonesia|Lamongan|PT Global Media Data Prima|
 
 
 
