@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|3|2.56.179.115|3128|United Kingdom|London|Stark Industries Solutions LTD|
-|4|103.175.240.67|8080|Indonesia|Banyumas|LDP|
-|5|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
-|6|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|7|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
-|10|27.72.232.56|10001|Vietnam|Hanoi|Viettel Group|
-|11|116.105.30.109|2330|Vietnam|Da Nang|Viettel Corporation|
-|12|1.4.250.23|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|27.79.214.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|14.229.120.214|8080|Vietnam|Thanh Hóa|VNPT|
+|4|115.127.143.242|58080|Bangladesh|Dhaka|BRACNet Limited|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|9|78.187.2.189|1458|Turkey|Diyarbakır|TurkTelecom|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|203.190.46.127|8090|Indonesia|Purbalingga|PT Jaring Lintas Utara|
+|14|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |16|98.8.195.160|443|United States|Orlando|Spectrum|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|152.26.229.47|9443|United States|Charlotte|MCNC|
+|18|152.26.229.34|9443|United States|Charlotte|MCNC|
 |19|152.26.231.93|9443|United States|Charlotte|MCNC|
-|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|20|116.105.29.211|2349|Vietnam|Da Nang|Viettel Corporation|
 
 
 
