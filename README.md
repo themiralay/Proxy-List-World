@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|190.60.41.70|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|8|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|11|152.26.229.47|9443|United States|Charlotte|MCNC|
-|12|152.26.229.46|9443|United States|Charlotte|MCNC|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|36.83.85.73|2020|Indonesia|Bulukumba|PT. TELKOM INDONESIA|
-|15|121.227.146.88|8089|China|Nanjing|China Telecom|
-|16|67.43.228.253|28235|Canada|Montreal|GloboTech Communications|
-|17|103.136.162.130|8181|Indonesia|Palembang|TPN-LINK|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.228.250|12217|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|6175|Canada|Montreal|GloboTech Communications|
+|2|27.79.248.34|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|116.105.30.109|2330|Vietnam|Da Nang|Viettel Corporation|
+|5|27.79.131.166|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|7|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|9|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|10|190.104.142.78|8080|Paraguay|Asunción|Núcleo S.A.|
+|11|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|27.79.248.34|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|98.8.195.160|443|United States|Orlando|Spectrum|
+|15|152.26.229.47|9443|United States|Charlotte|MCNC|
+|16|152.26.229.46|9443|United States|Charlotte|MCNC|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
 
 
 
