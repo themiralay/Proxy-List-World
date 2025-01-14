@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.165.155.161|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|115.72.36.57|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|157.20.209.105|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
-|16|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|17|177.73.186.12|8080|Brazil|Joinville|UNIFIQUE TELECOMUNICACOES S/A|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|4|118.97.237.4|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|5|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|10|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.156.86.85|7777|Indonesia|Palopo|PT Chacha Networking System|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|185.44.232.30|53281|Spain|Arroyo de la Miel|AVATEL TELECOM, SA|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|16|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|17|95.55.110.47|8080|Russia|St Petersburg|Rostelecom networks|
+|18|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |19|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|20|157.20.209.62|8080|Indonesia|Talambung Laok|PT Barokah Sistem Telematika|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
