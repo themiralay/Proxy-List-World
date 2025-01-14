@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|47.239.217.242|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|83.54.13.240|3128|Spain|León|Telefonica de Espana SAU|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|10|38.194.236.168|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
-|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|12|152.26.231.93|9443|United States|Charlotte|MCNC|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|82.64.186.155|8080|France|Paris|ProXad network / Free SA|
-|19|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|20|103.184.62.10|8099|Indonesia|Bajo|PT NKNET Data Media|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|171.224.79.217|10096|Vietnam|Hanoi|Viettel Corporation|
+|4|117.5.48.244|10076|Vietnam|Hanoi|VIETTEL|
+|5|171.245.90.2|10085|Vietnam|Thái Bình|Viettel Corporation|
+|6|125.26.238.175|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
+|12|27.79.139.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
