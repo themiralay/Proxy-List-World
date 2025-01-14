@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|5|195.26.243.31|80|United States|St Louis|Nubes, LLC|
 |6|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |8|103.178.171.34|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|9|192.145.228.209|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|116.105.31.97|2343|Vietnam|Da Nang|Viettel Corporation|
-|12|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|14|103.115.164.71|8080|Indonesia|Prapen|CV. NATANETWORK SOLUTION|
-|15|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|16|195.26.243.31|80|United States|St Louis|Nubes, LLC|
-|17|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|195.26.243.31|80|United States|St Louis|Nubes, LLC|
-|19|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.228.246.146|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|11|195.26.243.31|80|United States|St Louis|Nubes, LLC|
+|12|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|144.24.132.177|8080|India|Hyderabad|Oracle Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|103.203.234.20|7777|Indonesia|Ungaran|PT Nesta Indo Media|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
