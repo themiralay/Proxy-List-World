@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|3|203.150.113.145|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|113.186.110.234|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|9|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|10|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
 |11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|67.43.227.226|12939|Canada|Montreal|GloboTech Communications|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|103.254.106.82|8181|Indonesia|Nabangbaru|PT GIGA PATRA MULTIMEDIA|
-|17|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|103.133.61.163|8182|Indonesia|Menggala|TLINK|
+|17|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
 |18|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|19|27.25.133.19|808|China|Shizishan|China Telecom|
+|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
 
 
