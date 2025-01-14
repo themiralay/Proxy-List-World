@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|7|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
-|8|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
-|13|152.26.231.93|9443|United States|Charlotte|MCNC|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
-|17|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|6|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.245.159.52|8080|Indonesia|Jakarta|PDWNet|
+|8|54.212.162.236|1080|United States|Portland|Amazon.com, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|77.37.244.119|8080|Russia|Moscow|NCNET|
+|16|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
