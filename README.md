@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|171.224.79.217|10096|Vietnam|Hanoi|Viettel Corporation|
 |4|171.245.90.2|10085|Vietnam|Thái Bình|Viettel Corporation|
 |5|117.5.48.244|10076|Vietnam|Hanoi|VIETTEL|
-|6|27.79.139.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |7|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|8|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|4.36.157.45|8080|United States|Monroe|Level 3 Communications, Inc.|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|211.202.167.56|80|South Korea|Buk-gu|SK Broadband Co Ltd|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|103.169.41.221|8080|Indonesia|Mata Ie|Telnet Indonesia|
-|16|152.26.231.93|9443|United States|Charlotte|MCNC|
-|17|152.26.229.46|9443|United States|Charlotte|MCNC|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|45.123.142.16|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|20|27.79.140.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
+|14|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|27.79.140.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|18|152.26.231.93|9443|United States|Charlotte|MCNC|
+|19|152.26.229.46|9443|United States|Charlotte|MCNC|
+|20|152.26.229.34|9443|United States|Charlotte|MCNC|
 
 
 
