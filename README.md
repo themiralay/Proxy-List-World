@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|5|115.77.249.29|10008|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|152.26.229.93|9443|United States|Charlotte|MCNC|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|152.26.231.93|9443|United States|Charlotte|MCNC|
-|11|152.26.229.46|9443|United States|Charlotte|MCNC|
-|12|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|98.8.195.160|443|United States|Orlando|Spectrum|
-|18|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|67.43.236.18|16025|Canada|Montreal|GloboTech Communications|
-|20|171.228.130.95|27418|Vietnam|Vĩnh Tường|Viettel Corporation|
+|1|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|3|103.180.118.207|7777|Indonesia|Kebondempet|PT Persada Data Multimedia|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|6|124.158.190.132|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|10|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|98.8.195.160|443|United States|Orlando|Spectrum|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|152.26.231.93|9443|United States|Charlotte|MCNC|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
