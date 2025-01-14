@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.171.163.66|8080|Indonesia|Pagedangan|MYREPUBLIC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|7|38.45.247.98|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
-|8|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|9|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.154.179.52|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|15|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|119.95.165.236|8082|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
-|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|18|180.105.53.207|1080|China|Nanjing|Chinanet|
-|19|98.8.195.160|443|United States|Orlando|Spectrum|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|4|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
+|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|6|103.173.72.34|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|202.154.18.24|6969|Indonesia|Jombang|DIGITNET|
+|11|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|181.52.238.165|54694|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|103.154.179.52|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|14|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.45.247.98|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
+|17|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|18|43.134.141.151|8080|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.155.167.225|8070|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|20|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
 
 
 
