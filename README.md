@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|5|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.168.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|98.8.195.160|443|United States|Orlando|Spectrum|
-|8|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|175.103.40.102|57413|Indonesia|Bekasi|Maxindo Mintra Solusi|
-|12|45.70.236.192|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|13|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|118.97.30.42|8099|Indonesia|Semarang|Telekomunikasi Indonesia|
-|16|152.26.229.46|9443|United States|Charlotte|MCNC|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|152.26.229.47|9443|United States|Charlotte|MCNC|
-|19|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|109.120.184.15|8080|Finland|Helsinki|Aeza International LTD|
+|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|8|152.26.229.46|9443|United States|Charlotte|MCNC|
+|9|152.26.229.34|9443|United States|Charlotte|MCNC|
+|10|65.20.188.53|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|11|152.26.229.47|9443|United States|Charlotte|MCNC|
+|12|183.240.46.42|443|China|Guangzhou|China Mobile Communications Corporation|
+|13|152.26.231.93|9443|United States|Charlotte|MCNC|
+|14|152.26.229.93|9443|United States|Charlotte|MCNC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|72.10.160.91|9117|Canada|Montreal|GloboTech Communications|
+|17|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|18|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
 
 
 
