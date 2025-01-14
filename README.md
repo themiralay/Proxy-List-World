@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4815** proxies at the latest update. Usable proxies are below.
+> Scraper found **4732** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|436|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|347|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2902|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|115.77.135.188|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|12.165.234.253|16096|United States|Walnut Ridge|AT&T Services, Inc.|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|95.111.199.248|2738|Singapore|Singapore|UpCloud Ltd|
-|7|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|8|115.72.36.57|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|98.8.195.160|443|United States|Orlando|Spectrum|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
-|12|152.26.229.47|9443|United States|Charlotte|MCNC|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|152.26.229.34|9443|United States|Charlotte|MCNC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|17|152.26.229.93|9443|United States|Charlotte|MCNC|
-|18|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|103.167.170.196|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|2|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|3|14.245.176.210|7007|Vietnam|Da Nang|VNPT|
+|4|31.56.78.137|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|116.105.30.84|2350|Vietnam|Da Nang|Viettel Corporation|
+|7|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|98.8.195.160|443|United States|Orlando|Spectrum|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|152.26.231.93|9443|United States|Charlotte|MCNC|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|152.26.229.93|9443|United States|Charlotte|MCNC|
+|14|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|194.124.37.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|45.224.149.73|8080|Ecuador|Borbón|Ufinet Panama S.A.|
+|18|72.10.160.90|8337|Canada|Montreal|GloboTech Communications|
+|19|103.155.198.129|1080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|20|121.101.131.128|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
 
 
 
