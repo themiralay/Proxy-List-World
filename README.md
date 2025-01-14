@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|116.254.99.120|8080|Indonesia|Jakarta|SpaceX Starlink|
-|7|5.189.194.137|10808|Russia|Krasnoyarsk|KrasPromStroy, LLC|
-|8|103.39.247.205|8080|India|Mumbai|Zess Networks Private Limited|
-|9|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|72.10.160.91|10323|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.34|9443|United States|Charlotte|MCNC|
-|17|27.189.130.179|8089|China|Langfang|Chinanet|
-|18|192.81.213.42|10005|United States|North Bergen|DigitalOcean, LLC|
-|19|152.26.229.47|9443|United States|Charlotte|MCNC|
-|20|67.43.236.20|13599|Canada|Montreal|GloboTech Communications|
+|2|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|6|191.37.41.142|42999|Brazil|Chavantes|Cednet Provedor Internet|
+|7|103.156.14.18|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
+|8|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.140.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|67.43.227.226|27333|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|20|38.183.146.31|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
 
 
 
