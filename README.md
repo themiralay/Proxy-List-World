@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|36.68.25.185|8080|Indonesia|Sukoharjo|PT. TELKOM INDONESIA|
-|3|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.231.236.123|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.76.201.246|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
-|7|129.146.163.153|47060|United States|Phoenix|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|149.113.84.36|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|171.4.116.113|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|12|103.82.39.42|14001|Vietnam|Sông Thao|Cloudfly Corporation|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|17|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|188.132.222.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.82.39.42|14001|Vietnam|Sông Thao|Cloudfly Corporation|
+|8|103.133.27.239|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|9|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|10|45.224.149.15|999|Ecuador|Borbón|Ufinet Panama S.A.|
+|11|187.204.88.129|8081|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
+|12|103.76.201.246|8080|Indonesia|Bekasi|PT. Arjuna Global Teknologi Indonesia|
+|13|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|14|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|18|222.127.77.203|8082|Philippines|Lahug|INNOVE|
+|19|36.68.25.185|8080|Indonesia|Sukoharjo|PT. TELKOM INDONESIA|
+|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
