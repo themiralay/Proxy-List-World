@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
+|4|49.48.50.109|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |5|203.150.113.166|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|7|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|10|46.209.199.145|8090|Iran|Tehran|Respina|
+|6|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.189.118.195|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
+|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|9|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|103.106.231.188|42000|Australia|Sydney|BrainStorm Network|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
+|13|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|14|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|15|47.242.198.40|8080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|18|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
 
 
 
