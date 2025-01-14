@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|2|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |3|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|203.150.113.166|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|6|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|7|101.255.208.110|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|45.189.118.195|999|Peru|San Juan de Lurigancho|Fiber Digital S.R.L|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
+|4|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|6|203.150.113.166|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|12|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|13|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|14|103.151.140.124|10609|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|15|103.166.158.107|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|19|168.234.75.168|80|Guatemala|Guatemala City|Universidad de San Carlos de Guatemala|
+|20|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
 
 
 
