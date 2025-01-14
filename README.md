@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|103.189.123.223|8080|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|6|115.77.128.172|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.76.151.74|8089|Indonesia|Karangsono|PT. Java Digital Nusantara|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|157.66.251.228|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|11|116.107.116.254|10098|Vietnam|Hanoi|Viettel Corporation|
-|12|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|13|190.52.100.80|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|15|116.98.79.22|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|116.108.143.72|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|115.77.138.237|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|19|188.125.167.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|2|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|3|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|4|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|6|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|7|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|14.228.217.151|10003|Vietnam|Bắc Giang|VNPT|
+|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|17|72.10.164.178|15239|Canada|Montreal|GloboTech Communications|
+|18|157.66.50.100|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|20|115.72.5.100|10003|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
