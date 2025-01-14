@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|203.150.128.218|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|152.32.129.54|8090|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.181.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|179.106.29.3|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|13|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|124.107.144.249|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.90.221.81|10006|United States|Richmond|Alibaba.com LLC|
-|17|119.11.205.202|8082|Indonesia|Jakarta|PT. NTT Indonesia|
-|18|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|18.133.16.21|1080|United Kingdom|London|Amazon Technologies Inc.|
+|1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|203.150.128.218|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|6|157.66.16.41|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|102.210.28.133|8080|Kenya|Eldoret|Vilcom Networks Limited|
+|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
+|14|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|15|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|17|98.8.195.160|443|United States|Orlando|Spectrum|
+|18|103.138.71.38|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|19|202.154.19.165|8080|Indonesia|Jombang|DIGITNET|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
