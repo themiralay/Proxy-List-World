@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|2|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|179.189.120.146|3128|Brazil|Teresina|IP CARRIER BRASIL|
-|5|98.8.195.160|443|United States|Orlando|Spectrum|
-|6|152.26.229.47|9443|United States|Charlotte|MCNC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|8|168.232.84.139|8080|Brazil|Fortaleza|P3 Telecom LTDA|
-|9|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|10|152.26.231.93|9443|United States|Charlotte|MCNC|
-|11|103.213.218.86|25513|Vietnam|Haiphong|V9ERP|
-|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|2|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|4|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|5|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|6|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|7|181.58.31.201|999|Colombia|Montería|Telmex Colombia S.A.|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|152.26.229.47|9443|United States|Charlotte|MCNC|
+|11|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 |13|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|14|38.43.151.198|8888|Peru|Lima|Nextnet SAC|
-|15|152.26.229.93|9443|United States|Charlotte|MCNC|
-|16|72.10.160.170|24413|Canada|Montreal|GloboTech Communications|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|152.26.229.34|9443|United States|Charlotte|MCNC|
-|19|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|20|72.10.160.92|3499|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.93|9443|United States|Charlotte|MCNC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|87.107.69.5|9999|Iran|Tehran|Soroush Rasaneh Institute|
+|17|103.210.122.27|8080|Indonesia|Palu|JNETWORK|
+|18|192.99.19.170|3128|Canada|Beauharnois|OVH SAS|
+|19|120.28.216.166|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|20|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
