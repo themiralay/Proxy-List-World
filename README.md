@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|2|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|3|103.178.171.34|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|193.95.53.129|3128|Tunisia|Tunis|3S INF|
-|9|27.79.203.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.79.252.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|144.24.132.177|3128|India|Hyderabad|Oracle Corporation|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|17|177.73.186.12|8080|Brazil|Joinville|UNIFIQUE TELECOMUNICACOES S/A|
-|18|103.190.78.214|8082|Indonesia|Blitar|PT Blitar Sarana Data|
-|19|187.217.197.236|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|3.37.243.105|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|4|103.228.246.146|8090|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|5|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|7|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|8|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|31.56.78.197|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|10|103.105.224.181|8083|India|Bengaluru|Telexair Technologies Private Limited|
+|11|103.133.27.179|8080|Indonesia|Manggadua Selatan|PT PHATRIA INTI PERSADA|
+|12|193.95.53.129|3128|Tunisia|Tunis|3S INF|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
+|16|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|101.255.118.9|3127|Indonesia|Jakarta|PT Remala Abadi|
+|19|98.8.195.160|443|United States|Orlando|Spectrum|
+|20|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
