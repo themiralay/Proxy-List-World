@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|4|103.169.189.202|9090|Indonesia|Magetan|Sarana Media Cemerlang|
-|5|168.228.221.251|8080|Brazil|Corrente|Buritinet Telecom Eireli|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|45.151.70.31|80|Indonesia|Kuningan Barat|PT Perwira Media Solusi|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
-|11|98.8.195.160|443|United States|Orlando|Spectrum|
-|12|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
-|13|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|152.26.229.93|9443|United States|Charlotte|MCNC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|115.72.36.57|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|2|103.85.53.54|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
+|3|176.97.210.117|3128|Germany|Frankfurt am Main|Ferdinand Zink trading as Tube-Hosting|
+|4|98.8.195.160|443|United States|Orlando|Spectrum|
+|5|14.241.111.97|8080|Vietnam|Haiphong|VNPT|
+|6|152.26.229.93|9443|United States|Charlotte|MCNC|
+|7|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|11|121.101.131.128|8080|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|12|157.10.97.221|7777|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|13|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|14|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|176.32.39.4|443|Russia|St Petersburg|LLC Baxet|
+|16|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
+|17|144.24.132.177|8080|India|Hyderabad|Oracle Corporation|
+|18|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|19|152.26.231.93|9443|United States|Charlotte|MCNC|
+|20|152.26.229.47|9443|United States|Charlotte|MCNC|
 
 
 
