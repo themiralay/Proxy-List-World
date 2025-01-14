@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|4|14.229.157.92|8080|Vietnam|Vinh|VNPT|
-|5|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|6|103.169.53.152|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|7|179.57.170.143|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|8|149.86.146.196|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|9|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|27.112.66.98|8181|Indonesia|Jakarta|GRAHANET|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|4|103.132.54.233|8182|Indonesia|Semarang|PT. ADEAKSA INDO JAYATAMA|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|8|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|103.174.237.66|3127|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|10|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
 |11|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
 |12|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|152.26.229.34|9443|United States|Charlotte|MCNC|
-|16|119.8.182.222|3128|Singapore|Singapore|Huawei International Pte. LTD|
-|17|178.212.48.80|8080|Poland|Międzyrzecz|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|18|80.210.41.192|8080|Iran|Tehran|TIC|
+|13|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|98.8.195.160|443|United States|Orlando|Spectrum|
+|16|152.26.229.34|9443|United States|Charlotte|MCNC|
+|17|183.240.196.55|38080|China|Guangzhou|China Mobile Communications Corporation|
+|18|152.26.229.93|9443|United States|Charlotte|MCNC|
 |19|178.48.68.61|18080|Hungary|Budapest|UPC|
 |20|14.229.157.92|8080|Vietnam|Vinh|VNPT|
 
