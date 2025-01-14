@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
 |2|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|3|115.77.249.158|10004|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|116.108.33.104|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
-|7|116.108.143.72|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|115.77.172.48|10006|Vietnam|Vũng Tàu|Viettel Group|
-|9|103.131.19.30|8011|Indonesia|Lamongan|PT Global Media Data Prima|
-|10|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|27.72.237.136|10001|Vietnam|Hanoi|Newass2011xDSLHN|
-|12|45.77.168.215|45613|Singapore|Singapore|The Constant Company|
-|13|103.105.57.64|2022|Indonesia|Jakarta|PT Lambda Sinergi Telekomunikasi|
-|14|116.98.79.22|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.184.103.112|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
-|17|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba.com LLC|
-|19|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|47.253.161.77|8080|United States|Richmond|Alibaba Cloud LLC|
+|9|134.209.23.180|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|115.77.128.172|10003|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|115.77.138.237|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|164.70.67.78|8080|Japan|Chiyoda|InfoSphere|
+|15|116.108.250.136|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|17|171.237.59.145|10002|Vietnam|Thái Nguyên|Viettel Corporation|
+|18|116.108.4.139|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|116.108.33.104|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|115.77.249.158|10010|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
