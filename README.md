@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
 |2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.156.15.23|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|7|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
-|8|103.166.8.238|1080|Indonesia|Sragen|PT Akses Bersama Sedaya|
-|9|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|10|27.79.214.35|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|98.8.195.160|443|United States|Orlando|Spectrum|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|16|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|17|154.6.189.35|3128|Germany|Frankfurt am Main|haoxiangyun|
-|18|1.2.215.92|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|160.22.206.83|8181|Indonesia|Bekasi|PT Teradata Bintang Selaras|
-|20|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|27.79.140.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|177.234.250.58|999|Ecuador|Píllaro|Ufinet Panama S.A.|
+|7|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|8|103.171.244.134|8008|Indonesia|Madiun|PT Data Arta Sedaya|
+|9|27.79.213.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|8.219.102.193|2000|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|1.2.215.92|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|98.8.195.160|443|United States|Orlando|Spectrum|
+|13|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|134.209.174.190|8888|United States|Clifton|DigitalOcean, LLC|
+|16|27.79.141.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|102.0.15.142|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|27.79.218.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|43.157.124.81|8888|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
