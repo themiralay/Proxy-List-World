@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
-|5|222.252.194.204|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|1|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|2|14.229.157.92|8080|Vietnam|Vinh|VNPT|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|1.53.1.4|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|103.105.78.10|3125|Indonesia|Bojonegoro|GARUDA|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|98.8.195.160|443|United States|Orlando|Spectrum|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|152.26.229.46|9443|United States|Charlotte|MCNC|
+|9|152.26.229.46|9443|United States|Charlotte|MCNC|
+|10|103.51.205.20|8080|Indonesia|Sekadau|Lintas Data Prima, PT|
 |11|152.26.229.34|9443|United States|Charlotte|MCNC|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|144.24.132.177|3128|India|Hyderabad|Oracle Corporation|
-|14|51.15.167.168|5558|France|Paris|SCALEWAY|
-|15|47.150.162.170|3133|United States|Victorville|Frontier Communications Solutions|
-|16|42.113.62.46|10004|Vietnam|Hanoi|FPT Telecom Company|
-|17|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|18|14.97.32.152|80|India|Chennai|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|19|113.160.133.32|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|152.26.231.93|9443|United States|Charlotte|MCNC|
+|13|49.48.45.203|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|185.44.26.217|43097|Spain|Pozo Estrecho|Emartinez1|
+|15|152.26.231.93|9443|United States|Charlotte|MCNC|
+|16|152.26.229.47|9443|United States|Charlotte|MCNC|
+|17|45.5.118.149|999|Guatemala|Guatemala City|Infinitum S.A.|
+|18|67.43.228.250|33197|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.93|9443|United States|Charlotte|MCNC|
+|20|98.8.195.160|443|United States|Orlando|Spectrum|
 
 
 
