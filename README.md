@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.200.108.126|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|139.255.64.140|80|Indonesia|Jakarta|PT. LINKNET|
-|3|27.79.219.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.139.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|45.233.169.21|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|7|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|8|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
-|10|98.8.195.160|443|United States|Orlando|Spectrum|
-|11|31.211.69.52|3128|Russia|Tomsk|OOO NETCOM|
-|12|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
-|14|206.189.41.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.164.178|9937|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|152.26.229.34|9443|United States|Charlotte|MCNC|
-|18|45.185.51.242|3128|Brazil|Jundiaí|Net Turbo Telecom|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|3|34.55.246.226|3128|United States|Council Bluffs|Google LLC|
+|4|38.194.236.168|3128|Mexico|Tlacolula de Matamoros|Ientc S De RL De CV|
+|5|217.61.105.211|4001|Germany|Frankfurt am Main|Aruba GmbH Cloud Network DC05|
+|6|118.175.30.26|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|47.243.14.57|2000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|128.53.168.21|8080|Japan|Nagoya|NTT PC Communications, Inc.|
+|9|98.8.195.160|443|United States|Orlando|Spectrum|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|152.26.229.34|9443|United States|Charlotte|MCNC|
+|12|5.9.198.34|55555|Germany|Falkenstein|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|36.91.62.47|52978|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|16|119.95.180.151|8081|Philippines|Bolacan|Philippine Long Distance Telephone Co.|
+|17|133.130.218.159|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|18|152.26.229.46|9443|United States|Charlotte|MCNC|
+|19|152.26.229.47|9443|United States|Charlotte|MCNC|
+|20|152.26.231.93|9443|United States|Charlotte|MCNC|
 
 
 
